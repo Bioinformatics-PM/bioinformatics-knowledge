@@ -14,7 +14,7 @@ authors:
   - Lynne E. Maquat
 journal: Trends in Biochemical Sciences
 year: 1998
-url: "https://www.wikidata.org/wiki/Q29615731"
+url: "https://doi.org/10.1016/S0968-0004(98)01208-0"
 access: paid
 ---
 
@@ -47,4 +47,4 @@ Cited in [[Nonsense Mutation]] and [[Frameshift Mutation]].
 
 - A rule of thumb for mammalian intron-containing genes: later work described exceptions and junction-independent routes to decay, so treat the prediction as a hypothesis.
 - The threshold is a range (50-55 nt), not a sharp cut-off.
-- Verified in this pass: authors, title, journal, month and year, the rule as stated above and the genes it was based on. Volume, issue and pages are as usually cited, not checked on the publisher page; the link points to the paper's Wikidata record (web fetching blocked in this pass).
+- Verified in this pass: authors, title, journal, month and year, the rule as stated above and the genes it was based on. Citation verified by web search: *Trends Biochem Sci* 23(6):198-199 (1998), doi:10.1016/S0968-0004(98)01208-0.
