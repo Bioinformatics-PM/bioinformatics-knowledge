@@ -32,7 +32,7 @@ projects:
 sources:
   - "[[Biology 2e (OpenStax)]]"
   - "[[An Introduction to Genetic Analysis (Griffiths)]]"
-  - "[[HTS Format Specifications]]"
+  - "[[GA4GH hts-specs]]"
   - "[[Mangs 2007 - The Human Pseudoautosomal Region]]"
 ---
 
@@ -224,5 +224,5 @@ The diploid genotypes `(0, 1)`, `(1, 2)` and so on are exactly the unphased VCF 
 [^os12]: [[Biology 2e (OpenStax)]], ch. 12 "Mendel's Experiments and Heredity" (homozygous and heterozygous genotypes).
 [^os13]: [[Biology 2e (OpenStax)]], section 13.2 "Chromosomal Basis of Inherited Disorders" (human karyotype, polyploidy, aneuploidy).
 [^griffiths]: [[An Introduction to Genetic Analysis (Griffiths)]], 7th ed. (2000), treatment of sex chromosomes and hemizygosity.
-[^hts]: [[HTS Format Specifications]], VCF specification, genotype field `GT` (haploid calls).
+[^hts]: [[GA4GH hts-specs]], VCF specification, genotype field `GT` (haploid calls).
 [^mangs]: [[Mangs 2007 - The Human Pseudoautosomal Region]], *Current Genomics* 8(2):129-136.

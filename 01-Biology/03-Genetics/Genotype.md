@@ -37,7 +37,7 @@ projects:
 sources:
   - "[[Biology 2e (OpenStax)]]"
   - "[[An Introduction to Genetic Analysis (Griffiths)]]"
-  - "[[HTS Format Specifications]]"
+  - "[[GA4GH hts-specs]]"
   - "[[Relling 2011 - Clinical Pharmacogenetics Implementation Consortium]]"
 ---
 
@@ -307,5 +307,5 @@ Two simplifications to keep in mind: `alt_count` counts all non-reference allele
 
 [^os12]: [[Biology 2e (OpenStax)]], ch. 12 "Mendel's Experiments and Heredity" (genotype, phenotype, homozygous and heterozygous; the pod-colour cross).
 [^griffiths]: [[An Introduction to Genetic Analysis (Griffiths)]], 7th ed. (2000), treatment of genotype, phenotype and their relation to the environment.
-[^hts]: [[HTS Format Specifications]], VCF specification, genotype field `GT` (allele indices, `/` and `|`, haploid and missing calls).
+[^hts]: [[GA4GH hts-specs]], VCF specification, genotype field `GT` (allele indices, `/` and `|`, haploid and missing calls).
 [^relling]: [[Relling 2011 - Clinical Pharmacogenetics Implementation Consortium]], *Clinical Pharmacology and Therapeutics* 89(3):464-467.

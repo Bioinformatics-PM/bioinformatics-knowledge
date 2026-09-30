@@ -43,7 +43,7 @@ sources:
   - "[[Nurk 2022 - The Complete Sequence of a Human Genome]]"
   - "[[Ensembl]]"
   - "[[UCSC Genome Browser]]"
-  - "[[HTS Format Specifications]]"
+  - "[[GA4GH hts-specs]]"
   - "[[Mangs 2007 - The Human Pseudoautosomal Region]]"
   - "[[Genome Reference Consortium]]"
 ---
@@ -310,6 +310,6 @@ The toy `chr10` has the lowest centromeric index: it is the "acrocentric" chromo
 [^nurk]: [[Nurk 2022 - The Complete Sequence of a Human Genome]], *Science*.
 [^ensembl]: [[Ensembl]], assembly and chromosome naming conventions.
 [^ucsc]: [[UCSC Genome Browser]], assembly and chromosome naming conventions.
-[^hts]: [[HTS Format Specifications]], VCF specification, genotype field `GT`.
+[^hts]: [[GA4GH hts-specs]], VCF specification, genotype field `GT`.
 [^mangs]: [[Mangs 2007 - The Human Pseudoautosomal Region]], *Current Genomics* 8(2):129-136.
 [^grc]: [[Genome Reference Consortium]], GRCh38 paper (Schneider et al. 2017, *Genome Research*).

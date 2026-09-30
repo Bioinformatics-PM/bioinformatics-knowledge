@@ -37,7 +37,7 @@ sources:
   - "[[An Introduction to Genetic Analysis (Griffiths)]]"
   - "[[Crick 1961 - General Nature of the Genetic Code for Proteins]]"
   - "[[Ensembl]]"
-  - "[[HTS Format Specifications]]"
+  - "[[GA4GH hts-specs]]"
   - "[[Tan 2015 - Unified Representation of Genetic Variants]]"
   - "[[den Dunnen 2016 - HGVS Recommendations for the Description of Sequence Variants]]"
   - "[[Richards 2015 - Standards and Guidelines for the Interpretation of Sequence Variants]]"
@@ -278,6 +278,6 @@ The loop first trims a shared last base, or extends both alleles one base to the
 [^ensembl]: [[Ensembl]], Variant Effect Predictor, "Calculated variant consequences" (`frameshift_variant`, `inframe_insertion`, `inframe_deletion`).
 [^tan]: [[Tan 2015 - Unified Representation of Genetic Variants]], *Bioinformatics* 31(13):2202-2204.
 [^crick61]: [[Crick 1961 - General Nature of the Genetic Code for Proteins]], *Nature* 192:1227-1232.
-[^hts]: [[HTS Format Specifications]], VCF specification (fixed fields `POS`, `REF`, `ALT`).
+[^hts]: [[GA4GH hts-specs]], VCF specification (fixed fields `POS`, `REF`, `ALT`).
 [^shendure]: [[Shendure 2008 - Next-Generation DNA Sequencing]], *Nature Biotechnology* 26(10):1135-1145, on the 454 pyrosequencing platform.
 [^richards]: [[Richards 2015 - Standards and Guidelines for the Interpretation of Sequence Variants]], criteria PM4 and BP3.

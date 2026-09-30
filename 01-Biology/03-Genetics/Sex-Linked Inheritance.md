@@ -34,7 +34,7 @@ sources:
   - "[[An Introduction to Genetic Analysis (Griffiths)]]"
   - "[[Molecular Biology of the Cell (Alberts)]]"
   - "[[Mangs 2007 - The Human Pseudoautosomal Region]]"
-  - "[[HTS Format Specifications]]"
+  - "[[GA4GH hts-specs]]"
 ---
 
 # Sex-Linked Inheritance
@@ -282,4 +282,4 @@ The output reproduces Morgan's table: white F2 flies are all sons, and the recip
 [^griffiths]: [[An Introduction to Genetic Analysis (Griffiths)]], 7th ed. (2000), sex linkage: X-linked pedigrees and disorders, X-linked dominant and Y-linked patterns, ZW sex determination.
 [^alberts]: [[Molecular Biology of the Cell (Alberts)]], 4th ed. (2002), on X-chromosome inactivation and dosage compensation in mammals.
 [^mangs]: [[Mangs 2007 - The Human Pseudoautosomal Region]], *Current Genomics* 8(2):129-136.
-[^hts]: [[HTS Format Specifications]], VCF specification, genotype field `GT` (haploid calls).
+[^hts]: [[GA4GH hts-specs]], VCF specification, genotype field `GT` (haploid calls).

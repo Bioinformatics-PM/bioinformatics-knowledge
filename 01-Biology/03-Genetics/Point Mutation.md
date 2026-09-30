@@ -39,7 +39,7 @@ sources:
   - "[[Freeland 1998 - The Genetic Code Is One in a Million]]"
   - "[[Molecular Evolution (Yang)]]"
   - "[[Lobry 1996 - Asymmetric Substitution Patterns in the Two DNA Strands of Bacteria]]"
-  - "[[HTS Format Specifications]]"
+  - "[[GA4GH hts-specs]]"
 ---
 
 # Point Mutation
@@ -281,4 +281,4 @@ Counter({'Ts': 4, 'Tv': 1})
 [^freeland]: [[Freeland 1998 - The Genetic Code Is One in a Million]], Freeland SJ, Hurst LD, *Journal of Molecular Evolution* 47:238-248, error model weighting transitions and transversions.
 [^yang]: [[Molecular Evolution (Yang)]], models of nucleotide substitution (K80 and the transition/transversion rate ratio $\kappa$).
 [^lobry]: [[Lobry 1996 - Asymmetric Substitution Patterns in the Two DNA Strands of Bacteria]], *Molecular Biology and Evolution* 13(5):660-665.
-[^hts]: [[HTS Format Specifications]], VCF specification (`REF`, `ALT` and genotype encoding).
+[^hts]: [[GA4GH hts-specs]], VCF specification (`REF`, `ALT` and genotype encoding).

@@ -34,7 +34,7 @@ projects:
 sources:
   - "[[Biology 2e (OpenStax)]]"
   - "[[An Introduction to Genetic Analysis (Griffiths)]]"
-  - "[[HTS Format Specifications]]"
+  - "[[GA4GH hts-specs]]"
   - "[[Nurk 2022 - The Complete Sequence of a Human Genome]]"
 ---
 
@@ -244,5 +244,5 @@ The three records look different but produce the same sequence and normalize to 
 
 [^os12]: [[Biology 2e (OpenStax)]], ch. 12 "Mendel's Experiments and Heredity" (alleles, homozygous and heterozygous, Mendel's pod colour).
 [^griffiths]: [[An Introduction to Genetic Analysis (Griffiths)]], 7th ed. (2000), treatment of alleles, wild-type and mutant alleles, and multiple alleles.
-[^hts]: [[HTS Format Specifications]], VCF specification (`REF`, `ALT` and allele indices in `GT`).
+[^hts]: [[GA4GH hts-specs]], VCF specification (`REF`, `ALT` and allele indices in `GT`).
 [^nurk]: [[Nurk 2022 - The Complete Sequence of a Human Genome]], *Science* (T2T-CHM13, a single essentially homozygous genome).
