@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" font-family="Helvetica, Arial, sans-serif">
+  <rect x="4" y="4" width="712" height="392" rx="16" ry="16" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="360" y="36" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Anatomy of a versioned accession: NM_000546.6</text>
+
+  <!-- bracket: accession.version -->
+  <text x="360" y="62" text-anchor="middle" font-size="13" fill="#1f2937">accession.version: names one exact sequence</text>
+  <path d="M175 78 V70 H545 V78" fill="none" stroke="#64748b" stroke-width="1.5"/>
+
+  <!-- bracket: accession -->
+  <text x="319" y="94" text-anchor="middle" font-size="13" fill="#1f2937">accession: names the record, stable across updates</text>
+  <path d="M175 110 V102 H463 V110" fill="none" stroke="#64748b" stroke-width="1.5"/>
+
+  <!-- segments -->
+  <rect x="175" y="116" width="70" height="62" rx="8" fill="#dbeafe" stroke="#64748b" stroke-width="1.2"/>
+  <text x="210" y="160" text-anchor="middle" font-size="40" font-family="Courier New, monospace" font-weight="bold" fill="#1f2937">NM</text>
+  <rect x="251" y="116" width="36" height="62" rx="8" fill="#e5e7eb" stroke="#64748b" stroke-width="1.2"/>
+  <text x="269" y="160" text-anchor="middle" font-size="40" font-family="Courier New, monospace" font-weight="bold" fill="#1f2937">_</text>
+  <rect x="293" y="116" width="170" height="62" rx="8" fill="#dcfce7" stroke="#64748b" stroke-width="1.2"/>
+  <text x="378" y="160" text-anchor="middle" font-size="40" font-family="Courier New, monospace" font-weight="bold" fill="#1f2937">000546</text>
+  <rect x="469" y="116" width="30" height="62" rx="8" fill="#e5e7eb" stroke="#64748b" stroke-width="1.2"/>
+  <text x="484" y="160" text-anchor="middle" font-size="40" font-family="Courier New, monospace" font-weight="bold" fill="#1f2937">.</text>
+  <rect x="505" y="116" width="40" height="62" rx="8" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <text x="525" y="160" text-anchor="middle" font-size="40" font-family="Courier New, monospace" font-weight="bold" fill="#1f2937">6</text>
+
+  <!-- leaders and labels -->
+  <path d="M210 178 V198" stroke="#64748b" stroke-width="1.2"/>
+  <text x="210" y="214" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">prefix</text>
+  <text x="210" y="231" text-anchor="middle" font-size="12" fill="#1f2937">NM = RefSeq mRNA</text>
+  <path d="M378 178 V198" stroke="#64748b" stroke-width="1.2"/>
+  <text x="378" y="214" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">record number</text>
+  <text x="378" y="231" text-anchor="middle" font-size="12" fill="#1f2937">unique within the prefix</text>
+  <path d="M525 178 V198 H560" fill="none" stroke="#64748b" stroke-width="1.2"/>
+  <text x="566" y="203" font-size="13" font-weight="bold" fill="#1f2937">version</text>
+  <text x="566" y="220" font-size="12" fill="#1f2937">+1 each time the</text>
+  <text x="566" y="236" font-size="12" fill="#1f2937">sequence changes</text>
+
+  <!-- other namespaces -->
+  <line x1="40" y1="258" x2="680" y2="258" stroke="#cbd5e1" stroke-width="1.2"/>
+  <text x="360" y="282" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Same idea in other databases</text>
+  <text x="60" y="310" font-size="13" font-family="Courier New, monospace" fill="#1f2937">ENST00000269305.9</text>
+  <text x="250" y="310" font-size="12" fill="#1f2937">Ensembl transcript, version 9</text>
+  <text x="60" y="336" font-size="13" font-family="Courier New, monospace" fill="#1f2937">ENSMUSG00000017167.6</text>
+  <text x="250" y="336" font-size="12" fill="#1f2937">Ensembl mouse (MUS) gene (G), version 6</text>
+  <text x="60" y="362" font-size="13" font-family="Courier New, monospace" fill="#1f2937">P04637</text>
+  <text x="140" y="362" font-size="12" fill="#1f2937">UniProtKB accession</text>
+  <text x="400" y="362" font-size="13" font-family="Courier New, monospace" fill="#1f2937">1abc → pdb_00001abc</text>
+  <text x="400" y="378" font-size="12" fill="#1f2937">PDB ID, classic and extended</text>
+</svg>
