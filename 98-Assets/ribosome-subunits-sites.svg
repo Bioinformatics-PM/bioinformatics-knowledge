@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 580" width="780" height="580" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Ribosome: two subunits, three tRNA sites, schematic</title>
+  <desc id="d">Cross-section of a translating ribosome. The small subunit holds the mRNA and contains the decoding centre, where the codon in the A site is checked against the anticodon. The large subunit contains the peptidyl transferase centre, made of rRNA, where the peptide bond forms, and an exit tunnel through which the growing chain leaves. Three tRNAs occupy the E, P and A sites; each spans both subunits, with its anticodon in the small subunit and its acceptor end in the large subunit.</desc>
+  <rect x="3" y="3" width="774" height="574" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="390" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">Ribosome: division of labour between the two subunits</text>
+
+  <!-- large subunit -->
+  <rect x="170" y="92" width="420" height="214" rx="92" fill="#c7d2fe" stroke="#6366f1" stroke-width="2.5"/>
+  <text x="440" y="120" font-size="15" font-weight="bold" fill="#3730a3">large subunit</text>
+  <text x="440" y="138" font-size="13" fill="#3730a3">50S (bacteria), 60S (eukaryotes)</text>
+  <!-- exit tunnel -->
+  <path d="M378,178 L312,96 L338,86 L402,170 Z" fill="#eef2ff" stroke="#818cf8" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <!-- small subunit -->
+  <rect x="190" y="312" width="380" height="126" rx="58" fill="#bae6fd" stroke="#0284c7" stroke-width="2.5"/>
+  <text x="380" y="426" text-anchor="middle" font-size="15" font-weight="bold" fill="#075985">small subunit</text>
+  <text x="380" y="408" text-anchor="middle" font-size="13" fill="#075985">30S (bacteria), 40S (eukaryotes)</text>
+
+  <!-- sites -->
+  <g fill="#f8fafc" fill-opacity="0.55" stroke="#6366f1" stroke-width="1.5" stroke-dasharray="5 4">
+    <rect x="262" y="160" width="62" height="188" rx="10"/>
+    <rect x="334" y="160" width="62" height="188" rx="10"/>
+    <rect x="406" y="160" width="62" height="188" rx="10"/>
+  </g>
+  <g font-size="17" font-weight="bold" fill="#3730a3" text-anchor="middle">
+    <text x="316" y="178" text-anchor="end">E</text><text x="388" y="178" text-anchor="end">P</text><text x="462" y="178" text-anchor="end">A</text>
+  </g>
+
+  <!-- tRNAs -->
+  <rect x="277" y="192" width="34" height="132" rx="12" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <rect x="349" y="192" width="34" height="132" rx="12" fill="#fde68a" stroke="#d97706" stroke-width="2"/>
+  <rect x="421" y="192" width="34" height="132" rx="12" fill="#bbf7d0" stroke="#16a34a" stroke-width="2"/>
+  <g font-size="12" fill="#1f2937" text-anchor="middle">
+    <text x="294" y="262">tRNA</text><text x="366" y="262">tRNA</text><text x="438" y="262">tRNA</text>
+  </g>
+
+  <!-- peptidyl transferase centre -->
+  <ellipse cx="402" cy="190" rx="34" ry="13" fill="#fecaca" fill-opacity="0.8" stroke="#dc2626" stroke-width="2"/>
+  <!-- growing chain: from P-site tRNA through the tunnel -->
+  <g fill="#fca5a5" stroke="#b91c1c" stroke-width="1.5">
+    <circle cx="366" cy="182" r="9"/>
+    <circle cx="352" cy="164" r="9"/>
+    <circle cx="338" cy="146" r="9"/>
+    <circle cx="326" cy="128" r="9"/>
+    <circle cx="316" cy="110" r="9"/>
+    <circle cx="308" cy="90" r="9"/>
+    <circle cx="302" cy="70" r="9"/>
+  </g>
+  <circle cx="438" cy="178" r="10" fill="#fdba74" stroke="#c2410c" stroke-width="1.5"/>
+
+  <!-- decoding centre -->
+  <ellipse cx="438" cy="336" rx="30" ry="12" fill="#a5f3fc" fill-opacity="0.7" stroke="#0e7490" stroke-width="2"/>
+
+  <!-- mRNA -->
+  <line x1="60" y1="352" x2="720" y2="352" stroke="#f97316" stroke-width="5"/>
+  <text x="46" y="357" text-anchor="middle" font-size="14" font-weight="bold" fill="#c2410c">5'</text>
+  <text x="734" y="357" text-anchor="middle" font-size="14" font-weight="bold" fill="#c2410c">3'</text>
+  <text x="96" y="342" font-size="13" fill="#9a3412">mRNA</text>
+  <g font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#1f2937" text-anchor="middle">
+    <text x="294" y="374">codon</text><text x="366" y="374">codon</text><text x="438" y="374">codon</text>
+  </g>
+
+  <!-- labels, left -->
+  <text x="160" y="212" text-anchor="end" font-size="13" fill="#1f2937">exit tunnel: the new chain</text>
+  <text x="160" y="228" text-anchor="end" font-size="13" fill="#1f2937">leaves through the large</text>
+  <text x="160" y="244" text-anchor="end" font-size="13" fill="#1f2937">subunit, N-terminus first</text>
+  <line x1="164" y1="222" x2="322" y2="120" stroke="#475569" stroke-width="1.5"/>
+  <text x="160" y="294" text-anchor="end" font-size="13" fill="#1f2937">E site: empty tRNA</text>
+  <text x="160" y="310" text-anchor="end" font-size="13" fill="#1f2937">about to leave</text>
+  <line x1="164" y1="300" x2="276" y2="290" stroke="#475569" stroke-width="1.5"/>
+
+  <!-- labels, right -->
+  <text x="610" y="176" font-size="13" fill="#991b1b">peptidyl transferase centre:</text>
+  <text x="610" y="192" font-size="13" fill="#991b1b">large-subunit rRNA joins</text>
+  <text x="610" y="208" font-size="13" fill="#991b1b">the chain (P site) to the</text>
+  <text x="610" y="224" font-size="13" fill="#991b1b">new amino acid (A site)</text>
+  <line x1="606" y1="190" x2="436" y2="190" stroke="#475569" stroke-width="1.5"/>
+  <text x="590" y="386" font-size="13" fill="#155e75">decoding centre:</text>
+  <text x="590" y="402" font-size="13" fill="#155e75">small-subunit rRNA checks</text>
+  <text x="590" y="418" font-size="13" fill="#155e75">codon-anticodon pairing</text>
+  <line x1="586" y1="392" x2="466" y2="340" stroke="#475569" stroke-width="1.5"/>
+  <text x="470" y="276" font-size="12" fill="#1f2937">each tRNA spans both subunits:</text>
+  <text x="470" y="292" font-size="12" fill="#1f2937">anticodon below, amino acid above</text>
+
+  <!-- legend -->
+  <line x1="300" y1="466" x2="460" y2="466" stroke="#475569" stroke-width="3" marker-end="url(#arrow)"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <text x="380" y="456" text-anchor="middle" font-size="13" fill="#1f2937">translocation: one codon toward 3', tRNAs shift A to P to E</text>
+  <text x="390" y="504" text-anchor="middle" font-size="12" fill="#475569">rRNAs: bacteria 16S (small), 23S and 5S (large); eukaryotic cytosol 18S (small), 28S, 5.8S and 5S (large).</text>
+  <text x="390" y="522" text-anchor="middle" font-size="12" fill="#475569">Svedberg values do not add: 30S + 50S = 70S, 40S + 60S = 80S.</text>
+  <text x="390" y="540" text-anchor="middle" font-size="12" fill="#475569">Schematic cross-section, not to scale; the real tunnel and sites are buried in a compact particle.</text>
+</svg>
