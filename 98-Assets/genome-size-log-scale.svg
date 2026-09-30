@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 462" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="818" height="460" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="410.0" y="32" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2937">Genome sizes span seven orders of magnitude (log scale)</text>
+  <text x="410.0" y="54" text-anchor="middle" font-size="12" fill="#1f2937">Haploid (1C) nuclear genome sizes, plus one organelle genome for scale; gene counts where annotated</text>
+  <line x1="250.0" y1="72" x2="250.0" y2="358" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="250.0" y="376" text-anchor="middle" font-size="12" fill="#1f2937">10 kb</text>
+  <line x1="298.8" y1="72" x2="298.8" y2="358" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="298.8" y="376" text-anchor="middle" font-size="12" fill="#1f2937">100 kb</text>
+  <line x1="347.5" y1="72" x2="347.5" y2="358" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="347.5" y="376" text-anchor="middle" font-size="12" fill="#1f2937">1 Mb</text>
+  <line x1="396.2" y1="72" x2="396.2" y2="358" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="396.2" y="376" text-anchor="middle" font-size="12" fill="#1f2937">10 Mb</text>
+  <line x1="445.0" y1="72" x2="445.0" y2="358" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="445.0" y="376" text-anchor="middle" font-size="12" fill="#1f2937">100 Mb</text>
+  <line x1="493.8" y1="72" x2="493.8" y2="358" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="493.8" y="376" text-anchor="middle" font-size="12" fill="#1f2937">1 Gb</text>
+  <line x1="542.5" y1="72" x2="542.5" y2="358" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="542.5" y="376" text-anchor="middle" font-size="12" fill="#1f2937">10 Gb</text>
+  <line x1="591.2" y1="72" x2="591.2" y2="358" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="591.2" y="376" text-anchor="middle" font-size="12" fill="#1f2937">100 Gb</text>
+  <line x1="640.0" y1="72" x2="640.0" y2="358" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="640.0" y="376" text-anchor="middle" font-size="12" fill="#1f2937">1 Tb</text>
+  <line x1="250" y1="358" x2="640.0" y2="358" stroke="#64748b" stroke-width="1.5"/>
+  <text x="445.0" y="396" text-anchor="middle" font-size="12" fill="#1f2937">genome size in base pairs (each gridline is 10 times the previous one)</text>
+  <text x="240" y="91" text-anchor="end" font-size="13" fill="#1f2937">Human mitochondrial DNA</text>
+  <text x="240" y="106" text-anchor="end" font-size="12" fill="#1f2937">organelle genome</text>
+  <rect x="250" y="82" width="10.7" height="22" rx="4" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <text x="266.7" y="98" font-size="12" fill="#1f2937">16.6 kb, 37 genes</text>
+  <text x="240" y="131" text-anchor="end" font-size="13" font-style="italic" fill="#1f2937">Mycoplasma genitalium</text>
+  <text x="240" y="146" text-anchor="end" font-size="12" fill="#1f2937">bacterium</text>
+  <rect x="250" y="122" width="86.0" height="22" rx="4" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <text x="342.0" y="138" font-size="12" fill="#1f2937">580 kb, 468 genes</text>
+  <text x="240" y="171" text-anchor="end" font-size="13" font-style="italic" fill="#1f2937">Escherichia coli</text>
+  <text x="240" y="186" text-anchor="end" font-size="12" fill="#1f2937">bacterium, strain K-12</text>
+  <rect x="250" y="162" width="130.0" height="22" rx="4" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <text x="386.0" y="178" font-size="12" fill="#1f2937">4.64 Mb, 4,288 protein-coding genes</text>
+  <text x="240" y="211" text-anchor="end" font-size="13" font-style="italic" fill="#1f2937">Saccharomyces cerevisiae</text>
+  <text x="240" y="226" text-anchor="end" font-size="12" fill="#1f2937">budding yeast</text>
+  <rect x="250" y="202" width="150.2" height="22" rx="4" fill="#bbf7d0" stroke="#64748b" stroke-width="1.2"/>
+  <text x="406.2" y="218" font-size="12" fill="#1f2937">12.07 Mb, 5,885 protein-coding genes</text>
+  <text x="240" y="251" text-anchor="end" font-size="13" font-style="italic" fill="#1f2937">Homo sapiens</text>
+  <text x="240" y="266" text-anchor="end" font-size="12" fill="#1f2937">human, T2T-CHM13</text>
+  <rect x="250" y="242" width="267.4" height="22" rx="4" fill="#bbf7d0" stroke="#64748b" stroke-width="1.2"/>
+  <text x="523.4" y="258" font-size="12" fill="#1f2937">3.055 Gb, 20,000-25,000 protein-coding genes</text>
+  <text x="240" y="291" text-anchor="end" font-size="13" font-style="italic" fill="#1f2937">Paris japonica</text>
+  <text x="240" y="306" text-anchor="end" font-size="12" fill="#1f2937">flowering plant</text>
+  <rect x="250" y="282" width="349.7" height="22" rx="4" fill="#bbf7d0" stroke="#64748b" stroke-width="1.2"/>
+  <text x="605.7" y="298" font-size="12" fill="#1f2937">148.89 Gb</text>
+  <text x="240" y="331" text-anchor="end" font-size="13" font-style="italic" fill="#1f2937">Tmesipteris oblanceolata</text>
+  <text x="240" y="346" text-anchor="end" font-size="12" fill="#1f2937">fork fern, record in 2024</text>
+  <rect x="250" y="322" width="351.3" height="22" rx="4" fill="#bbf7d0" stroke="#64748b" stroke-width="1.2"/>
+  <text x="607.3" y="338" font-size="12" fill="#1f2937">160.45 Gb</text>
+  <rect x="250" y="431" width="14" height="14" rx="3" fill="#fde68a" stroke="#64748b" stroke-width="1"/>
+  <text x="270" y="442" font-size="12" fill="#1f2937">organelle</text>
+  <rect x="380" y="431" width="14" height="14" rx="3" fill="#bae6fd" stroke="#64748b" stroke-width="1"/>
+  <text x="400" y="442" font-size="12" fill="#1f2937">bacteria</text>
+  <rect x="510" y="431" width="14" height="14" rx="3" fill="#bbf7d0" stroke="#64748b" stroke-width="1"/>
+  <text x="530" y="442" font-size="12" fill="#1f2937">eukaryotes</text>
+</svg>

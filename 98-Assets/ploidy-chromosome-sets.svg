@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="798" height="398" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400.0" y="32" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2937">Ploidy counts chromosome sets and fixes the number of alleles per locus</text>
+  <text x="115.0" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Haploid (n)</text>
+  <rect x="88.0" y="130" width="10" height="120" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="93.0" cy="175.6" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="88.0" y="210" width="10" height="7" fill="#818cf8" stroke="#64748b" stroke-width="0.8"/>
+  <text x="93.0" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">A</text>
+  <rect x="110.0" y="162" width="10" height="88" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="115.0" cy="195.4" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="132.0" y="194" width="10" height="56" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="137.0" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <text x="115.0" y="300" text-anchor="middle" font-size="12" fill="#1f2937">n: one set</text>
+  <text x="115.0" y="318" text-anchor="middle" font-size="12" fill="#1f2937">1 allele per locus</text>
+  <text x="115.0" y="336" text-anchor="middle" font-size="12" fill="#1f2937">genotypes with A, a: 2</text>
+  <line x1="210.0" y1="52" x2="210.0" y2="350" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="305.0" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Diploid (2n)</text>
+  <rect x="258.5" y="130" width="10" height="120" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="263.5" cy="175.6" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="258.5" y="210" width="10" height="7" fill="#818cf8" stroke="#64748b" stroke-width="0.8"/>
+  <text x="263.5" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">A</text>
+  <rect x="271.5" y="130" width="10" height="120" rx="5" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="276.5" cy="175.6" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="271.5" y="210" width="10" height="7" fill="#818cf8" stroke="#64748b" stroke-width="0.8"/>
+  <text x="276.5" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">a</text>
+  <rect x="293.5" y="162" width="10" height="88" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="298.5" cy="195.4" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="306.5" y="162" width="10" height="88" rx="5" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="311.5" cy="195.4" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="328.5" y="194" width="10" height="56" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="333.5" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="341.5" y="194" width="10" height="56" rx="5" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="346.5" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <text x="305.0" y="300" text-anchor="middle" font-size="12" fill="#1f2937">2n: two sets</text>
+  <text x="305.0" y="318" text-anchor="middle" font-size="12" fill="#1f2937">2 alleles per locus</text>
+  <text x="305.0" y="336" text-anchor="middle" font-size="12" fill="#1f2937">genotypes: AA, Aa, aa (3)</text>
+  <line x1="400.0" y1="52" x2="400.0" y2="350" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="495.0" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Tetraploid (4n)</text>
+  <rect x="409.5" y="130" width="10" height="120" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="414.5" cy="175.6" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="409.5" y="210" width="10" height="7" fill="#818cf8" stroke="#64748b" stroke-width="0.8"/>
+  <text x="414.5" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">A</text>
+  <rect x="422.5" y="130" width="10" height="120" rx="5" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="427.5" cy="175.6" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="422.5" y="210" width="10" height="7" fill="#818cf8" stroke="#64748b" stroke-width="0.8"/>
+  <text x="427.5" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">A</text>
+  <rect x="435.5" y="130" width="10" height="120" rx="5" fill="#bbf7d0" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="440.5" cy="175.6" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="435.5" y="210" width="10" height="7" fill="#818cf8" stroke="#64748b" stroke-width="0.8"/>
+  <text x="440.5" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">a</text>
+  <rect x="448.5" y="130" width="10" height="120" rx="5" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="453.5" cy="175.6" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="448.5" y="210" width="10" height="7" fill="#818cf8" stroke="#64748b" stroke-width="0.8"/>
+  <text x="453.5" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">a</text>
+  <rect x="470.5" y="162" width="10" height="88" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="475.5" cy="195.4" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="483.5" y="162" width="10" height="88" rx="5" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="488.5" cy="195.4" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="496.5" y="162" width="10" height="88" rx="5" fill="#bbf7d0" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="501.5" cy="195.4" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="509.5" y="162" width="10" height="88" rx="5" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="514.5" cy="195.4" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="531.5" y="194" width="10" height="56" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="536.5" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="544.5" y="194" width="10" height="56" rx="5" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="549.5" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="557.5" y="194" width="10" height="56" rx="5" fill="#bbf7d0" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="562.5" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="570.5" y="194" width="10" height="56" rx="5" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="575.5" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <text x="495.0" y="300" text-anchor="middle" font-size="12" fill="#1f2937">4n: four sets</text>
+  <text x="495.0" y="318" text-anchor="middle" font-size="12" fill="#1f2937">4 alleles per locus</text>
+  <text x="495.0" y="336" text-anchor="middle" font-size="12" fill="#1f2937">genotypes with A, a: 5</text>
+  <line x1="590.0" y1="52" x2="590.0" y2="350" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="685.0" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Trisomic (2n + 1)</text>
+  <rect x="632.0" y="130" width="10" height="120" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="637.0" cy="175.6" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="632.0" y="210" width="10" height="7" fill="#818cf8" stroke="#64748b" stroke-width="0.8"/>
+  <text x="637.0" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">A</text>
+  <rect x="645.0" y="130" width="10" height="120" rx="5" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="650.0" cy="175.6" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="645.0" y="210" width="10" height="7" fill="#818cf8" stroke="#64748b" stroke-width="0.8"/>
+  <text x="650.0" y="270" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">a</text>
+  <rect x="667.0" y="162" width="10" height="88" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="672.0" cy="195.4" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="680.0" y="162" width="10" height="88" rx="5" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="685.0" cy="195.4" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="702.0" y="194" width="10" height="56" rx="5" fill="#bae6fd" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="707.0" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="715.0" y="194" width="10" height="56" rx="5" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <ellipse cx="720.0" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <rect x="728.0" y="194" width="10" height="56" rx="5" fill="#fecaca" stroke="#64748b" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <ellipse cx="733.0" cy="215.3" rx="6" ry="3" fill="#fcd34d" stroke="#64748b" stroke-width="0.8"/>
+  <text x="685.0" y="300" text-anchor="middle" font-size="12" fill="#1f2937">aneuploid: one extra</text>
+  <text x="685.0" y="318" text-anchor="middle" font-size="12" fill="#1f2937">chromosome, not a set</text>
+  <text x="685.0" y="336" text-anchor="middle" font-size="12" fill="#1f2937">3 copies of one type</text>
+  <rect x="40" y="369" width="14" height="14" rx="3" fill="#bae6fd" stroke="#64748b" stroke-width="1"/>
+  <text x="60" y="380" font-size="12" fill="#1f2937">set 1</text>
+  <rect x="120.0" y="369" width="14" height="14" rx="3" fill="#fbcfe8" stroke="#64748b" stroke-width="1"/>
+  <text x="140.0" y="380" font-size="12" fill="#1f2937">set 2</text>
+  <rect x="200.0" y="369" width="14" height="14" rx="3" fill="#bbf7d0" stroke="#64748b" stroke-width="1"/>
+  <text x="220.0" y="380" font-size="12" fill="#1f2937">set 3</text>
+  <rect x="280.0" y="369" width="14" height="14" rx="3" fill="#fde68a" stroke="#64748b" stroke-width="1"/>
+  <text x="300.0" y="380" font-size="12" fill="#1f2937">set 4</text>
+  <rect x="360.0" y="369" width="14" height="14" rx="3" fill="#fecaca" stroke="#64748b" stroke-width="1"/>
+  <text x="380.0" y="380" font-size="12" fill="#1f2937">extra chromosome</text>
+  <rect x="519.2" y="369" width="14" height="14" rx="3" fill="#818cf8" stroke="#64748b" stroke-width="1"/>
+  <text x="539.2" y="380" font-size="12" fill="#1f2937">locus (letters: alleles)</text>
+</svg>
