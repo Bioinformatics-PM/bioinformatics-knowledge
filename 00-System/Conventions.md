@@ -89,6 +89,7 @@ Properties hold **state and relations**. Links inside properties are wikilinks i
 | `tier` | source | `S` `A` `B` `C` `D` | Source quality (section 8) |
 | `authors` | source | list of text | Authors or instructors |
 | `institution` | source | text | University or organization |
+| `journal` | source (paper) | text | Journal of publication |
 | `year` | source | integer | Year of the edition or course run used |
 | `edition` | source (book) | text | Edition used |
 | `url` | source, project | text | Canonical URL, verified |

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Replication fork, schematic</title>
+  <desc id="d">A replication fork moving to the right. Helicase unwinds the parental duplex. On the upper template (3' to 5' left to right) the leading strand is made continuously toward the fork. On the lower template (5' to 3' left to right) the lagging strand is made away from the fork as Okazaki fragments, each started by an RNA primer; ligase seals the nicks. Single-strand binding proteins coat exposed template; topoisomerase relieves supercoiling ahead of the fork.</desc>
+  <defs>
+    <marker id="g" viewBox="0 0 10 10" refX="7" refY="5" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#16a34a"/>
+    </marker>
+    <marker id="k" viewBox="0 0 10 10" refX="7" refY="5" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect x="4" y="4" width="892" height="552" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="450" y="40" text-anchor="middle" font-size="21" font-weight="bold" fill="#1f2937">Replication fork: leading and lagging strands</text>
+  <text x="450" y="64" text-anchor="middle" font-size="14" fill="#475569">Schematic, not to scale. New DNA is always made 5' to 3'; arrowheads mark growing 3' ends.</text>
+  <line x1="560" y1="238" x2="860" y2="238" stroke="#64748b" stroke-width="6"/>
+  <line x1="560" y1="282" x2="860" y2="282" stroke="#64748b" stroke-width="6"/>
+  <line x1="580" y1="242" x2="580" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="600" y1="242" x2="600" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="620" y1="242" x2="620" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="640" y1="242" x2="640" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="660" y1="242" x2="660" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="680" y1="242" x2="680" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="700" y1="242" x2="700" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="720" y1="242" x2="720" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="740" y1="242" x2="740" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="760" y1="242" x2="760" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="780" y1="242" x2="780" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="800" y1="242" x2="800" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="820" y1="242" x2="820" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <line x1="840" y1="242" x2="840" y2="278" stroke="#94a3b8" stroke-width="2.5"/>
+  <text x="878" y="244" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">5'</text>
+  <text x="878" y="288" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">3'</text>
+  <polyline points="560,238 470,130 40,130" fill="none" stroke="#64748b" stroke-width="6" stroke-linejoin="round"/>
+  <polyline points="560,282 470,390 40,390" fill="none" stroke="#64748b" stroke-width="6" stroke-linejoin="round"/>
+  <text x="24" y="136" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">3'</text>
+  <text x="24" y="396" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">5'</text>
+  <line x1="50" y1="156" x2="440" y2="156" stroke="#16a34a" stroke-width="6" marker-end="url(#g)"/>
+  <text x="24" y="162" text-anchor="middle" font-size="16" font-weight="bold" fill="#16a34a">5'</text>
+  <ellipse cx="458" cy="146" rx="26" ry="19" fill="#ddd6fe" fill-opacity="0.9" stroke="#7c3aed" stroke-width="2"/>
+  <text x="458" y="104" text-anchor="middle" font-size="14" fill="#1f2937">DNA polymerase</text>
+  <text x="440" y="186" text-anchor="middle" font-size="16" font-weight="bold" fill="#16a34a">3'</text>
+  <text x="60" y="200" font-size="16" font-weight="bold" fill="#16a34a">Leading strand: continuous, toward the fork</text>
+  <circle cx="152" cy="366" r="11" fill="#fed7aa" stroke="#c2410c" stroke-width="2"/>
+  <ellipse cx="312" cy="366" rx="26" ry="17" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2"/>
+  <line x1="150" y1="366" x2="58" y2="366" stroke="#16a34a" stroke-width="6" marker-end="url(#g)"/>
+  <line x1="240" y1="366" x2="162" y2="366" stroke="#16a34a" stroke-width="6" marker-end="url(#g)"/>
+  <line x1="262" y1="366" x2="240" y2="366" stroke="#e11d48" stroke-width="8" stroke-linecap="butt"/>
+  <line x1="380" y1="366" x2="308" y2="366" stroke="#16a34a" stroke-width="6" marker-end="url(#g)"/>
+  <line x1="402" y1="366" x2="380" y2="366" stroke="#e11d48" stroke-width="8" stroke-linecap="butt"/>
+  <text x="24" y="372" text-anchor="middle" font-size="16" font-weight="bold" fill="#16a34a">3'</text>
+  <text x="402" y="352" text-anchor="middle" font-size="16" font-weight="bold" fill="#16a34a">5'</text>
+  <path d="M 154 356 v -6 h 108 v 6" fill="none" stroke="#475569" stroke-width="1.5"/>
+  <text x="208" y="343" text-anchor="middle" font-size="13" fill="#475569">one Okazaki fragment</text>
+  <text x="60" y="290" font-size="16" font-weight="bold" fill="#16a34a">Lagging strand: Okazaki fragments</text>
+  <text x="60" y="310" font-size="14" fill="#16a34a">made away from the fork, then joined</text>
+  <text x="152" y="424" text-anchor="middle" font-size="14" fill="#1f2937">DNA ligase</text>
+  <text x="152" y="441" text-anchor="middle" font-size="13" fill="#475569">seals the nick</text>
+  <text x="300" y="424" text-anchor="middle" font-size="14" fill="#1f2937">DNA polymerase</text>
+  <text x="300" y="441" text-anchor="middle" font-size="13" fill="#475569">extends to the next primer,</text>
+  <text x="300" y="457" text-anchor="middle" font-size="13" fill="#475569">which is then replaced by DNA</text>
+  <circle cx="410" cy="390" r="8" fill="#e9d5ff" stroke="#9333ea" stroke-width="1.5"/>
+  <circle cx="432" cy="390" r="8" fill="#e9d5ff" stroke="#9333ea" stroke-width="1.5"/>
+  <circle cx="454" cy="390" r="8" fill="#e9d5ff" stroke="#9333ea" stroke-width="1.5"/>
+  <text x="432" y="424" text-anchor="middle" font-size="14" fill="#1f2937">SSB</text>
+  <ellipse cx="500" cy="336" rx="22" ry="14" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+  <text x="520" y="378" font-size="14" fill="#1f2937">primase</text>
+  <text x="520" y="395" font-size="13" fill="#475569">lays RNA primers</text>
+  <ellipse cx="560" cy="260" rx="18" ry="36" fill="#fbcfe8" stroke="#db2777" stroke-width="2.5"/>
+  <text x="590" y="212" font-size="14" fill="#1f2937">helicase</text>
+  <circle cx="760" cy="260" r="16" fill="#cffafe" stroke="#0891b2" stroke-width="2"/>
+  <text x="760" y="212" text-anchor="middle" font-size="14" fill="#1f2937">topoisomerase</text>
+  <line x1="640" y1="330" x2="780" y2="330" stroke="#475569" stroke-width="3" marker-end="url(#k)"/>
+  <text x="710" y="355" text-anchor="middle" font-size="14" fill="#1f2937">fork movement</text>
+  <text x="710" y="165" text-anchor="middle" font-size="14" fill="#1f2937">parental duplex</text>
+  <line x1="60" y1="505" x2="110" y2="505" stroke="#64748b" stroke-width="6"/>
+  <text x="120" y="510" font-size="14" fill="#1f2937">parental (template) DNA</text>
+  <line x1="330" y1="505" x2="380" y2="505" stroke="#16a34a" stroke-width="6"/>
+  <text x="390" y="510" font-size="14" fill="#1f2937">new DNA</text>
+  <line x1="500" y1="505" x2="550" y2="505" stroke="#e11d48" stroke-width="8"/>
+  <text x="560" y="510" font-size="14" fill="#1f2937">RNA primer (at 5' ends)</text>
+</svg>

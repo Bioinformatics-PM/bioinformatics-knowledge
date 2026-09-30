@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" width="520" height="340" font-family="Helvetica, Arial, sans-serif">
+  <title>Transitions and transversions</title>
+  <rect x="2" y="2" width="516" height="336" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="260" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Transitions and transversions</text>
+
+  <text x="60" y="100" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">purines</text>
+  <text x="60" y="116" text-anchor="middle" font-size="12" fill="#475569">(2 rings)</text>
+  <text x="60" y="240" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">pyrimidines</text>
+  <text x="60" y="256" text-anchor="middle" font-size="12" fill="#475569">(1 ring)</text>
+
+  <!-- transversions (dashed, orange) -->
+  <g stroke="#ea580c" stroke-width="3" stroke-dasharray="8 6">
+    <line x1="170" y1="130" x2="170" y2="206"/>
+    <line x1="370" y1="130" x2="370" y2="206"/>
+    <line x1="194" y1="124" x2="346" y2="212"/>
+    <line x1="346" y1="124" x2="194" y2="212"/>
+  </g>
+  <!-- transitions (solid, blue) -->
+  <g stroke="#2563eb" stroke-width="4">
+    <line x1="200" y1="104" x2="340" y2="104"/>
+    <line x1="200" y1="232" x2="340" y2="232"/>
+  </g>
+
+  <circle cx="170" cy="104" r="26" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="2"/>
+  <circle cx="370" cy="104" r="26" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="2"/>
+  <circle cx="170" cy="232" r="26" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+  <circle cx="370" cy="232" r="26" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+  <g font-size="22" font-weight="bold" fill="#1f2937" text-anchor="middle">
+    <text x="170" y="112">A</text>
+    <text x="370" y="112">G</text>
+    <text x="170" y="240">C</text>
+    <text x="370" y="240">T</text>
+  </g>
+
+  <text x="270" y="94" text-anchor="middle" font-size="13" fill="#1d4ed8">transition</text>
+  <text x="270" y="256" text-anchor="middle" font-size="13" fill="#1d4ed8">transition</text>
+  <text x="382" y="172" font-size="13" fill="#c2410c">transversion</text>
+
+  <line x1="120" y1="290" x2="160" y2="290" stroke="#2563eb" stroke-width="4"/>
+  <text x="168" y="295" font-size="13" fill="#1f2937">transition: within a class (2 pairs)</text>
+  <line x1="120" y1="314" x2="160" y2="314" stroke="#ea580c" stroke-width="3" stroke-dasharray="8 6"/>
+  <text x="168" y="319" font-size="13" fill="#1f2937">transversion: between classes (4 pairs)</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 545" width="800" height="545" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Nucleotide structure</title>
+  <desc id="d">Schematic nucleotide: a phosphate group on the 5' carbon of a pentose sugar, a nitrogenous base on the 1' carbon, the 2' carbon carrying H in DNA or OH in RNA, and a free 3' hydroxyl. Right: purines have two fused rings, pyrimidines one ring.</desc>
+  <rect x="4" y="4" width="792" height="537" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400" y="40" text-anchor="middle" font-size="21" font-weight="bold" fill="#1f2937">Nucleotide = phosphate + pentose sugar + nitrogenous base</text>
+  <text x="400" y="64" text-anchor="middle" font-size="14" fill="#475569">Schematic, not to scale. Primed numbers (1' to 5') are the carbons of the sugar.</text>
+
+  <!-- bonds -->
+  <line x1="138" y1="200" x2="205" y2="175" stroke="#64748b" stroke-width="3"/>
+  <line x1="205" y1="175" x2="240" y2="245" stroke="#64748b" stroke-width="3"/>
+  <line x1="360" y1="245" x2="450" y2="245" stroke="#64748b" stroke-width="3"/>
+  <line x1="262" y1="315" x2="245" y2="365" stroke="#64748b" stroke-width="3"/>
+  <line x1="338" y1="315" x2="355" y2="365" stroke="#64748b" stroke-width="3"/>
+
+  <!-- phosphate -->
+  <circle cx="105" cy="205" r="36" fill="#fde68a" stroke="#b45309" stroke-width="2.5"/>
+  <text x="105" y="213" text-anchor="middle" font-size="24" font-weight="bold" fill="#1f2937">P</text>
+  <text x="105" y="264" text-anchor="middle" font-size="15" fill="#1f2937">phosphate</text>
+  <text x="105" y="282" text-anchor="middle" font-size="13" fill="#475569">(1 to 3 groups:</text>
+  <text x="105" y="298" text-anchor="middle" font-size="13" fill="#475569">NMP, NDP, NTP)</text>
+
+  <!-- 5' carbon -->
+  <circle cx="205" cy="175" r="7" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="196" y="160" text-anchor="end" font-size="15" fill="#1f2937">5' (CH2)</text>
+
+  <!-- pentose ring -->
+  <polygon points="300,200 360,245 338,315 262,315 240,245" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+  <text x="300" y="192" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">O</text>
+  <text x="368" y="266" font-size="15" fill="#1f2937">1'</text>
+  <text x="344" y="333" font-size="15" fill="#1f2937">2'</text>
+  <text x="240" y="333" font-size="15" fill="#1f2937">3'</text>
+  <text x="222" y="250" font-size="15" fill="#1f2937">4'</text>
+  <text x="300" y="268" text-anchor="middle" font-size="14" fill="#1f2937">pentose</text>
+
+  <!-- substituents -->
+  <text x="245" y="386" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">3'-OH</text>
+  <text x="245" y="404" text-anchor="middle" font-size="13" fill="#475569">joins the next</text>
+  <text x="245" y="419" text-anchor="middle" font-size="13" fill="#475569">nucleotide</text>
+  <text x="365" y="386" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">2'-H or 2'-OH</text>
+  <text x="365" y="404" text-anchor="middle" font-size="13" fill="#475569">H: deoxyribose (DNA)</text>
+  <text x="365" y="419" text-anchor="middle" font-size="13" fill="#475569">OH: ribose (RNA)</text>
+
+  <!-- base -->
+  <rect x="450" y="215" width="130" height="60" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2.5"/>
+  <text x="515" y="241" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">base</text>
+  <text x="515" y="262" text-anchor="middle" font-size="14" fill="#1f2937">A, G, C, T or U</text>
+  <text x="408" y="221" text-anchor="middle" font-size="12" fill="#475569">N-glycosidic</text>
+  <text x="408" y="237" text-anchor="middle" font-size="12" fill="#475569">bond</text>
+
+  <!-- brackets -->
+  <path d="M 225 440 v 10 h 355 v -10" fill="none" stroke="#475569" stroke-width="2"/>
+  <text x="402" y="470" text-anchor="middle" font-size="15" fill="#1f2937">nucleoside = sugar + base</text>
+  <path d="M 65 480 v 10 h 515 v -10" fill="none" stroke="#475569" stroke-width="2"/>
+  <text x="322" y="515" text-anchor="middle" font-size="15" fill="#1f2937">nucleotide = nucleoside + phosphate(s)</text>
+
+  <!-- purine / pyrimidine panel -->
+  <line x1="595" y1="95" x2="595" y2="490" stroke="#cbd5e1" stroke-width="2"/>
+  <polygon points="640.0,155.0 666.0,170.0 666.0,200.0 640.0,215.0 614.0,200.0 614.0,170.0" fill="#dcfce7" stroke="#16a34a" stroke-width="2.5"/>
+  <polygon points="666.0,170.0 694.5,160.7 712.1,185.0 694.5,209.3 666.0,200.0" fill="#dcfce7" stroke="#16a34a" stroke-width="2.5"/>
+  <text x="690" y="115" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Purines</text>
+  <text x="690" y="250" text-anchor="middle" font-size="14" fill="#1f2937">two fused rings</text>
+  <text x="690" y="270" text-anchor="middle" font-size="14" fill="#1f2937">adenine (A), guanine (G)</text>
+  <polygon points="660.0,335.0 686.0,350.0 686.0,380.0 660.0,395.0 634.0,380.0 634.0,350.0" fill="#dcfce7" stroke="#16a34a" stroke-width="2.5"/>
+  <text x="690" y="318" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Pyrimidines</text>
+  <text x="690" y="420" text-anchor="middle" font-size="14" fill="#1f2937">one ring</text>
+  <text x="690" y="440" text-anchor="middle" font-size="14" fill="#1f2937">cytosine (C)</text>
+  <text x="690" y="458" text-anchor="middle" font-size="14" fill="#1f2937">thymine (T, DNA only)</text>
+  <text x="690" y="476" text-anchor="middle" font-size="14" fill="#1f2937">uracil (U, RNA only)</text>
+</svg>

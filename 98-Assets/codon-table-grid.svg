@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 720" width="820" height="720" font-family="Helvetica, Arial, sans-serif">
+  <title>The standard genetic code (NCBI translation table 1)</title>
+  <rect x="2" y="2" width="816" height="716" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="410.0" y="34" text-anchor="middle" font-size="19" font-weight="bold" fill="#1f2937">The standard genetic code: 64 mRNA codons, read 5' to 3'</text>
+  <text x="410" y="72" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">2nd base</text>
+  <text x="36" y="350" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937" transform="rotate(-90 36 350)">1st base (5' end)</text>
+  <text x="750" y="350" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937" transform="rotate(90 750 350)">3rd base (3' end)</text>
+  <text x="185.0" y="98" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">U</text>
+  <text x="335.0" y="98" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">C</text>
+  <text x="485.0" y="98" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">A</text>
+  <text x="635.0" y="98" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">G</text>
+  <text x="84" y="177" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">U</text>
+  <text x="724" y="130" text-anchor="middle" font-size="13" fill="#475569">U</text>
+  <text x="724" y="160" text-anchor="middle" font-size="13" fill="#475569">C</text>
+  <text x="724" y="190" text-anchor="middle" font-size="13" fill="#475569">A</text>
+  <text x="724" y="220" text-anchor="middle" font-size="13" fill="#475569">G</text>
+  <rect x="112" y="112" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="122" y="130" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UUU</text>
+  <text x="168" y="130" font-size="14" fill="#1f2937">Phe  F</text>
+  <rect x="112" y="142" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="122" y="160" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UUC</text>
+  <text x="168" y="160" font-size="14" fill="#1f2937">Phe  F</text>
+  <rect x="112" y="172" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="122" y="190" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UUA</text>
+  <text x="168" y="190" font-size="14" fill="#1f2937">Leu  L</text>
+  <rect x="112" y="202" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="122" y="220" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UUG</text>
+  <text x="168" y="220" font-size="14" fill="#1f2937">Leu  L</text>
+  <rect x="262" y="112" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="272" y="130" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UCU</text>
+  <text x="318" y="130" font-size="14" fill="#1f2937">Ser  S</text>
+  <rect x="262" y="142" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="272" y="160" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UCC</text>
+  <text x="318" y="160" font-size="14" fill="#1f2937">Ser  S</text>
+  <rect x="262" y="172" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="272" y="190" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UCA</text>
+  <text x="318" y="190" font-size="14" fill="#1f2937">Ser  S</text>
+  <rect x="262" y="202" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="272" y="220" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UCG</text>
+  <text x="318" y="220" font-size="14" fill="#1f2937">Ser  S</text>
+  <rect x="412" y="112" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="130" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UAU</text>
+  <text x="468" y="130" font-size="14" fill="#1f2937">Tyr  Y</text>
+  <rect x="412" y="142" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="160" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UAC</text>
+  <text x="468" y="160" font-size="14" fill="#1f2937">Tyr  Y</text>
+  <rect x="412" y="172" width="146" height="26" rx="5" fill="#fecaca"/>
+  <text x="422" y="190" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937" font-weight="bold">UAA</text>
+  <text x="468" y="190" font-size="14" fill="#1f2937" font-weight="bold">Stop</text>
+  <rect x="412" y="202" width="146" height="26" rx="5" fill="#fecaca"/>
+  <text x="422" y="220" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937" font-weight="bold">UAG</text>
+  <text x="468" y="220" font-size="14" fill="#1f2937" font-weight="bold">Stop</text>
+  <rect x="562" y="112" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="572" y="130" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UGU</text>
+  <text x="618" y="130" font-size="14" fill="#1f2937">Cys  C</text>
+  <rect x="562" y="142" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="572" y="160" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UGC</text>
+  <text x="618" y="160" font-size="14" fill="#1f2937">Cys  C</text>
+  <rect x="562" y="172" width="146" height="26" rx="5" fill="#fecaca"/>
+  <text x="572" y="190" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937" font-weight="bold">UGA</text>
+  <text x="618" y="190" font-size="14" fill="#1f2937" font-weight="bold">Stop</text>
+  <rect x="562" y="202" width="146" height="26" rx="5" fill="#ddd6fe"/>
+  <text x="572" y="220" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">UGG</text>
+  <text x="618" y="220" font-size="14" fill="#1f2937">Trp  W</text>
+  <line x1="110" y1="110" x2="710" y2="110" stroke="#64748b" stroke-width="2"/>
+  <text x="84" y="297" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">C</text>
+  <text x="724" y="250" text-anchor="middle" font-size="13" fill="#475569">U</text>
+  <text x="724" y="280" text-anchor="middle" font-size="13" fill="#475569">C</text>
+  <text x="724" y="310" text-anchor="middle" font-size="13" fill="#475569">A</text>
+  <text x="724" y="340" text-anchor="middle" font-size="13" fill="#475569">G</text>
+  <rect x="112" y="232" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="122" y="250" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CUU</text>
+  <text x="168" y="250" font-size="14" fill="#1f2937">Leu  L</text>
+  <rect x="112" y="262" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="122" y="280" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CUC</text>
+  <text x="168" y="280" font-size="14" fill="#1f2937">Leu  L</text>
+  <rect x="112" y="292" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="122" y="310" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CUA</text>
+  <text x="168" y="310" font-size="14" fill="#1f2937">Leu  L</text>
+  <rect x="112" y="322" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="122" y="340" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CUG</text>
+  <text x="168" y="340" font-size="14" fill="#1f2937">Leu  L</text>
+  <rect x="262" y="232" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="250" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CCU</text>
+  <text x="318" y="250" font-size="14" fill="#1f2937">Pro  P</text>
+  <rect x="262" y="262" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="280" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CCC</text>
+  <text x="318" y="280" font-size="14" fill="#1f2937">Pro  P</text>
+  <rect x="262" y="292" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="310" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CCA</text>
+  <text x="318" y="310" font-size="14" fill="#1f2937">Pro  P</text>
+  <rect x="262" y="322" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="340" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CCG</text>
+  <text x="318" y="340" font-size="14" fill="#1f2937">Pro  P</text>
+  <rect x="412" y="232" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="250" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CAU</text>
+  <text x="468" y="250" font-size="14" fill="#1f2937">His  H</text>
+  <rect x="412" y="262" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="280" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CAC</text>
+  <text x="468" y="280" font-size="14" fill="#1f2937">His  H</text>
+  <rect x="412" y="292" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="310" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CAA</text>
+  <text x="468" y="310" font-size="14" fill="#1f2937">Gln  Q</text>
+  <rect x="412" y="322" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="340" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CAG</text>
+  <text x="468" y="340" font-size="14" fill="#1f2937">Gln  Q</text>
+  <rect x="562" y="232" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="572" y="250" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CGU</text>
+  <text x="618" y="250" font-size="14" fill="#1f2937">Arg  R</text>
+  <rect x="562" y="262" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="572" y="280" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CGC</text>
+  <text x="618" y="280" font-size="14" fill="#1f2937">Arg  R</text>
+  <rect x="562" y="292" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="572" y="310" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CGA</text>
+  <text x="618" y="310" font-size="14" fill="#1f2937">Arg  R</text>
+  <rect x="562" y="322" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="572" y="340" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">CGG</text>
+  <text x="618" y="340" font-size="14" fill="#1f2937">Arg  R</text>
+  <line x1="110" y1="230" x2="710" y2="230" stroke="#64748b" stroke-width="2"/>
+  <text x="84" y="417" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">A</text>
+  <text x="724" y="370" text-anchor="middle" font-size="13" fill="#475569">U</text>
+  <text x="724" y="400" text-anchor="middle" font-size="13" fill="#475569">C</text>
+  <text x="724" y="430" text-anchor="middle" font-size="13" fill="#475569">A</text>
+  <text x="724" y="460" text-anchor="middle" font-size="13" fill="#475569">G</text>
+  <rect x="112" y="352" width="146" height="26" rx="5" fill="#fde68a"/>
+  <text x="122" y="370" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AUU</text>
+  <text x="168" y="370" font-size="14" fill="#1f2937">Ile  I</text>
+  <rect x="112" y="382" width="146" height="26" rx="5" fill="#fde68a"/>
+  <text x="122" y="400" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AUC</text>
+  <text x="168" y="400" font-size="14" fill="#1f2937">Ile  I</text>
+  <rect x="112" y="412" width="146" height="26" rx="5" fill="#fde68a"/>
+  <text x="122" y="430" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AUA</text>
+  <text x="168" y="430" font-size="14" fill="#1f2937">Ile  I</text>
+  <rect x="112" y="442" width="146" height="26" rx="5" fill="#ddd6fe"/>
+  <rect x="112" y="442" width="146" height="26" rx="5" fill="none" stroke="#15803d" stroke-width="3"/>
+  <text x="122" y="460" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937" font-weight="bold">AUG</text>
+  <text x="168" y="460" font-size="14" fill="#1f2937" font-weight="bold">Met  M  start</text>
+  <rect x="262" y="352" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="370" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">ACU</text>
+  <text x="318" y="370" font-size="14" fill="#1f2937">Thr  T</text>
+  <rect x="262" y="382" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="400" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">ACC</text>
+  <text x="318" y="400" font-size="14" fill="#1f2937">Thr  T</text>
+  <rect x="262" y="412" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="430" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">ACA</text>
+  <text x="318" y="430" font-size="14" fill="#1f2937">Thr  T</text>
+  <rect x="262" y="442" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="460" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">ACG</text>
+  <text x="318" y="460" font-size="14" fill="#1f2937">Thr  T</text>
+  <rect x="412" y="352" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="370" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AAU</text>
+  <text x="468" y="370" font-size="14" fill="#1f2937">Asn  N</text>
+  <rect x="412" y="382" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="400" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AAC</text>
+  <text x="468" y="400" font-size="14" fill="#1f2937">Asn  N</text>
+  <rect x="412" y="412" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="430" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AAA</text>
+  <text x="468" y="430" font-size="14" fill="#1f2937">Lys  K</text>
+  <rect x="412" y="442" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="460" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AAG</text>
+  <text x="468" y="460" font-size="14" fill="#1f2937">Lys  K</text>
+  <rect x="562" y="352" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="572" y="370" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AGU</text>
+  <text x="618" y="370" font-size="14" fill="#1f2937">Ser  S</text>
+  <rect x="562" y="382" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="572" y="400" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AGC</text>
+  <text x="618" y="400" font-size="14" fill="#1f2937">Ser  S</text>
+  <rect x="562" y="412" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="572" y="430" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AGA</text>
+  <text x="618" y="430" font-size="14" fill="#1f2937">Arg  R</text>
+  <rect x="562" y="442" width="146" height="26" rx="5" fill="#bfdbfe"/>
+  <text x="572" y="460" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">AGG</text>
+  <text x="618" y="460" font-size="14" fill="#1f2937">Arg  R</text>
+  <line x1="110" y1="350" x2="710" y2="350" stroke="#64748b" stroke-width="2"/>
+  <text x="84" y="537" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">G</text>
+  <text x="724" y="490" text-anchor="middle" font-size="13" fill="#475569">U</text>
+  <text x="724" y="520" text-anchor="middle" font-size="13" fill="#475569">C</text>
+  <text x="724" y="550" text-anchor="middle" font-size="13" fill="#475569">A</text>
+  <text x="724" y="580" text-anchor="middle" font-size="13" fill="#475569">G</text>
+  <rect x="112" y="472" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="122" y="490" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GUU</text>
+  <text x="168" y="490" font-size="14" fill="#1f2937">Val  V</text>
+  <rect x="112" y="502" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="122" y="520" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GUC</text>
+  <text x="168" y="520" font-size="14" fill="#1f2937">Val  V</text>
+  <rect x="112" y="532" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="122" y="550" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GUA</text>
+  <text x="168" y="550" font-size="14" fill="#1f2937">Val  V</text>
+  <rect x="112" y="562" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="122" y="580" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GUG</text>
+  <text x="168" y="580" font-size="14" fill="#1f2937">Val  V</text>
+  <rect x="262" y="472" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="490" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GCU</text>
+  <text x="318" y="490" font-size="14" fill="#1f2937">Ala  A</text>
+  <rect x="262" y="502" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="520" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GCC</text>
+  <text x="318" y="520" font-size="14" fill="#1f2937">Ala  A</text>
+  <rect x="262" y="532" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="550" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GCA</text>
+  <text x="318" y="550" font-size="14" fill="#1f2937">Ala  A</text>
+  <rect x="262" y="562" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="272" y="580" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GCG</text>
+  <text x="318" y="580" font-size="14" fill="#1f2937">Ala  A</text>
+  <rect x="412" y="472" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="490" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GAU</text>
+  <text x="468" y="490" font-size="14" fill="#1f2937">Asp  D</text>
+  <rect x="412" y="502" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="520" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GAC</text>
+  <text x="468" y="520" font-size="14" fill="#1f2937">Asp  D</text>
+  <rect x="412" y="532" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="550" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GAA</text>
+  <text x="468" y="550" font-size="14" fill="#1f2937">Glu  E</text>
+  <rect x="412" y="562" width="146" height="26" rx="5" fill="#fbcfe8"/>
+  <text x="422" y="580" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GAG</text>
+  <text x="468" y="580" font-size="14" fill="#1f2937">Glu  E</text>
+  <rect x="562" y="472" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="572" y="490" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GGU</text>
+  <text x="618" y="490" font-size="14" fill="#1f2937">Gly  G</text>
+  <rect x="562" y="502" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="572" y="520" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GGC</text>
+  <text x="618" y="520" font-size="14" fill="#1f2937">Gly  G</text>
+  <rect x="562" y="532" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="572" y="550" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GGA</text>
+  <text x="618" y="550" font-size="14" fill="#1f2937">Gly  G</text>
+  <rect x="562" y="562" width="146" height="26" rx="5" fill="#bbf7d0"/>
+  <text x="572" y="580" font-size="14" font-family="Menlo, Consolas, monospace" fill="#1f2937">GGG</text>
+  <text x="618" y="580" font-size="14" fill="#1f2937">Gly  G</text>
+  <line x1="110" y1="470" x2="710" y2="470" stroke="#64748b" stroke-width="2"/>
+  <line x1="110" y1="590" x2="710" y2="590" stroke="#64748b" stroke-width="2"/>
+  <line x1="110" y1="110" x2="110" y2="590" stroke="#64748b" stroke-width="2"/>
+  <line x1="260" y1="110" x2="260" y2="590" stroke="#64748b" stroke-width="2"/>
+  <line x1="410" y1="110" x2="410" y2="590" stroke="#64748b" stroke-width="2"/>
+  <line x1="560" y1="110" x2="560" y2="590" stroke="#64748b" stroke-width="2"/>
+  <line x1="710" y1="110" x2="710" y2="590" stroke="#64748b" stroke-width="2"/>
+  <rect x="40" y="610" width="22" height="18" rx="4" fill="#bfdbfe" stroke="#64748b"/>
+  <text x="70" y="624" font-size="13" fill="#1f2937">6 codons (Leu, Ser, Arg)</text>
+  <rect x="300" y="610" width="22" height="18" rx="4" fill="#bbf7d0" stroke="#64748b"/>
+  <text x="330" y="624" font-size="13" fill="#1f2937">4 codons</text>
+  <rect x="560" y="610" width="22" height="18" rx="4" fill="#fde68a" stroke="#64748b"/>
+  <text x="590" y="624" font-size="13" fill="#1f2937">3 codons (Ile)</text>
+  <rect x="40" y="638" width="22" height="18" rx="4" fill="#fbcfe8" stroke="#64748b"/>
+  <text x="70" y="652" font-size="13" fill="#1f2937">2 codons</text>
+  <rect x="300" y="638" width="22" height="18" rx="4" fill="#ddd6fe" stroke="#64748b"/>
+  <text x="330" y="652" font-size="13" fill="#1f2937">1 codon (Met, Trp)</text>
+  <rect x="560" y="638" width="22" height="18" rx="4" fill="#fecaca" stroke="#64748b"/>
+  <text x="590" y="652" font-size="13" fill="#1f2937">stop (UAA, UAG, UGA)</text>
+  <text x="410.0" y="700" text-anchor="middle" font-size="12" fill="#475569">Colour = number of synonymous codons for that amino acid. Green frame: AUG, the usual start codon (also Met inside genes).</text>
+</svg>
