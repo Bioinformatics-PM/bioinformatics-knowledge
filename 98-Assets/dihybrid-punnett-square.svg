@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 545" width="660" height="545" font-family="Helvetica, Arial, sans-serif">
+  <title>Dihybrid cross RrYy x RrYy</title>
+  <rect x="2" y="2" width="656" height="541" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="330.0" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Dihybrid cross: RrYy x RrYy (F1 x F1)</text>
+  <text x="330.0" y="56" text-anchor="middle" font-size="13" fill="#475569">R round, r wrinkled; Y yellow, y green. Each parent makes 4 gamete types, each with probability 1/4.</text>
+  <text x="390" y="96" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">gametes of parent 2</text>
+  <text x="80" y="278" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937" transform="rotate(-90 80 278)">gametes of parent 1</text>
+  <text x="240.0" y="120" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">RY</text>
+  <text x="340.0" y="120" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">Ry</text>
+  <text x="440.0" y="120" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">rY</text>
+  <text x="540.0" y="120" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">ry</text>
+  <text x="150" y="173.0" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">RY</text>
+  <text x="150" y="247.0" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">Ry</text>
+  <text x="150" y="321.0" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">rY</text>
+  <text x="150" y="395.0" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">ry</text>
+  <rect x="193" y="133" width="94" height="68" rx="8" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="240.0" y="173.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RRYY</text>
+  <rect x="293" y="133" width="94" height="68" rx="8" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="340.0" y="173.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RRYy</text>
+  <rect x="393" y="133" width="94" height="68" rx="8" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="440.0" y="173.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RrYY</text>
+  <rect x="493" y="133" width="94" height="68" rx="8" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="540.0" y="173.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RrYy</text>
+  <rect x="193" y="207" width="94" height="68" rx="8" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="240.0" y="247.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RRYy</text>
+  <rect x="293" y="207" width="94" height="68" rx="8" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+  <text x="340.0" y="247.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RRyy</text>
+  <rect x="393" y="207" width="94" height="68" rx="8" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="440.0" y="247.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RrYy</text>
+  <rect x="493" y="207" width="94" height="68" rx="8" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+  <text x="540.0" y="247.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">Rryy</text>
+  <rect x="193" y="281" width="94" height="68" rx="8" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="240.0" y="321.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RrYY</text>
+  <rect x="293" y="281" width="94" height="68" rx="8" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="340.0" y="321.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RrYy</text>
+  <rect x="393" y="281" width="94" height="68" rx="8" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="440.0" y="321.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">rrYY</text>
+  <rect x="493" y="281" width="94" height="68" rx="8" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="540.0" y="321.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">rrYy</text>
+  <rect x="193" y="355" width="94" height="68" rx="8" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="240.0" y="395.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">RrYy</text>
+  <rect x="293" y="355" width="94" height="68" rx="8" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+  <text x="340.0" y="395.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">Rryy</text>
+  <rect x="393" y="355" width="94" height="68" rx="8" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="440.0" y="395.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">rrYy</text>
+  <rect x="493" y="355" width="94" height="68" rx="8" fill="#c7d2fe" stroke="#4338ca" stroke-width="1.5"/>
+  <text x="540.0" y="395.0" text-anchor="middle" font-size="16" font-family="Menlo, Consolas, monospace" fill="#1f2937">rryy</text>
+  <rect x="60" y="446" width="26" height="18" rx="4" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="96" y="460" font-size="14" fill="#1f2937">round, yellow: 9/16</text>
+  <rect x="360" y="446" width="26" height="18" rx="4" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+  <text x="396" y="460" font-size="14" fill="#1f2937">round, green: 3/16</text>
+  <rect x="60" y="476" width="26" height="18" rx="4" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="96" y="490" font-size="14" fill="#1f2937">wrinkled, yellow: 3/16</text>
+  <rect x="360" y="476" width="26" height="18" rx="4" fill="#c7d2fe" stroke="#4338ca" stroke-width="1.5"/>
+  <text x="396" y="490" font-size="14" fill="#1f2937">wrinkled, green: 1/16</text>
+  <text x="330.0" y="523" text-anchor="middle" font-size="12" fill="#475569">Genotypes: 9 classes in ratio (1:2:1) x (1:2:1). Phenotypes: 9:3:3:1, if R and Y assort independently.</text>
+</svg>

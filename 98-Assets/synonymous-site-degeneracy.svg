@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" width="720" height="520" font-family="Helvetica, Arial, sans-serif">
+  <title>Degeneracy of codon positions</title>
+  <rect x="2" y="2" width="716" height="516" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="360.0" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Where can a silent change happen? Degeneracy of each codon position</text>
+  <text x="360.0" y="56" text-anchor="middle" font-size="13" fill="#475569">Standard code, mRNA codons. Under each base: the bases that keep the amino acid at that position.</text>
+  <text x="60" y="118" font-size="16" font-weight="bold" fill="#1f2937">Ala</text>
+  <rect x="150" y="94" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="178" y="119" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="178" y="146" text-anchor="middle" font-size="12" fill="#475569">only G</text>
+  <rect x="220" y="94" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="248" y="119" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <text x="248" y="146" text-anchor="middle" font-size="12" fill="#475569">only C</text>
+  <rect x="290" y="94" width="56" height="36" rx="6" fill="#86efac" stroke="#64748b" stroke-width="1.5"/>
+  <text x="318" y="119" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">U</text>
+  <text x="318" y="146" text-anchor="middle" font-size="12" fill="#475569">U, C, A, G</text>
+  <text x="380" y="118" font-size="14" fill="#1f2937">synonymous sites: 1</text>
+  <text x="60" y="190" font-size="16" font-weight="bold" fill="#1f2937">Leu</text>
+  <rect x="150" y="166" width="56" height="36" rx="6" fill="#fde68a" stroke="#64748b" stroke-width="1.5"/>
+  <text x="178" y="191" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <text x="178" y="218" text-anchor="middle" font-size="12" fill="#475569">U, C</text>
+  <rect x="220" y="166" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="248" y="191" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">U</text>
+  <text x="248" y="218" text-anchor="middle" font-size="12" fill="#475569">only U</text>
+  <rect x="290" y="166" width="56" height="36" rx="6" fill="#86efac" stroke="#64748b" stroke-width="1.5"/>
+  <text x="318" y="191" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="318" y="218" text-anchor="middle" font-size="12" fill="#475569">U, C, A, G</text>
+  <text x="380" y="190" font-size="14" fill="#1f2937">synonymous sites: 4/3</text>
+  <text x="60" y="262" font-size="16" font-weight="bold" fill="#1f2937">Glu</text>
+  <rect x="150" y="238" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="178" y="263" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="178" y="290" text-anchor="middle" font-size="12" fill="#475569">only G</text>
+  <rect x="220" y="238" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="248" y="263" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="248" y="290" text-anchor="middle" font-size="12" fill="#475569">only A</text>
+  <rect x="290" y="238" width="56" height="36" rx="6" fill="#fde68a" stroke="#64748b" stroke-width="1.5"/>
+  <text x="318" y="263" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="318" y="290" text-anchor="middle" font-size="12" fill="#475569">A, G</text>
+  <text x="380" y="262" font-size="14" fill="#1f2937">synonymous sites: 1/3</text>
+  <text x="60" y="334" font-size="16" font-weight="bold" fill="#1f2937">Ile</text>
+  <rect x="150" y="310" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="178" y="335" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="178" y="362" text-anchor="middle" font-size="12" fill="#475569">only A</text>
+  <rect x="220" y="310" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="248" y="335" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">U</text>
+  <text x="248" y="362" text-anchor="middle" font-size="12" fill="#475569">only U</text>
+  <rect x="290" y="310" width="56" height="36" rx="6" fill="#fdba74" stroke="#64748b" stroke-width="1.5"/>
+  <text x="318" y="335" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">U</text>
+  <text x="318" y="362" text-anchor="middle" font-size="12" fill="#475569">U, C, A</text>
+  <text x="380" y="334" font-size="14" fill="#1f2937">synonymous sites: 2/3</text>
+  <text x="60" y="406" font-size="16" font-weight="bold" fill="#1f2937">Met</text>
+  <rect x="150" y="382" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="178" y="407" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="178" y="434" text-anchor="middle" font-size="12" fill="#475569">only A</text>
+  <rect x="220" y="382" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="248" y="407" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">U</text>
+  <text x="248" y="434" text-anchor="middle" font-size="12" fill="#475569">only U</text>
+  <rect x="290" y="382" width="56" height="36" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="318" y="407" text-anchor="middle" font-size="20" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="318" y="434" text-anchor="middle" font-size="12" fill="#475569">only G</text>
+  <text x="380" y="406" font-size="14" fill="#1f2937">synonymous sites: 0</text>
+  <rect x="60" y="460" width="22" height="16" rx="4" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="90" y="473" font-size="13" fill="#1f2937">non-degenerate</text>
+  <rect x="220" y="460" width="22" height="16" rx="4" fill="#fde68a" stroke="#64748b" stroke-width="1.5"/>
+  <text x="250" y="473" font-size="13" fill="#1f2937">twofold</text>
+  <rect x="380" y="460" width="22" height="16" rx="4" fill="#fdba74" stroke="#64748b" stroke-width="1.5"/>
+  <text x="410" y="473" font-size="13" fill="#1f2937">threefold</text>
+  <rect x="540" y="460" width="22" height="16" rx="4" fill="#86efac" stroke="#64748b" stroke-width="1.5"/>
+  <text x="570" y="473" font-size="13" fill="#1f2937">fourfold</text>
+  <text x="360.0" y="504" text-anchor="middle" font-size="12" fill="#475569">Synonymous sites of a codon = sum over positions of (synonymous alternatives) / 3. The second position is never degenerate.</text>
+</svg>
