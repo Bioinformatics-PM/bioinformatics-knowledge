@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 396" width="800" height="396" font-family="Helvetica, Arial, sans-serif">
+  <title>One deletion in a homopolymer has several equivalent positions</title>
+  <rect x="2" y="2" width="796" height="392" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">One deletion, six possible positions: why indels are normalized</text>
+  <text x="400.0" y="54" text-anchor="middle" font-size="12" fill="#475569">Invented 15-nt coding sequence. Deleting any one of the six A of the run gives exactly the same sample sequence.</text>
+  <text x="117.0" y="84" font-size="13" font-weight="bold" fill="#1f2937">Reference (positions 1-based)</text>
+  <rect x="117.0" y="112" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="134.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="134.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">1</text>
+  <rect x="155.0" y="112" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="172.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <text x="172.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">2</text>
+  <rect x="193.0" y="112" width="34" height="34" rx="5" fill="#bbf7d0" stroke="#94a3b8"/>
+  <text x="210.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="210.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">3</text>
+  <rect x="231.0" y="112" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="248.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="248.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">4</text>
+  <rect x="269.0" y="112" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="286.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="286.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">5</text>
+  <rect x="307.0" y="112" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="324.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="324.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">6</text>
+  <rect x="345.0" y="112" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="362.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="362.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">7</text>
+  <rect x="383.0" y="112" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="400.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="400.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">8</text>
+  <rect x="421.0" y="112" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="438.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="438.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">9</text>
+  <rect x="459.0" y="112" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="476.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="476.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">10</text>
+  <rect x="497.0" y="112" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="514.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <text x="514.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">11</text>
+  <rect x="535.0" y="112" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="552.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <text x="552.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">12</text>
+  <rect x="573.0" y="112" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="590.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <text x="590.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">13</text>
+  <rect x="611.0" y="112" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="628.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="628.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">14</text>
+  <rect x="649.0" y="112" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="666.0" y="135" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="666.0" y="104" text-anchor="middle" font-size="12" fill="#64748b">15</text>
+  <path d="M 233.0 154 v 8 H 453.0 v -8" fill="none" stroke="#b45309" stroke-width="2"/>
+  <text x="307.0" y="180" text-anchor="middle" font-size="13" fill="#92400e">delete any one of these six A</text>
+  <rect x="30" y="198" width="350" height="70" rx="10" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="44" y="222" font-size="14" font-weight="bold" fill="#166534">VCF, normalized (left-aligned)</text>
+  <text x="44" y="244" font-size="13" font-family="Menlo, Consolas, monospace" fill="#1f2937">POS=3  REF=GA  ALT=G</text>
+  <text x="44" y="261" font-size="12" fill="#475569">leftmost placement; G at 3 is the anchor base</text>
+  <line x1="210.0" y1="148" x2="210.0" y2="198" stroke="#16a34a" stroke-width="2" stroke-dasharray="4 3"/>
+  <rect x="420" y="198" width="350" height="70" rx="10" fill="#ede9fe" stroke="#7c3aed"/>
+  <text x="434" y="222" font-size="14" font-weight="bold" fill="#5b21b6">HGVS, 3' rule (rightmost)</text>
+  <text x="434" y="244" font-size="13" font-family="Menlo, Consolas, monospace" fill="#1f2937">c.9del</text>
+  <text x="434" y="261" font-size="12" fill="#475569">the most 3' A is said to be deleted</text>
+  <line x1="438.0" y1="148" x2="438.0" y2="198" stroke="#7c3aed" stroke-width="2" stroke-dasharray="4 3"/>
+  <text x="117.0" y="292" font-size="13" font-weight="bold" fill="#1f2937">Sample (14 nt): same sequence whatever the description</text>
+  <rect x="117.0" y="306" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="134.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="155.0" y="306" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="172.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="193.0" y="306" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="210.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="231.0" y="306" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="248.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="269.0" y="306" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="286.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="307.0" y="306" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="324.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="345.0" y="306" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="362.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="383.0" y="306" width="34" height="34" rx="5" fill="#fde68a" stroke="#94a3b8"/>
+  <text x="400.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="421.0" y="306" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="438.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="459.0" y="306" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="476.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <rect x="497.0" y="306" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="514.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="535.0" y="306" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="552.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="573.0" y="306" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="590.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="611.0" y="306" width="34" height="34" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+  <text x="628.0" y="329" text-anchor="middle" font-size="17" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="400.0" y="366" text-anchor="middle" font-size="12" fill="#475569">Net change -1: a frameshift in a coding sequence. The run itself is also where polymerase slippage and some sequencing errors occur.</text>
+</svg>

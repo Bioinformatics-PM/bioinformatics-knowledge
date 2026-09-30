@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 486" width="800" height="486" font-family="Helvetica, Arial, sans-serif">
+  <title>Premature stop position and nonsense-mediated decay (50-55 nt rule)</title>
+  <rect x="2" y="2" width="796" height="482" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Where the premature stop lies decides nonsense-mediated decay</text>
+  <text x="400.0" y="54" text-anchor="middle" font-size="12" fill="#475569">Invented spliced mRNA, coding part only (100 codons, 3 exons). Rule of thumb from Nagy and Maquat (1998).</text>
+  <rect x="420.6666666666667" y="88" width="103.33333333333331" height="62" fill="#fef3c7" stroke="#f59e0b" stroke-dasharray="4 3"/>
+  <text x="472.33333333333337" y="82" text-anchor="middle" font-size="12" fill="#92400e">last 50-55 nt before the last junction</text>
+  <rect x="90.0" y="110" width="186.0" height="34" rx="4" fill="#dbeafe" stroke="#64748b"/>
+  <text x="183.0" y="132" text-anchor="middle" font-size="13" fill="#1f2937">exon 1</text>
+  <rect x="276.0" y="110" width="248.0" height="34" rx="4" fill="#e0e7ff" stroke="#64748b"/>
+  <text x="321.0" y="132" text-anchor="middle" font-size="13" fill="#1f2937">exon 2</text>
+  <rect x="524.0" y="110" width="186.0" height="34" rx="4" fill="#dcfce7" stroke="#64748b"/>
+  <text x="617.0" y="132" text-anchor="middle" font-size="13" fill="#1f2937">exon 3 (last)</text>
+  <line x1="276.0" y1="104" x2="276.0" y2="150" stroke="#1f2937" stroke-width="3"/>
+  <text x="276.0" y="166" text-anchor="middle" font-size="12" fill="#1f2937">junction 1</text>
+  <line x1="524.0" y1="104" x2="524.0" y2="150" stroke="#1f2937" stroke-width="3"/>
+  <text x="524.0" y="166" text-anchor="middle" font-size="12" fill="#1f2937">last junction</text>
+  <text x="80" y="132" text-anchor="end" font-size="13" fill="#475569">5'</text>
+  <text x="720" y="132" font-size="13" fill="#475569">3'</text>
+  <polygon points="206.0,102 222.0,102 214.0,114" fill="#b91c1c"/>
+  <text x="214.0" y="98" text-anchor="middle" font-size="13" font-weight="bold" fill="#b91c1c">A</text>
+  <polygon points="454.0,102 470.0,102 462.0,114" fill="#b45309"/>
+  <text x="462.0" y="98" text-anchor="middle" font-size="13" font-weight="bold" fill="#b45309">B</text>
+  <polygon points="578.0,102 594.0,102 586.0,114" fill="#b45309"/>
+  <text x="586.0" y="98" text-anchor="middle" font-size="13" font-weight="bold" fill="#b45309">C</text>
+  <polygon points="702.0,102 718.0,102 710.0,114" fill="#15803d"/>
+  <text x="710.0" y="98" text-anchor="middle" font-size="13" font-weight="bold" fill="#15803d">N</text>
+  <rect x="16" y="205" width="768" height="54" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="32" y="238" font-size="16" font-weight="bold" fill="#b91c1c">A</text>
+  <text x="56" y="228" font-size="13" fill="#1f2937">stop at codon 20, 150 nt before the last junction</text>
+  <text x="56" y="247" font-size="13" font-weight="bold" fill="#b91c1c">decay: little or no protein</text>
+  <line x1="430" y1="232" x2="550" y2="232" stroke="#cbd5e1" stroke-width="10" stroke-linecap="round" stroke-dasharray="2 8"/>
+  <text x="565" y="237" font-size="12" fill="#64748b">mRNA degraded</text>
+  <rect x="16" y="267" width="768" height="54" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="32" y="300" font-size="16" font-weight="bold" fill="#b45309">B</text>
+  <text x="56" y="290" font-size="13" fill="#1f2937">stop at codon 60, 30 nt before the last junction</text>
+  <text x="56" y="309" font-size="13" font-weight="bold" fill="#b45309">escapes: protein of 59 aa</text>
+  <rect x="430" y="287" width="196.66666666666666" height="14" rx="7" fill="#fdba74"/>
+  <rect x="16" y="329" width="768" height="54" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="32" y="362" font-size="16" font-weight="bold" fill="#b45309">C</text>
+  <text x="56" y="352" font-size="13" fill="#1f2937">stop at codon 80, in the last exon</text>
+  <text x="56" y="371" font-size="13" font-weight="bold" fill="#b45309">escapes: protein of 79 aa</text>
+  <rect x="430" y="349" width="263.3333333333333" height="14" rx="7" fill="#fdba74"/>
+  <rect x="16" y="391" width="768" height="54" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="32" y="424" font-size="16" font-weight="bold" fill="#15803d">N</text>
+  <text x="56" y="414" font-size="13" fill="#1f2937">normal stop at codon 100</text>
+  <text x="56" y="433" font-size="13" font-weight="bold" fill="#15803d">full protein of 99 aa</text>
+  <rect x="430" y="411" width="330.0" height="14" rx="7" fill="#86efac"/>
+  <text x="400.0" y="463" text-anchor="middle" font-size="12" fill="#475569">Bars: protein length. A stop in the last exon has no junction downstream, so the normal stop never triggers decay.</text>
+</svg>
