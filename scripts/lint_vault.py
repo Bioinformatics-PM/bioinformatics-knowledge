@@ -5,8 +5,12 @@ Errors (exit code 1): broken front matter, tags outside the controlled
 vocabulary, invalid properties, duplicate or illegal file names, notes in the
 wrong folder, undefined footnotes.
 
-Warnings: links to notes that do not exist yet. They are the backlog, so they
-never fail the build; `--backlog` lists them by number of references.
+Each concept has exactly one home: the `## Learning path` of one MOC. A concept
+listed in two learning paths, or a written concept note listed in none, is an
+error.
+
+Links to notes that do not exist yet are not errors: they are the backlog, and
+`--backlog` lists them by number of references, with their home MOC.
 
 Usage:
     python scripts/lint_vault.py            # lint
@@ -65,6 +69,8 @@ WIKILINK = re.compile(r"!?\[\[([^\]\n]+?)\]\]")
 FOOTNOTE_REF = re.compile(r"\[\^([^\]\s]+)\](?!:)")
 FOOTNOTE_DEF = re.compile(r"^\[\^([^\]\s]+)\]:", re.MULTILINE)
 PROPERTY_LINK = re.compile(r"^\[\[[^\]]+\]\]$")
+LEARNING_PATH = re.compile(r"^## Learning path[ \t]*$(.*?)(?=^## |\Z)", re.DOTALL | re.MULTILINE)
+PATH_ITEM = re.compile(r"^\s*\d+\.\s+\[\[([^\]|#\\]+)", re.MULTILINE)
 
 
 @dataclass
@@ -89,7 +95,8 @@ def vault_files() -> list[Path]:
 
 
 def link_target(raw: str) -> str:
-    target = raw.split("|", 1)[0].split("#", 1)[0].strip()
+    # In tables the alias separator is escaped as `\|`; drop the backslash.
+    target = raw.split("|", 1)[0].split("#", 1)[0].rstrip("\\").strip()
     return Path(target).name if "/" in target else target
 
 
@@ -176,6 +183,8 @@ def lint(show_backlog: bool) -> int:
     templates = {p.stem.lower() for p in (ROOT / "99-Templates").glob("*.md")}
     resolvable = set(names) | templates
     backlog: Counter[str] = Counter()
+    homes: dict[str, list[Path]] = defaultdict(list)
+    concept_notes: list[Path] = []
     for path in files:
         if path.suffix != ".md":
             continue
@@ -197,6 +206,12 @@ def lint(show_backlog: bool) -> int:
             check_properties(path, note_type, meta, report)
 
         body = strip_code(text[match.end():])
+        if note_type == "moc":
+            section = LEARNING_PATH.search(body)
+            for item in PATH_ITEM.findall(section.group(1) if section else ""):
+                homes[item.strip().lower()].append(path)
+        elif note_type in MASTERY_TYPES:
+            concept_notes.append(path)
         refs = set(FOOTNOTE_REF.findall(body))
         defs = set(FOOTNOTE_DEF.findall(body))
         for missing in sorted(refs - defs):
@@ -209,6 +224,14 @@ def lint(show_backlog: bool) -> int:
             if target.lower() not in resolvable:
                 backlog[target] += 1
 
+    for concept, mocs in sorted(homes.items()):
+        if len(mocs) > 1:
+            listed = ", ".join(p.stem for p in mocs)
+            report.errors.append(f"concept `{concept}` has several homes (learning paths of {listed})")
+    for path in concept_notes:
+        if path.stem.lower() not in homes:
+            report.error(path, "not listed in the learning path of any MOC")
+
     for error in report.errors:
         print(f"ERROR   {error}")
     print(
@@ -218,7 +241,8 @@ def lint(show_backlog: bool) -> int:
     if show_backlog:
         print("\nBacklog (planned notes by number of references):")
         for target, count in backlog.most_common():
-            print(f"  {count:4d}  {target}")
+            home = homes.get(target.lower())
+            print(f"  {count:4d}  {target}" + (f"  ({home[0].stem})" if home else ""))
     return 1 if report.errors else 0
 
 

@@ -38,6 +38,7 @@ Rules:
 - **One home per note.** A note lives in exactly one folder: the domain where the concept is *defined*. Other domains link to it, they never copy it. Example: `Dynamic Programming` lives in Computer Science; the Bioinformatics syllabus links to it.
 - **Numbered folders** (`01-`, `02-`) exist only to control order in the file explorer. Notes themselves are never numbered (except project notes, which mirror repository names).
 - **Every domain and subdomain folder has one MOC** (Map of Content) named after the folder without its number: `01-Biology/Biology.md`, `01-Biology/02-Molecular-Biology/Molecular Biology.md`. The MOC is the syllabus of that folder.
+- **The learning paths are the concept registry.** Each concept, algorithm or technique appears in the `## Learning path` of exactly one subdomain MOC: its home. Other MOCs link it under `## Before you start` or `## Uses from other domains`. A new note is added to its home learning path in the same commit. The lint enforces both rules.
 - Gaps in numbering (`10` to `69`) are reserved for future domains.
 
 ## 2. Note types

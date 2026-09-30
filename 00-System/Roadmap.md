@@ -12,14 +12,14 @@ How the vault itself gets built. The learner's path is the [[Curriculum]]; this 
 
 - [x] Conventions, templates, controlled tags, lint and CI
 - [x] Dashboards: progress, sources, glossary
-- [x] Syllabus (MOC) for every domain and subdomain, L1 to L3
-- [x] Verified source registry: courses, books, papers, curricula, databases
-- [x] Curriculum benchmark against university programs
-- [x] Reference track: molecular biology core concepts, fully written
+- [x] Syllabus (MOC) for every domain and subdomain: 9 domains, 62 subdomains, 1,360 concepts, each with exactly one home
+- [x] Source registry: university courses, textbooks, landmark papers, degree programs, databases and tools
+- [x] Curriculum benchmark against 13 programs (France, United States, Europe, China) and the ISCB competencies
+- [x] Reference track, fully written: [[Nucleotide]], [[DNA]], [[RNA]], [[Central Dogma]], [[DNA Replication]], [[Transcription]], [[Genetic Code]], [[Translation]], [[Gene]], [[Mutation]]
 
 ## Phase 1 - Stage 1 content
 
-Write every Stage 1 concept of the syllabi, in parallel with [[01-dna-engine]] and [[02-sequence-translation]]:
+Write the 341 Stage 1 concepts of the syllabi (see [[Curriculum#Stage 1 - Foundations|Stage 1]]), in parallel with [[01-dna-engine]] and [[02-sequence-translation]]:
 [[Cell Biology]], [[Molecular Biology]], [[Genetics]], [[General Chemistry]], [[Mathematical Foundations]], [[Calculus]], [[Probability]], [[Descriptive Statistics]], [[Programming]], [[Data Structures]], [[Algorithms]], [[Bioinformatics Foundations]], [[Scientific Method]].
 
 ## Phase 2 - Stage 2 content

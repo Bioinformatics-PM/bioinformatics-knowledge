@@ -46,7 +46,7 @@ sources:
 - [[Mechanics]]: [[Hooke's Law]], [[Stokes' Law]], [[Reynolds Number]].
 - [[Physical Chemistry]]: [[Chemical Potential]], [[Nernst Equation]], [[Fluorescence]].
 - [[Biochemistry]]: [[Protein Structure]], [[Protein Folding]], [[Ligand Binding]], [[Membrane Protein]]; [[Cell Biology]]: [[Cell Membrane]].
-- Mathematics: [[Ordinary Differential Equation]], [[Random Walk]], [[Fourier Transform]] (structure determination).
+- Mathematics: [[Ordinary Differential Equation]], [[Random Walk]], [[Fast Fourier Transform|Fourier Transform]] (structure determination).
 
 ## Learning path
 

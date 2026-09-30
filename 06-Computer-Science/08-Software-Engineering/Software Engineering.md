@@ -67,7 +67,7 @@ A bug in scientific software does not crash: it returns a plausible wrong number
 
 ## Uses from other domains
 
-- [[Reproducibility]] ([[Scientific Practice]]): the scientific goal that testing, pinning and releasing serve; [[Computational Environment]] extends [[Dependency Management]] to the whole software stack.
+- [[Reproducibility]] ([[Scientific Practice]]): the scientific goal that testing, pinning and releasing serve; [[Software Environment Management|Computational Environment]] extends [[Dependency Management]] to the whole software stack.
 - [[Software Environment Management]] ([[Bioinformatics Engineering]]): conda and Bioconda environments for the non-Python tools of the field.
 - [[Software License]] ([[Research Data Management]]): choosing a license before the first [[Software Release]].
 - [[Pipeline Testing]] and [[Bioinformatics Tool Benchmarking]] ([[Bioinformatics Engineering]]): testing and benchmarking at the scale of whole workflows and of competing tools.

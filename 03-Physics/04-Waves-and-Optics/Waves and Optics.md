@@ -34,7 +34,7 @@ sources:
 - [[Electromagnetism]] Stage 1: [[Electric Field]], [[Magnetic Field]].
 - [[Cell Biology]]: [[Microscopy]] (what each kind of microscope shows); this MOC adds the physics behind it.
 - [[Physical Chemistry]]: [[Fluorescence]] before item 12.
-- [[Calculus]]; [[Complex Number]] (optional, for phases); [[Fourier Transform]] (optional, for image formation at L2).
+- [[Calculus]]; [[Complex Number]] (optional, for phases); [[Fast Fourier Transform|Fourier Transform]] (optional, for image formation at L2).
 
 ## Learning path
 

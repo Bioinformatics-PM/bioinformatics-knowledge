@@ -66,7 +66,7 @@ sources:
 - [[Molecular Dynamics Simulation]] and [[Force Field]] ([[Structural Bioinformatics]]): Newton's laws, potential energy, springs.
 - [[Stokes-Einstein Relation]] and [[Molecular Motor]] ([[Biophysics]]): drag and work at low Reynolds number.
 - [[Thermodynamics]]: work, energy conservation and pressure are its starting point.
-- [[Density Gradient Centrifugation]] ([[Biotechnology]]): the lab technique built on [[Centrifugation]].
+- [[Centrifugation|Density Gradient Centrifugation]] ([[Biotechnology]]): the lab technique built on [[Centrifugation]].
 
 ## Reference courses
 

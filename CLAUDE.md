@@ -18,7 +18,8 @@ Obsidian vault: a self-directed L1 → M1 bioinformatics curriculum. Owner: Pier
 - Code in notes: runnable Python, standard library first.
 - New notes start at `mastery: 0`. Never change the owner's `mastery` values.
 - A new tag value requires changing `Conventions.md` and `scripts/lint_vault.py` together, in a dedicated commit.
-- Update the MOC when adding a note that is not listed in it yet.
+- Each concept has exactly one home: one line in the `## Learning path` of one MOC. Add it there in the same commit as the note; never list it in a second learning path.
+- `python scripts/lint_vault.py --backlog` lists the planned notes, most referenced first, with their home MOC: it is the writing queue.
 
 ## Git
 

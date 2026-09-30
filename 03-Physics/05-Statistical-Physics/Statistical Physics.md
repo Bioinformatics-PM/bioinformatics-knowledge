@@ -63,7 +63,7 @@ sources:
 
 ## Uses from other domains
 
-- [[Markov Chain Monte Carlo]] and [[Metropolis-Hastings Algorithm]] ([[Bayesian Statistics]]): samplers built to satisfy [[Detailed Balance]]; [[Reversible Markov Chain]] ([[Stochastic Processes]]) is its mathematical form.
+- [[Markov Chain Monte Carlo]] and [[Metropolis-Hastings Algorithm]] ([[Bayesian Statistics]]): samplers built to satisfy [[Detailed Balance]]; [[Detailed Balance|Reversible Markov Chain]] ([[Stochastic Processes]]) is its mathematical form.
 - [[Random Walk]] and [[Markov Chain]] ([[Stochastic Processes]]): the discrete and mathematical counterparts of [[Brownian Motion]] and of transition-rate dynamics.
 - [[Shannon Entropy]] ([[Probability]]): the information-theoretic twin of [[Boltzmann Entropy]].
 - [[Protein Folding]], [[Cooperativity]], [[Allosteric Regulation]] ([[Biochemistry]]).

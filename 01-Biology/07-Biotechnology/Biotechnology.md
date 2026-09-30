@@ -88,7 +88,7 @@ Order: the classic recombinant DNA toolkit and first-generation sequencing (L1, 
 - [[Bioinformatics Foundations]]: [[FASTQ Format]] (the output of item 11).
 - [[NGS Data Analysis]]: [[Sequencing Read]], [[Read Quality Control]], [[Duplicate Read]], [[Library Complexity]], [[Sequencing Coverage]], the analysis side of Stage 2 and 3.
 - [[Genomics]], [[Transcriptomics]] and [[Proteomics]]: the assays built on these techniques, such as [[Shotgun Sequencing]], [[ChIP-Seq]], [[Bisulfite Sequencing]], [[RNA Sequencing]], [[Single-Cell RNA Sequencing]], [[Tandem Mass Spectrometry]].
-- [[Clinical Genomics]]: [[Gene Panel]] (a clinical use of items 16 and 17).
+- [[Clinical Genomics]]: Gene Panel (a clinical use of items 16 and 17).
 
 ## Reference courses
 
