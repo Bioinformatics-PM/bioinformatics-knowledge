@@ -1,0 +1,22 @@
+filters:
+  or:
+    - file.hasTag("type/concept")
+    - file.hasTag("type/algorithm")
+    - file.hasTag("type/technique")
+properties:
+  note.aliases:
+    displayName: Also known as
+  file.folder:
+    displayName: Domain
+views:
+  - type: table
+    name: Glossary
+    order:
+      - file.name
+      - note.aliases
+      - file.folder
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - note.aliases

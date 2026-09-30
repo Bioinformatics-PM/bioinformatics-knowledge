@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "98-Assets",
+  "newFileLocation": "current",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "propertiesInDocument": "visible",
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "strictLineBreaks": false
+}

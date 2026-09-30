@@ -1,0 +1,60 @@
+filters:
+  or:
+    - file.hasTag("type/concept")
+    - file.hasTag("type/algorithm")
+    - file.hasTag("type/technique")
+properties:
+  note.mastery:
+    displayName: Mastery
+  note.prerequisites:
+    displayName: Prerequisites
+  note.projects:
+    displayName: Lab projects
+  file.folder:
+    displayName: Folder
+views:
+  - type: table
+    name: Progress by folder
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - note.mastery
+      - note.projects
+    summaries:
+      note.mastery: Average
+  - type: table
+    name: Not started
+    filters:
+      and:
+        - note.mastery == 0
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - note.prerequisites
+  - type: table
+    name: In progress
+    filters:
+      and:
+        - note.mastery > 0
+        - note.mastery < 4
+    groupBy:
+      property: note.mastery
+      direction: DESC
+    order:
+      - file.name
+      - file.folder
+      - note.mastery
+  - type: table
+    name: Applied or explained
+    filters:
+      and:
+        - note.mastery >= 4
+    order:
+      - file.name
+      - file.folder
+      - note.mastery
+      - note.projects
