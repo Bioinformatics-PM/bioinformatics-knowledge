@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Watson-Crick base pairs: hydrogen-bond donors and acceptors</title>
+  <desc id="d">A-T pair: N6-H of adenine donates to O4 of thymine, N3-H of thymine donates to N1 of adenine (2 hydrogen bonds). G-C pair: N4-H of cytosine donates to O6 of guanine, N1-H of guanine to N3 of cytosine, N2-H of guanine to O2 of cytosine (3 hydrogen bonds). Each pair joins a two-ring purine to a one-ring pyrimidine, with the sugars attached on the same side. Bottom: in the A-C and G-T mismatches, donors face donors or acceptors face acceptors.</desc>
+  <rect x="3" y="3" width="794" height="594" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">Why A pairs with T and G with C: matching donors and acceptors</text>
+  <text x="400" y="58" text-anchor="middle" font-size="13" fill="#475569">Schematic of the pairing edges, not to scale. D = hydrogen-bond donor (N-H), A = acceptor (O or ring N).</text>
+  <text x="40" y="90" font-size="15" font-weight="bold" fill="#1f2937">A-T: 2 hydrogen bonds</text>
+  <rect x="90" y="102" width="210" height="130" rx="12" fill="#bbf7d0" stroke="#16a34a" stroke-width="2.5"/>
+  <text x="135" y="176" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">A</text>
+  <rect x="500" y="102" width="150" height="130" rx="12" fill="#fecaca" stroke="#dc2626" stroke-width="2.5"/>
+  <text x="615" y="176" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">T</text>
+  <text x="290" y="137" text-anchor="end" font-size="13" fill="#1f2937" xml:space="preserve">N6-H (D)</text>
+  <text x="510" y="137" font-size="13" fill="#1f2937" xml:space="preserve">(A) O4</text>
+  <circle cx="300" cy="132" r="5" fill="#1f2937"/>
+  <circle cx="500" cy="132" r="5" fill="#1f2937"/>
+  <line x1="310" y1="132" x2="490" y2="132" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="290" y="173" text-anchor="end" font-size="13" fill="#1f2937" xml:space="preserve">N1 (A)</text>
+  <text x="510" y="173" font-size="13" fill="#1f2937" xml:space="preserve">(D) H-N3</text>
+  <circle cx="300" cy="168" r="5" fill="#1f2937"/>
+  <circle cx="500" cy="168" r="5" fill="#1f2937"/>
+  <line x1="310" y1="168" x2="490" y2="168" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="290" y="209" text-anchor="end" font-size="13" fill="#1f2937" xml:space="preserve">C2-H</text>
+  <text x="510" y="209" font-size="13" fill="#1f2937" xml:space="preserve">(A) O2</text>
+  <circle cx="300" cy="204" r="5" fill="#1f2937"/>
+  <circle cx="500" cy="204" r="5" fill="#1f2937"/>
+  <text x="400" y="209" text-anchor="middle" font-size="12" fill="#475569">no bond</text>
+  <line x1="110" y1="232" x2="96" y2="252" stroke="#64748b" stroke-width="3"/>
+  <text x="100" y="268" font-size="12" fill="#475569">to sugar C1'  |  adenine: purine, 2 rings</text>
+  <line x1="630" y1="232" x2="644" y2="252" stroke="#64748b" stroke-width="3"/>
+  <text x="640" y="268" text-anchor="end" font-size="12" fill="#475569">thymine: pyrimidine, 1 ring  |  to sugar C1'</text>
+  <text x="672" y="142" font-size="13" fill="#1f2937">edge pattern</text>
+  <text x="672" y="162" font-size="13" font-family="Menlo, Consolas, monospace" fill="#1f2937" xml:space="preserve">A: D A -</text>
+  <text x="672" y="182" font-size="13" font-family="Menlo, Consolas, monospace" fill="#1f2937" xml:space="preserve">T: A D A</text>
+  <text x="40" y="308" font-size="15" font-weight="bold" fill="#1f2937">G-C: 3 hydrogen bonds</text>
+  <rect x="90" y="320" width="210" height="130" rx="12" fill="#fde68a" stroke="#b45309" stroke-width="2.5"/>
+  <text x="135" y="394" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">G</text>
+  <rect x="500" y="320" width="150" height="130" rx="12" fill="#bfdbfe" stroke="#2563eb" stroke-width="2.5"/>
+  <text x="615" y="394" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">C</text>
+  <text x="290" y="355" text-anchor="end" font-size="13" fill="#1f2937" xml:space="preserve">O6 (A)</text>
+  <text x="510" y="355" font-size="13" fill="#1f2937" xml:space="preserve">(D) H-N4</text>
+  <circle cx="300" cy="350" r="5" fill="#1f2937"/>
+  <circle cx="500" cy="350" r="5" fill="#1f2937"/>
+  <line x1="310" y1="350" x2="490" y2="350" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="290" y="391" text-anchor="end" font-size="13" fill="#1f2937" xml:space="preserve">N1-H (D)</text>
+  <text x="510" y="391" font-size="13" fill="#1f2937" xml:space="preserve">(A) N3</text>
+  <circle cx="300" cy="386" r="5" fill="#1f2937"/>
+  <circle cx="500" cy="386" r="5" fill="#1f2937"/>
+  <line x1="310" y1="386" x2="490" y2="386" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="290" y="427" text-anchor="end" font-size="13" fill="#1f2937" xml:space="preserve">N2-H (D)</text>
+  <text x="510" y="427" font-size="13" fill="#1f2937" xml:space="preserve">(A) O2</text>
+  <circle cx="300" cy="422" r="5" fill="#1f2937"/>
+  <circle cx="500" cy="422" r="5" fill="#1f2937"/>
+  <line x1="310" y1="422" x2="490" y2="422" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+  <line x1="110" y1="450" x2="96" y2="470" stroke="#64748b" stroke-width="3"/>
+  <text x="100" y="486" font-size="12" fill="#475569">to sugar C1'  |  guanine: purine, 2 rings</text>
+  <line x1="630" y1="450" x2="644" y2="470" stroke="#64748b" stroke-width="3"/>
+  <text x="640" y="486" text-anchor="end" font-size="12" fill="#475569">cytosine: pyrimidine, 1 ring  |  to sugar C1'</text>
+  <text x="672" y="360" font-size="13" fill="#1f2937">edge pattern</text>
+  <text x="672" y="380" font-size="13" font-family="Menlo, Consolas, monospace" fill="#1f2937" xml:space="preserve">G: A D D</text>
+  <text x="672" y="400" font-size="13" font-family="Menlo, Consolas, monospace" fill="#1f2937" xml:space="preserve">C: D A A</text>
+  <line x1="30" y1="510" x2="770" y2="510" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="40" y="535" font-size="14" font-weight="bold" fill="#1f2937">Wrong partners in the same geometry (edge patterns read top to bottom):</text>
+  <text x="40" y="560" font-size="13" font-family="Menlo, Consolas, monospace" fill="#1f2937" xml:space="preserve">A-C   A: D A -   C: D A A   row 1 donor-donor, row 2 acceptor-acceptor</text>
+  <text x="40" y="582" font-size="13" font-family="Menlo, Consolas, monospace" fill="#1f2937" xml:space="preserve">G-T   G: A D D   T: A D A   row 1 acceptor-acceptor, row 2 donor-donor</text>
+</svg>

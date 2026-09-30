@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 540" width="780" height="540" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">The six reading frames of a double-stranded sequence</title>
+  <desc id="d">Invented 14-bp duplex 5'-GATGCCTGATTCAT-3'. Above it, frames +1, +2 and +3 group the top strand into codons starting at offsets 0, 1 and 2 from its 5' end and are read left to right. Below, frames -1, -2 and -3 group the bottom strand into codons starting at offsets 0, 1 and 2 from its own 5' end, on the right, and are read right to left. Each codon is labeled with its amino acid, * for stop.</desc>
+  <defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker></defs>
+  <rect x="3" y="3" width="774" height="534" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="390" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">Six reading frames: three per strand, each read 5' to 3'</text>
+  <text x="390" y="58" text-anchor="middle" font-size="13" fill="#475569">Invented duplex, n = 14 bp. Boxes are codons, letters their amino acids (* = stop).</text>
+  <text x="120" y="184" font-size="15" font-weight="bold" fill="#1f2937">+1</text>
+  <rect x="192" y="166" width="104" height="28" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.8"/>
+  <text x="244.0" y="185" text-anchor="middle" font-size="13" fill="#1f2937">GAT = D</text>
+  <rect x="300" y="166" width="104" height="28" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.8"/>
+  <text x="352.0" y="185" text-anchor="middle" font-size="13" fill="#1f2937">GCC = A</text>
+  <rect x="408" y="166" width="104" height="28" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.8"/>
+  <text x="460.0" y="185" text-anchor="middle" font-size="13" fill="#1f2937">TGA = *</text>
+  <rect x="516" y="166" width="104" height="28" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.8"/>
+  <text x="568.0" y="185" text-anchor="middle" font-size="13" fill="#1f2937">TTC = F</text>
+  <text x="120" y="340" font-size="15" font-weight="bold" fill="#1f2937">-1</text>
+  <rect x="588" y="322" width="104" height="28" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.8"/>
+  <text x="640.0" y="341" text-anchor="middle" font-size="13" fill="#1f2937">ATG = M</text>
+  <rect x="480" y="322" width="104" height="28" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.8"/>
+  <text x="532.0" y="341" text-anchor="middle" font-size="13" fill="#1f2937">AAT = N</text>
+  <rect x="372" y="322" width="104" height="28" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.8"/>
+  <text x="424.0" y="341" text-anchor="middle" font-size="13" fill="#1f2937">CAG = Q</text>
+  <rect x="264" y="322" width="104" height="28" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.8"/>
+  <text x="316.0" y="341" text-anchor="middle" font-size="13" fill="#1f2937">GCA = A</text>
+  <text x="120" y="144" font-size="15" font-weight="bold" fill="#1f2937">+2</text>
+  <rect x="228" y="126" width="104" height="28" rx="7" fill="#dcfce7" stroke="#16a34a" stroke-width="1.8"/>
+  <text x="280.0" y="145" text-anchor="middle" font-size="13" fill="#1f2937">ATG = M</text>
+  <rect x="336" y="126" width="104" height="28" rx="7" fill="#dcfce7" stroke="#16a34a" stroke-width="1.8"/>
+  <text x="388.0" y="145" text-anchor="middle" font-size="13" fill="#1f2937">CCT = P</text>
+  <rect x="444" y="126" width="104" height="28" rx="7" fill="#dcfce7" stroke="#16a34a" stroke-width="1.8"/>
+  <text x="496.0" y="145" text-anchor="middle" font-size="13" fill="#1f2937">GAT = D</text>
+  <rect x="552" y="126" width="104" height="28" rx="7" fill="#dcfce7" stroke="#16a34a" stroke-width="1.8"/>
+  <text x="604.0" y="145" text-anchor="middle" font-size="13" fill="#1f2937">TCA = S</text>
+  <text x="120" y="380" font-size="15" font-weight="bold" fill="#1f2937">-2</text>
+  <rect x="552" y="362" width="104" height="28" rx="7" fill="#dcfce7" stroke="#16a34a" stroke-width="1.8"/>
+  <text x="604.0" y="381" text-anchor="middle" font-size="13" fill="#1f2937">TGA = *</text>
+  <rect x="444" y="362" width="104" height="28" rx="7" fill="#dcfce7" stroke="#16a34a" stroke-width="1.8"/>
+  <text x="496.0" y="381" text-anchor="middle" font-size="13" fill="#1f2937">ATC = I</text>
+  <rect x="336" y="362" width="104" height="28" rx="7" fill="#dcfce7" stroke="#16a34a" stroke-width="1.8"/>
+  <text x="388.0" y="381" text-anchor="middle" font-size="13" fill="#1f2937">AGG = R</text>
+  <rect x="228" y="362" width="104" height="28" rx="7" fill="#dcfce7" stroke="#16a34a" stroke-width="1.8"/>
+  <text x="280.0" y="381" text-anchor="middle" font-size="13" fill="#1f2937">CAT = H</text>
+  <text x="120" y="104" font-size="15" font-weight="bold" fill="#1f2937">+3</text>
+  <rect x="264" y="86" width="104" height="28" rx="7" fill="#fef3c7" stroke="#b45309" stroke-width="1.8"/>
+  <text x="316.0" y="105" text-anchor="middle" font-size="13" fill="#1f2937">TGC = C</text>
+  <rect x="372" y="86" width="104" height="28" rx="7" fill="#fef3c7" stroke="#b45309" stroke-width="1.8"/>
+  <text x="424.0" y="105" text-anchor="middle" font-size="13" fill="#1f2937">CTG = L</text>
+  <rect x="480" y="86" width="104" height="28" rx="7" fill="#fef3c7" stroke="#b45309" stroke-width="1.8"/>
+  <text x="532.0" y="105" text-anchor="middle" font-size="13" fill="#1f2937">ATT = I</text>
+  <rect x="588" y="86" width="104" height="28" rx="7" fill="#fef3c7" stroke="#b45309" stroke-width="1.8"/>
+  <text x="640.0" y="105" text-anchor="middle" font-size="13" fill="#1f2937">CAT = H</text>
+  <text x="120" y="420" font-size="15" font-weight="bold" fill="#1f2937">-3</text>
+  <rect x="516" y="402" width="104" height="28" rx="7" fill="#fef3c7" stroke="#b45309" stroke-width="1.8"/>
+  <text x="568.0" y="421" text-anchor="middle" font-size="13" fill="#1f2937">GAA = E</text>
+  <rect x="408" y="402" width="104" height="28" rx="7" fill="#fef3c7" stroke="#b45309" stroke-width="1.8"/>
+  <text x="460.0" y="421" text-anchor="middle" font-size="13" fill="#1f2937">TCA = S</text>
+  <rect x="300" y="402" width="104" height="28" rx="7" fill="#fef3c7" stroke="#b45309" stroke-width="1.8"/>
+  <text x="352.0" y="421" text-anchor="middle" font-size="13" fill="#1f2937">GGC = G</text>
+  <rect x="192" y="402" width="104" height="28" rx="7" fill="#fef3c7" stroke="#b45309" stroke-width="1.8"/>
+  <text x="244.0" y="421" text-anchor="middle" font-size="13" fill="#1f2937">ATC = I</text>
+  <rect x="192" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="208.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="192" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="208.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <text x="208.0" y="256" text-anchor="middle" font-size="10" fill="#475569">0</text>
+  <rect x="228" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="244.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="228" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="244.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <text x="244.0" y="256" text-anchor="middle" font-size="10" fill="#475569">1</text>
+  <rect x="264" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="280.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="264" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="280.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="280.0" y="256" text-anchor="middle" font-size="10" fill="#475569">2</text>
+  <rect x="300" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="316.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="300" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="316.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <text x="316.0" y="256" text-anchor="middle" font-size="10" fill="#475569">3</text>
+  <rect x="336" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="352.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <rect x="336" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="352.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="352.0" y="256" text-anchor="middle" font-size="10" fill="#475569">4</text>
+  <rect x="372" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="388.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <rect x="372" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="388.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="388.0" y="256" text-anchor="middle" font-size="10" fill="#475569">5</text>
+  <rect x="408" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="424.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="408" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="424.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="424.0" y="256" text-anchor="middle" font-size="10" fill="#475569">6</text>
+  <rect x="444" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="460.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="444" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="460.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <text x="460.0" y="256" text-anchor="middle" font-size="10" fill="#475569">7</text>
+  <rect x="480" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="496.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="480" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="496.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <text x="496.0" y="256" text-anchor="middle" font-size="10" fill="#475569">8</text>
+  <rect x="516" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="532.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="516" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="532.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="532.0" y="256" text-anchor="middle" font-size="10" fill="#475569">9</text>
+  <rect x="552" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="568.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="552" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="568.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="568.0" y="256" text-anchor="middle" font-size="10" fill="#475569">10</text>
+  <rect x="588" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="604.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <rect x="588" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="604.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="604.0" y="256" text-anchor="middle" font-size="10" fill="#475569">11</text>
+  <rect x="624" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="640.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="624" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="640.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <text x="640.0" y="256" text-anchor="middle" font-size="10" fill="#475569">12</text>
+  <rect x="660" y="210" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="676.0" y="232" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="660" y="262" width="32" height="32" rx="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="676.0" y="284" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="676.0" y="256" text-anchor="middle" font-size="10" fill="#475569">13</text>
+  <text x="178" y="232" text-anchor="end" font-size="15" font-weight="bold" fill="#1f2937">5'</text>
+  <text x="704" y="232" font-size="15" font-weight="bold" fill="#1f2937">3'</text>
+  <text x="178" y="284" text-anchor="end" font-size="15" font-weight="bold" fill="#1f2937">3'</text>
+  <text x="704" y="284" font-size="15" font-weight="bold" fill="#1f2937">5'</text>
+  <text x="80" y="232" font-size="12" fill="#475569">top (+)</text>
+  <text x="80" y="284" font-size="12" fill="#475569">bottom (-)</text>
+  <line x1="190" y1="72" x2="694" y2="72" stroke="#475569" stroke-width="2.5" marker-end="url(#ar)"/>
+  <text x="182" y="77" text-anchor="end" font-size="12" fill="#475569">read + frames left to right</text>
+  <line x1="694" y1="442" x2="190" y2="442" stroke="#475569" stroke-width="2.5" marker-end="url(#ar)"/>
+  <text x="182" y="447" text-anchor="end" font-size="12" fill="#475569">read - frames right to left</text>
+  <text x="40" y="478" font-size="13" fill="#1f2937">Frame -f starts f - 1 bases from the 5' end of the bottom strand, its right end on this drawing.</text>
+  <text x="40" y="498" font-size="13" fill="#1f2937">Bottom codons are labeled 5' to 3', so each is read right to left here (ATG, far right of -1).</text>
+  <text x="40" y="518" font-size="13" fill="#1f2937">Here n mod 3 = 2: frame -1 shares codon boundaries with +3, -2 with +2, -3 with +1.</text>
+</svg>
