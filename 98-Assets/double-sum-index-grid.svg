@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">
+  <rect x="1" y="1" width="718" height="398" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="360" y="32" text-anchor="middle" font-size="18" font-weight="bold">Summing over pairs i &lt; j (n = 5): two orders, one total</text>
+
+  <!-- axis labels -->
+  <text x="78" y="72" text-anchor="end" font-size="14" font-style="italic">i \ j</text>
+  <text x="116" y="72" text-anchor="middle" font-size="14">1</text>
+  <text x="168" y="72" text-anchor="middle" font-size="14">2</text>
+  <text x="220" y="72" text-anchor="middle" font-size="14">3</text>
+  <text x="272" y="72" text-anchor="middle" font-size="14">4</text>
+  <text x="324" y="72" text-anchor="middle" font-size="14">5</text>
+  <text x="78" y="111" text-anchor="end" font-size="14">1</text>
+  <text x="78" y="163" text-anchor="end" font-size="14">2</text>
+  <text x="78" y="215" text-anchor="end" font-size="14">3</text>
+  <text x="78" y="267" text-anchor="end" font-size="14">4</text>
+  <text x="78" y="319" text-anchor="end" font-size="14">5</text>
+
+  <!-- row 1 -->
+  <rect x="90" y="80" width="52" height="52" fill="#e2e8f0" stroke="#94a3b8"/>
+  <rect x="142" y="80" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <rect x="194" y="80" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <rect x="246" y="80" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <rect x="298" y="80" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <!-- row 2 -->
+  <rect x="90" y="132" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="142" y="132" width="52" height="52" fill="#e2e8f0" stroke="#94a3b8"/>
+  <rect x="194" y="132" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <rect x="246" y="132" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <rect x="298" y="132" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <!-- row 3 -->
+  <rect x="90" y="184" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="142" y="184" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="194" y="184" width="52" height="52" fill="#e2e8f0" stroke="#94a3b8"/>
+  <rect x="246" y="184" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <rect x="298" y="184" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <!-- row 4 -->
+  <rect x="90" y="236" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="142" y="236" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="194" y="236" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="246" y="236" width="52" height="52" fill="#e2e8f0" stroke="#94a3b8"/>
+  <rect x="298" y="236" width="52" height="52" fill="#bfdbfe" stroke="#94a3b8"/>
+  <!-- row 5 -->
+  <rect x="90" y="288" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="142" y="288" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="194" y="288" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="246" y="288" width="52" height="52" fill="#f1f5f9" stroke="#94a3b8"/>
+  <rect x="298" y="288" width="52" height="52" fill="#e2e8f0" stroke="#94a3b8"/>
+
+  <!-- pair labels in the upper triangle -->
+  <g font-size="13" text-anchor="middle">
+    <text x="168" y="111">(1,2)</text><text x="220" y="111">(1,3)</text><text x="272" y="111">(1,4)</text><text x="324" y="111">(1,5)</text>
+    <text x="220" y="163">(2,3)</text><text x="272" y="163">(2,4)</text><text x="324" y="163">(2,5)</text>
+    <text x="272" y="215">(3,4)</text><text x="324" y="215">(3,5)</text>
+    <text x="324" y="267">(4,5)</text>
+  </g>
+
+  <!-- row totals (outer sum over i) -->
+  <text x="372" y="72" text-anchor="middle" font-size="13" fill="#1d4ed8">row</text>
+  <g font-size="15" font-weight="bold" fill="#1d4ed8" text-anchor="middle">
+    <text x="372" y="111">4</text><text x="372" y="163">3</text><text x="372" y="215">2</text><text x="372" y="267">1</text><text x="372" y="319">0</text>
+  </g>
+  <!-- column totals (outer sum over j) -->
+  <text x="78" y="364" text-anchor="end" font-size="13" fill="#b45309">column</text>
+  <g font-size="15" font-weight="bold" fill="#b45309" text-anchor="middle">
+    <text x="116" y="364">0</text><text x="168" y="364">1</text><text x="220" y="364">2</text><text x="272" y="364">3</text><text x="324" y="364">4</text>
+  </g>
+
+  <!-- explanation -->
+  <g font-size="14">
+    <text x="410" y="100" font-weight="bold" fill="#1d4ed8">Row by row (outer index i)</text>
+    <text x="410" y="122">row i: the n − i cells with j &gt; i</text>
+    <text x="410" y="144">4 + 3 + 2 + 1 + 0 = 10</text>
+    <text x="410" y="186" font-weight="bold" fill="#b45309">Column by column (outer index j)</text>
+    <text x="410" y="208">column j: the j − 1 cells with i &lt; j</text>
+    <text x="410" y="230">0 + 1 + 2 + 3 + 4 = 10</text>
+    <text x="410" y="272" font-weight="bold">Same cells, same total: n(n − 1)/2</text>
+  </g>
+  <rect x="410" y="296" width="18" height="18" fill="#bfdbfe" stroke="#94a3b8"/>
+  <text x="436" y="310" font-size="13">i &lt; j: counted (each pair once)</text>
+  <rect x="410" y="320" width="18" height="18" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="436" y="334" font-size="13">i = j: diagonal, excluded</text>
+  <rect x="410" y="344" width="18" height="18" fill="#f1f5f9" stroke="#94a3b8"/>
+  <text x="436" y="358" font-size="13">i &gt; j: the same pairs, reversed</text>
+</svg>
