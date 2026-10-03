@@ -26,7 +26,7 @@ access: paid
 
 ## Why this source
 
-Physical maps were then assembled by fingerprinting many clones picked at random from a library and joining clones whose fingerprints overlap. Lander and Waterman gave the theory that predicts, from the number of clones, the clone length, the genome length and the minimum overlap needed to detect a join, how many "islands" (groups of joined clones, later called contigs) and gaps to expect. The same model became the standard back-of-the-envelope calculation for shotgun sequencing, where reads replace clones.
+Physical maps were then assembled by fingerprinting many clones picked at random from a library and joining clones whose fingerprints overlap. Lander and Waterman gave the theory that predicts, from the number of clones, the clone length, the genome length and the minimum overlap needed to detect a join, how many "islands" (groups of joined clones, the analogue of contigs) and gaps to expect. The same formulas were later applied to shotgun sequencing, where reads replace clones, and remain a standard first estimate.
 
 ## Coverage
 
@@ -47,4 +47,4 @@ Cited in [[Poisson Distribution]].
 ## Caveats
 
 - Written for clone-based physical mapping, before high-throughput sequencing; applying it to reads is a later reuse of the same mathematics.
-- Authors, title, journal, volume, issue, pages and month verified by web search in this pass; the DOI is the one attached to this article in bibliographic records and was not opened (publisher page, paywalled).
+- Authors, title, journal, volume, issue, pages and month verified by web search in this pass; the DOI is the one attached to this article in bibliographic records; the publisher page was not opened and open-access status was not verified.
