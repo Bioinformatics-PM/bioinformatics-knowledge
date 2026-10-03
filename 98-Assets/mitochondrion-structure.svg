@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" width="780" height="420" font-family="Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="778" height="418" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="390" y="42" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle">Mitochondrion: two membranes, two compartments</text>
+<rect x="40" y="90" width="420" height="220" rx="110" fill="#fde68a" stroke="#b45309" stroke-width="3"/>
+<rect x="60" y="108" width="380" height="184" rx="92" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3"/>
+<path d="M 165,105 L 165,190 A 8 8 0 0 0 181,190 L 181,105 Z" fill="#fde68a"/>
+<path d="M 165,108 L 165,190 A 8 8 0 0 0 181,190 L 181,108" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<path d="M 245,105 L 245,190 A 8 8 0 0 0 261,190 L 261,105 Z" fill="#fde68a"/>
+<path d="M 245,108 L 245,190 A 8 8 0 0 0 261,190 L 261,108" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<path d="M 325,105 L 325,190 A 8 8 0 0 0 341,190 L 341,105 Z" fill="#fde68a"/>
+<path d="M 325,108 L 325,190 A 8 8 0 0 0 341,190 L 341,108" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<path d="M 205,295 L 205,210 A 8 8 0 0 1 221,210 L 221,295 Z" fill="#fde68a"/>
+<path d="M 205,292 L 205,210 A 8 8 0 0 1 221,210 L 221,292" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<path d="M 285,295 L 285,210 A 8 8 0 0 1 301,210 L 301,295 Z" fill="#fde68a"/>
+<path d="M 285,292 L 285,210 A 8 8 0 0 1 301,210 L 301,292" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="158" cy="140" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="158" cy="172" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="188" cy="155" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="238" cy="128" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="268" cy="162" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="318" cy="150" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="348" cy="178" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="198" cy="252" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="228" cy="272" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="278" cy="240" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="308" cy="262" r="4.5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<circle cx="110" cy="195" r="10" fill="none" stroke="#7c3aed" stroke-width="2.5"/>
+<circle cx="398" cy="222" r="10" fill="none" stroke="#7c3aed" stroke-width="2.5"/>
+<circle cx="122" cy="245" r="3" fill="#475569"/>
+<circle cx="132" cy="160" r="3" fill="#475569"/>
+<circle cx="380" cy="252" r="3" fill="#475569"/>
+<circle cx="412" cy="185" r="3" fill="#475569"/>
+<circle cx="292" cy="132" r="3" fill="#475569"/>
+<circle cx="253" cy="215" r="3" fill="#475569"/>
+<text x="253" y="256" font-size="13" fill="#1e3a8a" text-anchor="middle" font-style="italic">matrix</text>
+<line x1="405.0" y1="104.7" x2="495" y2="97" stroke="#64748b" stroke-width="1.2"/>
+<text x="500" y="101" font-size="14" fill="#1f2937" font-weight="bold">Outer membrane</text>
+<text x="500" y="117" font-size="12" fill="#475569">porins: permeable to small molecules</text>
+<line x1="441.0" y1="157.0" x2="495" y2="148" stroke="#64748b" stroke-width="1.2"/>
+<text x="500" y="152" font-size="14" fill="#1f2937" font-weight="bold">Intermembrane space</text>
+<line x1="440.0" y1="200.0" x2="495" y2="192" stroke="#64748b" stroke-width="1.2"/>
+<text x="500" y="196" font-size="14" fill="#1f2937" font-weight="bold">Inner membrane</text>
+<text x="500" y="212" font-size="12" fill="#475569">impermeable to ions; electron transport,</text>
+<text x="500" y="228" font-size="12" fill="#475569">ATP synthesis</text>
+<rect x="40" y="335" width="14" height="22" rx="4" fill="#fde68a" stroke="#1d4ed8" stroke-width="2"/>
+<text x="62" y="351" font-size="12" fill="#1f2937">Crista: fold of the inner membrane</text>
+<circle cx="300" cy="346" r="5" fill="#f9a8d4" stroke="#9d174d" stroke-width="1.2"/>
+<text x="312" y="351" font-size="12" fill="#1f2937">ATP synthase (head in the matrix)</text>
+<circle cx="540" cy="346" r="7" fill="none" stroke="#7c3aed" stroke-width="2.5"/>
+<text x="554" y="351" font-size="12" fill="#1f2937">mtDNA: circular, several copies</text>
+<circle cx="47" cy="376" r="3" fill="#475569"/>
+<text x="62" y="381" font-size="12" fill="#1f2937">Mitochondrial ribosome</text>
+<rect x="293" y="368" width="14" height="14" rx="3" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="312" y="381" font-size="12" fill="#1f2937">Matrix: citric acid cycle, mtDNA expression</text>
+<text x="390" y="407" font-size="12" fill="#475569" text-anchor="middle">Schematic, not to scale. The shape and number of cristae vary between cell types.</text>
+</svg>

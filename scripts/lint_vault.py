@@ -7,7 +7,7 @@ wrong folder, undefined footnotes.
 
 Each concept has exactly one home: the `## Learning path` of one MOC. A concept
 listed in two learning paths, or a written concept note listed in none, is an
-error.
+error, and so is a link to a missing asset (image, base).
 
 Links to notes that do not exist yet are not errors: they are the backlog, and
 `--backlog` lists them by number of references, with their home MOC.
@@ -221,7 +221,11 @@ def lint(show_backlog: bool) -> int:
             target = link_target(raw)
             if not target:
                 continue  # same-note heading link: [[#Heading]]
-            if target.lower() not in resolvable:
+            if target.lower() in resolvable:
+                continue
+            if Path(target).suffix.lower() in ASSET_SUFFIXES:
+                report.error(path, f"embedded file `{target}` does not exist")
+            else:
                 backlog[target] += 1
 
     for concept, mocs in sorted(homes.items()):

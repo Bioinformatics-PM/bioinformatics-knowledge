@@ -36,7 +36,7 @@ sources:
   - "[[Molecular Biology of the Cell (Alberts)]]"
   - "[[Anderson 1981 - Sequence and Organization of the Human Mitochondrial Genome]]"
   - "[[NCBI Genetic Codes]]"
-  - "[[HTS Format Specifications]]"
+  - "[[GA4GH hts-specs]]"
 ---
 
 # Mitochondrion
@@ -261,4 +261,4 @@ print(round(1200 / 6000, 2))                                    # alt fraction a
 [^alberts17]: [[Molecular Biology of the Cell (Alberts)]], 4th ed. (2002), ch. 17 "The Cell Cycle and Programmed Cell Death" (release of cytochrome c in apoptosis).
 [^anderson]: [[Anderson 1981 - Sequence and Organization of the Human Mitochondrial Genome]], *Nature* 290:457-465.
 [^ncbi]: [[NCBI Genetic Codes]], translation table 2 (vertebrate mitochondrial code).
-[^hts]: [[HTS Format Specifications]], VCF specification, genotype field `GT` (haploid calls on the mitochondrion).
+[^hts]: [[GA4GH hts-specs|HTS Format Specifications]], VCF specification, genotype field `GT` (haploid calls on the mitochondrion).
