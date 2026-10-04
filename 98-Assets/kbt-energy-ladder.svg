@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" font-family="Helvetica, Arial, sans-serif">
+  <rect x="2" y="2" width="716" height="316" rx="16" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="360" y="32" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2937">Molecular energies in units of k_BT (25 °C)</text>
+  <text x="360" y="54" text-anchor="middle" font-size="13" fill="#1f2937">k_BT = 4.12 pN nm per molecule = 2.48 kJ/mol = 0.59 kcal/mol (logarithmic axis)</text>
+  <!-- regions -->
+  <rect x="60" y="210" width="221" height="22" rx="4" fill="#dcfce7" stroke="#86efac"/>
+  <text x="170" y="226" text-anchor="middle" font-size="12" fill="#1f2937">a few k_BT: often overcome</text>
+  <rect x="510" y="210" width="150" height="22" rx="4" fill="#fce7f3" stroke="#f9a8d4"/>
+  <text x="585" y="226" text-anchor="middle" font-size="12" fill="#1f2937">stable to thermal motion</text>
+  <!-- axis -->
+  <line x1="60" y1="200" x2="660" y2="200" stroke="#64748b" stroke-width="2"/>
+  <g stroke="#64748b" stroke-width="2">
+    <line x1="60" y1="194" x2="60" y2="206"/>
+    <line x1="210" y1="194" x2="210" y2="206"/>
+    <line x1="360" y1="194" x2="360" y2="206"/>
+    <line x1="510" y1="194" x2="510" y2="206"/>
+    <line x1="660" y1="194" x2="660" y2="206"/>
+  </g>
+  <g font-size="13" fill="#1f2937" text-anchor="middle">
+    <text x="60" y="252">0.1</text>
+    <text x="210" y="252">1</text>
+    <text x="360" y="252">10</text>
+    <text x="510" y="252">100</text>
+    <text x="660" y="252">1000</text>
+  </g>
+  <text x="360" y="276" text-anchor="middle" font-size="13" fill="#1f2937">energy / k_BT</text>
+  <!-- markers -->
+  <g stroke="#64748b" stroke-width="1.2">
+    <line x1="210" y1="200" x2="210" y2="96"/>
+    <line x1="245" y1="200" x2="245" y2="146"/>
+    <line x1="373" y1="200" x2="373" y2="96"/>
+    <line x1="537" y1="200" x2="537" y2="146"/>
+  </g>
+  <circle cx="210" cy="200" r="7" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+  <circle cx="245" cy="200" r="7" fill="#bbf7d0" stroke="#22c55e" stroke-width="1.5"/>
+  <circle cx="373" cy="200" r="7" fill="#fde68a" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="537" cy="200" r="7" fill="#fbcfe8" stroke="#db2777" stroke-width="1.5"/>
+  <g font-size="13" fill="#1f2937">
+    <rect x="150" y="70" width="120" height="24" rx="6" fill="#dbeafe" stroke="#93c5fd"/>
+    <text x="210" y="87" text-anchor="middle">thermal: 1 k_BT</text>
+    <rect x="175" y="120" width="140" height="24" rx="6" fill="#dcfce7" stroke="#86efac"/>
+    <text x="245" y="137" text-anchor="middle">H bond in water: 1.7</text>
+    <rect x="293" y="70" width="160" height="24" rx="6" fill="#fef3c7" stroke="#fcd34d"/>
+    <text x="373" y="87" text-anchor="middle">ATP hydrolysis (ΔG°′): 12</text>
+    <rect x="462" y="120" width="150" height="24" rx="6" fill="#fce7f3" stroke="#f9a8d4"/>
+    <text x="537" y="137" text-anchor="middle">covalent bond: 150</text>
+  </g>
+  <text x="360" y="304" text-anchor="middle" font-size="12" fill="#1f2937">Values: 4.2 and 377 kJ/mol (Alberts), 30.5 kJ/mol (Berg), divided by RT at 298.15 K</text>
+</svg>
