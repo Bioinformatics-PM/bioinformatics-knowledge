@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">sp3, sp2 and sp hybridization: geometry and leftover p orbitals</title>
+  <desc id="d">Left: an sp3 atom with four hybrid orbitals pointing to the corners of a tetrahedron, 109.5 degrees apart, no p orbital left. Middle: an sp2 atom with three hybrids in one plane at 120 degrees and one unhybridized p orbital perpendicular to that plane, available for a pi bond. Right: an sp atom with two hybrids at 180 degrees and two unhybridized p orbitals perpendicular to each other and to the bond axis.</desc>
+  <rect x="3" y="3" width="794" height="374" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">Hybrid orbitals set the shape; leftover p orbitals make π bonds</text>
+  <text x="400" y="56" text-anchor="middle" font-size="13" fill="#475569">Grey: bonded atoms (or lone pairs) on the hybrids. Yellow and pink lobes: unhybridized p orbitals. Schematic, not to scale.</text>
+
+  <!-- Panel 1: sp3 -->
+  <line x1="140" y1="190" x2="140" y2="104" stroke="#64748b" stroke-width="4"/>
+  <line x1="140" y1="190" x2="72" y2="226" stroke="#64748b" stroke-width="4"/>
+  <line x1="140" y1="190" x2="206" y2="230" stroke="#64748b" stroke-width="4"/>
+  <line x1="140" y1="190" x2="150" y2="256" stroke="#64748b" stroke-width="3" stroke-dasharray="6 5"/>
+  <circle cx="140" cy="100" r="11" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <circle cx="68" cy="228" r="11" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <circle cx="210" cy="232" r="11" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <circle cx="151" cy="262" r="10" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2" stroke-dasharray="3 3"/>
+  <circle cx="140" cy="190" r="17" fill="#c7d2fe" stroke="#4f46e5" stroke-width="2.5"/>
+  <path d="M 140 158 A 32 32 0 0 0 112 205" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <text x="104" y="180" text-anchor="end" font-size="14" font-weight="bold" fill="#1d4ed8">109.5°</text>
+
+  <!-- Panel 2: sp2 -->
+  <polygon points="305,235 465,235 505,165 345,165" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5" opacity="0.8"/>
+  <ellipse cx="400" cy="152" rx="13" ry="34" fill="#fde68a" stroke="#d97706" stroke-width="2" opacity="0.9"/>
+  <line x1="400" y1="200" x2="468" y2="200" stroke="#64748b" stroke-width="4"/>
+  <line x1="400" y1="200" x2="362" y2="221" stroke="#64748b" stroke-width="4"/>
+  <line x1="400" y1="200" x2="368" y2="180" stroke="#64748b" stroke-width="4"/>
+  <circle cx="472" cy="200" r="11" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <circle cx="356" cy="224" r="11" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <circle cx="363" cy="177" r="11" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <circle cx="400" cy="200" r="17" fill="#c7d2fe" stroke="#4f46e5" stroke-width="2.5"/>
+  <ellipse cx="400" cy="250" rx="13" ry="34" fill="#fde68a" stroke="#d97706" stroke-width="2" opacity="0.9"/>
+  <text x="452" y="122" font-size="13" fill="#92400e">p orbital ⊥ plane</text>
+  <text x="438" y="226" font-size="14" font-weight="bold" fill="#1d4ed8">120°</text>
+
+  <!-- Panel 3: sp -->
+  <ellipse cx="660" cy="166" rx="12" ry="32" fill="#fde68a" stroke="#d97706" stroke-width="2" opacity="0.9"/>
+  <ellipse cx="684" cy="176" rx="10" ry="27" fill="#fbcfe8" stroke="#db2777" stroke-width="2" opacity="0.9" transform="rotate(45 684 176)"/>
+  <line x1="660" y1="200" x2="594" y2="200" stroke="#64748b" stroke-width="4"/>
+  <line x1="660" y1="200" x2="726" y2="200" stroke="#64748b" stroke-width="4"/>
+  <circle cx="590" cy="200" r="11" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <circle cx="730" cy="200" r="11" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <circle cx="660" cy="200" r="17" fill="#c7d2fe" stroke="#4f46e5" stroke-width="2.5"/>
+  <ellipse cx="660" cy="234" rx="12" ry="32" fill="#fde68a" stroke="#d97706" stroke-width="2" opacity="0.9"/>
+  <ellipse cx="636" cy="224" rx="10" ry="27" fill="#fbcfe8" stroke="#db2777" stroke-width="2" opacity="0.9" transform="rotate(45 636 224)"/>
+  <text x="660" y="122" text-anchor="middle" font-size="13" fill="#92400e">two p orbitals, ⊥ each other</text>
+  <text x="602" y="186" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d4ed8">180°</text>
+
+  <!-- Captions -->
+  <text x="140" y="306" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">sp3 · tetrahedral</text>
+  <text x="140" y="326" text-anchor="middle" font-size="13" fill="#1f2937">4 hybrids, no p left (σ only)</text>
+  <text x="140" y="346" text-anchor="middle" font-size="13" fill="#475569">Cα of amino acids, O of water</text>
+  <text x="400" y="306" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">sp2 · trigonal planar</text>
+  <text x="400" y="326" text-anchor="middle" font-size="13" fill="#1f2937">3 hybrids + 1 p (one π bond)</text>
+  <text x="400" y="346" text-anchor="middle" font-size="13" fill="#475569">C=O carbon, ring atoms of A, C, G, T</text>
+  <text x="660" y="306" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">sp · linear</text>
+  <text x="660" y="326" text-anchor="middle" font-size="13" fill="#1f2937">2 hybrids + 2 p (two π bonds)</text>
+  <text x="660" y="346" text-anchor="middle" font-size="13" fill="#475569">C of CO₂, C of a C≡N group</text>
+</svg>
