@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Water: a bent polar molecule, a hydrogen-bond network and a solvent for ions</title>
+<desc id="d">Left: a water molecule, bent with an H-O-H angle of 104.5 degrees, partial negative charge on oxygen and partial positive charges on the hydrogens, two lone pairs, and a net dipole along the bisector. Middle: one water molecule donates two hydrogen bonds through its hydrogens and accepts two through its lone pairs, making up to four hydrogen bonds. Right: in solution, water molecules turn their oxygen toward a sodium cation and a hydrogen toward a chloride anion (ion-dipole hydration).</desc>
+<rect x="3" y="3" width="794" height="394" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<text x="400" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">Water: bent, polar, hydrogen-bonded, a solvent for ions</text>
+<text x="400" y="56" text-anchor="middle" font-size="13" fill="#475569">Schematic, not to scale. Red: O. Grey: H. Dotted blue: hydrogen bond.</text>
+<text x="140" y="90" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">1. Polar because bent</text>
+<ellipse cx="120" cy="149" rx="9" ry="16" transform="rotate(-35 120 149)" fill="#fde68a" stroke="#d97706" stroke-width="1.5"/>
+<ellipse cx="160" cy="149" rx="9" ry="16" transform="rotate(35 160 149)" fill="#fde68a" stroke="#d97706" stroke-width="1.5"/>
+<line x1="140.0" y1="175.0" x2="87.8" y2="215.4" stroke="#64748b" stroke-width="4"/>
+<line x1="140.0" y1="175.0" x2="192.2" y2="215.4" stroke="#64748b" stroke-width="4"/>
+<path d="M 116.3 193.4 A 30 30 0 0 0 163.7 193.4" fill="none" stroke="#2563eb" stroke-width="2"/>
+<circle cx="140.0" cy="175.0" r="16" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<text x="140.0" y="180.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">O</text>
+<circle cx="87.8" cy="215.4" r="10" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="192.2" cy="215.4" r="10" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<text x="140" y="233" text-anchor="middle" font-size="13" font-weight="bold" fill="#1d4ed8">104.5°</text>
+<text x="180" y="145" text-anchor="middle" font-size="15" font-weight="bold" fill="#b91c1c">δ−</text>
+<text x="69.81448813290635" y="233.40634048227366" text-anchor="middle" font-size="15" font-weight="bold" fill="#475569">δ+</text>
+<text x="210.18551186709365" y="233.40634048227366" text-anchor="middle" font-size="15" font-weight="bold" fill="#475569">δ+</text>
+<text x="78" y="141" text-anchor="middle" font-size="12" fill="#92400e">lone pairs</text>
+<line x1="232" y1="245" x2="232" y2="165" stroke="#7c3aed" stroke-width="3"/>
+<polygon points="232,155 225,169 239,169" fill="#7c3aed"/>
+<text x="232" y="263" text-anchor="middle" font-size="12" fill="#6d28d9">net dipole</text>
+<text x="140" y="300" text-anchor="middle" font-size="13" fill="#1f2937">Two polar O–H bonds at an angle:</text>
+<text x="140" y="318" text-anchor="middle" font-size="13" fill="#1f2937">their dipoles add, they do not cancel</text>
+<text x="140" y="336" text-anchor="middle" font-size="13" fill="#475569">(linear CO₂: they cancel)</text>
+<text x="400" y="90" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">2. Up to 4 hydrogen bonds</text>
+<line x1="338.0" y1="140.0" x2="360.3" y2="161.6" stroke="#64748b" stroke-width="3"/>
+<line x1="360.3" y1="161.6" x2="400.0" y2="200.0" stroke="#2563eb" stroke-width="2.5" stroke-dasharray="4 4"/>
+<circle cx="360.3" cy="161.6" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="338.0" y1="140.0" x2="317.8" y2="153.0" stroke="#64748b" stroke-width="3"/>
+<circle cx="317.8" cy="153.0" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="338.0" cy="140.0" r="12" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="462.0" y1="140.0" x2="439.7" y2="161.6" stroke="#64748b" stroke-width="3"/>
+<line x1="439.7" y1="161.6" x2="400.0" y2="200.0" stroke="#2563eb" stroke-width="2.5" stroke-dasharray="4 4"/>
+<circle cx="439.7" cy="161.6" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="462.0" y1="140.0" x2="482.2" y2="153.0" stroke="#64748b" stroke-width="3"/>
+<circle cx="482.2" cy="153.0" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="462.0" cy="140.0" r="12" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="400.0" y1="200.0" x2="377.7" y2="222.3" stroke="#64748b" stroke-width="3"/>
+<line x1="377.7" y1="222.3" x2="338.0" y2="262.0" stroke="#2563eb" stroke-width="2.5" stroke-dasharray="4 4"/>
+<circle cx="377.7" cy="222.3" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="338.0" y1="262.0" x2="314.2" y2="259.3" stroke="#64748b" stroke-width="3"/>
+<circle cx="314.2" cy="259.3" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="338.0" y1="262.0" x2="346.1" y2="239.4" stroke="#64748b" stroke-width="3"/>
+<circle cx="346.1" cy="239.4" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="338.0" cy="262.0" r="12" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="400.0" y1="200.0" x2="422.3" y2="222.3" stroke="#64748b" stroke-width="3"/>
+<line x1="422.3" y1="222.3" x2="462.0" y2="262.0" stroke="#2563eb" stroke-width="2.5" stroke-dasharray="4 4"/>
+<circle cx="422.3" cy="222.3" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="462.0" y1="262.0" x2="485.8" y2="259.3" stroke="#64748b" stroke-width="3"/>
+<circle cx="485.8" cy="259.3" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="462.0" y1="262.0" x2="453.9" y2="239.4" stroke="#64748b" stroke-width="3"/>
+<circle cx="453.9" cy="239.4" r="7" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="462.0" cy="262.0" r="12" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<circle cx="400.0" cy="200.0" r="16" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<text x="400.0" y="205.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">O</text>
+<text x="400" y="120" text-anchor="middle" font-size="13" fill="#1d4ed8">accepts 2 (lone pairs)</text>
+<text x="400" y="300" text-anchor="middle" font-size="13" fill="#1d4ed8">donates 2 (its H atoms)</text>
+<text x="400" y="324" text-anchor="middle" font-size="13" fill="#1f2937">Ice: 4 per molecule, open lattice</text>
+<text x="400" y="342" text-anchor="middle" font-size="13" fill="#1f2937">Liquid: fewer on average, constantly</text>
+<text x="400" y="358" text-anchor="middle" font-size="13" fill="#1f2937">breaking and re-forming</text>
+<text x="665" y="90" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">3. Hydration of ions</text>
+<line x1="640.3" y1="228.3" x2="656.2" y2="226.3" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="656.2" cy="226.3" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="640.3" y1="228.3" x2="638.3" y2="244.2" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="638.3" cy="244.2" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="640.3" cy="228.3" r="9" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="753.1" y1="231.1" x2="743.2" y2="221.2" stroke="#64748b" stroke-width="2.5"/>
+<line x1="753.1" y1="231.1" x2="746.0" y2="243.2" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="743.2" cy="221.2" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="746.0" cy="243.2" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="753.1" cy="231.1" r="9" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="583.7" y1="228.3" x2="585.7" y2="244.2" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="585.7" cy="244.2" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="583.7" y1="228.3" x2="567.8" y2="226.3" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="567.8" cy="226.3" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="583.7" cy="228.3" r="9" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="690.9" y1="231.1" x2="700.8" y2="221.2" stroke="#64748b" stroke-width="2.5"/>
+<line x1="690.9" y1="231.1" x2="678.8" y2="224.0" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="700.8" cy="221.2" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="678.8" cy="224.0" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="690.9" cy="231.1" r="9" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="583.7" y1="171.7" x2="567.8" y2="173.7" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="567.8" cy="173.7" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="583.7" y1="171.7" x2="585.7" y2="155.8" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="585.7" cy="155.8" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="583.7" cy="171.7" r="9" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="690.9" y1="168.9" x2="700.8" y2="178.8" stroke="#64748b" stroke-width="2.5"/>
+<line x1="690.9" y1="168.9" x2="698.0" y2="156.8" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="700.8" cy="178.8" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="698.0" cy="156.8" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="690.9" cy="168.9" r="9" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="640.3" y1="171.7" x2="638.3" y2="155.8" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="638.3" cy="155.8" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="640.3" y1="171.7" x2="656.2" y2="173.7" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="656.2" cy="173.7" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="640.3" cy="171.7" r="9" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<line x1="753.1" y1="168.9" x2="743.2" y2="178.8" stroke="#64748b" stroke-width="2.5"/>
+<line x1="753.1" y1="168.9" x2="765.2" y2="176.0" stroke="#64748b" stroke-width="2.5"/>
+<circle cx="743.2" cy="178.8" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="765.2" cy="176.0" r="5" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+<circle cx="753.1" cy="168.9" r="9" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<circle cx="612" cy="200" r="17" fill="#bfdbfe" stroke="#2563eb" stroke-width="2"/>
+<text x="612" y="205" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">Na+</text>
+<circle cx="722" cy="200" r="17" fill="#bbf7d0" stroke="#16a34a" stroke-width="2"/>
+<text x="722" y="205" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">Cl−</text>
+<text x="612" y="268" text-anchor="middle" font-size="12" fill="#1f2937">O (δ−) faces</text>
+<text x="612" y="284" text-anchor="middle" font-size="12" fill="#1f2937">the cation</text>
+<text x="722" y="268" text-anchor="middle" font-size="12" fill="#1f2937">H (δ+) faces</text>
+<text x="722" y="284" text-anchor="middle" font-size="12" fill="#1f2937">the anion</text>
+<text x="665" y="318" text-anchor="middle" font-size="13" fill="#1f2937">Ion-dipole attraction; water</text>
+<text x="665" y="336" text-anchor="middle" font-size="13" fill="#1f2937">also screens the charges</text>
+<text x="665" y="352" text-anchor="middle" font-size="13" fill="#1f2937">(dielectric constant about 80)</text>
+</svg>
