@@ -1,0 +1,271 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Gram-positive and Gram-negative bacterial cell envelopes</title>
+<desc id="d">Schematic cross-sections. Gram-positive: a thick, multilayered peptidoglycan wall crossed by teichoic acids, over the cytoplasmic membrane. Gram-negative: an outer membrane carrying lipopolysaccharide and porins, a periplasm with a thin peptidoglycan layer, and the inner cytoplasmic membrane. Not to scale.</desc>
+<rect x="1" y="1" width="798" height="448" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="24" y="34" font-size="18" font-weight="bold" fill="#1f2937">Bacterial cell envelopes: Gram-positive versus Gram-negative</text>
+<text x="24" y="56" font-size="13" fill="#475569">Cross-sections: outside at the top, cytoplasm at the bottom. Schematic, layer thicknesses not to scale.</text>
+<rect x="24" y="70" width="366" height="300" rx="10" fill="#ffffff" fill-opacity="0.6" stroke="#cbd5e1"/>
+<text x="38" y="94" font-size="15" font-weight="bold" fill="#1f2937">Gram-positive</text>
+<text x="154" y="94" font-size="13" fill="#475569">(stains purple)</text>
+<rect x="410" y="70" width="366" height="300" rx="10" fill="#ffffff" fill-opacity="0.6" stroke="#cbd5e1"/>
+<text x="424" y="94" font-size="15" font-weight="bold" fill="#1f2937">Gram-negative</text>
+<text x="540" y="94" font-size="13" fill="#475569">(stains pink)</text>
+<text x="40" y="110" font-size="12" fill="#475569">outside</text>
+<line x1="70" y1="250" x2="70" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<circle cx="70" cy="122" r="3.5" fill="#c4b5fd" stroke="#6d28d9"/>
+<line x1="106" y1="250" x2="106" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<circle cx="106" cy="122" r="3.5" fill="#c4b5fd" stroke="#6d28d9"/>
+<line x1="142" y1="250" x2="142" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<circle cx="142" cy="122" r="3.5" fill="#c4b5fd" stroke="#6d28d9"/>
+<line x1="178" y1="250" x2="178" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<circle cx="178" cy="122" r="3.5" fill="#c4b5fd" stroke="#6d28d9"/>
+<line x1="214" y1="250" x2="214" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<circle cx="214" cy="122" r="3.5" fill="#c4b5fd" stroke="#6d28d9"/>
+<rect x="40" y="132" width="200" height="88" fill="#e9d5ff" fill-opacity="0.85" stroke="#a78bfa"/>
+<line x1="40" y1="143" x2="240" y2="143" stroke="#a78bfa" stroke-width="0.8"/>
+<line x1="40" y1="154" x2="240" y2="154" stroke="#a78bfa" stroke-width="0.8"/>
+<line x1="40" y1="165" x2="240" y2="165" stroke="#a78bfa" stroke-width="0.8"/>
+<line x1="40" y1="176" x2="240" y2="176" stroke="#a78bfa" stroke-width="0.8"/>
+<line x1="40" y1="187" x2="240" y2="187" stroke="#a78bfa" stroke-width="0.8"/>
+<line x1="40" y1="198" x2="240" y2="198" stroke="#a78bfa" stroke-width="0.8"/>
+<line x1="40" y1="209" x2="240" y2="209" stroke="#a78bfa" stroke-width="0.8"/>
+<line x1="70" y1="250" x2="70" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<line x1="106" y1="250" x2="106" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<line x1="142" y1="250" x2="142" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<line x1="178" y1="250" x2="178" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<line x1="214" y1="250" x2="214" y2="122" stroke="#7c3aed" stroke-width="1.6" stroke-dasharray="5 3"/>
+<rect x="40" y="226" width="200" height="30" fill="#fef9c3"/>
+<line x1="45" y1="234" x2="45" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="45" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="45" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="55" y1="234" x2="55" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="55" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="55" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="65" y1="234" x2="65" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="65" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="65" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="75" y1="234" x2="75" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="75" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="75" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="85" y1="234" x2="85" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="85" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="85" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="95" y1="234" x2="95" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="95" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="95" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="105" y1="234" x2="105" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="105" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="105" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="115" y1="234" x2="115" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="115" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="115" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="125" y1="234" x2="125" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="125" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="125" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="135" y1="234" x2="135" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="135" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="135" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="145" y1="234" x2="145" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="145" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="145" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="155" y1="234" x2="155" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="155" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="155" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="165" y1="234" x2="165" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="165" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="165" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="175" y1="234" x2="175" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="175" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="175" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="185" y1="234" x2="185" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="185" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="185" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="195" y1="234" x2="195" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="195" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="195" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="205" y1="234" x2="205" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="205" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="205" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="215" y1="234" x2="215" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="215" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="215" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="225" y1="234" x2="225" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="225" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="225" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="235" y1="234" x2="235" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="235" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="235" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<rect x="40" y="262" width="200" height="40" fill="#dbeafe" stroke="#93c5fd"/>
+<line x1="226" y1="122" x2="246" y2="122" stroke="#64748b" stroke-width="1"/>
+<text x="250" y="126" font-size="12.5" fill="#1f2937">Teichoic acids</text>
+<line x1="240" y1="176" x2="246" y2="176" stroke="#64748b" stroke-width="1"/>
+<text x="250" y="170" font-size="12.5" fill="#1f2937">Peptidoglycan:</text>
+<text x="250" y="185" font-size="12.5" fill="#1f2937">thick, many layers</text>
+<line x1="240" y1="241" x2="246" y2="241" stroke="#64748b" stroke-width="1"/>
+<text x="250" y="238" font-size="12.5" fill="#1f2937">Cytoplasmic</text>
+<text x="250" y="253" font-size="12.5" fill="#1f2937">membrane</text>
+<line x1="240" y1="282" x2="246" y2="282" stroke="#64748b" stroke-width="1"/>
+<text x="250" y="286" font-size="12.5" fill="#1f2937">Cytoplasm</text>
+<text x="426" y="110" font-size="12" fill="#475569">outside</text>
+<path d="M434 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M448 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M462 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M476 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M490 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M504 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M518 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M532 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M546 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M560 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M574 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M588 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M602 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<path d="M616 140 q-3 -6 0 -11 q3 -5 0 -11" fill="none" stroke="#0f766e" stroke-width="1.5"/>
+<rect x="426" y="140" width="200" height="30" fill="#fef9c3"/>
+<line x1="431" y1="148" x2="431" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="431" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="431" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="441" y1="148" x2="441" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="441" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="441" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="451" y1="148" x2="451" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="451" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="451" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="461" y1="148" x2="461" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="461" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="461" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="471" y1="148" x2="471" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="471" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="471" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="481" y1="148" x2="481" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="481" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="481" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="491" y1="148" x2="491" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="491" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="491" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="501" y1="148" x2="501" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="501" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="501" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="511" y1="148" x2="511" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="511" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="511" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="521" y1="148" x2="521" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="521" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="521" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="531" y1="148" x2="531" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="531" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="531" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="541" y1="148" x2="541" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="541" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="541" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="551" y1="148" x2="551" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="551" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="551" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="561" y1="148" x2="561" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="561" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="561" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="571" y1="148" x2="571" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="571" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="571" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="581" y1="148" x2="581" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="581" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="581" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="591" y1="148" x2="591" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="591" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="591" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="601" y1="148" x2="601" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="601" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="601" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="611" y1="148" x2="611" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="611" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="611" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="621" y1="148" x2="621" y2="162" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="621" cy="145" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="621" cy="165" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<rect x="546" y="136" width="30" height="38" rx="6" fill="#bbf7d0" stroke="#15803d"/>
+<rect x="557" y="136" width="8" height="38" fill="#f8fafc"/>
+<rect x="426" y="170" width="200" height="56" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="426" y="191" width="200" height="12" fill="#e9d5ff" stroke="#a78bfa"/>
+<rect x="426" y="226" width="200" height="30" fill="#fef9c3"/>
+<line x1="431" y1="234" x2="431" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="431" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="431" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="441" y1="234" x2="441" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="441" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="441" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="451" y1="234" x2="451" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="451" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="451" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="461" y1="234" x2="461" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="461" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="461" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="471" y1="234" x2="471" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="471" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="471" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="481" y1="234" x2="481" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="481" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="481" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="491" y1="234" x2="491" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="491" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="491" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="501" y1="234" x2="501" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="501" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="501" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="511" y1="234" x2="511" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="511" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="511" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="521" y1="234" x2="521" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="521" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="521" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="531" y1="234" x2="531" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="531" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="531" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="541" y1="234" x2="541" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="541" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="541" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="551" y1="234" x2="551" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="551" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="551" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="561" y1="234" x2="561" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="561" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="561" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="571" y1="234" x2="571" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="571" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="571" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="581" y1="234" x2="581" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="581" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="581" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="591" y1="234" x2="591" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="591" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="591" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="601" y1="234" x2="601" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="601" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="601" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="611" y1="234" x2="611" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="611" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="611" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<line x1="621" y1="234" x2="621" y2="248" stroke="#ca8a04" stroke-width="1"/>
+<circle cx="621" cy="231" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<circle cx="621" cy="251" r="4" fill="#fcd34d" stroke="#b45309" stroke-width="0.8"/>
+<rect x="426" y="262" width="200" height="40" fill="#dbeafe" stroke="#93c5fd"/>
+<line x1="626" y1="126" x2="632" y2="126" stroke="#64748b" stroke-width="1"/>
+<text x="636" y="120" font-size="12.5" fill="#1f2937">Lipopolysaccharide</text>
+<line x1="626" y1="155" x2="632" y2="155" stroke="#64748b" stroke-width="1"/>
+<text x="636" y="152" font-size="12.5" fill="#1f2937">Outer membrane</text>
+<text x="636" y="167" font-size="12.5" fill="#1f2937">with porins</text>
+<line x1="626" y1="197" x2="632" y2="197" stroke="#64748b" stroke-width="1"/>
+<text x="636" y="194" font-size="12.5" fill="#1f2937">Periplasm, thin</text>
+<text x="636" y="209" font-size="12.5" fill="#1f2937">peptidoglycan</text>
+<line x1="626" y1="241" x2="632" y2="241" stroke="#64748b" stroke-width="1"/>
+<text x="636" y="238" font-size="12.5" fill="#1f2937">Inner (cytoplasmic)</text>
+<text x="636" y="253" font-size="12.5" fill="#1f2937">membrane</text>
+<line x1="626" y1="282" x2="632" y2="282" stroke="#64748b" stroke-width="1"/>
+<text x="636" y="286" font-size="12.5" fill="#1f2937">Cytoplasm</text>
+<text x="546" y="186" font-size="12" fill="#15803d">porin</text>
+<text x="40" y="330" font-size="12.5" fill="#1f2937">Keeps the crystal violet-iodine</text>
+<text x="40" y="346" font-size="12.5" fill="#1f2937">complex after alcohol: purple</text>
+<text x="426" y="330" font-size="12.5" fill="#1f2937">Loses it after alcohol, then takes</text>
+<text x="426" y="346" font-size="12.5" fill="#1f2937">up the safranin counterstain: pink</text>
+<text x="24" y="398" font-size="12.5" fill="#475569">Both envelopes surround the same cytoplasmic membrane. Only Gram-negative cells have a second, outer</text>
+<text x="24" y="416" font-size="12.5" fill="#475569">membrane, and with it a periplasm between the two membranes. Content: Microbiology (OpenStax), sections 2.4, 3.3.</text>
+</svg>
