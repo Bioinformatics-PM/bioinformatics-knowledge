@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" font-family="Helvetica, Arial, sans-serif">
+<title>Python names, references and boxed floats: aliasing and a shallow copy, then the memory of a list of floats versus a packed array (CPython 3.13, 64-bit)</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<rect x="1" y="1" width="758" height="438" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="380" y="30" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2937">Names, references and boxed floats (CPython 3.13, 64-bit)</text>
+<text x="24" y="56" font-size="14" font-weight="bold" fill="#1f2937">A. Assignment binds a name to an object; it never copies</text>
+<text x="24" y="76" font-size="12" font-family="Courier New, monospace" fill="#475569">a = [0.5, 0.25];  b = a;  c = list(a);  b.append(0.125)</text>
+<rect x="24" y="86" width="44" height="26" rx="4" fill="#e0e7ff" stroke="#6366f1" stroke-width="1.5"/>
+<text x="46" y="104" font-size="13" text-anchor="middle" fill="#1f2937">a</text>
+<rect x="24" y="120" width="44" height="26" rx="4" fill="#e0e7ff" stroke="#6366f1" stroke-width="1.5"/>
+<text x="46" y="138" font-size="13" text-anchor="middle" fill="#1f2937">b</text>
+<rect x="24" y="211" width="44" height="26" rx="4" fill="#e0e7ff" stroke="#6366f1" stroke-width="1.5"/>
+<text x="46" y="229" font-size="13" text-anchor="middle" fill="#1f2937">c</text>
+<rect x="110" y="96" width="70" height="36" rx="4" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="145" y="111" font-size="12" text-anchor="middle" fill="#1f2937">list</text>
+<text x="145" y="126" font-size="12" text-anchor="middle" fill="#1f2937">header</text>
+<rect x="180" y="96" width="36" height="36" rx="3" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="198" y="118" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="216" y="96" width="36" height="36" rx="3" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="234" y="118" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="252" y="96" width="36" height="36" rx="3" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="270" y="118" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="110" y="206" width="70" height="36" rx="4" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="145" y="221" font-size="12" text-anchor="middle" fill="#1f2937">list</text>
+<text x="145" y="236" font-size="12" text-anchor="middle" fill="#1f2937">header</text>
+<rect x="180" y="206" width="36" height="36" rx="3" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="198" y="228" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="216" y="206" width="36" height="36" rx="3" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="234" y="228" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<line x1="68" y1="99" x2="108" y2="108" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="68" y1="133" x2="108" y2="122" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="68" y1="224" x2="108" y2="224" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="320" y="150" width="100" height="36" rx="4" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="370" y="164" font-size="12" text-anchor="middle" fill="#1f2937">float 0.5</text>
+<text x="370" y="179" font-size="12" text-anchor="middle" fill="#1f2937">24 B</text>
+<rect x="440" y="150" width="100" height="36" rx="4" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="490" y="164" font-size="12" text-anchor="middle" fill="#1f2937">float 0.25</text>
+<text x="490" y="179" font-size="12" text-anchor="middle" fill="#1f2937">24 B</text>
+<rect x="560" y="150" width="100" height="36" rx="4" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="610" y="164" font-size="12" text-anchor="middle" fill="#1f2937">float 0.125</text>
+<text x="610" y="179" font-size="12" text-anchor="middle" fill="#1f2937">24 B</text>
+<line x1="198" y1="132" x2="360" y2="148" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="234" y1="132" x2="480" y2="148" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="270" y1="132" x2="600" y2="148" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="198" y1="206" x2="360" y2="188" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="234" y1="206" x2="480" y2="188" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="300" y="112" font-size="12" fill="#475569">a and b: two names, one list (aliasing)</text>
+<text x="270" y="222" font-size="12" fill="#475569">c: a new list holding the same float objects</text>
+<text x="270" y="238" font-size="12" fill="#475569">(shallow copy); 0.125, appended through b, is not in c</text>
+<line x1="24" y1="258" x2="736" y2="258" stroke="#cbd5e1" stroke-width="1"/>
+<text x="24" y="282" font-size="14" font-weight="bold" fill="#1f2937">B. A million floats: boxed in a list versus packed in an array</text>
+<text x="24" y="316" font-size="13" fill="#1f2937">list</text>
+<rect x="110" y="298" width="56" height="36" rx="3" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="138" y="313" font-size="12" text-anchor="middle" fill="#1f2937">pointer</text>
+<text x="138" y="328" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<line x1="166" y1="316" x2="218" y2="316" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="220" y="298" width="110" height="36" rx="3" fill="#fde68a" stroke="#d97706" stroke-width="1.5"/>
+<text x="275" y="313" font-size="12" text-anchor="middle" fill="#1f2937">reference count</text>
+<text x="275" y="328" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="330" y="298" width="110" height="36" rx="3" fill="#fde68a" stroke="#d97706" stroke-width="1.5"/>
+<text x="385" y="313" font-size="12" text-anchor="middle" fill="#1f2937">type pointer</text>
+<text x="385" y="328" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="440" y="298" width="110" height="36" rx="3" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="495" y="313" font-size="12" text-anchor="middle" fill="#1f2937">C double value</text>
+<text x="495" y="328" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<text x="566" y="313" font-size="13" fill="#1f2937">8 + 24 = 32 B per value</text>
+<text x="566" y="329" font-size="12" fill="#475569">measured: 32.4 B</text>
+<text x="24" y="368" font-size="13" fill="#1f2937">array('d')</text>
+<text x="24" y="384" font-size="13" fill="#1f2937">NumPy</text>
+<rect x="110" y="352" width="55" height="36" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+<text x="137.5" y="374" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="165" y="352" width="55" height="36" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+<text x="192.5" y="374" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="220" y="352" width="55" height="36" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+<text x="247.5" y="374" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="275" y="352" width="55" height="36" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+<text x="302.5" y="374" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="330" y="352" width="55" height="36" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+<text x="357.5" y="374" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="385" y="352" width="55" height="36" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+<text x="412.5" y="374" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="440" y="352" width="55" height="36" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+<text x="467.5" y="374" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<rect x="495" y="352" width="55" height="36" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+<text x="522.5" y="374" font-size="12" text-anchor="middle" fill="#1f2937">8 B</text>
+<text x="566" y="367" font-size="13" fill="#1f2937">8 B per value, contiguous</text>
+<text x="566" y="383" font-size="12" fill="#475569">measured: 8.0 B</text>
+<text x="24" y="420" font-size="12" fill="#475569">Sizes from sys.getsizeof and tracemalloc, CPython 3.13.12; the list also keeps a few spare slots.</text>
+</svg>
