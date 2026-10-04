@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470" width="700" height="470" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="700" height="470" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="350" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Agarose gel read against a size ladder (invented data)</text>
+<rect x="150" y="70" width="400" height="340" rx="6" fill="#dbe4ee" stroke="#94a3b8"/>
+<text x="600" y="92" font-size="14" font-weight="bold" fill="#475569">− cathode</text>
+<text x="600" y="404" font-size="14" font-weight="bold" fill="#475569">+ anode</text>
+<line x1="625" y1="110" x2="625" y2="380" stroke="#64748b" stroke-width="2.5"/>
+<polygon points="618,378 632,378 625,392" fill="#64748b"/>
+<text x="640" y="250" font-size="12" fill="#475569" transform="rotate(90 640 250)" text-anchor="middle">DNA moves toward +</text>
+<rect x="173" y="86" width="64" height="12" rx="2" fill="#f8fafc" stroke="#64748b"/>
+<text x="205" y="62" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">M</text>
+<rect x="273" y="86" width="64" height="12" rx="2" fill="#f8fafc" stroke="#64748b"/>
+<text x="305" y="62" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">A</text>
+<rect x="373" y="86" width="64" height="12" rx="2" fill="#f8fafc" stroke="#64748b"/>
+<text x="405" y="62" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">B</text>
+<rect x="473" y="86" width="64" height="12" rx="2" fill="#f8fafc" stroke="#64748b"/>
+<text x="505" y="62" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">C</text>
+<rect x="175" y="169.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="176.0" text-anchor="end" font-size="12" fill="#1f2937">10,000 bp</text>
+<rect x="175" y="196.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="203.0" text-anchor="end" font-size="12" fill="#1f2937">6,000 bp</text>
+<rect x="175" y="220.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="227.0" text-anchor="end" font-size="12" fill="#1f2937">4,000 bp</text>
+<rect x="175" y="238.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="245.0" text-anchor="end" font-size="12" fill="#1f2937">3,000 bp</text>
+<rect x="175" y="265.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="272.0" text-anchor="end" font-size="12" fill="#1f2937">2,000 bp</text>
+<rect x="175" y="283.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="290.0" text-anchor="end" font-size="12" fill="#1f2937">1,500 bp</text>
+<rect x="175" y="310.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="317.0" text-anchor="end" font-size="12" fill="#1f2937">1,000 bp</text>
+<rect x="175" y="334.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="341.0" text-anchor="end" font-size="12" fill="#1f2937">700 bp</text>
+<rect x="175" y="355.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="362.0" text-anchor="end" font-size="12" fill="#1f2937">500 bp</text>
+<rect x="175" y="388.5" width="60" height="5" rx="2" fill="#f59e0b"/>
+<text x="142" y="395.0" text-anchor="end" font-size="12" fill="#1f2937">300 bp</text>
+<rect x="275" y="181.0" width="60" height="6" rx="2" fill="#ea580c"/>
+<text x="341" y="188.0" font-size="12" fill="#1f2937">≈ 7.7-8.0 kb</text>
+<rect x="275" y="247.0" width="60" height="6" rx="2" fill="#ea580c"/>
+<text x="341" y="254.0" font-size="12" fill="#1f2937">≈ 2.6-2.7 kb</text>
+<rect x="275" y="301.0" width="60" height="6" rx="2" fill="#ea580c"/>
+<text x="341" y="308.0" font-size="12" fill="#1f2937">≈ 1.15 kb</text>
+<rect x="375" y="343.0" width="60" height="6" rx="2" fill="#ea580c"/>
+<text x="441" y="350.0" font-size="12" fill="#1f2937">≈ 600 bp</text>
+<text x="505" y="250" text-anchor="middle" font-size="12" fill="#475569">no band</text>
+<text x="350" y="436" text-anchor="middle" font-size="12" fill="#475569">M: ladder of known sizes. A: digest (3 fragments). B: PCR product. C: no-template control.</text>
+<text x="350" y="454" text-anchor="middle" font-size="12" fill="#475569">Wells at the top; distance from the well falls roughly linearly with log(size).</text>
+</svg>
