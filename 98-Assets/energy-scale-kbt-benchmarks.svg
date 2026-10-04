@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="Helvetica, Arial, sans-serif">
+  <rect x="2" y="2" width="756" height="326" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="380" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">One energy, several units: k_BT as the molecular yardstick (T = 298 K)</text>
+  <!-- conversion box -->
+  <rect x="24" y="62" width="230" height="180" rx="10" fill="#e0f2fe" stroke="#7dd3fc" stroke-width="1.5"/>
+  <text x="139" y="88" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">1 k_BT per molecule</text>
+  <text x="44" y="120" font-size="14" fill="#1f2937">= 4.1 × 10⁻²¹ J</text>
+  <text x="44" y="148" font-size="14" fill="#1f2937">= 4.1 pN · nm</text>
+  <text x="44" y="176" font-size="14" fill="#1f2937">× N_A: 2.48 kJ/mol</text>
+  <text x="44" y="204" font-size="14" fill="#1f2937">= 0.59 kcal/mol</text>
+  <text x="44" y="230" font-size="12" fill="#475569">k_B and N_A: exact SI values</text>
+  <!-- axis -->
+  <line x1="300" y1="250" x2="700" y2="250" stroke="#64748b" stroke-width="1.5"/>
+  <g font-size="12" fill="#1f2937" text-anchor="middle">
+    <line x1="300" y1="250" x2="300" y2="256" stroke="#64748b"/><text x="300" y="271">0</text>
+    <line x1="380" y1="250" x2="380" y2="256" stroke="#64748b"/><text x="380" y="271">5</text>
+    <line x1="460" y1="250" x2="460" y2="256" stroke="#64748b"/><text x="460" y="271">10</text>
+    <line x1="540" y1="250" x2="540" y2="256" stroke="#64748b"/><text x="540" y="271">15</text>
+    <line x1="620" y1="250" x2="620" y2="256" stroke="#64748b"/><text x="620" y="271">20</text>
+    <line x1="700" y1="250" x2="700" y2="256" stroke="#64748b"/><text x="700" y="271">25</text>
+  </g>
+  <text x="500" y="292" text-anchor="middle" font-size="13" fill="#1f2937">energy per molecule (units of k_BT)</text>
+  <!-- bars: 16 px per kT -->
+  <rect x="300" y="72" width="16" height="30" rx="3" fill="#bbf7d0" stroke="#4ade80"/>
+  <text x="324" y="92" font-size="13" fill="#1f2937">thermal energy: 1 k_BT = 4.1 pN·nm</text>
+  <rect x="300" y="132" width="187" height="30" rx="3" fill="#fde68a" stroke="#f59e0b"/>
+  <text x="300" y="126" font-size="13" fill="#1f2937">kinesin step against 6 pN: 6 pN × 8 nm ≈ 11.7 k_BT</text>
+  <rect x="300" y="192" width="368" height="30" rx="3" fill="#fecaca" stroke="#f87171"/>
+  <text x="300" y="186" font-size="13" fill="#1f2937">ATP hydrolysis in a cell: 57 kJ/mol ≈ 95 pN·nm ≈ 23 k_BT</text>
+  <text x="380" y="316" text-anchor="middle" font-size="12" fill="#475569">6 pN: near kinesin's 5-6 pN stall force. 57 kJ/mol: ATP free energy in a living cell.</text>
+</svg>
