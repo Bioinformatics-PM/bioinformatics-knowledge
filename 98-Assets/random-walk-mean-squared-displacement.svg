@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" width="720" height="460" font-family="Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="718" height="458" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<text x="360" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Random walk: the mean squared displacement grows linearly with time</text>
+<text x="360" y="56" text-anchor="middle" font-size="13" fill="#374151">2000 simulated walkers, step a = 1, time step τ = 1, so D = a²/(2τ) = 0.5</text>
+<line x1="90" y1="370.0" x2="670" y2="370.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="374.0" text-anchor="end" font-size="12" fill="#374151">0</text>
+<line x1="90" y1="305.6" x2="670" y2="305.6" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="309.6" text-anchor="end" font-size="12" fill="#374151">100</text>
+<line x1="90" y1="241.1" x2="670" y2="241.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="245.1" text-anchor="end" font-size="12" fill="#374151">200</text>
+<line x1="90" y1="176.7" x2="670" y2="176.7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="180.7" text-anchor="end" font-size="12" fill="#374151">300</text>
+<line x1="90" y1="112.2" x2="670" y2="112.2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="116.2" text-anchor="end" font-size="12" fill="#374151">400</text>
+<line x1="90.0" y1="370" x2="90.0" y2="80" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90.0" y="390" text-anchor="middle" font-size="12" fill="#374151">0</text>
+<line x1="235.0" y1="370" x2="235.0" y2="80" stroke="#e2e8f0" stroke-width="1"/>
+<text x="235.0" y="390" text-anchor="middle" font-size="12" fill="#374151">50</text>
+<line x1="380.0" y1="370" x2="380.0" y2="80" stroke="#e2e8f0" stroke-width="1"/>
+<text x="380.0" y="390" text-anchor="middle" font-size="12" fill="#374151">100</text>
+<line x1="525.0" y1="370" x2="525.0" y2="80" stroke="#e2e8f0" stroke-width="1"/>
+<text x="525.0" y="390" text-anchor="middle" font-size="12" fill="#374151">150</text>
+<line x1="670.0" y1="370" x2="670.0" y2="80" stroke="#e2e8f0" stroke-width="1"/>
+<text x="670.0" y="390" text-anchor="middle" font-size="12" fill="#374151">200</text>
+<line x1="90" y1="370" x2="670" y2="370" stroke="#64748b" stroke-width="1.5"/>
+<line x1="90" y1="370" x2="90" y2="80" stroke="#64748b" stroke-width="1.5"/>
+<text x="380.0" y="414" text-anchor="middle" font-size="13" fill="#1f2937">time t (number of steps)</text>
+<text x="30" y="225.0" text-anchor="middle" font-size="13" fill="#1f2937" transform="rotate(-90 30 225.0)">mean squared displacement (a²)</text>
+<line x1="90.0" y1="370.0" x2="670.0" y2="241.1" stroke="#2563eb" stroke-width="2" stroke-dasharray="6 4"/>
+<line x1="90.0" y1="370.0" x2="670.0" y2="112.2" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<circle cx="119.0" cy="363.5" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="119.0" cy="356.9" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="148.0" cy="357.5" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="148.0" cy="343.6" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="177.0" cy="351.0" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="177.0" cy="330.2" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="206.0" cy="344.1" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="206.0" cy="316.0" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="235.0" cy="337.3" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="235.0" cy="302.2" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="264.0" cy="330.8" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="264.0" cy="289.3" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="293.0" cy="323.1" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="293.0" cy="276.4" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="322.0" cy="316.5" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="322.0" cy="265.1" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="351.0" cy="309.3" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="351.0" cy="250.5" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="380.0" cy="301.2" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="380.0" cy="239.3" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="409.0" cy="292.8" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="409.0" cy="225.8" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="438.0" cy="287.4" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="438.0" cy="212.0" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="467.0" cy="280.5" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="467.0" cy="202.1" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="496.0" cy="275.1" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="496.0" cy="189.4" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="525.0" cy="270.7" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="525.0" cy="176.6" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="554.0" cy="264.6" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="554.0" cy="165.0" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="583.0" cy="256.5" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="583.0" cy="150.2" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="612.0" cy="249.9" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="612.0" cy="137.5" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="641.0" cy="243.3" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="641.0" cy="126.3" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<circle cx="670.0" cy="237.4" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="670.0" cy="113.2" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<rect x="100" y="82" width="250" height="78" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#cbd5e1"/>
+<circle cx="116" cy="100" r="4.5" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5"/>
+<text x="130" y="104" font-size="13" fill="#1f2937">2D simulation, mean of x² + y²</text>
+<line x1="108" y1="120" x2="124" y2="120" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="130" y="124" font-size="13" fill="#1f2937">theory 4Dt = 2t</text>
+<circle cx="116" cy="142" r="4.5" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="130" y="146" font-size="13" fill="#1f2937">1D simulation, mean of x²; theory 2Dt = t</text>
+<text x="664.0" y="102.2" text-anchor="end" font-size="13" fill="#c2410c">slope 2dD, d = 2</text>
+<text x="664.0" y="300" text-anchor="end" font-size="13" fill="#2563eb">slope 2dD, d = 1</text>
+</svg>
