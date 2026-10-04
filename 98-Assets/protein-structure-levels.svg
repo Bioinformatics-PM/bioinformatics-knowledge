@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" width="800" height="440" font-family="Helvetica, Arial, sans-serif">
+  <title>The four levels of protein structure</title>
+  <rect x="2" y="2" width="796" height="436" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400" y="34" text-anchor="middle" font-size="19" font-weight="bold" fill="#1f2937">Four levels of protein structure</text>
+
+  <!-- panels -->
+  <rect x="15" y="55" width="185" height="295" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <rect x="210" y="55" width="185" height="295" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <rect x="405" y="55" width="185" height="295" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+  <rect x="600" y="55" width="185" height="295" rx="12" fill="#fce7f3" stroke="#db2777" stroke-width="1.5"/>
+  <text x="107" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">1 Primary</text>
+  <text x="302" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">2 Secondary</text>
+  <text x="497" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">3 Tertiary</text>
+  <text x="692" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">4 Quaternary</text>
+
+  <!-- 1 primary: a chain of residues, N to C (invented sequence) -->
+  <polyline points="50,125 155,125 155,170 50,170 50,215 155,215" fill="none" stroke="#92400e" stroke-width="3"/>
+  <g fill="#fde68a" stroke="#92400e" stroke-width="1.5">
+    <circle cx="50" cy="125" r="13"/><circle cx="85" cy="125" r="13"/><circle cx="120" cy="125" r="13"/><circle cx="155" cy="125" r="13"/>
+    <circle cx="155" cy="170" r="13"/><circle cx="120" cy="170" r="13"/><circle cx="85" cy="170" r="13"/><circle cx="50" cy="170" r="13"/>
+    <circle cx="50" cy="215" r="13"/><circle cx="85" cy="215" r="13"/><circle cx="120" cy="215" r="13"/><circle cx="155" cy="215" r="13"/>
+  </g>
+  <g font-size="13" font-weight="bold" text-anchor="middle" fill="#1f2937">
+    <text x="50" y="130">M</text><text x="85" y="130">K</text><text x="120" y="130">C</text><text x="155" y="130">L</text>
+    <text x="155" y="175">E</text><text x="120" y="175">V</text><text x="85" y="175">G</text><text x="50" y="175">A</text>
+    <text x="50" y="220">I</text><text x="85" y="220">C</text><text x="120" y="220">W</text><text x="155" y="220">R</text>
+  </g>
+  <text x="28" y="107" font-size="13" font-weight="bold" fill="#92400e">N-terminus</text>
+  <text x="185" y="250" text-anchor="end" font-size="13" font-weight="bold" fill="#92400e">C-terminus</text>
+  <text x="107" y="268" text-anchor="middle" font-size="12" fill="#475569">order of amino acids</text>
+
+  <!-- 2 secondary: alpha helix and beta sheet -->
+  <g fill="none" stroke="#2563eb" stroke-width="3">
+    <ellipse cx="252" cy="112" rx="20" ry="8"/><ellipse cx="252" cy="132" rx="20" ry="8"/>
+    <ellipse cx="252" cy="152" rx="20" ry="8"/><ellipse cx="252" cy="172" rx="20" ry="8"/>
+    <ellipse cx="252" cy="192" rx="20" ry="8"/><ellipse cx="252" cy="212" rx="20" ry="8"/>
+    <ellipse cx="252" cy="232" rx="20" ry="8"/>
+  </g>
+  <text x="252" y="262" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">α helix</text>
+  <polygon points="310,245 330,245 330,130 340,130 320,105 300,130 310,130" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1.5"/>
+  <polygon points="350,105 370,105 370,220 380,220 360,245 340,220 350,220" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1.5"/>
+  <g stroke="#1f2937" stroke-width="1.5" stroke-dasharray="3 3">
+    <line x1="330" y1="145" x2="350" y2="145"/><line x1="330" y1="170" x2="350" y2="170"/>
+    <line x1="330" y1="195" x2="350" y2="195"/><line x1="330" y1="220" x2="350" y2="220"/>
+  </g>
+  <text x="340" y="262" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">β sheet</text>
+
+  <!-- 3 tertiary: one chain folded around a hydrophobic core -->
+  <ellipse cx="497" cy="178" rx="58" ry="38" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <path d="M 430 112 C 470 92, 545 98, 562 132 S 566 205, 522 226 S 438 238, 428 198 S 452 150, 492 160 S 548 195, 556 248" fill="none" stroke="#15803d" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#f59e0b"><circle cx="478" cy="182" r="4"/><circle cx="500" cy="190" r="4"/><circle cx="520" cy="176" r="4"/><circle cx="505" cy="168" r="4"/></g>
+  <text x="497" y="268" text-anchor="middle" font-size="12" fill="#475569">one chain around a nonpolar core</text>
+
+  <!-- 4 quaternary: hemoglobin-like alpha2 beta2 -->
+  <g stroke="#9d174d" stroke-width="1.5">
+    <circle cx="660" cy="140" r="32" fill="#fbcfe8"/><circle cx="728" cy="140" r="32" fill="#c7d2fe"/>
+    <circle cx="660" cy="208" r="32" fill="#c7d2fe"/><circle cx="728" cy="208" r="32" fill="#fbcfe8"/>
+  </g>
+  <g font-size="15" font-weight="bold" text-anchor="middle" fill="#1f2937">
+    <text x="660" y="145">α1</text><text x="728" y="145">β1</text><text x="660" y="213">β2</text><text x="728" y="213">α2</text>
+  </g>
+  <text x="692" y="268" text-anchor="middle" font-size="12" fill="#475569">e.g. hemoglobin, α2β2</text>
+
+  <!-- what holds each level -->
+  <g font-size="12" fill="#1f2937" text-anchor="middle">
+    <text x="107" y="295">covalent peptide bonds</text>
+    <text x="107" y="312">(disulfide positions</text>
+    <text x="107" y="329">often included)</text>
+    <text x="302" y="295">hydrogen bonds</text>
+    <text x="302" y="312">between backbone</text>
+    <text x="302" y="329">C=O and N–H</text>
+    <text x="497" y="295">hydrophobic effect,</text>
+    <text x="497" y="312">H-bonds, salt bridges,</text>
+    <text x="497" y="329">van der Waals, S–S</text>
+    <text x="692" y="295">the same forces,</text>
+    <text x="692" y="312">acting between</text>
+    <text x="692" y="329">subunits</text>
+  </g>
+
+  <!-- bottom -->
+  <text x="400" y="384" text-anchor="middle" font-size="14" fill="#1f2937">The sequence (1) determines local folding (2), the fold of each chain (3) and how chains assemble (4).</text>
+  <text x="400" y="410" text-anchor="middle" font-size="13" fill="#475569">In data: a FASTA string · a helix/strand/coil string · atomic coordinates · several chains in one entry</text>
+</svg>
