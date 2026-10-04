@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Ions in a uniform magnetic field: the radius of the circular path sorts them by mass-to-charge ratio</title>
+<desc id="d">Positive ions leave a source and accelerator at the bottom right, enter a region of uniform magnetic field pointing into the page, and follow semicircles that curve to the left. The heavier ion, with larger m/z, follows the larger semicircle and lands farther along the detector. At the top of the larger path the velocity points left and the magnetic force points down, toward the centre of the circle.</desc>
+<defs>
+<marker id="a-gray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
+<marker id="a-violet" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker>
+<marker id="a-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#059669"/></marker>
+<marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+</defs>
+<rect x="1" y="1" width="758" height="378" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="24" y="32" font-size="17" font-weight="bold" fill="#1f2937">Ions in a uniform magnetic field: the radius sorts them by m/z</text>
+<text x="24" y="54" font-size="13" fill="#374151">Magnetic sector (schematic): positive ions, B into the page; F = qv × B always points to the centre.</text>
+<rect x="40" y="70" width="680" height="230" fill="#e0f2fe" stroke="#0284c7" stroke-width="1" stroke-dasharray="5 4"/>
+<g font-size="14" text-anchor="middle" fill="#64748b">
+<text x="70" y="215">×</text><text x="132" y="215">×</text><text x="194" y="215">×</text><text x="256" y="215">×</text><text x="380" y="215">×</text><text x="442" y="245">×</text><text x="628" y="215">×</text><text x="690" y="215">×</text>
+<text x="70" y="275">×</text><text x="132" y="275">×</text><text x="194" y="275">×</text><text x="256" y="275">×</text><text x="504" y="275">×</text><text x="566" y="275">×</text><text x="690" y="275">×</text>
+<text x="318" y="95">×</text><text x="380" y="95">×</text><text x="442" y="95">×</text><text x="504" y="95">×</text><text x="566" y="95">×</text><text x="628" y="95">×</text><text x="690" y="95">×</text>
+<text x="566" y="155">×</text><text x="628" y="155">×</text><text x="690" y="155">×</text><text x="318" y="155">×</text>
+</g>
+<rect x="50" y="82" width="250" height="96" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="62" y="100" font-size="13" fill="#1f2937">B uniform, into the page (×)</text>
+<line x1="62" y1="118" x2="92" y2="118" stroke="#7c3aed" stroke-width="2.5"/>
+<text x="100" y="122" font-size="12" fill="#1f2937">heavier ion (larger m/z)</text>
+<line x1="62" y1="140" x2="92" y2="140" stroke="#059669" stroke-width="2.5"/>
+<text x="100" y="144" font-size="12" fill="#1f2937">lighter ion (smaller m/z)</text>
+<text x="62" y="167" font-size="13" font-weight="bold" fill="#1f2937">r = mv/(qB)</text>
+<path d="M600,300 A150,150 0 0 0 300,300" fill="none" stroke="#7c3aed" stroke-width="2.5" marker-end="url(#a-violet)"/>
+<path d="M600,300 A105,105 0 0 0 390,300" fill="none" stroke="#059669" stroke-width="2.5" marker-end="url(#a-green)"/>
+<line x1="450" y1="300" x2="345" y2="195" stroke="#7c3aed" stroke-width="1.2" stroke-dasharray="4 3"/>
+<circle cx="450" cy="300" r="3" fill="#7c3aed"/>
+<text x="384" y="238" font-size="14" font-style="italic" fill="#7c3aed">r</text>
+<circle cx="450" cy="150" r="4" fill="#7c3aed"/>
+<line x1="450" y1="150" x2="392" y2="150" stroke="#475569" stroke-width="2" marker-end="url(#a-gray)"/>
+<text x="398" y="142" font-size="14" font-weight="bold" fill="#1f2937">v</text>
+<line x1="450" y1="150" x2="450" y2="188" stroke="#dc2626" stroke-width="2" marker-end="url(#a-red)"/>
+<text x="458" y="180" font-size="14" font-weight="bold" fill="#dc2626">F</text>
+<rect x="240" y="300" width="280" height="10" fill="#cbd5e1" stroke="#475569" stroke-width="1"/>
+<text x="330" y="328" font-size="12" text-anchor="middle" fill="#1f2937">detector: landing point at 2r</text>
+<rect x="520" y="314" width="160" height="26" rx="5" fill="#ede9fe" stroke="#7c3aed" stroke-width="1"/>
+<text x="600" y="331" font-size="12" text-anchor="middle" fill="#1f2937">source + accelerator (V)</text>
+<line x1="600" y1="313" x2="600" y2="302" stroke="#475569" stroke-width="1.5" marker-end="url(#a-gray)"/>
+<text x="24" y="366" font-size="12" fill="#475569">Same accelerating voltage V for both: r = √(2V·m/q)/B grows as √(m/z). Here the m/z ratio is about 2.</text>
+</svg>
