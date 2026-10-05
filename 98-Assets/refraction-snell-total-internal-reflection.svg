@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420" font-family="Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="798" height="418" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="400.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Refraction (Snell's law) and total internal reflection</text>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker><marker id="aho" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/></marker></defs>
+<rect x="40" y="215" width="320" height="160" fill="#dbeafe" stroke="none"/>
+<line x1="40.0" y1="215.0" x2="360.0" y2="215.0" stroke="#475569" stroke-width="1.2"/>
+<line x1="200.0" y1="60.0" x2="200.0" y2="375.0" stroke="#475569" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="50.0" y="80.0" text-anchor="start" font-size="13" font-weight="normal" fill="#1f2937">air, n₁ = 1.00</text>
+<text x="50.0" y="365.0" text-anchor="start" font-size="13" font-weight="normal" fill="#1f2937">water, n₂ = 1.33</text>
+<line x1="93.9" y1="108.9" x2="200.0" y2="215.0" stroke="#ea580c" stroke-width="2.4" marker-end="url(#aho)"/>
+<line x1="200.0" y1="215.0" x2="284.9" y2="130.1" stroke="#ea580c" stroke-width="1.2" stroke-dasharray="5 4" marker-end="url(#aho)"/>
+<line x1="200.0" y1="215.0" x2="279.6" y2="342.2" stroke="#ea580c" stroke-width="2.4" marker-end="url(#aho)"/>
+<text x="174.0" y="153.0" text-anchor="end" font-size="13" font-weight="normal" fill="#1f2937">θ₁ = 45°</text>
+<text x="230.0" y="285.0" text-anchor="start" font-size="13" font-weight="normal" fill="#1f2937">θ₂ = 32.0°</text>
+<text x="290.0" y="145.0" text-anchor="start" font-size="12" font-weight="normal" fill="#475569">weak reflection</text>
+<text x="200.0" y="402.0" text-anchor="middle" font-size="13" font-weight="normal" fill="#1f2937">n₁ sin θ₁ = n₂ sin θ₂: bent toward the normal</text>
+<rect x="430" y="215" width="330" height="160" fill="#e0e7ff" stroke="none"/>
+<rect x="430" y="201" width="330" height="14" fill="#bbf7d0" opacity="0.8"/>
+<line x1="430.0" y1="215.0" x2="760.0" y2="215.0" stroke="#475569" stroke-width="1.2"/>
+<line x1="590.0" y1="60.0" x2="590.0" y2="375.0" stroke="#475569" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="440.0" y="80.0" text-anchor="start" font-size="13" font-weight="normal" fill="#1f2937">water, n₂ = 1.33</text>
+<text x="440.0" y="365.0" text-anchor="start" font-size="13" font-weight="normal" fill="#1f2937">glass, n₁ = 1.52</text>
+<text x="755.0" y="195.0" text-anchor="end" font-size="12" font-weight="bold" fill="#059669">evanescent field</text>
+<line x1="493.6" y1="329.9" x2="590.0" y2="215.0" stroke="#2563eb" stroke-width="2.2" marker-end="url(#ah)"/>
+<text x="489.6" y="345.9" text-anchor="middle" font-size="13" font-weight="bold" fill="#2563eb">40°</text>
+<line x1="458.5" y1="287.1" x2="590.0" y2="215.0" stroke="#7c3aed" stroke-width="2.2" marker-end="url(#ah)"/>
+<text x="454.5" y="303.1" text-anchor="middle" font-size="13" font-weight="bold" fill="#7c3aed">θc = 61.3°</text>
+<line x1="447.3" y1="261.4" x2="590.0" y2="215.0" stroke="#dc2626" stroke-width="2.2" marker-end="url(#ah)"/>
+<text x="443.3" y="277.4" text-anchor="middle" font-size="13" font-weight="bold" fill="#dc2626">72°</text>
+<line x1="590.0" y1="215.0" x2="699.9" y2="113.0" stroke="#2563eb" stroke-width="2.2" marker-end="url(#ah)"/>
+<line x1="590.0" y1="215.0" x2="740.0" y2="214.0" stroke="#7c3aed" stroke-width="2.2" marker-end="url(#ah)"/>
+<line x1="590.0" y1="215.0" x2="732.7" y2="261.4" stroke="#dc2626" stroke-width="2.2" marker-end="url(#ah)"/>
+<text x="660.0" y="110.0" text-anchor="start" font-size="13" font-weight="normal" fill="#2563eb">refracted at 47.1°</text>
+<text x="650.0" y="285.0" text-anchor="start" font-size="13" font-weight="normal" fill="#dc2626">totally reflected</text>
+<text x="595.0" y="402.0" text-anchor="middle" font-size="13" font-weight="normal" fill="#1f2937">beyond θc = arcsin(n₂/n₁) no light is transmitted</text>
+</svg>
