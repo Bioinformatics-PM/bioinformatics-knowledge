@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 400" width="780" height="400" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="400" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="390.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Spectral regions and the transitions they drive</text>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker></defs>
+<line x1="40" y1="70" x2="740" y2="70" stroke="#1f2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="390.0" y="62" text-anchor="middle" font-size="13" fill="#1f2937">photon energy and frequency increase, wavelength decreases</text>
+<rect x="40" y="82" width="140" height="70" fill="#e0e7ff" stroke="#64748b"/>
+<text x="110.0" y="112" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">radio</text>
+<text x="110.0" y="134" text-anchor="middle" font-size="13" fill="#1f2937">λ about 1 m</text>
+<line x1="80" y1="330" x2="140" y2="330" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="80" y1="325.2" x2="140" y2="325.2" stroke="#1f2937" stroke-width="2.5"/>
+<text x="110.0" y="182" text-anchor="middle" font-size="13" fill="#1f2937">nuclear spin flip</text>
+<text x="110.0" y="200" text-anchor="middle" font-size="12" fill="#64748b">(in a strong magnet): NMR</text>
+<rect x="180" y="82" width="140" height="70" fill="#dbeafe" stroke="#64748b"/>
+<text x="250.0" y="112" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">microwave</text>
+<text x="250.0" y="134" text-anchor="middle" font-size="13" fill="#1f2937">λ about 1 cm</text>
+<line x1="220" y1="330" x2="280" y2="330" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="220" y1="315.6" x2="280" y2="315.6" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="250" y1="328" x2="250" y2="319.6" stroke="#7c3aed" stroke-width="2" marker-end="url(#ah)"/>
+<text x="250.0" y="182" text-anchor="middle" font-size="13" fill="#1f2937">molecular rotation</text>
+<rect x="320" y="82" width="140" height="70" fill="#dcfce7" stroke="#64748b"/>
+<text x="390.0" y="112" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">infrared</text>
+<text x="390.0" y="134" text-anchor="middle" font-size="13" fill="#1f2937">λ about 10 µm</text>
+<line x1="360" y1="330" x2="420" y2="330" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="360" y1="296.4" x2="420" y2="296.4" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="390" y1="328" x2="390" y2="300.4" stroke="#7c3aed" stroke-width="2" marker-end="url(#ah)"/>
+<text x="390.0" y="182" text-anchor="middle" font-size="13" fill="#1f2937">molecular vibration</text>
+<text x="390.0" y="200" text-anchor="middle" font-size="12" fill="#64748b">(bond stretch, bend)</text>
+<rect x="460" y="82" width="140" height="70" fill="#fef9c3" stroke="#64748b"/>
+<text x="530.0" y="112" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">visible</text>
+<text x="530.0" y="134" text-anchor="middle" font-size="13" fill="#1f2937">λ about 500 nm</text>
+<line x1="500" y1="330" x2="560" y2="330" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="500" y1="258.0" x2="560" y2="258.0" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="530" y1="328" x2="530" y2="262.0" stroke="#7c3aed" stroke-width="2" marker-end="url(#ah)"/>
+<text x="530.0" y="182" text-anchor="middle" font-size="13" fill="#1f2937">electronic transition</text>
+<text x="530.0" y="200" text-anchor="middle" font-size="12" fill="#64748b">(conjugated, coloured)</text>
+<rect x="600" y="82" width="140" height="70" fill="#fce7f3" stroke="#64748b"/>
+<text x="670.0" y="112" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">ultraviolet</text>
+<text x="670.0" y="134" text-anchor="middle" font-size="13" fill="#1f2937">λ about 250 nm</text>
+<line x1="640" y1="330" x2="700" y2="330" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="640" y1="224.4" x2="700" y2="224.4" stroke="#1f2937" stroke-width="2.5"/>
+<line x1="670" y1="328" x2="670" y2="228.4" stroke="#7c3aed" stroke-width="2" marker-end="url(#ah)"/>
+<text x="670.0" y="182" text-anchor="middle" font-size="13" fill="#1f2937">electronic transition</text>
+<text x="670.0" y="200" text-anchor="middle" font-size="12" fill="#64748b">(bases, aromatic rings)</text>
+<text x="40" y="352" font-size="13" fill="#1f2937">Level spacing ΔE (schematic, not to scale): absorption needs a photon with hν = ΔE.</text>
+<text x="40" y="372" font-size="12" fill="#64748b">Wavelengths are typical orders of magnitude, not region boundaries.</text>
+</svg>

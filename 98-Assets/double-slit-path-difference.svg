@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="798" height="398" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="400.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Two-slit interference: the path difference d sin θ sets the phase</text>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker><marker id="aho" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/></marker></defs>
+<rect x="214" y="60" width="12" height="109" fill="#94a3b8"/>
+<rect x="214" y="181" width="12" height="68" fill="#94a3b8"/>
+<rect x="214" y="261" width="12" height="99" fill="#94a3b8"/>
+
+
+
+
+<line x1="70.0" y1="168.0" x2="140.0" y2="168.0" stroke="#ea580c" stroke-width="1.4" marker-end="url(#aho)"/>
+
+
+
+<line x1="70.0" y1="256.0" x2="140.0" y2="256.0" stroke="#ea580c" stroke-width="1.4" marker-end="url(#aho)"/>
+
+
+
+
+<text x="105.0" y="345.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#ea580c">coherent plane wave</text>
+<line x1="90.0" y1="70.0" x2="90.0" y2="350.0" stroke="#ea580c" stroke-width="1.2" stroke-dasharray="3 4"/>
+<line x1="115.0" y1="70.0" x2="115.0" y2="350.0" stroke="#ea580c" stroke-width="1.2" stroke-dasharray="3 4"/>
+<line x1="140.0" y1="70.0" x2="140.0" y2="350.0" stroke="#ea580c" stroke-width="1.2" stroke-dasharray="3 4"/>
+<line x1="165.0" y1="70.0" x2="165.0" y2="350.0" stroke="#ea580c" stroke-width="1.2" stroke-dasharray="3 4"/>
+<line x1="190.0" y1="70.0" x2="190.0" y2="350.0" stroke="#ea580c" stroke-width="1.2" stroke-dasharray="3 4"/>
+<line x1="220.0" y1="175.0" x2="530.1" y2="62.1" stroke="#2563eb" stroke-width="2" marker-end="url(#ahb)"/>
+<line x1="220.0" y1="255.0" x2="530.1" y2="142.1" stroke="#2563eb" stroke-width="2" marker-end="url(#ahb)"/>
+<line x1="220.0" y1="175.0" x2="245.7" y2="245.6" stroke="#475569" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="220.0" y1="255.0" x2="245.7" y2="245.6" stroke="#dc2626" stroke-width="3.2"/>
+<text x="239.7" y="279.6" text-anchor="start" font-size="14" font-weight="bold" fill="#dc2626">d sin θ</text>
+<line x1="250.0" y1="173.0" x2="250.0" y2="257.0" stroke="#1f2937" stroke-width="1"/>
+<text x="256.0" y="219.0" text-anchor="start" font-size="14" font-weight="bold" fill="#1f2937" font-style="italic">d</text>
+<line x1="220.0" y1="215.0" x2="400.0" y2="215.0" stroke="#475569" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="370.0" y="207.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937" font-style="italic">θ</text>
+<line x1="640.0" y1="60.0" x2="640.0" y2="360.0" stroke="#1f2937" stroke-width="2"/>
+<path d="M648.0,75.0 L650.2,77.0 L656.6,79.0 L666.5,81.0 L679.1,83.0 L693.0,85.0 L706.9,87.0 L719.5,89.0 L729.4,91.0 L735.8,93.0 L738.0,95.0 L735.8,97.0 L729.4,99.0 L719.5,101.0 L706.9,103.0 L693.0,105.0 L679.1,107.0 L666.5,109.0 L656.6,111.0 L650.2,113.0 L648.0,115.0 L650.2,117.0 L656.6,119.0 L666.5,121.0 L679.1,123.0 L693.0,125.0 L706.9,127.0 L719.5,129.0 L729.4,131.0 L735.8,133.0 L738.0,135.0 L735.8,137.0 L729.4,139.0 L719.5,141.0 L706.9,143.0 L693.0,145.0 L679.1,147.0 L666.5,149.0 L656.6,151.0 L650.2,153.0 L648.0,155.0 L650.2,157.0 L656.6,159.0 L666.5,161.0 L679.1,163.0 L693.0,165.0 L706.9,167.0 L719.5,169.0 L729.4,171.0 L735.8,173.0 L738.0,175.0 L735.8,177.0 L729.4,179.0 L719.5,181.0 L706.9,183.0 L693.0,185.0 L679.1,187.0 L666.5,189.0 L656.6,191.0 L650.2,193.0 L648.0,195.0 L650.2,197.0 L656.6,199.0 L666.5,201.0 L679.1,203.0 L693.0,205.0 L706.9,207.0 L719.5,209.0 L729.4,211.0 L735.8,213.0 L738.0,215.0 L735.8,217.0 L729.4,219.0 L719.5,221.0 L706.9,223.0 L693.0,225.0 L679.1,227.0 L666.5,229.0 L656.6,231.0 L650.2,233.0 L648.0,235.0 L650.2,237.0 L656.6,239.0 L666.5,241.0 L679.1,243.0 L693.0,245.0 L706.9,247.0 L719.5,249.0 L729.4,251.0 L735.8,253.0 L738.0,255.0 L735.8,257.0 L729.4,259.0 L719.5,261.0 L706.9,263.0 L693.0,265.0 L679.1,267.0 L666.5,269.0 L656.6,271.0 L650.2,273.0 L648.0,275.0 L650.2,277.0 L656.6,279.0 L666.5,281.0 L679.1,283.0 L693.0,285.0 L706.9,287.0 L719.5,289.0 L729.4,291.0 L735.8,293.0 L738.0,295.0 L735.8,297.0 L729.4,299.0 L719.5,301.0 L706.9,303.0 L693.0,305.0 L679.1,307.0 L666.5,309.0 L656.6,311.0 L650.2,313.0 L648.0,315.0 L650.2,317.0 L656.6,319.0 L666.5,321.0 L679.1,323.0 L693.0,325.0 L706.9,327.0 L719.5,329.0 L729.4,331.0 L735.8,333.0 L738.0,335.0 L735.8,337.0 L729.4,339.0 L719.5,341.0 L706.9,343.0 L693.0,345.0 L679.1,347.0 L666.5,349.0 L656.6,351.0 L650.2,353.0 L648.0,355.0" fill="none" stroke="#7c3aed" stroke-width="2"/>
+<text x="748.0" y="339.0" text-anchor="start" font-size="12" font-weight="normal" fill="#7c3aed">m = -3</text>
+<text x="748.0" y="299.0" text-anchor="start" font-size="12" font-weight="normal" fill="#7c3aed">m = -2</text>
+<text x="748.0" y="259.0" text-anchor="start" font-size="12" font-weight="normal" fill="#7c3aed">m = -1</text>
+<text x="748.0" y="219.0" text-anchor="start" font-size="12" font-weight="normal" fill="#7c3aed">m = 0</text>
+<text x="748.0" y="179.0" text-anchor="start" font-size="12" font-weight="normal" fill="#7c3aed">m = 1</text>
+<text x="748.0" y="139.0" text-anchor="start" font-size="12" font-weight="normal" fill="#7c3aed">m = 2</text>
+<text x="748.0" y="99.0" text-anchor="start" font-size="12" font-weight="normal" fill="#7c3aed">m = 3</text>
+<text x="690.0" y="52.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#7c3aed">intensity on a distant screen</text>
+<text x="400.0" y="385.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">bright where d sin θ = mλ; dark where d sin θ = (m + ½)λ</text>
+</svg>

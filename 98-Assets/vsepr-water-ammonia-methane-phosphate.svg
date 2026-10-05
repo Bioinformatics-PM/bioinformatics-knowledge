@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2937">
+  <rect x="0" y="0" width="800" height="350" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="400" y="28" text-anchor="middle" font-size="16" font-weight="bold">VSEPR: four electron groups point to the corners of a tetrahedron</text>
+  <text x="400" y="48" text-anchor="middle" font-size="12">Lone pairs (yellow) take more room than bonds and close the angle: 109.5° (CH₄) → 107.3° (NH₃) → 104.5° (H₂O)</text>
+  <g stroke="#e2e8f0" stroke-width="1.5">
+    <line x1="200" y1="62" x2="200" y2="305"/>
+    <line x1="400" y1="62" x2="400" y2="305"/>
+    <line x1="600" y1="62" x2="600" y2="305"/>
+  </g>
+
+  <!-- Methane -->
+  <g stroke="#64748b" stroke-width="3">
+    <line x1="100" y1="165" x2="100" y2="85"/>
+    <line x1="100" y1="165" x2="40" y2="205"/>
+    <line x1="100" y1="165" x2="165" y2="190" stroke-dasharray="5 4"/>
+  </g>
+  <polygon points="100,165 124.6,227.7 135.4,222.3" fill="#64748b"/>
+  <path d="M 100 137 A 28 28 0 0 0 76.7 180.5" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="70" y="140" text-anchor="end" fill="#b91c1c">109.5°</text>
+  <g stroke="#64748b" stroke-width="1.5">
+    <circle cx="100" cy="85" r="11" fill="#e0f2fe"/>
+    <circle cx="40" cy="205" r="11" fill="#e0f2fe"/>
+    <circle cx="130" cy="225" r="11" fill="#e0f2fe"/>
+    <circle cx="165" cy="190" r="11" fill="#e0f2fe"/>
+    <circle cx="100" cy="165" r="16" fill="#cbd5e1"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="100" y="89">H</text><text x="40" y="209">H</text><text x="130" y="229">H</text><text x="165" y="194">H</text>
+    <text x="100" y="170" font-weight="bold">C</text>
+    <text x="100" y="262" font-weight="bold">methane, CH₄</text>
+    <text x="100" y="280">4 bonds, 0 lone pairs</text>
+    <text x="100" y="298">tetrahedral</text>
+  </g>
+
+  <!-- Ammonia -->
+  <ellipse cx="300" cy="113" rx="12" ry="21" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <circle cx="296" cy="108" r="2.5" fill="#92400e"/>
+  <circle cx="304" cy="108" r="2.5" fill="#92400e"/>
+  <g stroke="#64748b" stroke-width="3">
+    <line x1="300" y1="155" x2="240" y2="195"/>
+    <line x1="300" y1="155" x2="362" y2="180" stroke-dasharray="5 4"/>
+  </g>
+  <polygon points="300,155 324.6,220.7 335.4,215.3" fill="#64748b"/>
+  <path d="M 312.05 180.27 A 28 28 0 0 1 276.7 170.5" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="284" y="224" text-anchor="middle" fill="#b91c1c">107.3°</text>
+  <g stroke="#64748b" stroke-width="1.5">
+    <circle cx="240" cy="195" r="11" fill="#e0f2fe"/>
+    <circle cx="330" cy="218" r="11" fill="#e0f2fe"/>
+    <circle cx="362" cy="180" r="11" fill="#e0f2fe"/>
+    <circle cx="300" cy="155" r="16" fill="#c7d2fe"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="240" y="199">H</text><text x="330" y="222">H</text><text x="362" y="184">H</text>
+    <text x="300" y="160" font-weight="bold">N</text>
+    <text x="300" y="262" font-weight="bold">ammonia, NH₃</text>
+    <text x="300" y="280">3 bonds, 1 lone pair</text>
+    <text x="300" y="298">trigonal pyramidal</text>
+  </g>
+
+  <!-- Water -->
+  <ellipse cx="478" cy="116" rx="11" ry="20" transform="rotate(-35 478 116)" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <ellipse cx="522" cy="116" rx="11" ry="20" transform="rotate(35 522 116)" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <circle cx="474" cy="114" r="2.5" fill="#92400e"/>
+  <circle cx="481" cy="119" r="2.5" fill="#92400e"/>
+  <circle cx="526" cy="114" r="2.5" fill="#92400e"/>
+  <circle cx="519" cy="119" r="2.5" fill="#92400e"/>
+  <g stroke="#64748b" stroke-width="3">
+    <line x1="500" y1="150" x2="444.6" y2="192.9"/>
+    <line x1="500" y1="150" x2="555.4" y2="192.9"/>
+  </g>
+  <path d="M 520.56 165.92 A 26 26 0 0 1 479.44 165.92" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="500" y="200" text-anchor="middle" fill="#b91c1c">104.5°</text>
+  <g stroke="#64748b" stroke-width="1.5">
+    <circle cx="444.6" cy="192.9" r="11" fill="#e0f2fe"/>
+    <circle cx="555.4" cy="192.9" r="11" fill="#e0f2fe"/>
+    <circle cx="500" cy="150" r="16" fill="#fecaca"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="444.6" y="197">H</text><text x="555.4" y="197">H</text>
+    <text x="500" y="155" font-weight="bold">O</text>
+    <text x="500" y="262" font-weight="bold">water, H₂O</text>
+    <text x="500" y="280">2 bonds, 2 lone pairs</text>
+    <text x="500" y="298">bent (planar molecule)</text>
+  </g>
+
+  <!-- Phosphate -->
+  <g stroke="#64748b" stroke-width="3">
+    <line x1="700" y1="160" x2="700" y2="80"/>
+    <line x1="700" y1="160" x2="640" y2="200"/>
+    <line x1="700" y1="160" x2="765" y2="185" stroke-dasharray="5 4"/>
+  </g>
+  <polygon points="700,160 724.6,225.7 735.4,220.3" fill="#64748b"/>
+  <path d="M 700 130 A 30 30 0 0 0 675.04 176.64" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="668" y="136" text-anchor="end" fill="#b91c1c">≈109.5°</text>
+  <g stroke="#64748b" stroke-width="1.5">
+    <circle cx="700" cy="80" r="13" fill="#fecaca"/>
+    <circle cx="640" cy="200" r="13" fill="#fecaca"/>
+    <circle cx="730" cy="223" r="13" fill="#fecaca"/>
+    <circle cx="765" cy="185" r="13" fill="#fecaca"/>
+    <circle cx="700" cy="160" r="17" fill="#fed7aa"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="700" y="84">O</text><text x="640" y="204">O</text><text x="730" y="227">O</text><text x="765" y="189">O</text>
+    <text x="700" y="165" font-weight="bold">P</text>
+    <text x="700" y="262" font-weight="bold">phosphate, PO₄³⁻</text>
+    <text x="700" y="280">4 bonds, no lone pair on P</text>
+    <text x="700" y="298">tetrahedral</text>
+  </g>
+
+  <!-- Legend -->
+  <line x1="40" y1="327" x2="80" y2="327" stroke="#64748b" stroke-width="3"/>
+  <text x="88" y="331">bond in the page plane</text>
+  <polygon points="250,327 290,322 290,332" fill="#64748b"/>
+  <text x="298" y="331">wedge: toward the viewer</text>
+  <line x1="470" y1="327" x2="510" y2="327" stroke="#64748b" stroke-width="3" stroke-dasharray="5 4"/>
+  <text x="518" y="331">dashes: behind the page</text>
+  <ellipse cx="690" cy="327" rx="12" ry="7" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="708" y="331">lone pair</text>
+</svg>

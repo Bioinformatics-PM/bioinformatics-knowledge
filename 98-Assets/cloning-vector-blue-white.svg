@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="760" height="420" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="380" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">A cloning vector and how colonies are read (schematic, not to scale)</text>
+<circle cx="210" cy="210" r="105" fill="none" stroke="#94a3b8" stroke-width="4"/>
+<path d="M 277.5 290.4 A 105 105 0 0 1 142.5 290.4" fill="none" stroke="#fecaca" stroke-width="22"/>
+<path d="M 296.0 149.8 A 105 105 0 0 1 314.6 219.2" fill="none" stroke="#bfdbfe" stroke-width="22"/>
+<path d="M 142.5 129.6 A 105 105 0 0 1 277.5 129.6" fill="none" stroke="#bbf7d0" stroke-width="22"/>
+<text x="210.0" y="345.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">ampR</text>
+<text x="210.0" y="361.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">selectable marker</text>
+<text x="332.7" y="181.1" text-anchor="start" font-size="13" font-weight="bold" fill="#1f2937">ori</text>
+<text x="332.7" y="197.1" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">origin of</text>
+<text x="332.7" y="211.1" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">replication</text>
+<text x="115.6" y="129.0" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">lacZα</text>
+<line x1="194.2" y1="120.4" x2="188.6" y2="88.9" stroke="#7c3aed" stroke-width="2.5"/>
+<text x="186.6" y="81.1" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">EcoRI</text>
+<line x1="210.0" y1="119.0" x2="210.0" y2="87.0" stroke="#7c3aed" stroke-width="2.5"/>
+<text x="210.0" y="71.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">BamHI</text>
+<line x1="225.8" y1="120.4" x2="231.4" y2="88.9" stroke="#7c3aed" stroke-width="2.5"/>
+<text x="233.4" y="81.1" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">HindIII</text>
+<text x="210.0" y="143.0" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">MCS</text>
+<text x="210" y="206" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">plasmid vector</text>
+<text x="210" y="226" text-anchor="middle" font-size="12" fill="#475569">circular, double-stranded</text>
+<text x="430" y="78" font-size="14" font-weight="bold" fill="#1f2937">On ampicillin + X-gal plates</text>
+<rect x="420" y="95" width="320" height="80" rx="10" fill="#eef2f7" stroke="#cbd5e1"/>
+<text x="436" y="121" font-size="13" font-weight="bold" fill="#1f2937">Vector + insert in the MCS</text>
+<text x="436" y="141" font-size="12" fill="#475569">lacZα disrupted: no β-galactosidase</text>
+<circle cx="702" cy="135" r="16" fill="#f8fafc" stroke="#94a3b8" stroke-width="2"/>
+<text x="436" y="161" font-size="12" font-weight="bold" fill="#1f2937">→ white colony</text>
+<rect x="420" y="187" width="320" height="80" rx="10" fill="#eef2f7" stroke="#cbd5e1"/>
+<text x="436" y="213" font-size="13" font-weight="bold" fill="#1f2937">Vector closed without insert</text>
+<text x="436" y="233" font-size="12" fill="#475569">lacZα intact: X-gal turned blue</text>
+<circle cx="702" cy="227" r="16" fill="#93c5fd" stroke="#3b82f6" stroke-width="2"/>
+<text x="436" y="253" font-size="12" font-weight="bold" fill="#1f2937">→ blue colony</text>
+<rect x="420" y="279" width="320" height="80" rx="10" fill="#eef2f7" stroke="#cbd5e1"/>
+<text x="436" y="305" font-size="13" font-weight="bold" fill="#1f2937">No plasmid taken up</text>
+<text x="436" y="325" font-size="12" fill="#475569">no ampR: killed by ampicillin</text>
+<circle cx="702" cy="319" r="16" fill="none" stroke="#94a3b8" stroke-dasharray="4 3" stroke-width="2"/>
+<text x="436" y="345" font-size="12" font-weight="bold" fill="#1f2937">→ no colony</text>
+<text x="380" y="404" text-anchor="middle" font-size="12" fill="#475569">Pick white colonies, then confirm the insert by digest, PCR or sequencing.</text>
+</svg>

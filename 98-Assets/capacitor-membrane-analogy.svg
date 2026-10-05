@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 370" width="760" height="370" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">A parallel-plate capacitor and a cell membrane seen as a capacitor</title>
+<desc id="d">Left: two parallel plates of area A, separated by a distance d and filled with a dielectric of constant kappa; the top plate carries +Q, the bottom plate -Q, and a uniform field E points from the positive to the negative plate. Right: a lipid bilayer about 5 nm thick separating the extracellular fluid, whose face is lined with excess cations, from the cytosol, whose face is lined with excess anions; the hydrocarbon core is the insulator and the field points inward at a resting potential of about -70 mV.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
+</defs>
+<rect x="1" y="1" width="758" height="368" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="24" y="32" font-size="17" font-weight="bold" fill="#1f2937">Two conductors separated by an insulator: a capacitor and a membrane</text>
+<text x="24" y="54" font-size="13" fill="#374151">Equal and opposite charges face each other; the field between them is uniform, E = V/d.</text>
+<!-- left panel: parallel-plate capacitor -->
+<text x="190" y="84" font-size="13" text-anchor="middle" fill="#374151">plate area A</text>
+<rect x="70" y="92" width="240" height="14" fill="#fecaca" stroke="#b91c1c" stroke-width="1.2"/>
+<rect x="70" y="106" width="240" height="124" fill="#fef3c7" stroke="#d97706" stroke-width="0.8" stroke-dasharray="4 3"/>
+<rect x="70" y="230" width="240" height="14" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="56" y="104" font-size="15" font-weight="bold" text-anchor="end" fill="#b91c1c">+Q</text>
+<text x="56" y="242" font-size="15" font-weight="bold" text-anchor="end" fill="#1d4ed8">−Q</text>
+<line x1="95" y1="112" x2="95" y2="222" stroke="#475569" stroke-width="1.6" marker-end="url(#arr)"/>
+<line x1="130" y1="112" x2="130" y2="222" stroke="#475569" stroke-width="1.6" marker-end="url(#arr)"/>
+<line x1="250" y1="112" x2="250" y2="222" stroke="#475569" stroke-width="1.6" marker-end="url(#arr)"/>
+<line x1="285" y1="112" x2="285" y2="222" stroke="#475569" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="190" y="160" font-size="13" text-anchor="middle" fill="#1f2937">dielectric, κ</text>
+<text x="190" y="182" font-size="13" text-anchor="middle" fill="#1f2937">uniform field E</text>
+<line x1="328" y1="106" x2="328" y2="230" stroke="#475569" stroke-width="1.2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text x="338" y="173" font-size="14" font-style="italic" fill="#1f2937">d</text>
+<text x="190" y="276" font-size="15" font-weight="bold" text-anchor="middle" fill="#1f2937">C = Q/V = κε₀A/d</text>
+<text x="190" y="298" font-size="14" text-anchor="middle" fill="#374151">stored energy U = ½CV²</text>
+<!-- right panel: membrane -->
+<text x="560" y="84" font-size="13" font-style="italic" text-anchor="middle" fill="#374151">outside: extracellular fluid (conductor)</text>
+<g font-size="12" font-weight="bold" text-anchor="middle" fill="#b91c1c">
+<circle cx="440" cy="100" r="8" fill="#fecaca" stroke="#b91c1c"/><text x="440" y="104">+</text>
+<circle cx="480" cy="100" r="8" fill="#fecaca" stroke="#b91c1c"/><text x="480" y="104">+</text>
+<circle cx="520" cy="100" r="8" fill="#fecaca" stroke="#b91c1c"/><text x="520" y="104">+</text>
+<circle cx="560" cy="100" r="8" fill="#fecaca" stroke="#b91c1c"/><text x="560" y="104">+</text>
+<circle cx="600" cy="100" r="8" fill="#fecaca" stroke="#b91c1c"/><text x="600" y="104">+</text>
+<circle cx="640" cy="100" r="8" fill="#fecaca" stroke="#b91c1c"/><text x="640" y="104">+</text>
+<circle cx="680" cy="100" r="8" fill="#fecaca" stroke="#b91c1c"/><text x="680" y="104">+</text>
+</g>
+<rect x="420" y="112" width="280" height="18" fill="#c7d2fe" stroke="#6366f1" stroke-width="0.8"/>
+<rect x="420" y="130" width="280" height="82" fill="#fef3c7" stroke="#d97706" stroke-width="0.8" stroke-dasharray="4 3"/>
+<rect x="420" y="212" width="280" height="18" fill="#c7d2fe" stroke="#6366f1" stroke-width="0.8"/>
+<line x1="445" y1="134" x2="445" y2="206" stroke="#475569" stroke-width="1.6" marker-end="url(#arr)"/>
+<line x1="675" y1="134" x2="675" y2="206" stroke="#475569" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="560" y="164" font-size="13" text-anchor="middle" fill="#1f2937">hydrocarbon core, κ ≈ 2</text>
+<text x="560" y="186" font-size="12" text-anchor="middle" fill="#374151">insulator; head groups above and below</text>
+<g font-size="12" font-weight="bold" text-anchor="middle" fill="#1d4ed8">
+<circle cx="440" cy="242" r="8" fill="#bfdbfe" stroke="#1d4ed8"/><text x="440" y="246">−</text>
+<circle cx="480" cy="242" r="8" fill="#bfdbfe" stroke="#1d4ed8"/><text x="480" y="246">−</text>
+<circle cx="520" cy="242" r="8" fill="#bfdbfe" stroke="#1d4ed8"/><text x="520" y="246">−</text>
+<circle cx="560" cy="242" r="8" fill="#bfdbfe" stroke="#1d4ed8"/><text x="560" y="246">−</text>
+<circle cx="600" cy="242" r="8" fill="#bfdbfe" stroke="#1d4ed8"/><text x="600" y="246">−</text>
+<circle cx="640" cy="242" r="8" fill="#bfdbfe" stroke="#1d4ed8"/><text x="640" y="246">−</text>
+<circle cx="680" cy="242" r="8" fill="#bfdbfe" stroke="#1d4ed8"/><text x="680" y="246">−</text>
+</g>
+<line x1="714" y1="112" x2="714" y2="230" stroke="#475569" stroke-width="1.2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text x="722" y="175" font-size="14" font-style="italic" fill="#1f2937">d</text>
+<text x="560" y="270" font-size="13" font-style="italic" text-anchor="middle" fill="#374151">inside: cytosol (conductor)</text>
+<text x="560" y="298" font-size="14" text-anchor="middle" fill="#1f2937">V(in) − V(out) ≈ −70 mV, d ≈ 5 nm</text>
+<text x="560" y="320" font-size="14" font-weight="bold" text-anchor="middle" fill="#1f2937">measured: about 1 µF/cm²</text>
+<text x="24" y="352" font-size="12" fill="#475569">Schematic, not to scale. At rest the excess anions line the inner face and the excess cations the outer face; the field points inward.</text>
+</svg>

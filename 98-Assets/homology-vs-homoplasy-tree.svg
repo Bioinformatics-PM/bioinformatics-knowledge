@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="758" height="358" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="380" y="30" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2937">Homology vs homoplasy on the same tree</text>
+
+  <!-- left panel: homology -->
+  <text x="190" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d4ed8">Homology: hair, gained once</text>
+  <g stroke="#64748b" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M 190,290 L 190,250 M 190,250 L 110,180 M 190,250 L 270,180"/>
+    <path d="M 110,180 L 70,100 M 110,180 L 150,100 M 270,180 L 230,100 M 270,180 L 310,100"/>
+  </g>
+  <rect x="217" y="210.5" width="26" height="9" rx="2" fill="#60a5fa" stroke="#1d4ed8" transform="rotate(-41.2 230 215)"/>
+  <text x="258" y="228" font-size="12" fill="#1d4ed8">+ hair</text>
+  <g font-size="13" text-anchor="middle" fill="#1f2937">
+    <text x="70" y="90">lizard</text><text x="150" y="90">pigeon</text>
+    <text x="230" y="90">mouse</text><text x="310" y="90">bat</text>
+  </g>
+  <circle cx="230" cy="104" r="6" fill="#60a5fa" stroke="#1d4ed8"/>
+  <circle cx="310" cy="104" r="6" fill="#60a5fa" stroke="#1d4ed8"/>
+  <text x="190" y="318" text-anchor="middle" font-size="12" fill="#1f2937">mouse and bat share hair because their</text>
+  <text x="190" y="334" text-anchor="middle" font-size="12" fill="#1f2937">common ancestor had it: one gain explains both</text>
+
+  <line x1="380" y1="55" x2="380" y2="335" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- right panel: homoplasy -->
+  <text x="570" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#b45309">Homoplasy: flight, gained twice</text>
+  <g stroke="#64748b" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M 570,290 L 570,250 M 570,250 L 490,180 M 570,250 L 650,180"/>
+    <path d="M 490,180 L 450,100 M 490,180 L 530,100 M 650,180 L 610,100 M 650,180 L 690,100"/>
+  </g>
+  <rect x="497" y="135.5" width="26" height="9" rx="2" fill="#fbbf24" stroke="#b45309" transform="rotate(-63.4 510 140)"/>
+  <rect x="657" y="135.5" width="26" height="9" rx="2" fill="#fbbf24" stroke="#b45309" transform="rotate(-63.4 670 140)"/>
+  <text x="520" y="150" font-size="12" fill="#b45309">+ flight</text>
+  <text x="680" y="150" font-size="12" fill="#b45309">+ flight</text>
+  <g font-size="13" text-anchor="middle" fill="#1f2937">
+    <text x="450" y="90">lizard</text><text x="530" y="90">pigeon</text>
+    <text x="610" y="90">mouse</text><text x="690" y="90">bat</text>
+  </g>
+  <circle cx="530" cy="104" r="6" fill="#fbbf24" stroke="#b45309"/>
+  <circle cx="690" cy="104" r="6" fill="#fbbf24" stroke="#b45309"/>
+  <text x="570" y="318" text-anchor="middle" font-size="12" fill="#1f2937">pigeon and bat both fly, but their common ancestor</text>
+  <text x="570" y="334" text-anchor="middle" font-size="12" fill="#1f2937">did not: two independent gains (convergence)</text>
+</svg>

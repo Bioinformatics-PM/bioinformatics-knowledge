@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 468" width="780" height="468" font-family="Helvetica, Arial, sans-serif">
+  <title>Dominance seen through gene products</title>
+  <rect x="2" y="2" width="776" height="464" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="390.0" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Dominance seen through gene products</text>
+  <text x="390.0" y="56" text-anchor="middle" font-size="13" fill="#475569">Bars: gene product made by the two alleles (schematic units). Circles: resulting phenotype.</text>
+  <rect x="20" y="76" width="240" height="372" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="140.0" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">Complete dominance</text>
+  <text x="140.0" y="118" text-anchor="middle" font-size="12" fill="#475569">one working copy is enough</text>
+  <line x1="34" y1="276" x2="246" y2="276" stroke="#94a3b8" stroke-width="1.5"/>
+  <rect x="46" y="156" width="36" height="120" rx="3" fill="#93c5fd" stroke="#64748b" stroke-width="1"/>
+  <text x="64" y="298" text-anchor="middle" font-size="15" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">AA</text>
+  <circle cx="64" cy="346" r="22" fill="#60a5fa" stroke="#64748b" stroke-width="1.5"/>
+  <text x="64" y="388" text-anchor="middle" font-size="13" fill="#1f2937">normal</text>
+  <rect x="122" y="216" width="36" height="60" rx="3" fill="#93c5fd" stroke="#64748b" stroke-width="1"/>
+  <text x="140" y="298" text-anchor="middle" font-size="15" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">Aa</text>
+  <circle cx="140" cy="346" r="22" fill="#60a5fa" stroke="#64748b" stroke-width="1.5"/>
+  <text x="140" y="388" text-anchor="middle" font-size="13" fill="#1f2937">normal</text>
+  <text x="216" y="268" text-anchor="middle" font-size="12" fill="#64748b">none</text>
+  <text x="216" y="298" text-anchor="middle" font-size="15" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">aa</text>
+  <circle cx="216" cy="346" r="22" fill="#e2e8f0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="216" y="388" text-anchor="middle" font-size="13" fill="#1f2937">mutant</text>
+  <rect x="270" y="76" width="240" height="372" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="390.0" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">Incomplete dominance</text>
+  <text x="390.0" y="118" text-anchor="middle" font-size="12" fill="#475569">phenotype follows the dose</text>
+  <line x1="284" y1="276" x2="496" y2="276" stroke="#94a3b8" stroke-width="1.5"/>
+  <rect x="296" y="156" width="36" height="120" rx="3" fill="#fca5a5" stroke="#64748b" stroke-width="1"/>
+  <text x="314" y="298" text-anchor="middle" font-size="15" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">RR</text>
+  <circle cx="314" cy="346" r="22" fill="#f87171" stroke="#64748b" stroke-width="1.5"/>
+  <text x="314" y="388" text-anchor="middle" font-size="13" fill="#1f2937">red</text>
+  <rect x="372" y="216" width="36" height="60" rx="3" fill="#fca5a5" stroke="#64748b" stroke-width="1"/>
+  <text x="390" y="298" text-anchor="middle" font-size="15" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">RW</text>
+  <circle cx="390" cy="346" r="22" fill="#fbcfe8" stroke="#64748b" stroke-width="1.5"/>
+  <text x="390" y="388" text-anchor="middle" font-size="13" fill="#1f2937">pink</text>
+  <text x="466" y="268" text-anchor="middle" font-size="12" fill="#64748b">none</text>
+  <text x="466" y="298" text-anchor="middle" font-size="15" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">WW</text>
+  <circle cx="466" cy="346" r="22" fill="#f1f5f9" stroke="#64748b" stroke-width="1.5"/>
+  <text x="466" y="388" text-anchor="middle" font-size="13" fill="#1f2937">white</text>
+  <rect x="520" y="76" width="240" height="372" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="640.0" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">Codominance</text>
+  <text x="640.0" y="118" text-anchor="middle" font-size="12" fill="#475569">both products are present</text>
+  <line x1="534" y1="276" x2="746" y2="276" stroke="#94a3b8" stroke-width="1.5"/>
+  <rect x="546" y="156" width="36" height="120" rx="3" fill="#c4b5fd" stroke="#64748b" stroke-width="1"/>
+  <text x="564" y="298" text-anchor="middle" font-size="15" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">MM</text>
+  <circle cx="564" cy="346" r="22" fill="#c4b5fd" stroke="#64748b" stroke-width="1.5"/>
+  <text x="564" y="388" text-anchor="middle" font-size="13" fill="#1f2937">M</text>
+  <rect x="622" y="216" width="36" height="60" rx="3" fill="#c4b5fd" stroke="#64748b" stroke-width="1"/>
+  <rect x="622" y="156" width="36" height="60" rx="3" fill="#86efac" stroke="#64748b" stroke-width="1"/>
+  <text x="640" y="298" text-anchor="middle" font-size="15" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">MN</text>
+  <path d="M 640 324 A 22 22 0 0 0 640 368 Z" fill="#c4b5fd" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M 640 324 A 22 22 0 0 1 640 368 Z" fill="#86efac" stroke="#64748b" stroke-width="1.5"/>
+  <text x="640" y="388" text-anchor="middle" font-size="13" fill="#1f2937">MN</text>
+  <rect x="698" y="156" width="36" height="120" rx="3" fill="#86efac" stroke="#64748b" stroke-width="1"/>
+  <text x="716" y="298" text-anchor="middle" font-size="15" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">NN</text>
+  <circle cx="716" cy="346" r="22" fill="#86efac" stroke="#64748b" stroke-width="1.5"/>
+  <text x="716" y="388" text-anchor="middle" font-size="13" fill="#1f2937">N</text>
+  <text x="140.0" y="434" text-anchor="middle" font-size="12" fill="#475569">A working, a null allele</text>
+  <text x="390.0" y="434" text-anchor="middle" font-size="12" fill="#475569">snapdragon flower colour</text>
+  <text x="640.0" y="434" text-anchor="middle" font-size="12" fill="#475569">human MN blood group antigens</text>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" font-family="Helvetica, Arial, sans-serif">
+  <rect x="4" y="4" width="792" height="492" rx="16" ry="16" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="400" y="38" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">IUPAC nucleotide codes as sets of bases, ordered by inclusion</text>
+  <g stroke="#94a3b8" stroke-width="1.4">
+    <line x1="125" y1="312" x2="190" y2="368"/>
+    <line x1="235" y1="312" x2="190" y2="368"/>
+    <line x1="345" y1="312" x2="190" y2="368"/>
+    <line x1="125" y1="312" x2="330" y2="368"/>
+    <line x1="455" y1="312" x2="330" y2="368"/>
+    <line x1="565" y1="312" x2="330" y2="368"/>
+    <line x1="235" y1="312" x2="470" y2="368"/>
+    <line x1="455" y1="312" x2="470" y2="368"/>
+    <line x1="675" y1="312" x2="470" y2="368"/>
+    <line x1="345" y1="312" x2="610" y2="368"/>
+    <line x1="565" y1="312" x2="610" y2="368"/>
+    <line x1="675" y1="312" x2="610" y2="368"/>
+    <line x1="190" y1="212" x2="125" y2="268"/>
+    <line x1="330" y1="212" x2="125" y2="268"/>
+    <line x1="190" y1="212" x2="235" y2="268"/>
+    <line x1="470" y1="212" x2="235" y2="268"/>
+    <line x1="330" y1="212" x2="345" y2="268"/>
+    <line x1="470" y1="212" x2="345" y2="268"/>
+    <line x1="190" y1="212" x2="455" y2="268"/>
+    <line x1="610" y1="212" x2="455" y2="268"/>
+    <line x1="330" y1="212" x2="565" y2="268"/>
+    <line x1="610" y1="212" x2="565" y2="268"/>
+    <line x1="470" y1="212" x2="675" y2="268"/>
+    <line x1="610" y1="212" x2="675" y2="268"/>
+    <line x1="400" y1="112" x2="190" y2="168"/>
+    <line x1="400" y1="112" x2="330" y2="168"/>
+    <line x1="400" y1="112" x2="470" y2="168"/>
+    <line x1="400" y1="112" x2="610" y2="168"/>
+  </g>
+  <rect x="363" y="68" width="74" height="44" rx="9" fill="#fbcfe8" stroke="#64748b" stroke-width="1.2"/>
+  <text x="400" y="88" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">N</text>
+  <text x="400" y="105" text-anchor="middle" font-size="12" fill="#1f2937">A,C,G,T</text>
+  <text x="758" y="87" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">|S| = 4</text>
+  <text x="758" y="104" text-anchor="middle" font-size="12" fill="#1f2937">0 bits</text>
+  <rect x="153" y="168" width="74" height="44" rx="9" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <text x="190" y="188" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">V</text>
+  <text x="190" y="205" text-anchor="middle" font-size="12" fill="#1f2937">A,C,G</text>
+  <rect x="293" y="168" width="74" height="44" rx="9" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <text x="330" y="188" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">H</text>
+  <text x="330" y="205" text-anchor="middle" font-size="12" fill="#1f2937">A,C,T</text>
+  <rect x="433" y="168" width="74" height="44" rx="9" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <text x="470" y="188" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">D</text>
+  <text x="470" y="205" text-anchor="middle" font-size="12" fill="#1f2937">A,G,T</text>
+  <rect x="573" y="168" width="74" height="44" rx="9" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <text x="610" y="188" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">B</text>
+  <text x="610" y="205" text-anchor="middle" font-size="12" fill="#1f2937">C,G,T</text>
+  <text x="758" y="187" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">|S| = 3</text>
+  <text x="758" y="204" text-anchor="middle" font-size="12" fill="#1f2937">0.415 bits</text>
+  <rect x="88" y="268" width="74" height="44" rx="9" fill="#dcfce7" stroke="#64748b" stroke-width="1.2"/>
+  <text x="125" y="288" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">M</text>
+  <text x="125" y="305" text-anchor="middle" font-size="12" fill="#1f2937">A,C</text>
+  <rect x="198" y="268" width="74" height="44" rx="9" fill="#dcfce7" stroke="#64748b" stroke-width="1.2"/>
+  <text x="235" y="288" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">R</text>
+  <text x="235" y="305" text-anchor="middle" font-size="12" fill="#1f2937">A,G</text>
+  <rect x="308" y="268" width="74" height="44" rx="9" fill="#dcfce7" stroke="#64748b" stroke-width="1.2"/>
+  <text x="345" y="288" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">W</text>
+  <text x="345" y="305" text-anchor="middle" font-size="12" fill="#1f2937">A,T</text>
+  <rect x="418" y="268" width="74" height="44" rx="9" fill="#dcfce7" stroke="#64748b" stroke-width="1.2"/>
+  <text x="455" y="288" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">S</text>
+  <text x="455" y="305" text-anchor="middle" font-size="12" fill="#1f2937">C,G</text>
+  <rect x="528" y="268" width="74" height="44" rx="9" fill="#dcfce7" stroke="#64748b" stroke-width="1.2"/>
+  <text x="565" y="288" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">Y</text>
+  <text x="565" y="305" text-anchor="middle" font-size="12" fill="#1f2937">C,T</text>
+  <rect x="638" y="268" width="74" height="44" rx="9" fill="#dcfce7" stroke="#64748b" stroke-width="1.2"/>
+  <text x="675" y="288" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">K</text>
+  <text x="675" y="305" text-anchor="middle" font-size="12" fill="#1f2937">G,T</text>
+  <text x="758" y="287" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">|S| = 2</text>
+  <text x="758" y="304" text-anchor="middle" font-size="12" fill="#1f2937">1 bit</text>
+  <rect x="153" y="368" width="74" height="44" rx="9" fill="#dbeafe" stroke="#64748b" stroke-width="1.2"/>
+  <text x="190" y="388" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">A</text>
+  <text x="190" y="405" text-anchor="middle" font-size="12" fill="#1f2937">A</text>
+  <rect x="293" y="368" width="74" height="44" rx="9" fill="#dbeafe" stroke="#64748b" stroke-width="1.2"/>
+  <text x="330" y="388" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">C</text>
+  <text x="330" y="405" text-anchor="middle" font-size="12" fill="#1f2937">C</text>
+  <rect x="433" y="368" width="74" height="44" rx="9" fill="#dbeafe" stroke="#64748b" stroke-width="1.2"/>
+  <text x="470" y="388" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">G</text>
+  <text x="470" y="405" text-anchor="middle" font-size="12" fill="#1f2937">G</text>
+  <rect x="573" y="368" width="74" height="44" rx="9" fill="#dbeafe" stroke="#64748b" stroke-width="1.2"/>
+  <text x="610" y="388" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">T</text>
+  <text x="610" y="405" text-anchor="middle" font-size="12" fill="#1f2937">T</text>
+  <text x="758" y="387" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">|S| = 1</text>
+  <text x="758" y="404" text-anchor="middle" font-size="12" fill="#1f2937">2 bits</text>
+  <text x="400" y="448" text-anchor="middle" font-size="12" fill="#1f2937">A line joins a code to each code that adds exactly one base. Going up loses information: log2(4/|S|) bits per symbol.</text>
+  <text x="400" y="468" text-anchor="middle" font-size="12" fill="#1f2937">Complement swaps A with T and C with G: R and Y, K and M, B and V, D and H swap; S, W and N are their own complements.</text>
+</svg>

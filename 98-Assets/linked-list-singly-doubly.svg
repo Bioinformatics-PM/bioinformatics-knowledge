@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 345" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/>
+    </marker>
+    <marker id="ao" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#d97706"/>
+    </marker>
+  </defs>
+  <rect x="2" y="2" width="756" height="341" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="380" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Linked lists: nodes joined by references</text>
+
+  <!-- Panel A: singly linked -->
+  <text x="30" y="62" font-size="14" font-weight="bold" fill="#1f2937">A. Singly linked: each node holds a value and a reference to the next node</text>
+  <rect x="20" y="80" width="60" height="36" rx="6" fill="#e2e8f0" stroke="#64748b"/>
+  <text x="50" y="103" text-anchor="middle" font-size="13" fill="#1f2937">head</text>
+  <g font-size="14" fill="#1f2937" text-anchor="middle">
+    <rect x="110" y="80" width="50" height="36" fill="#dbeafe" stroke="#3b82f6"/><rect x="160" y="80" width="40" height="36" fill="#eff6ff" stroke="#3b82f6"/>
+    <rect x="260" y="80" width="50" height="36" fill="#dbeafe" stroke="#3b82f6"/><rect x="310" y="80" width="40" height="36" fill="#eff6ff" stroke="#3b82f6"/>
+    <rect x="410" y="80" width="50" height="36" fill="#dbeafe" stroke="#3b82f6"/><rect x="460" y="80" width="40" height="36" fill="#eff6ff" stroke="#3b82f6"/>
+    <rect x="560" y="80" width="50" height="36" fill="#dbeafe" stroke="#3b82f6"/><rect x="610" y="80" width="40" height="36" fill="#eff6ff" stroke="#3b82f6"/>
+    <text x="135" y="103">A</text><text x="285" y="103">C</text><text x="435" y="103">G</text><text x="585" y="103">T</text>
+    <text x="630" y="103" font-size="12">None</text>
+  </g>
+  <circle cx="180" cy="98" r="4" fill="#1d4ed8"/><circle cx="330" cy="98" r="4" fill="#1d4ed8"/><circle cx="480" cy="98" r="4" fill="#1d4ed8"/>
+  <line x1="80" y1="98" x2="108" y2="98" stroke="#475569" stroke-width="2" marker-end="url(#ah)"/>
+  <line x1="180" y1="98" x2="258" y2="98" stroke="#475569" stroke-width="2" marker-end="url(#ah)"/>
+  <line x1="330" y1="98" x2="408" y2="98" stroke="#475569" stroke-width="2" marker-end="url(#ah)"/>
+  <line x1="480" y1="98" x2="558" y2="98" stroke="#475569" stroke-width="2" marker-end="url(#ah)"/>
+  <text x="30" y="142" font-size="13" fill="#1f2937">get_at(i) follows i references: O(i). push_front makes a node that points to the old head: O(1).</text>
+  <text x="30" y="162" font-size="13" fill="#1f2937">Each node is a separate object: 48 B per node in CPython with __slots__ (measured), versus 8 B per list slot.</text>
+
+  <!-- Panel B: doubly linked, circular, sentinel -->
+  <text x="30" y="196" font-size="14" font-weight="bold" fill="#1f2937">B. Doubly linked and circular, with a sentinel: remove(node) in O(1)</text>
+  <g font-size="13" fill="#1f2937" text-anchor="middle">
+    <rect x="30" y="226" width="26" height="36" fill="#f1f5f9" stroke="#64748b"/><rect x="56" y="226" width="60" height="36" fill="#e2e8f0" stroke="#64748b"/><rect x="116" y="226" width="26" height="36" fill="#f1f5f9" stroke="#64748b"/>
+    <text x="86" y="249">nil</text>
+    <rect x="200" y="226" width="26" height="36" fill="#f0fdf4" stroke="#22c55e"/><rect x="226" y="226" width="60" height="36" fill="#dcfce7" stroke="#22c55e"/><rect x="286" y="226" width="26" height="36" fill="#f0fdf4" stroke="#22c55e"/>
+    <text x="256" y="249">read1</text>
+    <rect x="370" y="226" width="26" height="36" fill="#f8fafc" stroke="#94a3b8" stroke-dasharray="4 3"/><rect x="396" y="226" width="60" height="36" fill="#f1f5f9" stroke="#94a3b8" stroke-dasharray="4 3"/><rect x="456" y="226" width="26" height="36" fill="#f8fafc" stroke="#94a3b8" stroke-dasharray="4 3"/>
+    <text x="426" y="249" fill="#64748b">read2</text>
+    <rect x="540" y="226" width="26" height="36" fill="#f0fdf4" stroke="#22c55e"/><rect x="566" y="226" width="60" height="36" fill="#dcfce7" stroke="#22c55e"/><rect x="626" y="226" width="26" height="36" fill="#f0fdf4" stroke="#22c55e"/>
+    <text x="596" y="249">read3</text>
+  </g>
+  <g stroke="#475569" stroke-width="1.5">
+    <line x1="142" y1="236" x2="198" y2="236" marker-end="url(#ah)"/>
+    <line x1="312" y1="236" x2="368" y2="236" marker-end="url(#ah)"/>
+    <line x1="482" y1="236" x2="538" y2="236" marker-end="url(#ah)"/>
+    <line x1="200" y1="252" x2="144" y2="252" marker-end="url(#ah)"/>
+    <line x1="370" y1="252" x2="314" y2="252" marker-end="url(#ah)"/>
+    <line x1="540" y1="252" x2="484" y2="252" marker-end="url(#ah)"/>
+    <line x1="652" y1="236" x2="676" y2="236" marker-end="url(#ah)"/>
+  </g>
+  <text x="682" y="241" font-size="12" fill="#1f2937">to nil</text>
+  <text x="30" y="282" font-size="12" fill="#1f2937">nil.prev = read3 (circular)</text>
+  <path d="M 299 226 C 330 196, 520 196, 552 224" fill="none" stroke="#d97706" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#ao)"/>
+  <path d="M 553 262 C 520 292, 330 292, 301 264" fill="none" stroke="#d97706" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#ao)"/>
+  <text x="30" y="316" font-size="13" fill="#1f2937">remove(read2) rewires two references (orange): read1.next = read3 and read3.prev = read1.</text>
+  <text x="30" y="335" font-size="13" fill="#1f2937">No search and no shifting, provided you already hold the node: O(1).</text>
+</svg>

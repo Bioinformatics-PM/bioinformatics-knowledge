@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Anatomy of a messenger RNA in eukaryotes and bacteria</title>
+  <desc id="d">Top: a mature eukaryotic mRNA, 5' to 3': 7-methylguanosine cap, 5' untranslated region, start codon AUG, coding sequence, stop codon, 3' untranslated region containing the AAUAAA signal, and a poly(A) tail. Each part is annotated with its main role. Bottom: a bacterial polycistronic mRNA without cap or tail, carrying two coding sequences, each preceded by its own ribosome-binding (Shine-Dalgarno) site.</desc>
+  <rect x="3" y="3" width="794" height="514" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2937">Parts of a messenger RNA, 5' to 3'</text>
+  <text x="400" y="58" text-anchor="middle" font-size="13" fill="#475569">Schematic, lengths not to scale. Only the coding sequence is translated.</text>
+  <text x="30" y="92" font-size="15" font-weight="bold" fill="#1f2937">A. Mature eukaryotic mRNA (monocistronic)</text>
+  <circle cx="62" cy="150" r="15" fill="#fca5a5" stroke="#b91c1c" stroke-width="2"/>
+  <text x="62" y="155" text-anchor="middle" font-size="11" font-weight="bold" fill="#1f2937">m7G</text>
+  <text x="62" y="126" text-anchor="middle" font-size="12" fill="#1f2937">5' cap</text>
+  <line x1="77" y1="150" x2="92" y2="150" stroke="#94a3b8" stroke-width="3"/>
+  <text x="84" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#475569">5'</text>
+  <rect x="92" y="141" width="110" height="18" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="147" y="134" text-anchor="middle" font-size="12" fill="#1f2937">5' UTR</text>
+  <rect x="202" y="134" width="300" height="32" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="352" y="155" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">coding sequence (CDS)</text>
+  <line x1="202" y1="124" x2="202" y2="176" stroke="#16a34a" stroke-width="3"/>
+  <text x="202" y="119" text-anchor="middle" font-size="12" font-weight="bold" fill="#166534">AUG</text>
+  <line x1="502" y1="124" x2="502" y2="176" stroke="#dc2626" stroke-width="3"/>
+  <text x="502" y="119" text-anchor="middle" font-size="12" font-weight="bold" fill="#991b1b">stop</text>
+  <rect x="502" y="141" width="150" height="18" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="577" y="134" text-anchor="middle" font-size="12" fill="#1f2937">3' UTR</text>
+  <rect x="610" y="144" width="34" height="12" rx="3" fill="#fef3c7" stroke="#92400e" stroke-width="1"/>
+  <text x="627" y="176" text-anchor="middle" font-size="11" fill="#92400e">AAUAAA</text>
+  <text x="656" y="155" font-size="13" font-family="Menlo, Consolas, monospace" font-weight="bold" fill="#92400e">AAAAAA...A</text>
+  <text x="700" y="134" text-anchor="middle" font-size="12" fill="#1f2937">poly(A) tail</text>
+  <text x="700" y="176" text-anchor="middle" font-size="11" fill="#475569">about 200 A</text>
+  <text x="782" y="155" text-anchor="end" font-size="12" font-weight="bold" fill="#475569">3'</text>
+  <text x="30" y="208" font-size="12" font-style="italic" fill="#475569">role:</text>
+  <text x="62" y="226" text-anchor="middle" font-size="12" fill="#1f2937">protection,</text>
+  <text x="62" y="241" text-anchor="middle" font-size="12" fill="#1f2937">export,</text>
+  <text x="62" y="256" text-anchor="middle" font-size="12" fill="#1f2937">ribosome</text>
+  <text x="62" y="271" text-anchor="middle" font-size="12" fill="#1f2937">recruitment</text>
+  <text x="147" y="226" text-anchor="middle" font-size="12" fill="#1f2937">scanned by the</text>
+  <text x="147" y="241" text-anchor="middle" font-size="12" fill="#1f2937">small subunit</text>
+  <text x="147" y="256" text-anchor="middle" font-size="12" fill="#1f2937">to find the start</text>
+  <text x="352" y="226" text-anchor="middle" font-size="12" fill="#1f2937">read codon by codon</text>
+  <text x="352" y="241" text-anchor="middle" font-size="12" fill="#1f2937">from AUG to the stop</text>
+  <text x="352" y="256" text-anchor="middle" font-size="12" fill="#1f2937">into the protein</text>
+  <text x="577" y="226" text-anchor="middle" font-size="12" fill="#1f2937">signals for stability,</text>
+  <text x="577" y="241" text-anchor="middle" font-size="12" fill="#1f2937">localization and</text>
+  <text x="577" y="256" text-anchor="middle" font-size="12" fill="#1f2937">translation control</text>
+  <text x="710" y="226" text-anchor="middle" font-size="12" fill="#1f2937">stability, export,</text>
+  <text x="710" y="241" text-anchor="middle" font-size="12" fill="#1f2937">translation;</text>
+  <text x="710" y="256" text-anchor="middle" font-size="12" fill="#1f2937">shortened before</text>
+  <text x="710" y="271" text-anchor="middle" font-size="12" fill="#1f2937">decay</text>
+  <text x="30" y="300" font-size="12" fill="#475569">Cap and tail are added during RNA processing: they are not encoded in the gene. UTRs and CDS come from the exons.</text>
+  <line x1="30" y1="320" x2="770" y2="320" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="30" y="350" font-size="15" font-weight="bold" fill="#1f2937">B. Bacterial mRNA (here polycistronic, from an operon)</text>
+  <line x1="60" y1="410" x2="740" y2="410" stroke="#94a3b8" stroke-width="3"/>
+  <text x="48" y="415" text-anchor="end" font-size="12" font-weight="bold" fill="#475569">5'</text>
+  <text x="748" y="415" font-size="12" font-weight="bold" fill="#475569">3'</text>
+  <rect x="110" y="402" width="36" height="16" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="128" y="396" text-anchor="middle" font-size="11" fill="#166534">SD</text>
+  <rect x="166" y="394" width="200" height="32" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="266" y="415" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">CDS 1</text>
+  <text x="166" y="388" text-anchor="middle" font-size="11" font-weight="bold" fill="#166534">AUG</text>
+  <text x="366" y="388" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">stop</text>
+  <rect x="430" y="402" width="36" height="16" rx="3" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="448" y="396" text-anchor="middle" font-size="11" fill="#166534">SD</text>
+  <rect x="486" y="394" width="200" height="32" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="586" y="415" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">CDS 2</text>
+  <text x="486" y="388" text-anchor="middle" font-size="11" font-weight="bold" fill="#166534">AUG</text>
+  <text x="686" y="388" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">stop</text>
+  <text x="60" y="452" font-size="12" fill="#1f2937">SD = Shine-Dalgarno sequence: pairs with the 16S rRNA and places the ribosome on the AUG just downstream.</text>
+  <text x="60" y="470" font-size="12" fill="#1f2937">No cap and no protective poly(A) tail; each CDS has its own ribosome-binding site, so one mRNA can make several proteins.</text>
+  <text x="60" y="488" font-size="12" fill="#1f2937">Translation can start while the 3' part of the mRNA is still being transcribed.</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="758" height="398" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="380" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Anatomy of a genome browser view (schematic, invented data)</text>
+  <!-- toolbar -->
+  <g font-size="13" fill="#1f2937">
+    <rect x="24" y="50" width="140" height="28" rx="6" fill="#e2e8f0" stroke="#94a3b8"/>
+    <text x="94" y="69" text-anchor="middle">assembly: hg38</text>
+    <rect x="176" y="50" width="250" height="28" rx="6" fill="#ffffff" stroke="#94a3b8"/>
+    <text x="188" y="69" font-family="Courier New, monospace">chr1:1,001-3,000</text>
+    <rect x="440" y="50" width="70" height="28" rx="6" fill="#e2e8f0" stroke="#94a3b8"/>
+    <text x="475" y="69" text-anchor="middle">zoom in</text>
+    <rect x="518" y="50" width="78" height="28" rx="6" fill="#e2e8f0" stroke="#94a3b8"/>
+    <text x="557" y="69" text-anchor="middle">zoom out</text>
+    <rect x="604" y="50" width="60" height="28" rx="6" fill="#e2e8f0" stroke="#94a3b8"/>
+    <text x="634" y="69" text-anchor="middle">&#8592; pan</text>
+    <rect x="672" y="50" width="60" height="28" rx="6" fill="#e2e8f0" stroke="#94a3b8"/>
+    <text x="702" y="69" text-anchor="middle">pan &#8594;</text>
+  </g>
+  <!-- track labels -->
+  <g font-size="13" fill="#1f2937">
+    <text x="24" y="116">Base position</text>
+    <text x="24" y="160">Genes (GFF/GTF)</text>
+    <text x="24" y="215">My peaks (BED)</text>
+    <text x="24" y="274">Variants (VCF)</text>
+    <text x="24" y="326">Coverage (bigWig)</text>
+  </g>
+  <line x1="160" y1="92" x2="160" y2="350" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- ruler: x = 170 + (p - 1000) * 0.28 -->
+  <line x1="170" y1="110" x2="730" y2="110" stroke="#475569" stroke-width="1.5"/>
+  <g stroke="#475569" stroke-width="1.5">
+    <line x1="170" y1="104" x2="170" y2="116"/><line x1="310" y1="104" x2="310" y2="116"/>
+    <line x1="450" y1="104" x2="450" y2="116"/><line x1="590" y1="104" x2="590" y2="116"/>
+    <line x1="730" y1="104" x2="730" y2="116"/>
+  </g>
+  <g font-size="12" fill="#1f2937" text-anchor="middle">
+    <text x="178" y="130">1,001</text><text x="310" y="130">1,500</text><text x="450" y="130">2,000</text>
+    <text x="590" y="130">2,500</text><text x="716" y="130">3,000</text>
+  </g>
+  <!-- gene model -->
+  <g stroke="#64748b" stroke-width="2" fill="none">
+    <line x1="254" y1="156" x2="366" y2="156"/><line x1="408" y1="156" x2="562" y2="156"/>
+    <polyline points="306,151 311,156 306,161"/><polyline points="480,151 485,156 480,161"/>
+  </g>
+  <g stroke="#475569" stroke-width="1.5">
+    <rect x="198" y="150" width="20" height="12" fill="#bbf7d0"/>
+    <rect x="218" y="144" width="36" height="24" fill="#86efac"/>
+    <rect x="366" y="144" width="42" height="24" fill="#86efac"/>
+    <rect x="562" y="144" width="60" height="24" fill="#86efac"/>
+    <rect x="622" y="150" width="52" height="12" fill="#bbf7d0"/>
+  </g>
+  <text x="690" y="160" font-size="12" fill="#1f2937">geneX</text>
+  <!-- BED features packed into two rows -->
+  <g stroke="#475569" stroke-width="1.2" fill="#c7d2fe">
+    <rect x="170" y="194" width="112" height="14"/><rect x="310" y="194" width="56" height="14"/>
+    <rect x="478" y="194" width="140" height="14"/>
+    <rect x="226" y="216" width="196" height="14"/><rect x="590" y="216" width="112" height="14"/>
+  </g>
+  <g font-size="12" fill="#1f2937">
+    <text x="174" y="205">peakA</text><text x="313" y="205">peakC</text><text x="482" y="205">peakD</text>
+    <text x="230" y="227">peakB</text><text x="594" y="227">peakE</text>
+  </g>
+  <!-- variants -->
+  <g fill="#f9a8d4" stroke="#9d174d" stroke-width="1">
+    <rect x="239" y="262" width="4" height="18"/><rect x="382" y="262" width="4" height="18"/>
+    <rect x="576" y="262" width="4" height="18"/><rect x="698" y="262" width="4" height="18"/>
+  </g>
+  <!-- coverage -->
+  <polygon points="170,340 170,330 200,322 230,310 260,306 290,318 320,326 350,312 380,300 410,314 440,332 470,326 500,316 530,308 560,302 590,298 620,312 650,320 680,330 710,334 730,336 730,340"
+           fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <text x="380" y="378" text-anchor="middle" font-size="13" fill="#1f2937">Every track is drawn on the axis of ONE assembly: load only files made on that assembly.</text>
+</svg>

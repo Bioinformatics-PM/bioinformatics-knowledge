@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" font-family="Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="758" height="398" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="380.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">A plane electromagnetic wave travelling along x</text>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker><marker id="aho" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/></marker></defs>
+<line x1="90.0" y1="215.0" x2="680.0" y2="215.0" stroke="#1f2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="686.0" y="220.0" text-anchor="start" font-size="14" font-weight="normal" fill="#1f2937" font-style="italic">x</text>
+<text x="746.0" y="241.0" text-anchor="end" font-size="12" font-weight="normal" fill="#1f2937">(travel at c)</text>
+<line x1="90.0" y1="215.0" x2="90.0" y2="90.0" stroke="#1f2937" stroke-width="1.2" marker-end="url(#ah)"/>
+<text x="82.0" y="86.0" text-anchor="end" font-size="13" font-weight="normal" fill="#1f2937" font-style="italic">y</text>
+<line x1="90.0" y1="215.0" x2="14.4" y2="250.2" stroke="#1f2937" stroke-width="1.2" marker-end="url(#ah)"/>
+<text x="10.4" y="266.2" text-anchor="end" font-size="13" font-weight="normal" fill="#1f2937" font-style="italic">z</text>
+<line x1="110.0" y1="215.0" x2="110.0" y2="173.8" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="110.0" y1="215.0" x2="87.6" y2="225.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="130.0" y1="215.0" x2="130.0" y2="140.7" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="130.0" y1="215.0" x2="89.6" y2="233.8" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="150.0" y1="215.0" x2="150.0" y2="122.4" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="150.0" y1="215.0" x2="99.6" y2="238.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="170.0" y1="215.0" x2="170.0" y2="122.4" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="170.0" y1="215.0" x2="119.6" y2="238.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="190.0" y1="215.0" x2="190.0" y2="140.7" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="190.0" y1="215.0" x2="149.6" y2="233.8" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="210.0" y1="215.0" x2="210.0" y2="173.8" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="210.0" y1="215.0" x2="187.6" y2="225.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="250.0" y1="215.0" x2="250.0" y2="256.2" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="250.0" y1="215.0" x2="272.4" y2="204.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="270.0" y1="215.0" x2="270.0" y2="289.3" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="270.0" y1="215.0" x2="310.4" y2="196.2" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="290.0" y1="215.0" x2="290.0" y2="307.6" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="290.0" y1="215.0" x2="340.4" y2="191.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="310.0" y1="215.0" x2="310.0" y2="307.6" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="310.0" y1="215.0" x2="360.4" y2="191.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="330.0" y1="215.0" x2="330.0" y2="289.3" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="330.0" y1="215.0" x2="370.4" y2="196.2" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="350.0" y1="215.0" x2="350.0" y2="256.2" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="350.0" y1="215.0" x2="372.4" y2="204.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="390.0" y1="215.0" x2="390.0" y2="173.8" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="390.0" y1="215.0" x2="367.6" y2="225.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="410.0" y1="215.0" x2="410.0" y2="140.7" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="410.0" y1="215.0" x2="369.6" y2="233.8" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="430.0" y1="215.0" x2="430.0" y2="122.4" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="430.0" y1="215.0" x2="379.6" y2="238.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="450.0" y1="215.0" x2="450.0" y2="122.4" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="450.0" y1="215.0" x2="399.6" y2="238.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="470.0" y1="215.0" x2="470.0" y2="140.7" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="470.0" y1="215.0" x2="429.6" y2="233.8" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="490.0" y1="215.0" x2="490.0" y2="173.8" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="490.0" y1="215.0" x2="467.6" y2="225.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="530.0" y1="215.0" x2="530.0" y2="256.2" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="530.0" y1="215.0" x2="552.4" y2="204.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="550.0" y1="215.0" x2="550.0" y2="289.3" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="550.0" y1="215.0" x2="590.4" y2="196.2" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="570.0" y1="215.0" x2="570.0" y2="307.6" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="570.0" y1="215.0" x2="620.4" y2="191.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="590.0" y1="215.0" x2="590.0" y2="307.6" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="590.0" y1="215.0" x2="640.4" y2="191.5" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="610.0" y1="215.0" x2="610.0" y2="289.3" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="610.0" y1="215.0" x2="650.4" y2="196.2" stroke="#ea580c" stroke-width="1.0"/>
+<line x1="630.0" y1="215.0" x2="630.0" y2="256.2" stroke="#2563eb" stroke-width="1.0"/>
+<line x1="630.0" y1="215.0" x2="652.4" y2="204.5" stroke="#ea580c" stroke-width="1.0"/>
+<path d="M90.0,215.0 L94.0,206.5 L98.0,198.0 L102.0,189.7 L106.0,181.6 L110.0,173.8 L114.0,166.3 L118.0,159.2 L122.0,152.5 L126.0,146.3 L130.0,140.7 L134.0,135.7 L138.0,131.3 L142.0,127.6 L146.0,124.6 L150.0,122.4 L154.0,120.9 L158.0,120.1 L162.0,120.1 L166.0,120.9 L170.0,122.4 L174.0,124.6 L178.0,127.6 L182.0,131.3 L186.0,135.7 L190.0,140.7 L194.0,146.3 L198.0,152.5 L202.0,159.2 L206.0,166.3 L210.0,173.8 L214.0,181.6 L218.0,189.7 L222.0,198.0 L226.0,206.5 L230.0,215.0 L234.0,223.5 L238.0,232.0 L242.0,240.3 L246.0,248.4 L250.0,256.2 L254.0,263.7 L258.0,270.8 L262.0,277.5 L266.0,283.7 L270.0,289.3 L274.0,294.3 L278.0,298.7 L282.0,302.4 L286.0,305.4 L290.0,307.6 L294.0,309.1 L298.0,309.9 L302.0,309.9 L306.0,309.1 L310.0,307.6 L314.0,305.4 L318.0,302.4 L322.0,298.7 L326.0,294.3 L330.0,289.3 L334.0,283.7 L338.0,277.5 L342.0,270.8 L346.0,263.7 L350.0,256.2 L354.0,248.4 L358.0,240.3 L362.0,232.0 L366.0,223.5 L370.0,215.0 L374.0,206.5 L378.0,198.0 L382.0,189.7 L386.0,181.6 L390.0,173.8 L394.0,166.3 L398.0,159.2 L402.0,152.5 L406.0,146.3 L410.0,140.7 L414.0,135.7 L418.0,131.3 L422.0,127.6 L426.0,124.6 L430.0,122.4 L434.0,120.9 L438.0,120.1 L442.0,120.1 L446.0,120.9 L450.0,122.4 L454.0,124.6 L458.0,127.6 L462.0,131.3 L466.0,135.7 L470.0,140.7 L474.0,146.3 L478.0,152.5 L482.0,159.2 L486.0,166.3 L490.0,173.8 L494.0,181.6 L498.0,189.7 L502.0,198.0 L506.0,206.5 L510.0,215.0 L514.0,223.5 L518.0,232.0 L522.0,240.3 L526.0,248.4 L530.0,256.2 L534.0,263.7 L538.0,270.8 L542.0,277.5 L546.0,283.7 L550.0,289.3 L554.0,294.3 L558.0,298.7 L562.0,302.4 L566.0,305.4 L570.0,307.6 L574.0,309.1 L578.0,309.9 L582.0,309.9 L586.0,309.1 L590.0,307.6 L594.0,305.4 L598.0,302.4 L602.0,298.7 L606.0,294.3 L610.0,289.3 L614.0,283.7 L618.0,277.5 L622.0,270.8 L626.0,263.7 L630.0,256.2 L634.0,248.4 L638.0,240.3 L642.0,232.0 L646.0,223.5 L650.0,215.0" fill="none" stroke="#2563eb" stroke-width="2.6"/>
+<path d="M90.0,215.0 L89.4,217.2 L88.8,219.3 L88.3,221.4 L87.8,223.5 L87.6,225.5 L87.5,227.4 L87.6,229.2 L88.0,230.8 L88.7,232.4 L89.6,233.8 L90.9,235.1 L92.5,236.2 L94.5,237.2 L96.9,237.9 L99.6,238.5 L102.8,238.9 L106.4,239.1 L110.4,239.1 L114.8,238.9 L119.6,238.5 L124.9,237.9 L130.5,237.2 L136.5,236.2 L142.9,235.1 L149.6,233.8 L156.7,232.4 L164.0,230.8 L171.6,229.2 L179.5,227.4 L187.6,225.5 L195.8,223.5 L204.3,221.4 L212.8,219.3 L221.4,217.2 L230.0,215.0 L238.6,212.8 L247.2,210.7 L255.7,208.6 L264.2,206.5 L272.4,204.5 L280.5,202.6 L288.4,200.8 L296.0,199.2 L303.3,197.6 L310.4,196.2 L317.1,194.9 L323.5,193.8 L329.5,192.8 L335.1,192.1 L340.4,191.5 L345.2,191.1 L349.6,190.9 L353.6,190.9 L357.2,191.1 L360.4,191.5 L363.1,192.1 L365.5,192.8 L367.5,193.8 L369.1,194.9 L370.4,196.2 L371.3,197.6 L372.0,199.2 L372.4,200.8 L372.5,202.6 L372.4,204.5 L372.2,206.5 L371.7,208.6 L371.2,210.7 L370.6,212.8 L370.0,215.0 L369.4,217.2 L368.8,219.3 L368.3,221.4 L367.8,223.5 L367.6,225.5 L367.5,227.4 L367.6,229.2 L368.0,230.8 L368.7,232.4 L369.6,233.8 L370.9,235.1 L372.5,236.2 L374.5,237.2 L376.9,237.9 L379.6,238.5 L382.8,238.9 L386.4,239.1 L390.4,239.1 L394.8,238.9 L399.6,238.5 L404.9,237.9 L410.5,237.2 L416.5,236.2 L422.9,235.1 L429.6,233.8 L436.7,232.4 L444.0,230.8 L451.6,229.2 L459.5,227.4 L467.6,225.5 L475.8,223.5 L484.3,221.4 L492.8,219.3 L501.4,217.2 L510.0,215.0 L518.6,212.8 L527.2,210.7 L535.7,208.6 L544.2,206.5 L552.4,204.5 L560.5,202.6 L568.4,200.8 L576.0,199.2 L583.3,197.6 L590.4,196.2 L597.1,194.9 L603.5,193.8 L609.5,192.8 L615.1,192.1 L620.4,191.5 L625.2,191.1 L629.6,190.9 L633.6,190.9 L637.2,191.1 L640.4,191.5 L643.1,192.1 L645.5,192.8 L647.5,193.8 L649.1,194.9 L650.4,196.2 L651.3,197.6 L652.0,199.2 L652.4,200.8 L652.5,202.6 L652.4,204.5 L652.2,206.5 L651.7,208.6 L651.2,210.7 L650.6,212.8 L650.0,215.0" fill="none" stroke="#ea580c" stroke-width="2.6"/>
+<text x="170.0" y="110.0" text-anchor="start" font-size="14" font-weight="bold" fill="#2563eb">E (electric field, along y)</text>
+<text x="240.0" y="343.0" text-anchor="start" font-size="14" font-weight="bold" fill="#ea580c">B (magnetic field, along z)</text>
+<line x1="160.0" y1="70.0" x2="440.0" y2="70.0" stroke="#1f2937" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="440.0" y1="70.0" x2="160.0" y2="70.0" stroke="#1f2937" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="160.0" y1="64.0" x2="160.0" y2="120.0" stroke="#475569" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="440.0" y1="64.0" x2="440.0" y2="120.0" stroke="#475569" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="300.0" y="62.0" text-anchor="middle" font-size="13" font-weight="normal" fill="#1f2937">wavelength λ</text>
+<text x="380.0" y="382.0" text-anchor="middle" font-size="13" font-weight="normal" fill="#475569">the fields are perpendicular to each other and to x, oscillate in phase, and E₀ = c B₀</text>
+</svg>

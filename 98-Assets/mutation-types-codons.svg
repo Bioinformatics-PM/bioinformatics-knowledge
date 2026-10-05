@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 500" width="820" height="500" font-family="Helvetica, Arial, sans-serif">
+  <title>Mutation types on the same toy coding sequence</title>
+  <rect x="2" y="2" width="816" height="496" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="410.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Point mutations and a frameshift on the same coding sequence</text>
+  <text x="410.0" y="54" text-anchor="middle" font-size="12" fill="#475569">Invented 18-nt coding sequence. Red letter: changed base. Bold amino acid: changed residue. Grey: not translated.</text>
+  <rect x="16" y="80" width="788" height="70" rx="10" fill="#eef2ff" stroke="#e2e8f0"/>
+  <text x="30" y="106" font-size="15" font-weight="bold" fill="#1f2937">Reference</text>
+  <text x="30" y="126" font-size="13" fill="#475569">toy CDS, 5' to 3'</text>
+  <rect x="250" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="260.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="272" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="282.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="294" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="304.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="282.0" y="136" text-anchor="middle" font-size="13" fill="#1f2937">Met</text>
+  <rect x="330" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="340.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="352" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="362.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="374" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="384.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="362.0" y="136" text-anchor="middle" font-size="13" fill="#1f2937">Glu</text>
+  <rect x="410" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="420.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="432" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="442.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="454" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="464.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="442.0" y="136" text-anchor="middle" font-size="13" fill="#1f2937">Trp</text>
+  <rect x="490" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="500.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <rect x="512" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="522.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="534" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="544.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="522.0" y="136" text-anchor="middle" font-size="13" fill="#1f2937">Leu</text>
+  <rect x="570" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="580.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="592" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="602.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="614" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="624.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="602.0" y="136" text-anchor="middle" font-size="13" fill="#1f2937">Lys</text>
+  <rect x="650" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="660.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="672" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="682.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="694" y="90" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="704.0" y="109" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="682.0" y="136" text-anchor="middle" font-size="13" fill="#b91c1c">Stop</text>
+  <rect x="16" y="158" width="788" height="70" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="30" y="184" font-size="15" font-weight="bold" fill="#1f2937">Silent (synonymous)</text>
+  <text x="30" y="204" font-size="13" fill="#475569">GAG to GAA: still Glu</text>
+  <rect x="250" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="260.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="272" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="282.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="294" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="304.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="282.0" y="214" text-anchor="middle" font-size="13" fill="#1f2937">Met</text>
+  <rect x="330" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="340.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="352" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="362.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="374" y="168" width="20" height="26" rx="4" fill="#fecaca"/>
+  <text x="384.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#b91c1c">A</text>
+  <text x="362.0" y="214" text-anchor="middle" font-size="13" fill="#1f2937">Glu</text>
+  <rect x="410" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="420.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="432" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="442.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="454" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="464.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="442.0" y="214" text-anchor="middle" font-size="13" fill="#1f2937">Trp</text>
+  <rect x="490" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="500.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <rect x="512" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="522.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="534" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="544.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="522.0" y="214" text-anchor="middle" font-size="13" fill="#1f2937">Leu</text>
+  <rect x="570" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="580.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="592" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="602.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="614" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="624.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="602.0" y="214" text-anchor="middle" font-size="13" fill="#1f2937">Lys</text>
+  <rect x="650" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="660.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="672" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="682.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="694" y="168" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="704.0" y="187" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="682.0" y="214" text-anchor="middle" font-size="13" fill="#b91c1c">Stop</text>
+  <rect x="16" y="236" width="788" height="70" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="30" y="262" font-size="15" font-weight="bold" fill="#1f2937">Missense</text>
+  <text x="30" y="282" font-size="13" fill="#475569">GAG to GTG: Glu to Val</text>
+  <rect x="250" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="260.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="272" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="282.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="294" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="304.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="282.0" y="292" text-anchor="middle" font-size="13" fill="#1f2937">Met</text>
+  <rect x="330" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="340.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="352" y="246" width="20" height="26" rx="4" fill="#fecaca"/>
+  <text x="362.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#b91c1c">T</text>
+  <rect x="374" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="384.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="362.0" y="292" text-anchor="middle" font-size="13" font-weight="bold" fill="#1d4ed8">Val</text>
+  <rect x="410" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="420.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="432" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="442.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="454" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="464.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="442.0" y="292" text-anchor="middle" font-size="13" fill="#1f2937">Trp</text>
+  <rect x="490" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="500.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <rect x="512" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="522.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="534" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="544.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="522.0" y="292" text-anchor="middle" font-size="13" fill="#1f2937">Leu</text>
+  <rect x="570" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="580.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="592" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="602.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="614" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="624.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="602.0" y="292" text-anchor="middle" font-size="13" fill="#1f2937">Lys</text>
+  <rect x="650" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="660.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="672" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="682.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="694" y="246" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="704.0" y="265" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="682.0" y="292" text-anchor="middle" font-size="13" fill="#b91c1c">Stop</text>
+  <rect x="16" y="314" width="788" height="70" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="30" y="340" font-size="15" font-weight="bold" fill="#1f2937">Nonsense</text>
+  <text x="30" y="360" font-size="13" fill="#475569">TGG to TAG: Trp to Stop</text>
+  <rect x="250" y="324" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="260.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="272" y="324" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="282.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="294" y="324" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="304.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="282.0" y="370" text-anchor="middle" font-size="13" fill="#1f2937">Met</text>
+  <rect x="330" y="324" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="340.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="352" y="324" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="362.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="374" y="324" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="384.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="362.0" y="370" text-anchor="middle" font-size="13" fill="#1f2937">Glu</text>
+  <rect x="410" y="324" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="420.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="432" y="324" width="20" height="26" rx="4" fill="#fecaca"/>
+  <text x="442.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#b91c1c">A</text>
+  <rect x="454" y="324" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="464.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="442.0" y="370" text-anchor="middle" font-size="13" font-weight="bold" fill="#b91c1c">Stop</text>
+  <rect x="490" y="324" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="500.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">C</text>
+  <rect x="512" y="324" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="522.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">T</text>
+  <rect x="534" y="324" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="544.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">G</text>
+  <rect x="570" y="324" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="580.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">A</text>
+  <rect x="592" y="324" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="602.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">A</text>
+  <rect x="614" y="324" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="624.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">A</text>
+  <rect x="650" y="324" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="660.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">T</text>
+  <rect x="672" y="324" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="682.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">A</text>
+  <rect x="694" y="324" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="704.0" y="343" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">A</text>
+  <rect x="16" y="392" width="788" height="70" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="30" y="418" font-size="15" font-weight="bold" fill="#1f2937">Frameshift</text>
+  <text x="30" y="438" font-size="13" fill="#475569">one G deleted (red bar)</text>
+  <rect x="250" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="260.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="272" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="282.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="294" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="304.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <text x="282.0" y="448" text-anchor="middle" font-size="13" fill="#1f2937">Met</text>
+  <rect x="330" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="340.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <rect x="352" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="362.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="374" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="384.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <text x="362.0" y="448" text-anchor="middle" font-size="13" font-weight="bold" fill="#1d4ed8">Ser</text>
+  <rect x="410" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="420.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="432" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="442.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="454" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="464.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">C</text>
+  <text x="442.0" y="448" text-anchor="middle" font-size="13" font-weight="bold" fill="#1d4ed8">Gly</text>
+  <rect x="490" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="500.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">T</text>
+  <rect x="512" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="522.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">G</text>
+  <rect x="534" y="402" width="20" height="26" rx="4" fill="#dbeafe"/>
+  <text x="544.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#1f2937">A</text>
+  <text x="522.0" y="448" text-anchor="middle" font-size="13" font-weight="bold" fill="#b91c1c">Stop</text>
+  <rect x="570" y="402" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="580.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">A</text>
+  <rect x="592" y="402" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="602.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">A</text>
+  <rect x="614" y="402" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="624.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">T</text>
+  <rect x="650" y="402" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="660.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">A</text>
+  <rect x="672" y="402" width="20" height="26" rx="4" fill="#f1f5f9"/>
+  <text x="682.0" y="421" text-anchor="middle" font-size="16" font-weight="bold" font-family="Menlo, Consolas, monospace" fill="#94a3b8">A</text>
+  <line x1="322.0" y1="398" x2="322.0" y2="432" stroke="#dc2626" stroke-width="3"/>
+  <text x="410.0" y="486" text-anchor="middle" font-size="12" fill="#475569">Molecular consequence only: whether a change matters clinically is a separate question (see the Mutation note).</text>
+</svg>

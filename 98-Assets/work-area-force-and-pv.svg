@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="wa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#64748b"/>
+    </marker>
+  </defs>
+  <rect x="2" y="2" width="756" height="376" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="380" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Work is an area: force along displacement, or pressure along volume</text>
+  <!-- left panel -->
+  <text x="205" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">(a) motor step against a constant load</text>
+  <line x1="70" y1="300" x2="360" y2="300" stroke="#64748b" stroke-width="1.5" marker-end="url(#wa)"/>
+  <line x1="70" y1="300" x2="70" y2="80" stroke="#64748b" stroke-width="1.5" marker-end="url(#wa)"/>
+  <text x="355" y="322" text-anchor="end" font-size="13" fill="#1f2937">displacement x (nm)</text>
+  <text x="40" y="190" text-anchor="middle" font-size="13" fill="#1f2937" transform="rotate(-90 40 190)">load force F (pN)</text>
+  <rect x="110" y="170" width="120" height="130" fill="#fde68a" stroke="#f59e0b"/>
+  <line x1="70" y1="170" x2="340" y2="170" stroke="#d97706" stroke-width="3"/>
+  <text x="62" y="174" text-anchor="end" font-size="12" fill="#1f2937">6</text>
+  <text x="110" y="318" text-anchor="middle" font-size="12" fill="#1f2937">x₀</text>
+  <text x="230" y="318" text-anchor="middle" font-size="12" fill="#1f2937">x₀ + 8</text>
+  <text x="170" y="230" text-anchor="middle" font-size="13" fill="#1f2937">W = F d</text>
+  <text x="170" y="250" text-anchor="middle" font-size="13" fill="#1f2937">= 48 pN·nm</text>
+  <text x="205" y="350" text-anchor="middle" font-size="13" fill="#1f2937">One 8-nm step at 6 pN: about 12 k_BT.</text>
+  <line x1="392" y1="50" x2="392" y2="365" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- right panel -->
+  <text x="580" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">(b) gas expanding at constant T</text>
+  <polygon points="500.0,300.0 500.0,200.0 503.0,204.8 506.0,209.1 509.0,213.0 512.0,216.7 515.0,220.0 518.0,223.1 521.0,225.9 524.0,228.6 527.0,231.0 530.0,233.3 533.0,235.5 536.0,237.5 539.0,239.4 542.0,241.2 545.0,242.9 548.0,244.4 551.0,245.9 554.0,247.4 557.0,248.7 560.0,250.0 563.0,251.2 566.0,252.4 569.0,253.5 572.0,254.5 575.0,255.6 578.0,256.5 581.0,257.4 584.0,258.3 587.0,259.2 590.0,260.0 593.0,260.8 596.0,261.5 599.0,262.3 602.0,263.0 605.0,263.6 608.0,264.3 611.0,264.9 614.0,265.5 617.0,266.1 620.0,266.7 623.0,267.2 626.0,267.7 629.0,268.3 632.0,268.8 635.0,269.2 638.0,269.7 641.0,270.1 644.0,270.6 647.0,271.0 650.0,271.4 653.0,271.8 656.0,272.2 659.0,272.6 662.0,273.0 665.0,273.3 668.0,273.7 671.0,274.0 674.0,274.4 677.0,274.7 680.0,275.0 680.0,300.0" fill="#bfdbfe" stroke="none"/>
+  <polyline points="476.0,133.3 479.0,146.2 482.0,157.1 485.0,166.7 488.0,175.0 491.0,182.4 494.0,188.9 497.0,194.7 500.0,200.0 503.0,204.8 506.0,209.1 509.0,213.0 512.0,216.7 515.0,220.0 518.0,223.1 521.0,225.9 524.0,228.6 527.0,231.0 530.0,233.3 533.0,235.5 536.0,237.5 539.0,239.4 542.0,241.2 545.0,242.9 548.0,244.4 551.0,245.9 554.0,247.4 557.0,248.7 560.0,250.0 563.0,251.2 566.0,252.4 569.0,253.5 572.0,254.5 575.0,255.6 578.0,256.5 581.0,257.4 584.0,258.3 587.0,259.2 590.0,260.0 593.0,260.8 596.0,261.5 599.0,262.3 602.0,263.0 605.0,263.6 608.0,264.3 611.0,264.9 614.0,265.5 617.0,266.1 620.0,266.7 623.0,267.2 626.0,267.7 629.0,268.3 632.0,268.8 635.0,269.2 638.0,269.7 641.0,270.1 644.0,270.6 647.0,271.0 650.0,271.4 653.0,271.8 656.0,272.2 659.0,272.6 662.0,273.0 665.0,273.3 668.0,273.7 671.0,274.0 674.0,274.4 677.0,274.7 680.0,275.0 683.0,275.3 686.0,275.6 689.0,275.9 692.0,276.2 695.0,276.5 698.0,276.7 701.0,277.0 704.0,277.3 707.0,277.5 710.0,277.8" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <line x1="440" y1="300" x2="740" y2="300" stroke="#64748b" stroke-width="1.5" marker-end="url(#wa)"/>
+  <line x1="440" y1="300" x2="440" y2="80" stroke="#64748b" stroke-width="1.5" marker-end="url(#wa)"/>
+  <text x="735" y="322" text-anchor="end" font-size="13" fill="#1f2937">volume V</text>
+  <text x="420" y="190" text-anchor="middle" font-size="13" fill="#1f2937" transform="rotate(-90 420 190)">pressure P</text>
+  <text x="500" y="318" text-anchor="middle" font-size="12" fill="#1f2937">V₁</text>
+  <text x="680" y="318" text-anchor="middle" font-size="12" fill="#1f2937">V₂</text>
+  <text x="525" y="172" font-size="13" fill="#1f2937">isotherm P = nRT / V</text>
+  <text x="560" y="292" text-anchor="middle" font-size="13" fill="#1f2937">W_by gas = ∫ P dV</text>
+  <text x="580" y="350" text-anchor="middle" font-size="13" fill="#1f2937">Shaded area = nRT ln(V₂/V₁), done by the gas.</text>
+</svg>

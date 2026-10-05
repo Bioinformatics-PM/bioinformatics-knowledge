@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" font-family="Helvetica, Arial, sans-serif">
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker></defs>
+  <rect x="1" y="1" width="758" height="478" rx="16" fill="#f8fafc" stroke="#94a3b8"/>
+  <text x="380" y="30" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2937">A 2-D ndarray: shape (3, 4), dtype int32, strides (16, 4)</text>
+  <line x1="110" y1="64" x2="390" y2="64" stroke="#475569" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="250" y="56" text-anchor="middle" font-size="13" fill="#1f2937">axis 1 (columns: samples), stride 4 bytes</text>
+  <line x1="40" y1="90" x2="40" y2="210" stroke="#475569" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="28" y="150" text-anchor="middle" font-size="12" fill="#1f2937" transform="rotate(-90 28 150)">axis 0 (rows: genes), stride 16 bytes</text>
+  <text x="145" y="83" text-anchor="middle" font-size="12" fill="#1f2937">sample 0</text>
+  <text x="215" y="83" text-anchor="middle" font-size="12" fill="#1f2937">sample 1</text>
+  <text x="285" y="83" text-anchor="middle" font-size="12" fill="#1f2937">sample 2</text>
+  <text x="355" y="83" text-anchor="middle" font-size="12" fill="#1f2937">sample 3</text>
+  <text x="102" y="115" text-anchor="end" font-size="12" fill="#1f2937">gene 0</text>
+  <rect x="110" y="90" width="70" height="40" fill="#dbeafe" stroke="#64748b"/>
+  <text x="145" y="115" text-anchor="middle" font-size="14" fill="#1f2937">10</text>
+  <rect x="180" y="90" width="70" height="40" fill="#dbeafe" stroke="#64748b"/>
+  <text x="215" y="115" text-anchor="middle" font-size="14" fill="#1f2937">0</text>
+  <rect x="250" y="90" width="70" height="40" fill="#dbeafe" stroke="#64748b"/>
+  <text x="285" y="115" text-anchor="middle" font-size="14" fill="#1f2937">25</text>
+  <rect x="320" y="90" width="70" height="40" fill="#dbeafe" stroke="#64748b"/>
+  <text x="355" y="115" text-anchor="middle" font-size="14" fill="#1f2937">7</text>
+  <text x="102" y="155" text-anchor="end" font-size="12" fill="#1f2937">gene 1</text>
+  <rect x="110" y="130" width="70" height="40" fill="#dcfce7" stroke="#64748b"/>
+  <text x="145" y="155" text-anchor="middle" font-size="14" fill="#1f2937">200</text>
+  <rect x="180" y="130" width="70" height="40" fill="#dcfce7" stroke="#64748b"/>
+  <text x="215" y="155" text-anchor="middle" font-size="14" fill="#1f2937">150</text>
+  <rect x="250" y="130" width="70" height="40" fill="#dcfce7" stroke="#dc2626" stroke-width="3"/>
+  <text x="285" y="155" text-anchor="middle" font-size="14" fill="#1f2937">310</text>
+  <rect x="320" y="130" width="70" height="40" fill="#dcfce7" stroke="#64748b"/>
+  <text x="355" y="155" text-anchor="middle" font-size="14" fill="#1f2937">95</text>
+  <text x="102" y="195" text-anchor="end" font-size="12" fill="#1f2937">gene 2</text>
+  <rect x="110" y="170" width="70" height="40" fill="#fef3c7" stroke="#64748b"/>
+  <text x="145" y="195" text-anchor="middle" font-size="14" fill="#1f2937">3</text>
+  <rect x="180" y="170" width="70" height="40" fill="#fef3c7" stroke="#64748b"/>
+  <text x="215" y="195" text-anchor="middle" font-size="14" fill="#1f2937">8</text>
+  <rect x="250" y="170" width="70" height="40" fill="#fef3c7" stroke="#64748b"/>
+  <text x="285" y="195" text-anchor="middle" font-size="14" fill="#1f2937">0</text>
+  <rect x="320" y="170" width="70" height="40" fill="#fef3c7" stroke="#64748b"/>
+  <text x="355" y="195" text-anchor="middle" font-size="14" fill="#1f2937">1</text>
+  <rect x="420" y="90" width="70" height="40" fill="#ede9fe" stroke="#64748b"/>
+  <text x="455" y="115" text-anchor="middle" font-size="14" fill="#1f2937">42</text>
+  <rect x="420" y="130" width="70" height="40" fill="#ede9fe" stroke="#64748b"/>
+  <text x="455" y="155" text-anchor="middle" font-size="14" fill="#1f2937">755</text>
+  <rect x="420" y="170" width="70" height="40" fill="#ede9fe" stroke="#64748b"/>
+  <text x="455" y="195" text-anchor="middle" font-size="14" fill="#1f2937">12</text>
+  <line x1="394" y1="150" x2="414" y2="150" stroke="#475569" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="502" y="134" font-size="13" font-weight="bold" fill="#1f2937">counts.sum(axis=1)</text>
+  <text x="502" y="152" font-size="12" fill="#1f2937">shape (3,): axis 1 collapsed,</text>
+  <text x="502" y="168" font-size="12" fill="#1f2937">one total per gene</text>
+  <rect x="110" y="226" width="70" height="36" fill="#ede9fe" stroke="#64748b"/>
+  <text x="145" y="249" text-anchor="middle" font-size="14" fill="#1f2937">213</text>
+  <rect x="180" y="226" width="70" height="36" fill="#ede9fe" stroke="#64748b"/>
+  <text x="215" y="249" text-anchor="middle" font-size="14" fill="#1f2937">158</text>
+  <rect x="250" y="226" width="70" height="36" fill="#ede9fe" stroke="#64748b"/>
+  <text x="285" y="249" text-anchor="middle" font-size="14" fill="#1f2937">335</text>
+  <rect x="320" y="226" width="70" height="36" fill="#ede9fe" stroke="#64748b"/>
+  <text x="355" y="249" text-anchor="middle" font-size="14" fill="#1f2937">103</text>
+  <line x1="250" y1="212" x2="250" y2="222" stroke="#475569" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="402" y="240" font-size="13" font-weight="bold" fill="#1f2937">counts.sum(axis=0)</text>
+  <text x="402" y="257" font-size="12" fill="#1f2937">shape (4,): axis 0 collapsed, one library size per sample</text>
+  <text x="380" y="304" text-anchor="middle" font-size="13" fill="#1f2937">Memory: one contiguous buffer of 12 × 4 bytes, row-major (C order)</text>
+  <rect x="68" y="316" width="52" height="38" fill="#dbeafe" stroke="#64748b"/>
+  <text x="94" y="340" text-anchor="middle" font-size="13" fill="#1f2937">10</text>
+  <text x="94" y="372" text-anchor="middle" font-size="12" fill="#475569">0</text>
+  <rect x="120" y="316" width="52" height="38" fill="#dbeafe" stroke="#64748b"/>
+  <text x="146" y="340" text-anchor="middle" font-size="13" fill="#1f2937">0</text>
+  <text x="146" y="372" text-anchor="middle" font-size="12" fill="#475569">4</text>
+  <rect x="172" y="316" width="52" height="38" fill="#dbeafe" stroke="#64748b"/>
+  <text x="198" y="340" text-anchor="middle" font-size="13" fill="#1f2937">25</text>
+  <text x="198" y="372" text-anchor="middle" font-size="12" fill="#475569">8</text>
+  <rect x="224" y="316" width="52" height="38" fill="#dbeafe" stroke="#64748b"/>
+  <text x="250" y="340" text-anchor="middle" font-size="13" fill="#1f2937">7</text>
+  <text x="250" y="372" text-anchor="middle" font-size="12" fill="#475569">12</text>
+  <rect x="276" y="316" width="52" height="38" fill="#dcfce7" stroke="#64748b"/>
+  <text x="302" y="340" text-anchor="middle" font-size="13" fill="#1f2937">200</text>
+  <text x="302" y="372" text-anchor="middle" font-size="12" fill="#475569">16</text>
+  <rect x="328" y="316" width="52" height="38" fill="#dcfce7" stroke="#64748b"/>
+  <text x="354" y="340" text-anchor="middle" font-size="13" fill="#1f2937">150</text>
+  <text x="354" y="372" text-anchor="middle" font-size="12" fill="#475569">20</text>
+  <rect x="380" y="316" width="52" height="38" fill="#dcfce7" stroke="#dc2626" stroke-width="3"/>
+  <text x="406" y="340" text-anchor="middle" font-size="13" fill="#1f2937">310</text>
+  <text x="406" y="372" text-anchor="middle" font-size="12" fill="#475569">24</text>
+  <rect x="432" y="316" width="52" height="38" fill="#dcfce7" stroke="#64748b"/>
+  <text x="458" y="340" text-anchor="middle" font-size="13" fill="#1f2937">95</text>
+  <text x="458" y="372" text-anchor="middle" font-size="12" fill="#475569">28</text>
+  <rect x="484" y="316" width="52" height="38" fill="#fef3c7" stroke="#64748b"/>
+  <text x="510" y="340" text-anchor="middle" font-size="13" fill="#1f2937">3</text>
+  <text x="510" y="372" text-anchor="middle" font-size="12" fill="#475569">32</text>
+  <rect x="536" y="316" width="52" height="38" fill="#fef3c7" stroke="#64748b"/>
+  <text x="562" y="340" text-anchor="middle" font-size="13" fill="#1f2937">8</text>
+  <text x="562" y="372" text-anchor="middle" font-size="12" fill="#475569">36</text>
+  <rect x="588" y="316" width="52" height="38" fill="#fef3c7" stroke="#64748b"/>
+  <text x="614" y="340" text-anchor="middle" font-size="13" fill="#1f2937">0</text>
+  <text x="614" y="372" text-anchor="middle" font-size="12" fill="#475569">40</text>
+  <rect x="640" y="316" width="52" height="38" fill="#fef3c7" stroke="#64748b"/>
+  <text x="666" y="340" text-anchor="middle" font-size="13" fill="#1f2937">1</text>
+  <text x="666" y="372" text-anchor="middle" font-size="12" fill="#475569">44</text>
+  <text x="60" y="372" text-anchor="end" font-size="12" fill="#475569">byte</text>
+  <path d="M70,382 L70,388 L274,388 L274,382" fill="none" stroke="#475569" stroke-width="1.5"/>
+  <text x="172" y="404" text-anchor="middle" font-size="12" fill="#1f2937">row 0 (16 bytes)</text>
+  <path d="M278,382 L278,388 L482,388 L482,382" fill="none" stroke="#475569" stroke-width="1.5"/>
+  <text x="380" y="404" text-anchor="middle" font-size="12" fill="#1f2937">row 1 (16 bytes)</text>
+  <path d="M486,382 L486,388 L690,388 L690,382" fill="none" stroke="#475569" stroke-width="1.5"/>
+  <text x="588" y="404" text-anchor="middle" font-size="12" fill="#1f2937">row 2 (16 bytes)</text>
+  <text x="380" y="436" text-anchor="middle" font-size="13" fill="#1f2937">Element (i, j) starts at byte 16·i + 4·j: (1, 2) holds 310 at byte 16 + 8 = 24 (red).</text>
+  <text x="380" y="458" text-anchor="middle" font-size="13" fill="#1f2937">counts.T swaps the strides to (4, 16): same buffer, a view, no copy.</text>
+</svg>

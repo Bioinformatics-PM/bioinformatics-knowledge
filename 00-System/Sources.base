@@ -1,0 +1,50 @@
+filters:
+  and:
+    - file.hasTag("type/source")
+properties:
+  note.kind:
+    displayName: Kind
+  note.tier:
+    displayName: Tier
+  note.institution:
+    displayName: Institution
+  note.year:
+    displayName: Year
+  note.access:
+    displayName: Access
+  note.url:
+    displayName: URL
+views:
+  - type: table
+    name: By kind
+    groupBy:
+      property: note.kind
+      direction: ASC
+    order:
+      - file.name
+      - note.tier
+      - note.institution
+      - note.year
+      - note.access
+  - type: table
+    name: By tier
+    groupBy:
+      property: note.tier
+      direction: ASC
+    order:
+      - file.name
+      - note.kind
+      - note.institution
+      - note.access
+  - type: table
+    name: Free to read
+    filters:
+      and:
+        - note.access == "free"
+    groupBy:
+      property: note.kind
+      direction: ASC
+    order:
+      - file.name
+      - note.tier
+      - note.url

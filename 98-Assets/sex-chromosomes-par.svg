@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 532" width="640" height="532" font-family="Helvetica, Arial, sans-serif">
+  <title>Human X and Y chromosomes and their pseudoautosomal regions</title>
+  <rect x="2" y="2" width="636" height="528" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="320.0" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">X and Y: mostly different, homologous at the tips</text>
+  <text x="320.0" y="56" text-anchor="middle" font-size="13" fill="#475569">Schematic, not to scale. Short arm (p) at the top, long arm (q) at the bottom.</text>
+  <rect x="188.0" y="124" width="44" height="95" rx="18" fill="#bfdbfe" stroke="#475569" stroke-width="2"/>
+  <rect x="188.0" y="225" width="44" height="175" rx="18" fill="#bfdbfe" stroke="#475569" stroke-width="2"/>
+  <path d="M 188.0 158 L 188.0 142 A 18 18 0 0 1 206.0 124 L 214.0 124 A 18 18 0 0 1 232.0 142 L 232.0 158 Z" fill="#86efac" stroke="#475569" stroke-width="2"/>
+  <path d="M 188.0 382 L 188.0 382 A 18 18 0 0 0 206.0 400 L 214.0 400 A 18 18 0 0 0 232.0 382 L 232.0 382 Z" fill="#5eead4" stroke="#475569" stroke-width="2"/>
+  <circle cx="210" cy="222" r="5" fill="#94a3b8"/>
+  <text x="210" y="430" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">X</text>
+  <rect x="408.0" y="124" width="44" height="56" rx="18" fill="#fed7aa" stroke="#475569" stroke-width="2"/>
+  <rect x="408.0" y="186" width="44" height="110" rx="18" fill="#fed7aa" stroke="#475569" stroke-width="2"/>
+  <path d="M 408.0 158 L 408.0 142 A 18 18 0 0 1 426.0 124 L 434.0 124 A 18 18 0 0 1 452.0 142 L 452.0 158 Z" fill="#86efac" stroke="#475569" stroke-width="2"/>
+  <path d="M 408.0 278 L 408.0 278 A 18 18 0 0 0 426.0 296 L 434.0 296 A 18 18 0 0 0 452.0 278 L 452.0 278 Z" fill="#5eead4" stroke="#475569" stroke-width="2"/>
+  <circle cx="430" cy="183" r="5" fill="#94a3b8"/>
+  <text x="430" y="326" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Y</text>
+  <path d="M 234 142 C 290 116, 350 116, 406 142" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <text x="320" y="92" text-anchor="middle" font-size="13" fill="#166534">PAR1 pairs and recombines</text>
+  <text x="320" y="108" text-anchor="middle" font-size="13" fill="#166534">in male meiosis</text>
+  <text x="150" y="146" text-anchor="end" font-size="13" fill="#1f2937">PAR1</text>
+  <text x="150" y="394" text-anchor="end" font-size="13" fill="#1f2937">PAR2</text>
+  <text x="150" y="270" text-anchor="end" font-size="13" fill="#1f2937">X-specific</text>
+  <text x="150" y="286" text-anchor="end" font-size="13" fill="#1f2937">region</text>
+  <text x="490" y="146" font-size="13" fill="#1f2937">PAR1</text>
+  <text x="490" y="290" font-size="13" fill="#1f2937">PAR2</text>
+  <text x="490" y="240" font-size="13" fill="#1f2937">male-specific</text>
+  <text x="490" y="256" font-size="13" fill="#1f2937">region of Y</text>
+  <rect x="60" y="439" width="22" height="16" rx="4" fill="#86efac" stroke="#475569" stroke-width="1.5"/>
+  <text x="92" y="452" font-size="13" fill="#1f2937">PAR1, PAR2: on both X and Y, pair and recombine in male meiosis</text>
+  <rect x="60" y="465" width="22" height="16" rx="4" fill="#bfdbfe" stroke="#475569" stroke-width="1.5"/>
+  <text x="92" y="478" font-size="13" fill="#1f2937">X-specific genes: two copies in XX, one in XY (hemizygous)</text>
+  <rect x="60" y="491" width="22" height="16" rx="4" fill="#fed7aa" stroke="#475569" stroke-width="1.5"/>
+  <text x="92" y="504" font-size="13" fill="#1f2937">male-specific Y genes: one copy, passed from father to son</text>
+</svg>

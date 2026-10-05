@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="680" height="440">
+<rect x="1" y="1" width="678" height="438" rx="16" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="340.0" y="32" text-anchor="middle" font-size="17" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">Mosaic plot of a genotype by case/control table</text>
+<text x="340.0" y="52" text-anchor="middle" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">Invented toy data, 500 cases and 500 controls. Width = genotype total, height = share of cases.</text>
+<rect x="80.0" y="70" width="205.7" height="110.1" fill="#fecaca" stroke="#64748b"/>
+<rect x="80.0" y="180.1" width="205.7" height="149.9" fill="#bfdbfe" stroke="#64748b"/>
+<text x="182.8" y="123.1" text-anchor="middle" font-size="14" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">180</text>
+<text x="182.8" y="140.1" text-anchor="middle" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">42%</text>
+<text x="182.8" y="260.1" text-anchor="middle" font-size="14" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">245</text>
+<text x="182.8" y="350" text-anchor="middle" font-size="14" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">AA</text>
+<text x="182.8" y="367" text-anchor="middle" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">n = 425</text>
+<rect x="293.7" y="70" width="217.8" height="138.7" fill="#fecaca" stroke="#64748b"/>
+<rect x="293.7" y="208.7" width="217.8" height="121.3" fill="#bfdbfe" stroke="#64748b"/>
+<text x="402.6" y="137.3" text-anchor="middle" font-size="14" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">240</text>
+<text x="402.6" y="154.3" text-anchor="middle" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">53%</text>
+<text x="402.6" y="274.3" text-anchor="middle" font-size="14" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">210</text>
+<text x="402.6" y="350" text-anchor="middle" font-size="14" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">AG</text>
+<text x="402.6" y="367" text-anchor="middle" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">n = 450</text>
+<rect x="519.5" y="70" width="60.5" height="166.4" fill="#fecaca" stroke="#64748b"/>
+<rect x="519.5" y="236.4" width="60.5" height="93.6" fill="#bfdbfe" stroke="#64748b"/>
+<text x="549.8" y="151.2" text-anchor="middle" font-size="14" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">80</text>
+<text x="549.8" y="168.2" text-anchor="middle" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">64%</text>
+<text x="549.8" y="288.2" text-anchor="middle" font-size="14" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">45</text>
+<text x="549.8" y="350" text-anchor="middle" font-size="14" font-weight="bold" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">GG</text>
+<text x="549.8" y="367" text-anchor="middle" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">n = 125</text>
+<line x1="74" y1="200.0" x2="586" y2="200.0" stroke="#475569" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="590" y="194.0" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">50% cases</text>
+<text x="590" y="210.0" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">overall</text>
+<text x="68" y="78" text-anchor="end" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">100%</text>
+<text x="68" y="330" text-anchor="end" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">0%</text>
+<text transform="translate(34 200.0) rotate(-90)" text-anchor="middle" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">share of each genotype column</text>
+<rect x="190" y="376" width="16" height="14" fill="#fecaca" stroke="#64748b"/>
+<text x="212" y="388" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">cases (top)</text>
+<rect x="340" y="376" width="16" height="14" fill="#bfdbfe" stroke="#64748b"/>
+<text x="362" y="388" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">controls (bottom)</text>
+<text x="340.0" y="412" text-anchor="middle" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">Under independence every column would split at the dashed line.</text>
+</svg>

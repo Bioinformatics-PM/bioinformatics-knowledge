@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" width="720" height="430">
+  <defs>
+    <marker id="hp-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+    </marker>
+    <marker id="hp-dim" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="720" height="430" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="360" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">Hydrostatic pressure: p(h) = p₀ + ρgh</text>
+
+  <!-- Left panel: fluid column and force balance on a slab -->
+  <text x="200" y="66" text-anchor="middle" font-size="14" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">surface: p₀ (atmosphere)</text>
+  <rect x="100" y="80" width="200" height="290" fill="#dbeafe" stroke="#60a5fa" stroke-width="2"/>
+  <line x1="100" y1="80" x2="300" y2="80" stroke="#2563eb" stroke-width="3"/>
+  <rect x="112" y="220" width="176" height="26" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="200" y="238" text-anchor="middle" font-size="12" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">slab: area A, thickness dh</text>
+  <line x1="200" y1="150" x2="200" y2="214" stroke="#dc2626" stroke-width="2.5" marker-end="url(#hp-arrow)"/>
+  <text x="208" y="176" font-size="13" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">p(h) A from above</text>
+  <text x="208" y="194" font-size="13" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">+ weight ρ g A dh</text>
+  <line x1="200" y1="318" x2="200" y2="252" stroke="#dc2626" stroke-width="2.5" marker-end="url(#hp-arrow)"/>
+  <text x="208" y="300" font-size="13" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">p(h + dh) A from below</text>
+  <line x1="82" y1="84" x2="82" y2="216" stroke="#475569" stroke-width="1.5" marker-start="url(#hp-dim)" marker-end="url(#hp-dim)"/>
+  <text x="74" y="155" text-anchor="end" font-size="14" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">h</text>
+  <text x="200" y="396" text-anchor="middle" font-size="13" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">balance: p(h + dh) − p(h) = ρ g dh,  so  dp/dh = ρg</text>
+
+  <!-- Right panel: standing body, pressure relative to heart level -->
+  <text x="530" y="66" text-anchor="middle" font-size="14" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">standing body, relative to heart level</text>
+  <rect x="440" y="90" width="26" height="270" rx="10" fill="#fecaca" stroke="#ef4444" stroke-width="1.5"/>
+  <circle cx="453" cy="158" r="8" fill="#f87171" stroke="#b91c1c"/>
+  <line x1="470" y1="92" x2="490" y2="92" stroke="#475569" stroke-width="1.5"/>
+  <text x="496" y="97" font-size="13" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">head, 0.4 m above heart: −29 mmHg</text>
+  <line x1="470" y1="158" x2="490" y2="158" stroke="#475569" stroke-width="1.5"/>
+  <text x="496" y="163" font-size="13" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">heart: reference (0)</text>
+  <line x1="470" y1="358" x2="490" y2="358" stroke="#475569" stroke-width="1.5"/>
+  <text x="496" y="363" font-size="13" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">feet, 1.2 m below heart: +88 mmHg</text>
+  <text x="530" y="396" text-anchor="middle" font-size="12" fill="#1f2937" font-family="Helvetica, Arial, sans-serif">ρ ≈ 1000 kg/m³ (blood taken as water), heights illustrative</text>
+</svg>

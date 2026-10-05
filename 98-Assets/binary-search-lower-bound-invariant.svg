@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="720" height="320" rx="16" fill="#f8fafc"/>
+  <text x="360" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Binary search for the lower bound of x = 700: state before step 3</text>
+  <text x="360" y="58" text-anchor="middle" font-size="13" fill="#374151">sorted positions a[0..8), half-open range [lo, hi) still unknown</text>
+  <!-- index labels -->
+  <g font-size="13" fill="#4b5563" text-anchor="middle">
+    <text x="97" y="92">0</text><text x="172" y="92">1</text><text x="247" y="92">2</text><text x="322" y="92">3</text>
+    <text x="397" y="92">4</text><text x="472" y="92">5</text><text x="547" y="92">6</text><text x="622" y="92">7</text>
+  </g>
+  <!-- cells: [0, lo) green, [lo, hi) yellow, [hi, n) blue -->
+  <g stroke="#64748b" stroke-width="1.5">
+    <rect x="60" y="100" width="75" height="50" fill="#dcfce7"/>
+    <rect x="135" y="100" width="75" height="50" fill="#dcfce7"/>
+    <rect x="210" y="100" width="75" height="50" fill="#dcfce7"/>
+    <rect x="285" y="100" width="75" height="50" fill="#fef9c3"/>
+    <rect x="360" y="100" width="75" height="50" fill="#dbeafe"/>
+    <rect x="435" y="100" width="75" height="50" fill="#dbeafe"/>
+    <rect x="510" y="100" width="75" height="50" fill="#dbeafe"/>
+    <rect x="585" y="100" width="75" height="50" fill="#dbeafe"/>
+  </g>
+  <g font-size="16" fill="#1f2937" text-anchor="middle">
+    <text x="97" y="131">105</text><text x="172" y="131">230</text><text x="247" y="131">230</text><text x="322" y="131">512</text>
+    <text x="397" y="131">777</text><text x="472" y="131">801</text><text x="547" y="131">950</text><text x="622" y="131">1203</text>
+  </g>
+  <!-- lo, hi, mid markers -->
+  <g stroke="#475569" stroke-width="2" fill="none">
+    <line x1="285" y1="160" x2="285" y2="185"/>
+    <line x1="360" y1="160" x2="360" y2="185"/>
+  </g>
+  <text x="285" y="202" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">lo = 3</text>
+  <text x="360" y="202" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">hi = 4</text>
+  <text x="322" y="80" text-anchor="middle" font-size="13" fill="#92400e">mid = 3</text>
+  <!-- region braces -->
+  <g stroke="#64748b" stroke-width="1.5" fill="none">
+    <path d="M62 222 v8 h221 v-8"/>
+    <path d="M287 222 v8 h71 v-8"/>
+    <path d="M362 222 v8 h296 v-8"/>
+  </g>
+  <g font-size="14" text-anchor="middle" fill="#1f2937">
+    <text x="172" y="250">a[0:lo]: every value &lt; x</text>
+    <text x="322" y="250">unknown</text>
+    <text x="510" y="250">a[hi:n]: every value ≥ x</text>
+  </g>
+  <text x="360" y="288" text-anchor="middle" font-size="13" fill="#374151">a[3] = 512 &lt; 700, so lo = 4 = hi: the loop stops and 4 is the first index with a[i] ≥ 700.</text>
+  <text x="360" y="306" text-anchor="middle" font-size="13" fill="#374151">Each step at least halves hi − lo while both region statements stay true.</text>
+</svg>

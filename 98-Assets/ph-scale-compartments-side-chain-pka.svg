@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="Helvetica, Arial, sans-serif">
+<rect x="2" y="2" width="756" height="416" rx="16" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="380.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Compartment pH and side-chain pKa on one scale</text>
+<defs><linearGradient id="phg" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#fca5a5"/><stop offset="0.5" stop-color="#e5e7eb"/><stop offset="1" stop-color="#93c5fd"/></linearGradient></defs>
+<rect x="60" y="188" width="640" height="24" rx="6" fill="url(#phg)" stroke="#64748b"/>
+<line x1="60.0" y1="212" x2="60.0" y2="218" stroke="#475569"/>
+<text x="60.0" y="204" text-anchor="middle" font-size="12" fill="#1f2937">0</text>
+<line x1="105.71428571428572" y1="212" x2="105.71428571428572" y2="218" stroke="#475569"/>
+<text x="105.71428571428572" y="204" text-anchor="middle" font-size="12" fill="#1f2937">1</text>
+<line x1="151.42857142857144" y1="212" x2="151.42857142857144" y2="218" stroke="#475569"/>
+<text x="151.42857142857144" y="204" text-anchor="middle" font-size="12" fill="#1f2937">2</text>
+<line x1="197.14285714285714" y1="212" x2="197.14285714285714" y2="218" stroke="#475569"/>
+<text x="197.14285714285714" y="204" text-anchor="middle" font-size="12" fill="#1f2937">3</text>
+<line x1="242.85714285714286" y1="212" x2="242.85714285714286" y2="218" stroke="#475569"/>
+<text x="242.85714285714286" y="204" text-anchor="middle" font-size="12" fill="#1f2937">4</text>
+<line x1="288.57142857142856" y1="212" x2="288.57142857142856" y2="218" stroke="#475569"/>
+<text x="288.57142857142856" y="204" text-anchor="middle" font-size="12" fill="#1f2937">5</text>
+<line x1="334.2857142857143" y1="212" x2="334.2857142857143" y2="218" stroke="#475569"/>
+<text x="334.2857142857143" y="204" text-anchor="middle" font-size="12" fill="#1f2937">6</text>
+<line x1="380.0" y1="212" x2="380.0" y2="218" stroke="#475569"/>
+<text x="380.0" y="204" text-anchor="middle" font-size="12" fill="#1f2937">7</text>
+<line x1="425.7142857142857" y1="212" x2="425.7142857142857" y2="218" stroke="#475569"/>
+<text x="425.7142857142857" y="204" text-anchor="middle" font-size="12" fill="#1f2937">8</text>
+<line x1="471.42857142857144" y1="212" x2="471.42857142857144" y2="218" stroke="#475569"/>
+<text x="471.42857142857144" y="204" text-anchor="middle" font-size="12" fill="#1f2937">9</text>
+<line x1="517.1428571428571" y1="212" x2="517.1428571428571" y2="218" stroke="#475569"/>
+<text x="517.1428571428571" y="204" text-anchor="middle" font-size="12" fill="#1f2937">10</text>
+<line x1="562.8571428571429" y1="212" x2="562.8571428571429" y2="218" stroke="#475569"/>
+<text x="562.8571428571429" y="204" text-anchor="middle" font-size="12" fill="#1f2937">11</text>
+<line x1="608.5714285714286" y1="212" x2="608.5714285714286" y2="218" stroke="#475569"/>
+<text x="608.5714285714286" y="204" text-anchor="middle" font-size="12" fill="#1f2937">12</text>
+<line x1="654.2857142857143" y1="212" x2="654.2857142857143" y2="218" stroke="#475569"/>
+<text x="654.2857142857143" y="204" text-anchor="middle" font-size="12" fill="#1f2937">13</text>
+<line x1="700.0" y1="212" x2="700.0" y2="218" stroke="#475569"/>
+<text x="700.0" y="204" text-anchor="middle" font-size="12" fill="#1f2937">14</text>
+<text x="60" y="234" font-size="12" fill="#1f2937">acidic: [H+] = 1 M at pH 0</text>
+<text x="515" y="234" font-size="12" fill="#1f2937">basic: [H+] = 10<tspan dy="-6" font-size="10">−14</tspan><tspan dy="6"> M at pH 14</tspan></text>
+<text x="60" y="62" font-size="14" font-weight="bold" fill="#1f2937">Compartments</text>
+<rect x="262.7142857142857" y="136" width="28.857142857142833" height="10" rx="3" fill="#fde68a" stroke="#475569"/>
+<line x1="277.1428571428571" y1="146" x2="277.1428571428571" y2="188" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="277.1428571428571" y="130" text-anchor="middle" font-size="13" fill="#1f2937">lysosome</text>
+<rect x="357.8" y="106" width="6.0" height="10" rx="3" fill="#e9d5ff" stroke="#475569"/>
+<line x1="360.8" y1="116" x2="360.8" y2="188" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="360.8" y="100" text-anchor="middle" font-size="13" fill="#1f2937">Golgi</text>
+<rect x="386.14285714285717" y="136" width="15.14285714285711" height="10" rx="3" fill="#bbf7d0" stroke="#475569"/>
+<line x1="393.7142857142857" y1="146" x2="393.7142857142857" y2="188" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="393.7142857142857" y="130" text-anchor="middle" font-size="13" fill="#1f2937">cytosol</text>
+<rect x="393.0" y="86" width="10.571428571428555" height="10" rx="3" fill="#fecaca" stroke="#475569"/>
+<line x1="398.2857142857143" y1="96" x2="398.2857142857143" y2="188" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="398.2857142857143" y="80" text-anchor="middle" font-size="13" fill="#1f2937">blood</text>
+<rect x="418.14285714285717" y="106" width="10.571428571428555" height="10" rx="3" fill="#bae6fd" stroke="#475569"/>
+<line x1="423.42857142857144" y1="116" x2="423.42857142857144" y2="188" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="423.42857142857144" y="100" text-anchor="middle" font-size="13" fill="#1f2937">matrix</text>
+<text x="60" y="266" font-size="14" font-weight="bold" fill="#1f2937">Typical pKa of ionizable groups in proteins (Berg; table in Amino Acid)</text>
+<line x1="201.71428571428572" y1="212" x2="201.71428571428572" y2="286" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<circle cx="201.71428571428572" cy="290" r="4" fill="#475569"/>
+<text x="201.71428571428572" y="306" text-anchor="middle" font-size="13" fill="#1f2937">C-term 3.1</text>
+<line x1="247.42857142857142" y1="212" x2="247.42857142857142" y2="316" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<circle cx="247.42857142857142" cy="320" r="4" fill="#475569"/>
+<text x="247.42857142857142" y="336" text-anchor="middle" font-size="13" fill="#1f2937">Asp, Glu 4.1</text>
+<line x1="334.2857142857143" y1="212" x2="334.2857142857143" y2="286" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<circle cx="334.2857142857143" cy="290" r="4" fill="#475569"/>
+<text x="334.2857142857143" y="306" text-anchor="middle" font-size="13" fill="#1f2937">His 6.0</text>
+<line x1="425.7142857142857" y1="212" x2="425.7142857142857" y2="286" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<circle cx="425.7142857142857" cy="290" r="4" fill="#475569"/>
+<text x="425.7142857142857" y="306" text-anchor="middle" font-size="13" fill="#1f2937">N-term 8.0</text>
+<line x1="439.42857142857144" y1="212" x2="439.42857142857144" y2="316" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<circle cx="439.42857142857144" cy="320" r="4" fill="#475569"/>
+<text x="439.42857142857144" y="336" text-anchor="middle" font-size="13" fill="#1f2937">Cys 8.3</text>
+<line x1="553.7142857142858" y1="212" x2="553.7142857142858" y2="286" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<circle cx="553.7142857142858" cy="290" r="4" fill="#475569"/>
+<text x="553.7142857142858" y="306" text-anchor="middle" font-size="13" fill="#1f2937">Lys 10.8</text>
+<line x1="558.2857142857142" y1="212" x2="558.2857142857142" y2="316" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<circle cx="558.2857142857142" cy="320" r="4" fill="#475569"/>
+<text x="558.2857142857142" y="336" text-anchor="middle" font-size="13" fill="#1f2937">Tyr 10.9</text>
+<line x1="631.4285714285714" y1="212" x2="631.4285714285714" y2="286" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<circle cx="631.4285714285714" cy="290" r="4" fill="#475569"/>
+<text x="631.4285714285714" y="306" text-anchor="middle" font-size="13" fill="#1f2937">Arg 12.5</text>
+<text x="380.0" y="402" text-anchor="middle" font-size="12" fill="#475569">A group is mostly protonated where pH &lt; pKa (left of its mark) and mostly deprotonated where pH &gt; pKa.</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">
+  <defs>
+    <clipPath id="clip-a-inter">
+      <circle cx="642" cy="108" r="36"/>
+    </clipPath>
+  </defs>
+  <rect x="1" y="1" width="758" height="378" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="380" y="32" text-anchor="middle" font-size="18" font-weight="bold">Set operations on two gene lists (invented counts)</text>
+
+  <!-- Main diagram: universe and two lists -->
+  <rect x="24" y="50" width="352" height="310" rx="10" fill="#eef2ff" stroke="#64748b" stroke-width="1.5"/>
+  <text x="36" y="74" font-size="14">U = 20,000 genes measured (universe)</text>
+  <text x="36" y="98" font-size="14" fill="#1d4ed8">A = up in condition 1: 450 genes</text>
+  <circle cx="160" cy="210" r="95" fill="#93c5fd" fill-opacity="0.6" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="245" cy="210" r="95" fill="#fca5a5" fill-opacity="0.6" stroke="#dc2626" stroke-width="2"/>
+  <text x="364" y="340" text-anchor="end" font-size="14" fill="#b91c1c">B = up in condition 2: 400 genes</text>
+  <text x="112" y="206" text-anchor="middle" font-size="20" font-weight="bold">300</text>
+  <text x="112" y="226" text-anchor="middle" font-size="13">A only</text>
+  <text x="202" y="206" text-anchor="middle" font-size="20" font-weight="bold">150</text>
+  <text x="202" y="226" text-anchor="middle" font-size="13">both</text>
+  <text x="292" y="206" text-anchor="middle" font-size="20" font-weight="bold">250</text>
+  <text x="292" y="226" text-anchor="middle" font-size="13">B only</text>
+  <text x="344" y="124" text-anchor="middle" font-size="16" font-weight="bold">19,300</text>
+  <text x="344" y="142" text-anchor="middle" font-size="13">neither</text>
+
+  <!-- Panel 1: union -->
+  <rect x="400" y="56" width="164" height="104" rx="8" fill="#eef2ff" stroke="#64748b"/>
+  <circle cx="462" cy="108" r="36" fill="#fcd34d"/>
+  <circle cx="502" cy="108" r="36" fill="#fcd34d"/>
+  <circle cx="462" cy="108" r="36" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="502" cy="108" r="36" fill="none" stroke="#dc2626" stroke-width="2"/>
+  <text x="482" y="184" text-anchor="middle" font-size="14">A ∪ B: 700</text>
+
+  <!-- Panel 2: intersection -->
+  <rect x="580" y="56" width="164" height="104" rx="8" fill="#eef2ff" stroke="#64748b"/>
+  <circle cx="682" cy="108" r="36" fill="#fcd34d" clip-path="url(#clip-a-inter)"/>
+  <circle cx="642" cy="108" r="36" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="682" cy="108" r="36" fill="none" stroke="#dc2626" stroke-width="2"/>
+  <text x="662" y="184" text-anchor="middle" font-size="14">A ∩ B: 150</text>
+
+  <!-- Panel 3: difference A \ B -->
+  <rect x="400" y="210" width="164" height="104" rx="8" fill="#eef2ff" stroke="#64748b"/>
+  <circle cx="462" cy="262" r="36" fill="#fcd34d"/>
+  <circle cx="502" cy="262" r="36" fill="#eef2ff"/>
+  <circle cx="462" cy="262" r="36" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="502" cy="262" r="36" fill="none" stroke="#dc2626" stroke-width="2"/>
+  <text x="482" y="338" text-anchor="middle" font-size="14">A \ B: 300</text>
+
+  <!-- Panel 4: complement of the union -->
+  <rect x="580" y="210" width="164" height="104" rx="8" fill="#fcd34d" stroke="#64748b"/>
+  <circle cx="642" cy="262" r="36" fill="#eef2ff"/>
+  <circle cx="682" cy="262" r="36" fill="#eef2ff"/>
+  <circle cx="642" cy="262" r="36" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="682" cy="262" r="36" fill="none" stroke="#dc2626" stroke-width="2"/>
+  <text x="662" y="338" text-anchor="middle" font-size="14">U \ (A ∪ B): 19,300</text>
+
+  <text x="572" y="368" text-anchor="middle" font-size="13">shaded = the result of the operation</text>
+</svg>

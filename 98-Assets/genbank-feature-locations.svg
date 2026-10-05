@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" font-family="Helvetica, Arial, sans-serif">
+  <rect x="4" y="4" width="752" height="392" rx="16" ry="16" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="380.0" y="36" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Feature locations of the toy record (1-based, both ends included)</text>
+  <text x="60" y="74" font-size="13" font-weight="bold" fill="#1f2937">+ strand: gene toyA 5..45, reads left to right</text>
+  <line x1="181.60000000000002" y1="118" x2="252.0" y2="118" stroke="#64748b" stroke-width="2"/>
+  <polyline points="181.60000000000002,118 216.8,106 252.0,118" fill="none" stroke="#64748b" stroke-width="1.5"/>
+  <rect x="85.6" y="105" width="96.00000000000003" height="26" rx="4" fill="#dbeafe" stroke="#64748b" stroke-width="1.2"/>
+  <text x="133.60000000000002" y="152" text-anchor="middle" font-size="12" fill="#1f2937">exon 5..19</text>
+  <rect x="252.0" y="105" width="96.0" height="26" rx="4" fill="#dbeafe" stroke="#64748b" stroke-width="1.2"/>
+  <text x="300.0" y="152" text-anchor="middle" font-size="12" fill="#1f2937">exon 31..45</text>
+  <text x="216.8" y="100" text-anchor="middle" font-size="12" fill="#1f2937">intron</text>
+  <path d="M354.0 118 l14 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#64748b" stroke-width="1.8"/>
+  <text x="376.0" y="116" font-size="13" font-family="Courier New, monospace" fill="#1f2937">CDS join(5..19,31..45)</text>
+  <text x="376.0" y="133" font-size="12" fill="#1f2937">= seq[5..19] + seq[31..45], 30 nt</text>
+  <line x1="60.0" y1="200" x2="700.0" y2="200" stroke="#64748b" stroke-width="2"/>
+  <line x1="63.2" y1="195" x2="63.2" y2="205" stroke="#64748b" stroke-width="1.5"/>
+  <text x="63.2" y="221" text-anchor="middle" font-size="12" fill="#1f2937">1</text>
+  <line x1="184.8" y1="195" x2="184.8" y2="205" stroke="#64748b" stroke-width="1.5"/>
+  <text x="184.8" y="221" text-anchor="middle" font-size="12" fill="#1f2937">20</text>
+  <line x1="312.8" y1="195" x2="312.8" y2="205" stroke="#64748b" stroke-width="1.5"/>
+  <text x="312.8" y="221" text-anchor="middle" font-size="12" fill="#1f2937">40</text>
+  <line x1="440.8" y1="195" x2="440.8" y2="205" stroke="#64748b" stroke-width="1.5"/>
+  <text x="440.8" y="221" text-anchor="middle" font-size="12" fill="#1f2937">60</text>
+  <line x1="568.8000000000001" y1="195" x2="568.8000000000001" y2="205" stroke="#64748b" stroke-width="1.5"/>
+  <text x="568.8000000000001" y="221" text-anchor="middle" font-size="12" fill="#1f2937">80</text>
+  <line x1="696.8000000000001" y1="195" x2="696.8000000000001" y2="205" stroke="#64748b" stroke-width="1.5"/>
+  <text x="696.8000000000001" y="221" text-anchor="middle" font-size="12" fill="#1f2937">100</text>
+  <text x="708.0" y="204" font-size="12" fill="#1f2937">bp</text>
+  <text x="60" y="252" font-size="13" font-weight="bold" fill="#1f2937">− strand: gene toyB, reads right to left</text>
+  <path d="M437.6 282 L449.6 269 L591.2 269 L591.2 295 L449.6 295 Z" fill="#fde68a" stroke="#64748b" stroke-width="1.2"/>
+  <text x="520.4000000000001" y="286" text-anchor="middle" font-size="12" fill="#1f2937">60..83</text>
+  <text x="423.6" y="280" text-anchor="end" font-size="13" font-family="Courier New, monospace" fill="#1f2937">CDS complement(60..83)</text>
+  <text x="423.6" y="297" text-anchor="end" font-size="12" fill="#1f2937">= reverse complement of seq[60..83], 24 nt</text>
+  <line x1="40" y1="322" x2="720" y2="318" stroke="#cbd5e1" stroke-width="1.2"/>
+  <text x="380.0" y="346" text-anchor="middle" font-size="12" fill="#1f2937">a..b: bases a to b inclusive  ·  join(A,B): concatenate A then B  ·  complement(L): reverse complement of L</text>
+  <text x="380.0" y="368" text-anchor="middle" font-size="12" fill="#1f2937">&lt;a or &gt;b: the feature extends beyond this end (partial)  ·  complement(join(A,B)) = rc(B) + rc(A)</text>
+</svg>

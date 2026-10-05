@@ -1,0 +1,240 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 888 264" width="888" height="264" font-family="Helvetica, Arial, sans-serif" fill="#1f2937">
+<rect x="0" y="0" width="888" height="264" rx="14" fill="#f8fafc"/>
+<text x="444.0" y="26" text-anchor="middle" font-size="17" font-weight="bold">Microstates and macrostates of a 3-bond lattice chain</text>
+<text x="444.0" y="45" text-anchor="middle" font-size="13">First bond drawn along +x (yellow bead = chain start); each shape occurs in 4 orientations</text>
+<rect x="12" y="56" width="184" height="156" rx="10" fill="#dbeafe" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="78.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="78.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="78.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="78.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="78.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="95.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="95.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="95.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="95.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="95.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="112.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="112.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="112.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="112.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="112.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="129.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="129.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="129.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="129.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="129.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<polyline points="78.5,120.0 95.5,120.0 112.5,120.0 129.5,120.0" fill="none" stroke="#475569" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="78.5" cy="120.0" r="5" fill="#fcd34d" stroke="#334155" stroke-width="1.2"/>
+<circle cx="95.5" cy="120.0" r="5" fill="#93c5fd" stroke="#334155" stroke-width="1.2"/>
+<circle cx="112.5" cy="120.0" r="5" fill="#93c5fd" stroke="#334155" stroke-width="1.2"/>
+<circle cx="129.5" cy="120.0" r="5" fill="#93c5fd" stroke="#334155" stroke-width="1.2"/>
+<text x="104.0" y="186" text-anchor="middle" font-size="14" font-weight="bold">R² = 9 (extended)</text>
+<text x="104.0" y="204" text-anchor="middle" font-size="13">1 shape × 4 = 4 microstates</text>
+<rect x="208" y="56" width="472" height="156" rx="10" fill="#dcfce7" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="228.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="228.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="228.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="228.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="228.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="245.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="245.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="245.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="245.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="245.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="262.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="262.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="262.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="262.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="262.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="279.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="279.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="279.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="279.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="279.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<polyline points="228.5,120.0 245.5,120.0 262.5,120.0 262.5,103.0" fill="none" stroke="#475569" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="228.5" cy="120.0" r="5" fill="#fcd34d" stroke="#334155" stroke-width="1.2"/>
+<circle cx="245.5" cy="120.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="262.5" cy="120.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="262.5" cy="103.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="304.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="304.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="304.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="304.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="304.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="321.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="321.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="321.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="321.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="321.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="338.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="338.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="338.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="338.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="338.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="355.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="355.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="355.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="355.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="355.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<polyline points="304.5,120.0 321.5,120.0 338.5,120.0 338.5,137.0" fill="none" stroke="#475569" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="304.5" cy="120.0" r="5" fill="#fcd34d" stroke="#334155" stroke-width="1.2"/>
+<circle cx="321.5" cy="120.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="338.5" cy="120.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="338.5" cy="137.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="380.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="380.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="380.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="380.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="380.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="397.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="397.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="397.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="397.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="397.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="414.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="414.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="414.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="414.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="414.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="431.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="431.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="431.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="431.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="431.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<polyline points="380.5,120.0 397.5,120.0 397.5,103.0 397.5,86.0" fill="none" stroke="#475569" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="380.5" cy="120.0" r="5" fill="#fcd34d" stroke="#334155" stroke-width="1.2"/>
+<circle cx="397.5" cy="120.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="397.5" cy="103.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="397.5" cy="86.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="456.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="456.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="456.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="456.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="456.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="473.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="473.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="473.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="473.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="473.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="490.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="490.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="490.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="490.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="490.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="507.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="507.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="507.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="507.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="507.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<polyline points="456.5,120.0 473.5,120.0 473.5,103.0 490.5,103.0" fill="none" stroke="#475569" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="456.5" cy="120.0" r="5" fill="#fcd34d" stroke="#334155" stroke-width="1.2"/>
+<circle cx="473.5" cy="120.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="473.5" cy="103.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="490.5" cy="103.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="532.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="532.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="532.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="532.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="532.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="549.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="549.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="549.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="549.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="549.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="566.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="566.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="566.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="566.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="566.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="583.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="583.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="583.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="583.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="583.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<polyline points="532.5,120.0 549.5,120.0 549.5,137.0 549.5,154.0" fill="none" stroke="#475569" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="532.5" cy="120.0" r="5" fill="#fcd34d" stroke="#334155" stroke-width="1.2"/>
+<circle cx="549.5" cy="120.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="549.5" cy="137.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="549.5" cy="154.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="608.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="608.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="608.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="608.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="608.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="625.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="625.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="625.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="625.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="625.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="642.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="642.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="642.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="642.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="642.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="659.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="659.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="659.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="659.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="659.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<polyline points="608.5,120.0 625.5,120.0 625.5,137.0 642.5,137.0" fill="none" stroke="#475569" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="608.5" cy="120.0" r="5" fill="#fcd34d" stroke="#334155" stroke-width="1.2"/>
+<circle cx="625.5" cy="120.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="625.5" cy="137.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<circle cx="642.5" cy="137.0" r="5" fill="#86efac" stroke="#334155" stroke-width="1.2"/>
+<text x="444.0" y="186" text-anchor="middle" font-size="14" font-weight="bold">R² = 5</text>
+<text x="444.0" y="204" text-anchor="middle" font-size="13">6 shapes × 4 = 24 microstates</text>
+<rect x="692" y="56" width="184" height="156" rx="10" fill="#fee2e2" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="720.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="720.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="720.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="720.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="720.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="737.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="737.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="737.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="737.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="737.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="754.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="754.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="754.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="754.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="754.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="771.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="771.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="771.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="771.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="771.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<polyline points="720.5,120.0 737.5,120.0 737.5,103.0 720.5,103.0" fill="none" stroke="#475569" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="720.5" cy="120.0" r="5" fill="#fcd34d" stroke="#334155" stroke-width="1.2"/>
+<circle cx="737.5" cy="120.0" r="5" fill="#fca5a5" stroke="#334155" stroke-width="1.2"/>
+<circle cx="737.5" cy="103.0" r="5" fill="#fca5a5" stroke="#334155" stroke-width="1.2"/>
+<circle cx="720.5" cy="103.0" r="5" fill="#fca5a5" stroke="#334155" stroke-width="1.2"/>
+<circle cx="796.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="796.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="796.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="796.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="796.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="813.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="813.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="813.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="813.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="813.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="830.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="830.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="830.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="830.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="830.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<circle cx="847.5" cy="154.0" r="1.6" fill="#94a3b8"/>
+<circle cx="847.5" cy="137.0" r="1.6" fill="#94a3b8"/>
+<circle cx="847.5" cy="120.0" r="1.6" fill="#94a3b8"/>
+<circle cx="847.5" cy="103.0" r="1.6" fill="#94a3b8"/>
+<circle cx="847.5" cy="86.0" r="1.6" fill="#94a3b8"/>
+<polyline points="796.5,120.0 813.5,120.0 813.5,137.0 796.5,137.0" fill="none" stroke="#475569" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="796.5" cy="120.0" r="5" fill="#fcd34d" stroke="#334155" stroke-width="1.2"/>
+<circle cx="813.5" cy="120.0" r="5" fill="#fca5a5" stroke="#334155" stroke-width="1.2"/>
+<circle cx="813.5" cy="137.0" r="5" fill="#fca5a5" stroke="#334155" stroke-width="1.2"/>
+<circle cx="796.5" cy="137.0" r="5" fill="#fca5a5" stroke="#334155" stroke-width="1.2"/>
+<text x="784.0" y="186" text-anchor="middle" font-size="14" font-weight="bold">R² = 1 (compact)</text>
+<text x="784.0" y="204" text-anchor="middle" font-size="13">2 shapes × 4 = 8 microstates</text>
+<text x="444.0" y="246" text-anchor="middle" font-size="13">Self-avoiding walks on the square lattice: 9 × 4 = 36 microstates. Macrostate = squared end-to-end distance R² (bond length 1).</text>
+</svg>

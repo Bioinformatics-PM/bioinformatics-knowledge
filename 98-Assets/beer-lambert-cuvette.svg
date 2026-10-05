@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="720" height="380" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="360.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Light absorbed along the path through a sample</text>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker></defs>
+<rect x="260" y="90" width="200" height="160" rx="6" fill="#dbeafe" stroke="#64748b" stroke-width="2"/>
+<circle cx="312.8" cy="176.2" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="336.6" cy="184.5" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="382.6" cy="109.2" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="272.4" cy="217.2" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="316.7" cy="132.8" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="449.2" cy="165.8" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="420.6" cy="166.7" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="385.0" cy="121.1" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="384.3" cy="221.5" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="364.2" cy="203.8" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="390.9" cy="109.0" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="406.5" cy="182.8" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="324.2" cy="104.3" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="425.8" cy="166.2" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="399.4" cy="223.0" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="398.5" cy="229.0" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="341.1" cy="212.1" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="350.0" cy="231.0" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="428.2" cy="113.6" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="294.5" cy="130.4" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="443.8" cy="161.1" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="382.8" cy="142.1" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="361.3" cy="154.0" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="333.2" cy="181.9" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="375.2" cy="226.6" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="392.8" cy="230.1" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="424.2" cy="238.7" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="390.8" cy="122.8" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="424.9" cy="235.0" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="432.8" cy="179.7" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="398.5" cy="129.6" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="419.7" cy="180.3" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="321.3" cy="108.9" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="423.7" cy="238.6" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="285.9" cy="212.1" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="343.9" cy="121.1" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="322.9" cy="207.6" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="427.1" cy="106.2" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="380.6" cy="106.3" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="399.3" cy="146.3" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="428.6" cy="237.3" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="361.0" cy="239.8" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="325.7" cy="110.8" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="378.0" cy="104.4" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="305.5" cy="157.1" r="4" fill="#6366f1" opacity="0.75"/>
+<circle cx="379.9" cy="121.9" r="4" fill="#6366f1" opacity="0.75"/>
+<path d="M 80.0,144.0 L 260.0,144.0 L 260.0,144.0 L 270.0,145.5 L 280.0,146.9 L 290.0,148.3 L 300.0,149.5 L 310.0,150.7 L 320.0,151.9 L 330.0,152.9 L 340.0,153.9 L 350.0,154.8 L 360.0,155.7 L 370.0,156.6 L 380.0,157.3 L 390.0,158.1 L 400.0,158.8 L 410.0,159.4 L 420.0,160.0 L 430.0,160.6 L 440.0,161.2 L 450.0,161.7 L 460.0,162.2 L 600.0,162.2 L 600.0,177.8 L 460.0,177.8 L 450.0,178.3 L 440.0,178.8 L 430.0,179.4 L 420.0,180.0 L 410.0,180.6 L 400.0,181.2 L 390.0,181.9 L 380.0,182.7 L 370.0,183.4 L 360.0,184.3 L 350.0,185.2 L 340.0,186.1 L 330.0,187.1 L 320.0,188.1 L 310.0,189.3 L 300.0,190.5 L 290.0,191.7 L 280.0,193.1 L 270.0,194.5 L 260.0,196.0 L 260.0,196.0 L 80.0,196.0 Z" fill="#fde68a" opacity="0.85" stroke="#d97706" stroke-width="1.5"/>
+<rect x="600" y="130" width="40" height="80" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+<text x="620" y="230" text-anchor="middle" font-size="13" fill="#1f2937">detector</text>
+<text x="120" y="134" text-anchor="middle" font-size="15" fill="#1f2937">I₀</text>
+<text x="530" y="146" text-anchor="middle" font-size="15" fill="#1f2937">I</text>
+<text x="120" y="222" text-anchor="middle" font-size="13" fill="#1f2937">incident light, one λ</text>
+<line x1="260" y1="270" x2="460" y2="270" stroke="#1f2937" stroke-width="1.8" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="360.0" y="290" text-anchor="middle" font-size="14" fill="#1f2937">path length l (usually 1 cm)</text>
+<text x="360.0" y="80" text-anchor="middle" font-size="13" fill="#1f2937">absorbing molecules, concentration c</text>
+<text x="360.0" y="342" text-anchor="middle" font-size="15" fill="#1f2937">A = log₁₀(I₀ / I) = ε c l</text>
+<text x="360.0" y="364" text-anchor="middle" font-size="13" fill="#64748b">Intensity falls exponentially with depth; absorbance grows linearly with c and l.</text>
+</svg>

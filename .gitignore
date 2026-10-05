@@ -1,0 +1,14 @@
+# Obsidian: per-device state (shared settings app.json and templates.json stay versioned)
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/templates.json
+.trash/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python
+__pycache__/
+.venv/

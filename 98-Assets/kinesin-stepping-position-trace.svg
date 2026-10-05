@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect x="2" y="2" width="756" height="376" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="380" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">A stepping motor: position is a staircase, velocity is its average slope</text>
+  <!-- axes -->
+  <line x1="90" y1="300" x2="710" y2="300" stroke="#64748b" stroke-width="1.5" marker-end="url(#ar)"/>
+  <line x1="90" y1="300" x2="90" y2="60" stroke="#64748b" stroke-width="1.5" marker-end="url(#ar)"/>
+  <text x="700" y="326" text-anchor="end" font-size="14" fill="#1f2937">time t</text>
+  <text x="30" y="180" text-anchor="middle" font-size="14" fill="#1f2937" transform="rotate(-90 30 180)">position x (nm)</text>
+  <g font-size="12" fill="#1f2937" text-anchor="end">
+    <text x="82" y="304">0</text>
+    <text x="82" y="260">16</text>
+    <text x="82" y="216">32</text>
+    <text x="82" y="172">48</text>
+    <text x="82" y="128">64</text>
+  </g>
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="90" y1="256" x2="700" y2="256"/><line x1="90" y1="212" x2="700" y2="212"/>
+    <line x1="90" y1="168" x2="700" y2="168"/><line x1="90" y1="124" x2="700" y2="124"/>
+  </g>
+  <!-- average velocity line -->
+  <line x1="90" y1="300" x2="690" y2="102" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="8 6"/>
+  <!-- staircase: 8 nm = 22 px -->
+  <path d="M90,300 H140 V278 H195 V256 H220 V234 H300 V212 H360 V190 H430 V168 H490 V146 H570 V124 H620 V102 H690" fill="none" stroke="#0284c7" stroke-width="3"/>
+  <!-- step annotation -->
+  <line x1="312" y1="234" x2="312" y2="212" stroke="#475569" stroke-width="1.5" marker-start="url(#ar)" marker-end="url(#ar)"/>
+  <text x="320" y="228" font-size="13" fill="#1f2937">d = 8 nm</text>
+  <!-- dwell annotation -->
+  <line x1="222" y1="248" x2="298" y2="248" stroke="#475569" stroke-width="1.5" marker-start="url(#ar)" marker-end="url(#ar)"/>
+  <text x="260" y="266" text-anchor="middle" font-size="13" fill="#1f2937">dwell τ</text>
+  <!-- legend -->
+  <rect x="110" y="70" width="300" height="72" rx="8" fill="#ffffff" stroke="#cbd5e1"/>
+  <line x1="124" y1="92" x2="160" y2="92" stroke="#0284c7" stroke-width="3"/>
+  <text x="170" y="96" font-size="13" fill="#1f2937">x(t): steps separated by random dwells</text>
+  <line x1="124" y1="122" x2="160" y2="122" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="8 6"/>
+  <text x="170" y="126" font-size="13" fill="#1f2937">slope = average v = d / ⟨τ⟩</text>
+  <text x="380" y="350" text-anchor="middle" font-size="13" fill="#1f2937">dx/dt is 0 during a dwell and very large during a step; only the average is a useful "speed".</text>
+  <text x="380" y="368" text-anchor="middle" font-size="12" fill="#475569">Schematic: dwell times drawn for illustration, not measured.</text>
+</svg>

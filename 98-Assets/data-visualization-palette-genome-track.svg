@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 470" width="780" height="470" font-family="Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="778" height="468" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<text x="390.0" y="32.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#1f2937">A color-blind-safe palette in use</text>
+<text x="390.0" y="54.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#64748b">Palette from Wong (2011), after Okabe and Ito; genome tracks drawn with it from invented data</text>
+<text x="40.0" y="88.0" font-size="14" text-anchor="start" font-weight="bold" fill="#1f2937">A. The eight-color palette: seven colors shown, plus black</text>
+<rect x="40.0" y="100.0" width="86.0" height="34.0" rx="6" fill="#E69F00" stroke="#64748b" stroke-width="1"/>
+<text x="83.0" y="152.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">orange</text>
+<text x="83.0" y="168.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#64748b" font-family="Courier New, monospace">#E69F00</text>
+<rect x="140.0" y="100.0" width="86.0" height="34.0" rx="6" fill="#56B4E9" stroke="#64748b" stroke-width="1"/>
+<text x="183.0" y="152.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">sky blue</text>
+<text x="183.0" y="168.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#64748b" font-family="Courier New, monospace">#56B4E9</text>
+<rect x="240.0" y="100.0" width="86.0" height="34.0" rx="6" fill="#009E73" stroke="#64748b" stroke-width="1"/>
+<text x="283.0" y="152.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">bluish green</text>
+<text x="283.0" y="168.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#64748b" font-family="Courier New, monospace">#009E73</text>
+<rect x="340.0" y="100.0" width="86.0" height="34.0" rx="6" fill="#F0E442" stroke="#64748b" stroke-width="1"/>
+<text x="383.0" y="152.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">yellow</text>
+<text x="383.0" y="168.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#64748b" font-family="Courier New, monospace">#F0E442</text>
+<rect x="440.0" y="100.0" width="86.0" height="34.0" rx="6" fill="#0072B2" stroke="#64748b" stroke-width="1"/>
+<text x="483.0" y="152.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">blue</text>
+<text x="483.0" y="168.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#64748b" font-family="Courier New, monospace">#0072B2</text>
+<rect x="540.0" y="100.0" width="86.0" height="34.0" rx="6" fill="#D55E00" stroke="#64748b" stroke-width="1"/>
+<text x="583.0" y="152.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">vermillion</text>
+<text x="583.0" y="168.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#64748b" font-family="Courier New, monospace">#D55E00</text>
+<rect x="640.0" y="100.0" width="86.0" height="34.0" rx="6" fill="#CC79A7" stroke="#64748b" stroke-width="1"/>
+<text x="683.0" y="152.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">reddish purple</text>
+<text x="683.0" y="168.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#64748b" font-family="Courier New, monospace">#CC79A7</text>
+<text x="40.0" y="208.0" font-size="14" text-anchor="start" font-weight="bold" fill="#1f2937">B. chrT:10,000-20,000 (invented region)</text>
+<line x1="150.0" y1="232.0" x2="740.0" y2="232.0" stroke="#64748b" stroke-width="1"/>
+<line x1="150.0" y1="227.0" x2="150.0" y2="237.0" stroke="#64748b" stroke-width="1"/>
+<text x="150.0" y="223.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">10 kb</text>
+<line x1="268.0" y1="227.0" x2="268.0" y2="237.0" stroke="#64748b" stroke-width="1"/>
+<text x="268.0" y="223.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">12 kb</text>
+<line x1="386.0" y1="227.0" x2="386.0" y2="237.0" stroke="#64748b" stroke-width="1"/>
+<text x="386.0" y="223.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">14 kb</text>
+<line x1="504.0" y1="227.0" x2="504.0" y2="237.0" stroke="#64748b" stroke-width="1"/>
+<text x="504.0" y="223.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">16 kb</text>
+<line x1="622.0" y1="227.0" x2="622.0" y2="237.0" stroke="#64748b" stroke-width="1"/>
+<text x="622.0" y="223.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">18 kb</text>
+<line x1="740.0" y1="227.0" x2="740.0" y2="237.0" stroke="#64748b" stroke-width="1"/>
+<text x="740.0" y="223.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1f2937">20 kb</text>
+<text x="138.0" y="236.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">position</text>
+<line x1="209.0" y1="268.0" x2="675.1" y2="268.0" stroke="#0072B2" stroke-width="2"/>
+<path d="M 252.2 264 L 258.2 268 L 252.2 272" fill="none" stroke="#0072B2" stroke-width="1.5"/>
+<path d="M 305.3 264 L 311.3 268 L 305.3 272" fill="none" stroke="#0072B2" stroke-width="1.5"/>
+<path d="M 358.4 264 L 364.4 268 L 358.4 272" fill="none" stroke="#0072B2" stroke-width="1.5"/>
+<path d="M 411.5 264 L 417.5 268 L 411.5 272" fill="none" stroke="#0072B2" stroke-width="1.5"/>
+<path d="M 464.6 264 L 470.6 268 L 464.6 272" fill="none" stroke="#0072B2" stroke-width="1.5"/>
+<path d="M 517.7 264 L 523.7 268 L 517.7 272" fill="none" stroke="#0072B2" stroke-width="1.5"/>
+<path d="M 570.8 264 L 576.8 268 L 570.8 272" fill="none" stroke="#0072B2" stroke-width="1.5"/>
+<path d="M 623.9 264 L 629.9 268 L 623.9 272" fill="none" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="209.0" y="258.0" width="35.4" height="20.0" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="338.8" y="258.0" width="29.5" height="20.0" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="445.0" y="258.0" width="23.6" height="20.0" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="610.2" y="258.0" width="64.9" height="20.0" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<text x="138.0" y="272.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">gene geneT (+)</text>
+<path d="M 150.0 380.0 L 150.0 353.5 L 155.9 352.6 L 161.8 346.4 L 167.7 354.5 L 173.6 347.3 L 179.5 352.8 L 185.4 342.0 L 191.3 344.0 L 197.2 339.8 L 203.1 344.7 L 209.0 316.4 L 214.9 317.8 L 220.8 318.6 L 226.7 315.4 L 232.6 319.1 L 238.5 316.0 L 244.4 312.4 L 250.3 339.0 L 256.2 340.0 L 262.1 332.0 L 268.0 338.2 L 273.9 339.9 L 279.8 337.6 L 285.7 339.6 L 291.6 339.2 L 297.5 339.1 L 303.4 332.1 L 309.3 338.2 L 315.2 338.0 L 321.1 336.8 L 327.0 333.0 L 332.9 340.1 L 338.8 316.7 L 344.7 307.9 L 350.6 320.2 L 356.5 317.4 L 362.4 314.9 L 368.3 310.7 L 374.2 346.0 L 380.1 351.1 L 386.0 342.5 L 391.9 346.8 L 397.8 347.1 L 403.7 345.4 L 409.6 346.8 L 415.5 347.4 L 421.4 350.4 L 427.3 346.0 L 433.2 346.2 L 439.1 351.4 L 445.0 328.6 L 450.9 325.9 L 456.8 327.4 L 462.7 332.7 L 468.6 331.7 L 474.5 352.9 L 480.4 357.0 L 486.3 358.3 L 492.2 357.3 L 498.1 358.6 L 504.0 359.1 L 509.9 365.4 L 515.8 354.8 L 521.7 359.9 L 527.6 363.5 L 533.5 358.2 L 539.4 360.5 L 545.3 361.6 L 551.2 358.7 L 557.1 355.1 L 563.0 360.3 L 568.9 357.2 L 574.8 355.5 L 580.7 364.9 L 586.6 363.3 L 592.5 359.2 L 598.4 366.4 L 604.3 361.8 L 610.2 331.7 L 616.1 332.1 L 622.0 333.0 L 627.9 340.0 L 633.8 326.7 L 639.7 331.5 L 645.6 330.3 L 651.5 330.5 L 657.4 336.4 L 663.3 334.9 L 669.2 333.5 L 675.1 323.4 L 681.0 355.8 L 686.9 353.3 L 692.8 352.6 L 698.7 349.3 L 704.6 348.7 L 710.5 348.6 L 716.4 352.4 L 722.3 357.2 L 728.2 346.5 L 734.1 345.5 L 740.0 341.8 L 740.0 380.0 Z" fill="#56B4E9" stroke="#0072B2" stroke-width="1" fill-opacity="0.6"/>
+<line x1="146.0" y1="380.0" x2="150.0" y2="380.0" stroke="#64748b" stroke-width="1"/>
+<text x="143.0" y="384.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1f2937">0</text>
+<line x1="146.0" y1="340.0" x2="150.0" y2="340.0" stroke="#64748b" stroke-width="1"/>
+<text x="143.0" y="344.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1f2937">40</text>
+<line x1="146.0" y1="300.0" x2="150.0" y2="300.0" stroke="#64748b" stroke-width="1"/>
+<text x="143.0" y="304.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1f2937">80</text>
+<line x1="150.0" y1="300.0" x2="150.0" y2="380.0" stroke="#64748b" stroke-width="1"/>
+<line x1="150.0" y1="380.0" x2="740.0" y2="380.0" stroke="#64748b" stroke-width="1"/>
+<text x="116.0" y="344.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">depth</text>
+<text x="116.0" y="360.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">(reads)</text>
+<path d="M 279.7 416 L 291.7 416 L 285.7 404 Z" fill="#D55E00" stroke="#D55E00" stroke-width="1"/>
+<path d="M 347.5 416 L 359.5 416 L 353.5 404 Z" fill="#D55E00" stroke="#D55E00" stroke-width="1"/>
+<path d="M 562.9 416 L 574.9 416 L 568.9 404 Z" fill="#D55E00" stroke="#D55E00" stroke-width="1"/>
+<path d="M 627.8 416 L 639.8 416 L 633.8 404 Z" fill="#D55E00" stroke="#D55E00" stroke-width="1"/>
+<rect x="227.6" y="405.0" width="10.0" height="10.0" rx="0" fill="#009E73" stroke="none" stroke-width="1"/>
+<rect x="493.1" y="405.0" width="10.0" height="10.0" rx="0" fill="#009E73" stroke="none" stroke-width="1"/>
+<text x="138.0" y="415.0" font-size="13" text-anchor="end" font-weight="normal" fill="#1f2937">variants</text>
+<path d="M 466 440 L 478 440 L 472 428 Z" fill="#D55E00" stroke="#D55E00" stroke-width="1"/>
+<text x="484.0" y="439.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2937">SNV</text>
+<rect x="530.0" y="429.0" width="10.0" height="10.0" rx="0" fill="#009E73" stroke="none" stroke-width="1"/>
+<text x="546.0" y="439.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2937">indel (color and shape both differ)</text>
+</svg>

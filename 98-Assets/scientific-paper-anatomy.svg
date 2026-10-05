@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="800" height="580" rx="16" fill="#f8fafc"/>
+  <text x="400" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Anatomy of a research paper: each part answers one question</text>
+
+  <!-- the page -->
+  <rect x="60" y="52" width="290" height="408" rx="6" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
+  <rect x="76" y="66" width="258" height="30" rx="4" fill="#dbeafe" stroke="#64748b"/>
+  <text x="205" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">Title</text>
+  <rect x="76" y="102" width="258" height="22" rx="4" fill="#e2e8f0" stroke="#64748b"/>
+  <text x="205" y="118" text-anchor="middle" font-size="12" fill="#1f2937">Authors, affiliations, DOI</text>
+  <rect x="76" y="130" width="258" height="44" rx="4" fill="#fef3c7" stroke="#64748b"/>
+  <text x="205" y="157" text-anchor="middle" font-size="13" fill="#1f2937">Abstract</text>
+  <rect x="76" y="182" width="258" height="44" rx="4" fill="#dcfce7" stroke="#64748b"/>
+  <text x="205" y="209" text-anchor="middle" font-size="13" fill="#1f2937">Introduction</text>
+  <rect x="76" y="234" width="258" height="44" rx="4" fill="#fce7f3" stroke="#64748b"/>
+  <text x="205" y="261" text-anchor="middle" font-size="13" fill="#1f2937">Methods</text>
+  <rect x="76" y="286" width="258" height="78" rx="4" fill="#e0e7ff" stroke="#64748b"/>
+  <text x="130" y="330" text-anchor="middle" font-size="13" fill="#1f2937">Results</text>
+  <rect x="196" y="294" width="128" height="62" rx="3" fill="#f8fafc" stroke="#64748b"/>
+  <line x1="208" y1="344" x2="314" y2="344" stroke="#64748b"/>
+  <rect x="218" y="326" width="16" height="18" fill="#a5b4fc"/>
+  <rect x="244" y="312" width="16" height="32" fill="#a5b4fc"/>
+  <rect x="270" y="318" width="16" height="26" fill="#a5b4fc"/>
+  <rect x="296" y="304" width="12" height="40" fill="#a5b4fc"/>
+  <text x="260" y="356" text-anchor="middle" font-size="12" fill="#1f2937">Fig. 1</text>
+  <rect x="76" y="372" width="258" height="36" rx="4" fill="#dcfce7" stroke="#64748b"/>
+  <text x="205" y="395" text-anchor="middle" font-size="13" fill="#1f2937">Discussion</text>
+  <rect x="76" y="416" width="258" height="30" rx="4" fill="#e2e8f0" stroke="#64748b"/>
+  <text x="205" y="436" text-anchor="middle" font-size="13" fill="#1f2937">References</text>
+
+  <!-- IMRaD bracket -->
+  <path d="M 52 184 L 44 184 L 44 406 L 52 406" fill="none" stroke="#64748b" stroke-width="1.5"/>
+  <text x="34" y="295" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937" transform="rotate(-90 34 295)">IMRaD body</text>
+
+  <!-- attached material -->
+  <rect x="60" y="474" width="290" height="32" rx="6" fill="#fef9c3" stroke="#94a3b8" stroke-dasharray="6 4"/>
+  <text x="205" y="495" text-anchor="middle" font-size="13" fill="#1f2937">Supplementary material</text>
+  <rect x="60" y="518" width="290" height="32" rx="6" fill="#ccfbf1" stroke="#94a3b8" stroke-dasharray="6 4"/>
+  <text x="205" y="539" text-anchor="middle" font-size="13" fill="#1f2937">Data and code availability</text>
+
+  <!-- questions -->
+  <g stroke="#94a3b8" stroke-width="1.2">
+    <line x1="334" y1="81" x2="372" y2="81"/>
+    <line x1="334" y1="113" x2="372" y2="113"/>
+    <line x1="334" y1="152" x2="372" y2="152"/>
+    <line x1="334" y1="204" x2="372" y2="204"/>
+    <line x1="334" y1="256" x2="372" y2="256"/>
+    <line x1="334" y1="325" x2="372" y2="325"/>
+    <line x1="334" y1="390" x2="372" y2="390"/>
+    <line x1="334" y1="431" x2="372" y2="431"/>
+    <line x1="350" y1="490" x2="372" y2="490"/>
+    <line x1="350" y1="534" x2="372" y2="534"/>
+  </g>
+  <g font-size="13" fill="#1f2937">
+    <text x="380" y="86">What is the paper about?</text>
+    <text x="380" y="118">Who is responsible, and how do I cite it?</text>
+    <text x="380" y="157">What was done and found, in one paragraph?</text>
+    <text x="380" y="209">Why ask? What was known, what is the gap?</text>
+    <text x="380" y="261">How? Design, samples, controls, software, statistics</text>
+    <text x="380" y="330">What was found? The figures carry the evidence</text>
+    <text x="380" y="395">What does it mean, and what are the limits?</text>
+    <text x="380" y="436">What does it build on?</text>
+    <text x="380" y="495">Full methods, extra figures and tables</text>
+    <text x="380" y="539">Where are the data? Accessions, repository DOIs</text>
+  </g>
+</svg>
