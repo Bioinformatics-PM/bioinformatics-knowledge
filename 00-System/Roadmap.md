@@ -19,8 +19,8 @@ How the vault itself gets built. The learner's path is the [[Curriculum]]; this 
 
 ## Phase 1 - Stage 1 content
 
-Write the 341 Stage 1 concepts of the syllabi (see [[Curriculum#Stage 1 - Foundations|Stage 1]]), in parallel with [[01-dna-engine]] and [[02-sequence-translation]]:
-[[Cell Biology]], [[Molecular Biology]], [[Genetics]], [[General Chemistry]], [[Mathematical Foundations]], [[Calculus]], [[Probability]], [[Descriptive Statistics]], [[Programming]], [[Data Structures]], [[Algorithms]], [[Bioinformatics Foundations]], [[Scientific Method]].
+- [x] Write the 341 Stage 1 concepts of the syllabi (see [[Curriculum#Stage 1 - Foundations|Stage 1]]) across the nine domains, each sourced, with figures, runnable code and graded exercises
+- [ ] Build [[01-dna-engine]] and [[02-sequence-translation]] on top of them
 
 ## Phase 2 - Stage 2 content
 
