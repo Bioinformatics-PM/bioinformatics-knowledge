@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="798" height="398" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="400.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Bragg's law: reflections from successive planes add up when 2d sin θ = nλ</text>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker><marker id="aho" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/></marker></defs>
+<line x1="60.0" y1="170.0" x2="740.0" y2="170.0" stroke="#475569" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="80" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="140" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="200" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="260" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="320" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="380" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="440" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="500" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="560" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="620" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="680" cy="170" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<line x1="60.0" y1="250.0" x2="740.0" y2="250.0" stroke="#475569" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="80" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="140" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="200" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="260" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="320" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="380" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="440" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="500" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="560" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="620" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="680" cy="250" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<line x1="60.0" y1="330.0" x2="740.0" y2="330.0" stroke="#475569" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="80" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="140" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="200" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="260" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="320" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="380" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="440" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="500" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="560" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="620" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<circle cx="680" cy="330" r="9" fill="#e0e7ff" stroke="#7c3aed" stroke-width="1.4"/>
+<line x1="185.8" y1="66.7" x2="380.0" y2="170.0" stroke="#ea580c" stroke-width="2.4" marker-end="url(#aho)"/>
+<line x1="380.0" y1="170.0" x2="574.2" y2="66.7" stroke="#ea580c" stroke-width="2.4" marker-end="url(#aho)"/>
+<line x1="185.8" y1="146.7" x2="380.0" y2="250.0" stroke="#2563eb" stroke-width="2.4" marker-end="url(#ahb)"/>
+<line x1="380.0" y1="250.0" x2="574.2" y2="146.7" stroke="#2563eb" stroke-width="2.4" marker-end="url(#ahb)"/>
+<line x1="380.0" y1="170.0" x2="346.8" y2="232.4" stroke="#475569" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="380.0" y1="170.0" x2="413.2" y2="232.4" stroke="#475569" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="346.8" y1="232.4" x2="380.0" y2="250.0" stroke="#dc2626" stroke-width="3.4"/>
+<line x1="380.0" y1="250.0" x2="413.2" y2="232.4" stroke="#dc2626" stroke-width="3.4"/>
+<text x="380.0" y="284.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#dc2626">extra path = 2 d sin θ</text>
+<line x1="700.0" y1="170.0" x2="700.0" y2="250.0" stroke="#1f2937" stroke-width="1.2" marker-end="url(#ah)"/>
+<line x1="700.0" y1="250.0" x2="700.0" y2="170.0" stroke="#1f2937" stroke-width="1.2" marker-end="url(#ah)"/>
+<text x="712.0" y="215.0" text-anchor="start" font-size="15" font-weight="bold" fill="#1f2937" font-style="italic">d</text>
+<path d="M340.0,170.0 A40,40 0 0 1 344.7,151.2" fill="none" stroke="#1f2937" stroke-width="1.4"/>
+<text x="326.0" y="157.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937" font-style="italic">θ</text>
+<text x="120.0" y="95.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#ea580c">incident X-rays</text>
+<text x="650.0" y="95.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#ea580c">diffracted X-rays</text>
+<text x="400.0" y="382.0" text-anchor="middle" font-size="13" font-weight="normal" fill="#475569">θ is measured from the planes (glancing angle); the deflection of the beam is 2θ</text>
+</svg>
