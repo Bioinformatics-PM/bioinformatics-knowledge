@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 470" width="780" height="470" font-family="Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="778" height="468" rx="16" ry="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="390.0" y="36" text-anchor="middle" font-size="19" font-weight="bold" fill="#1f2937">A two-generation bottleneck dominates the effective size</text>
+<text x="390.0" y="60" text-anchor="middle" font-size="14" fill="#1f2937">census size per generation (invented history, logarithmic axis)</text>
+<line x1="110" y1="380.0" x2="720" y2="380.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="384.0" text-anchor="end" font-size="13" fill="#1f2937">10</text>
+<line x1="110" y1="342.1" x2="720" y2="342.1" stroke="#f1f5f9" stroke-width="1"/>
+<text x="100" y="346.1" text-anchor="end" font-size="13" fill="#1f2937">20</text>
+<line x1="110" y1="291.9" x2="720" y2="291.9" stroke="#f1f5f9" stroke-width="1"/>
+<text x="100" y="295.9" text-anchor="end" font-size="13" fill="#1f2937">50</text>
+<line x1="110" y1="254.0" x2="720" y2="254.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="258.0" text-anchor="end" font-size="13" fill="#1f2937">100</text>
+<line x1="110" y1="216.0" x2="720" y2="216.0" stroke="#f1f5f9" stroke-width="1"/>
+<text x="100" y="220.0" text-anchor="end" font-size="13" fill="#1f2937">200</text>
+<line x1="110" y1="165.9" x2="720" y2="165.9" stroke="#f1f5f9" stroke-width="1"/>
+<text x="100" y="169.9" text-anchor="end" font-size="13" fill="#1f2937">500</text>
+<line x1="110" y1="127.9" x2="720" y2="127.9" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="131.9" text-anchor="end" font-size="13" fill="#1f2937">1,000</text>
+<line x1="110" y1="90.0" x2="720" y2="90.0" stroke="#f1f5f9" stroke-width="1"/>
+<text x="100" y="94.0" text-anchor="end" font-size="13" fill="#1f2937">2,000</text>
+<rect x="121.6" y="127.9" width="37.8" height="252.1" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="140.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">1</text>
+<rect x="182.6" y="127.9" width="37.8" height="252.1" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="201.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">2</text>
+<rect x="243.6" y="342.1" width="37.8" height="37.9" fill="#fecaca" stroke="#dc2626" stroke-width="1.5"/>
+<text x="262.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">3</text>
+<text x="262.5" y="334.1" text-anchor="middle" font-size="13" font-weight="bold" fill="#b91c1c">20</text>
+<rect x="304.6" y="342.1" width="37.8" height="37.9" fill="#fecaca" stroke="#dc2626" stroke-width="1.5"/>
+<text x="323.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">4</text>
+<text x="323.5" y="334.1" text-anchor="middle" font-size="13" font-weight="bold" fill="#b91c1c">20</text>
+<rect x="365.6" y="127.9" width="37.8" height="252.1" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="384.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">5</text>
+<rect x="426.6" y="127.9" width="37.8" height="252.1" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="445.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">6</text>
+<rect x="487.6" y="127.9" width="37.8" height="252.1" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="506.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">7</text>
+<rect x="548.6" y="127.9" width="37.8" height="252.1" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="567.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">8</text>
+<rect x="609.6" y="127.9" width="37.8" height="252.1" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="628.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">9</text>
+<rect x="670.6" y="127.9" width="37.8" height="252.1" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="689.5" y="400" text-anchor="middle" font-size="13" fill="#1f2937">10</text>
+<line x1="110" y1="380" x2="720" y2="380" stroke="#64748b" stroke-width="1.5"/>
+<line x1="110" y1="380" x2="110" y2="90" stroke="#64748b" stroke-width="1.5"/>
+<text x="415.0" y="424" text-anchor="middle" font-size="14" fill="#1f2937">generation</text>
+<text x="40" y="235.0" text-anchor="middle" font-size="14" fill="#1f2937" transform="rotate(-90 40 235.0)">individuals</text>
+<line x1="110" y1="139.9" x2="720" y2="139.9" stroke="#475569" stroke-width="2.5" stroke-dasharray="9 6"/>
+<rect x="362.0" y="145.9" width="250" height="24" rx="6" fill="#f8fafc" opacity="0.9"/>
+<text x="370.0" y="162.9" font-size="14" font-weight="bold" fill="#334155">arithmetic mean: 804 individuals</text>
+<line x1="110" y1="258.2" x2="720" y2="258.2" stroke="#d97706" stroke-width="3"/>
+<rect x="362.0" y="264.2" width="300" height="24" rx="6" fill="#f8fafc" opacity="0.9"/>
+<text x="370.0" y="281.2" font-size="14" font-weight="bold" fill="#b45309">harmonic mean = effective size: 92.6</text>
+</svg>
