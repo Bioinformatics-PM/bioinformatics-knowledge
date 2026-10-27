@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 340" width="780" height="340">
+<defs>
+<marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+</defs>
+<rect x="1" y="1" width="778" height="338" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="390.0" y="30.0" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">Subspace or not? Four subsets of the plane</text>
+<rect x="20" y="48" width="180" height="200" rx="10" fill="#eef2f7" stroke="#cbd5e1"/>
+<rect x="210" y="48" width="180" height="200" rx="10" fill="#eef2f7" stroke="#cbd5e1"/>
+<rect x="400" y="48" width="180" height="200" rx="10" fill="#eef2f7" stroke="#cbd5e1"/>
+<rect x="590" y="48" width="180" height="200" rx="10" fill="#eef2f7" stroke="#cbd5e1"/>
+<line x1="30.0" y1="150.0" x2="190.0" y2="150.0" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round" opacity="1.0"/>
+<line x1="110.0" y1="56.0" x2="110.0" y2="240.0" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round" opacity="1.0"/>
+<line x1="26.8" y1="191.6" x2="193.2" y2="108.4" stroke="#2563eb" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+<line x1="110.0" y1="150.0" x2="161.2" y2="124.4" stroke="#334155" stroke-width="2.5" stroke-linecap="round" marker-end="url(#ad)" opacity="1.0"/>
+<text x="163.2" y="114.4" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">u</text>
+<line x1="110.0" y1="150.0" x2="46.0" y2="182.0" stroke="#334155" stroke-width="2.5" stroke-linecap="round" marker-end="url(#ad)" opacity="1.0"/>
+<text x="50.0" y="202.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="normal" font-style="normal">−1.25 u</text>
+<text x="120.0" y="167.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#475569" font-weight="normal" font-style="normal">0</text>
+<line x1="230.0" y1="205.0" x2="380.0" y2="205.0" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round" opacity="1.0"/>
+<line x1="255.0" y1="236.0" x2="255.0" y2="58.0" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round" opacity="1.0"/>
+<text x="375.0" y="223.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#475569" font-weight="normal" font-style="normal">p₁</text>
+<text x="241.0" y="70.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#475569" font-weight="normal" font-style="normal">p₂</text>
+<line x1="319.0" y1="205.0" x2="255.0" y2="141.0" stroke="#2563eb" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+<circle cx="287.0" cy="173.0" r="4.5" fill="#2563eb"/>
+<text x="273.0" y="177.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">p</text>
+<line x1="255.0" y1="205.0" x2="319.0" y2="141.0" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 4" marker-end="url(#ar)" opacity="1.0"/>
+<text x="323.0" y="131.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" text-anchor="middle" fill="#dc2626" font-weight="normal" font-style="normal">p + p = (1, 1)</text>
+<circle cx="255" cy="205" r="5" fill="none" stroke="#dc2626" stroke-width="2"/>
+<text x="243.0" y="223.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626" font-weight="normal" font-style="normal">0</text>
+<rect x="490" y="56" width="80" height="94" fill="#dbeafe"/>
+<line x1="410.0" y1="150.0" x2="570.0" y2="150.0" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round" opacity="1.0"/>
+<line x1="490.0" y1="56.0" x2="490.0" y2="240.0" stroke="#94a3b8" stroke-width="1.2" stroke-linecap="round" opacity="1.0"/>
+<line x1="490.0" y1="150.0" x2="570.0" y2="150.0" stroke="#2563eb" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="490.0" y1="150.0" x2="490.0" y2="56.0" stroke="#2563eb" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="490.0" y1="150.0" x2="541.2" y2="114.8" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" marker-end="url(#ab)" opacity="1.0"/>
+<text x="551.2" y="108.8" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">v</text>
+<line x1="490.0" y1="150.0" x2="438.8" y2="185.2" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="5 4" marker-end="url(#ar)" opacity="1.0"/>
+<text x="434.8" y="205.2" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626" font-weight="bold" font-style="normal">−v</text>
+<text x="500.0" y="167.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#475569" font-weight="normal" font-style="normal">0</text>
+<line x1="600.0" y1="150.0" x2="760.0" y2="150.0" stroke="#2563eb" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+<line x1="680.0" y1="56.0" x2="680.0" y2="240.0" stroke="#2563eb" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+<line x1="680.0" y1="150.0" x2="737.6" y2="150.0" stroke="#334155" stroke-width="2.5" stroke-linecap="round" marker-end="url(#ad)" opacity="1.0"/>
+<line x1="680.0" y1="150.0" x2="680.0" y2="102.0" stroke="#334155" stroke-width="2.5" stroke-linecap="round" marker-end="url(#ad)" opacity="1.0"/>
+<line x1="737.6" y1="150.0" x2="737.6" y2="102.0" stroke="#64748b" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4" opacity="1.0"/>
+<line x1="680.0" y1="102.0" x2="737.6" y2="102.0" stroke="#64748b" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4" opacity="1.0"/>
+<circle cx="737.6" cy="102.0" r="5" fill="#dc2626"/>
+<text x="741.6" y="91.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626" font-weight="bold" font-style="normal">u + w</text>
+<text x="733.6" y="168.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">u</text>
+<text x="668.0" y="108.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">w</text>
+<text x="110.0" y="272.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">(a) Line through 0</text>
+<text x="110.0" y="291.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="normal" font-style="normal">sums, multiples stay on it</text>
+<text x="110.0" y="316.0" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#047857" font-weight="bold" font-style="normal">subspace</text>
+<text x="300.0" y="272.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">(b) Proportions, p₁ + p₂ = 1</text>
+<text x="300.0" y="291.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="normal" font-style="normal">0 missing; p + p sums to 2</text>
+<text x="300.0" y="316.0" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-style="normal">not a subspace</text>
+<text x="490.0" y="272.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">(c) Quadrant, x, y ≥ 0</text>
+<text x="490.0" y="291.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="normal" font-style="normal">like count vectors: −v leaves</text>
+<text x="490.0" y="316.0" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-style="normal">not a subspace</text>
+<text x="680.0" y="272.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#1f2937" font-weight="bold" font-style="normal">(d) Union of two lines</text>
+<text x="680.0" y="291.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" text-anchor="middle" fill="#1f2937" font-weight="normal" font-style="normal">u + w lies on neither line</text>
+<text x="680.0" y="316.0" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-style="normal">not a subspace</text>
+</svg>
