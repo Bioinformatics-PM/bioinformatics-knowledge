@@ -136,7 +136,7 @@ The note's **Mastery checklist** tells you what each step means for that specifi
 
 ### Levels inside one note
 
-A concept is written **once**, deepening from L1 to L3, instead of three notes. Level sections are headed `## Core (L1)`, `## Deeper (L2)`, `## Advanced (L3)` (and `## Frontier (M1)` when relevant). Omit a level that adds nothing.
+A concept is written **once**, deepening level by level, instead of one note per year. The first level section is always `## Core (Lx)`, at the level where the concept enters the curriculum, given by the stage of its learning path (Stage 1 = L1, Stage 2 = L2, Stage 3 = L3, Stage 4 = M1). Deeper sections follow: `## Deeper (L2)`, `## Advanced (L3)`, `## Frontier (M1)`. A Stage 2 concept therefore opens with `## Core (L2)` and links its Stage 1 prerequisites instead of recapping them. Omit a level that adds nothing; the `level/` tags list exactly the levels present.
 
 ### Links
 
