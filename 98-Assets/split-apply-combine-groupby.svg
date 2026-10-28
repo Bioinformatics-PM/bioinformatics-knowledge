@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="758" height="418" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="380" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Split-apply-combine: mean count of gene g1 per condition</text>
+  <text x="380" y="54" text-anchor="middle" font-size="13" fill="#1f2937">(invented counts of the toy matrix used in the note)</text>
+
+  <!-- column headings -->
+  <g font-size="14" font-weight="bold" fill="#1f2937" text-anchor="middle">
+    <text x="122" y="86">long table</text>
+    <text x="345" y="86">1. split by condition</text>
+    <text x="530" y="86">2. apply mean</text>
+    <text x="672" y="86">3. combine</text>
+  </g>
+
+  <!-- input table -->
+  <g font-size="13" fill="#1f2937">
+    <rect x="24" y="100" width="196" height="24" fill="#e2e8f0" stroke="#64748b"/>
+    <text x="34" y="117" font-weight="bold">sample</text><text x="92" y="117" font-weight="bold">condition</text><text x="172" y="117" font-weight="bold">count</text>
+    <rect x="24" y="124" width="196" height="24" fill="#dbeafe" stroke="#94a3b8"/>
+    <text x="34" y="141">S1</text><text x="92" y="141">ctrl</text><text x="172" y="141">120</text>
+    <rect x="24" y="148" width="196" height="24" fill="#dbeafe" stroke="#94a3b8"/>
+    <text x="34" y="165">S2</text><text x="92" y="165">ctrl</text><text x="172" y="165">100</text>
+    <rect x="24" y="172" width="196" height="24" fill="#dbeafe" stroke="#94a3b8"/>
+    <text x="34" y="189">S3</text><text x="92" y="189">ctrl</text><text x="172" y="189">90</text>
+    <rect x="24" y="196" width="196" height="24" fill="#fed7aa" stroke="#94a3b8"/>
+    <text x="34" y="213">S4</text><text x="92" y="213">heat</text><text x="172" y="213">400</text>
+    <rect x="24" y="220" width="196" height="24" fill="#fed7aa" stroke="#94a3b8"/>
+    <text x="34" y="237">S5</text><text x="92" y="237">heat</text><text x="172" y="237">380</text>
+    <rect x="24" y="244" width="196" height="24" fill="#fed7aa" stroke="#94a3b8"/>
+    <text x="34" y="261">S6</text><text x="92" y="261">heat</text><text x="172" y="261">420</text>
+  </g>
+
+  <!-- arrows input -> groups -->
+  <g stroke="#475569" stroke-width="2" fill="none">
+    <line x1="226" y1="160" x2="262" y2="140"/>
+    <line x1="226" y1="232" x2="262" y2="252"/>
+  </g>
+  <polygon points="258,134 270,136 262,146" fill="#475569"/>
+  <polygon points="262,246 270,256 258,258" fill="#475569"/>
+
+  <!-- group ctrl -->
+  <g font-size="13" fill="#1f2937">
+    <text x="345" y="112" text-anchor="middle" font-weight="bold">ctrl</text>
+    <rect x="276" y="120" width="138" height="22" fill="#dbeafe" stroke="#94a3b8"/>
+    <text x="290" y="136">S1</text><text x="370" y="136">120</text>
+    <rect x="276" y="142" width="138" height="22" fill="#dbeafe" stroke="#94a3b8"/>
+    <text x="290" y="158">S2</text><text x="370" y="158">100</text>
+    <rect x="276" y="164" width="138" height="22" fill="#dbeafe" stroke="#94a3b8"/>
+    <text x="290" y="180">S3</text><text x="370" y="180">90</text>
+  </g>
+  <!-- group heat -->
+  <g font-size="13" fill="#1f2937">
+    <text x="345" y="222" text-anchor="middle" font-weight="bold">heat</text>
+    <rect x="276" y="230" width="138" height="22" fill="#fed7aa" stroke="#94a3b8"/>
+    <text x="290" y="246">S4</text><text x="370" y="246">400</text>
+    <rect x="276" y="252" width="138" height="22" fill="#fed7aa" stroke="#94a3b8"/>
+    <text x="290" y="268">S5</text><text x="370" y="268">380</text>
+    <rect x="276" y="274" width="138" height="22" fill="#fed7aa" stroke="#94a3b8"/>
+    <text x="290" y="290">S6</text><text x="370" y="290">420</text>
+  </g>
+
+  <!-- apply -->
+  <g stroke="#475569" stroke-width="2">
+    <line x1="420" y1="153" x2="456" y2="153"/>
+    <line x1="420" y1="263" x2="456" y2="263"/>
+  </g>
+  <polygon points="456,147 468,153 456,159" fill="#475569"/>
+  <polygon points="456,257 468,263 456,269" fill="#475569"/>
+  <g font-size="13" fill="#1f2937" text-anchor="middle">
+    <rect x="472" y="136" width="116" height="34" rx="8" fill="#ede9fe" stroke="#8b5cf6"/>
+    <text x="530" y="158">(120+100+90)/3</text>
+    <rect x="472" y="246" width="116" height="34" rx="8" fill="#ede9fe" stroke="#8b5cf6"/>
+    <text x="530" y="268">(400+380+420)/3</text>
+  </g>
+
+  <!-- combine -->
+  <g stroke="#475569" stroke-width="2" fill="none">
+    <line x1="592" y1="153" x2="618" y2="190"/>
+    <line x1="592" y1="263" x2="618" y2="226"/>
+  </g>
+  <polygon points="612,186 622,196 624,182" fill="#475569"/>
+  <polygon points="624,234 622,220 612,230" fill="#475569"/>
+  <g font-size="13" fill="#1f2937">
+    <rect x="626" y="170" width="122" height="24" fill="#e2e8f0" stroke="#64748b"/>
+    <text x="632" y="187" font-weight="bold">condition</text><text x="707" y="187" font-weight="bold">mean</text>
+    <rect x="626" y="194" width="122" height="24" fill="#dcfce7" stroke="#94a3b8"/>
+    <text x="632" y="211">ctrl</text><text x="703" y="211">103.3</text>
+    <rect x="626" y="218" width="122" height="24" fill="#dcfce7" stroke="#94a3b8"/>
+    <text x="632" y="235">heat</text><text x="703" y="235">400.0</text>
+  </g>
+
+  <!-- code equivalents -->
+  <line x1="24" y1="318" x2="736" y2="318" stroke="#cbd5e1" stroke-width="1.5"/>
+  <g font-family="Courier New, monospace" font-size="13" fill="#1f2937">
+    <text x="36" y="344">pandas:  g1.groupby("condition")["count"].mean()</text>
+    <text x="36" y="368">SQL:     SELECT condition, avg(count) FROM g1 GROUP BY condition</text>
+    <text x="36" y="392">by hand: dict of lists (split), mean per list (apply), new dict (combine)</text>
+  </g>
+</svg>
