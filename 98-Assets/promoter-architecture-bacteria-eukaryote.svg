@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" width="780" height="480" font-family="Helvetica, Arial, sans-serif">
+  <title>Promoter architecture: bacterial sigma70 promoter and eukaryotic RNA polymerase II promoter</title>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect x="2" y="2" width="776" height="476" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="390" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Promoter architecture around the transcription start site (+1)</text>
+  <text x="390" y="52" text-anchor="middle" font-size="12" fill="#475569">Coding strand drawn 5' → 3'; positions relative to +1 (there is no position 0). Core region: 6 px per nucleotide.</text>
+
+  <!-- Panel A: bacterial sigma70 promoter -->
+  <text x="40" y="84" font-size="14" font-weight="bold" fill="#1f2937">A. Bacterial promoter recognized by σ70</text>
+  <line x1="60" y1="130" x2="740" y2="130" stroke="#64748b" stroke-width="3"/>
+  <text x="38" y="135" font-size="12" fill="#1f2937">5'</text>
+  <text x="746" y="135" font-size="12" fill="#1f2937">3'</text>
+  <rect x="450" y="124" width="270" height="12" fill="#bfdbfe" stroke="#60a5fa" stroke-width="1"/>
+  <text x="585" y="156" text-anchor="middle" font-size="12" fill="#1f2937">transcribed region</text>
+  <rect x="240" y="118" width="36" height="24" rx="3" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <rect x="378" y="118" width="36" height="24" rx="3" fill="#fecaca" stroke="#b91c1c" stroke-width="1.5"/>
+  <text x="258" y="110" text-anchor="middle" font-size="12" fill="#1f2937"><tspan font-weight="bold">−35</tspan> <tspan font-family="Courier New, monospace">TTGACA</tspan></text>
+  <text x="396" y="110" text-anchor="middle" font-size="12" fill="#1f2937"><tspan font-weight="bold">−10</tspan> <tspan font-family="Courier New, monospace">TATAAT</tspan></text>
+  <path d="M277,146 L277,152 L377,152 L377,146" fill="none" stroke="#475569" stroke-width="1.2"/>
+  <text x="327" y="168" text-anchor="middle" font-size="12" fill="#1f2937">spacer</text>
+  <path d="M450,118 L450,100 L482,100" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="494" y="104" font-size="12" font-weight="bold" fill="#1f2937">+1</text>
+  <text x="40" y="196" font-size="12" fill="#1f2937">σ70 positions the polymerase on the −35 and −10 boxes; the AT-rich −10 region is where the double helix opens.</text>
+  <text x="40" y="213" font-size="12" fill="#1f2937">Real promoters match the consensus sequences only approximately. Several genes can follow one promoter (operon).</text>
+
+  <!-- Panel B: eukaryotic RNA polymerase II promoter -->
+  <text x="40" y="250" font-size="14" font-weight="bold" fill="#1f2937">B. Eukaryotic RNA polymerase II promoter (each element present in some promoters only)</text>
+  <line x1="60" y1="310" x2="174" y2="310" stroke="#64748b" stroke-width="3"/>
+  <line x1="190" y1="310" x2="740" y2="310" stroke="#64748b" stroke-width="3"/>
+  <line x1="172" y1="320" x2="180" y2="300" stroke="#64748b" stroke-width="2"/>
+  <line x1="184" y1="320" x2="192" y2="300" stroke="#64748b" stroke-width="2"/>
+  <text x="38" y="315" font-size="12" fill="#1f2937">5'</text>
+  <text x="746" y="315" font-size="12" fill="#1f2937">3'</text>
+  <rect x="450" y="304" width="270" height="12" fill="#bfdbfe" stroke="#60a5fa" stroke-width="1"/>
+  <rect x="72" y="298" width="40" height="24" rx="3" fill="#c7d2fe" stroke="#4f46e5" stroke-width="1.2"/>
+  <rect x="120" y="298" width="48" height="24" rx="3" fill="#c7d2fe" stroke="#4f46e5" stroke-width="1.2"/>
+  <text x="92" y="314" text-anchor="middle" font-size="12" fill="#1f2937">GC</text>
+  <text x="144" y="314" text-anchor="middle" font-size="12" fill="#1f2937">CCAAT</text>
+  <text x="120" y="290" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">proximal elements</text>
+  <text x="120" y="340" text-anchor="middle" font-size="12" fill="#1f2937">gene-specific TFs</text>
+  <rect x="222" y="298" width="42" height="24" rx="3" fill="#ddd6fe" stroke="#6d28d9" stroke-width="1.5"/>
+  <rect x="264" y="298" width="48" height="24" rx="3" fill="#fecaca" stroke="#b91c1c" stroke-width="1.5"/>
+  <rect x="438" y="298" width="36" height="24" rx="3" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+  <rect x="612" y="298" width="30" height="24" rx="3" fill="#bae6fd" stroke="#0369a1" stroke-width="1.5"/>
+  <text x="243" y="290" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">BRE</text>
+  <text x="290" y="290" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">TATA</text>
+  <text x="432" y="290" text-anchor="end" font-size="12" font-weight="bold" fill="#1f2937">Inr</text>
+  <text x="627" y="290" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f2937">DPE</text>
+  <text x="243" y="340" text-anchor="middle" font-size="12" fill="#1f2937">≈ −35</text>
+  <text x="290" y="340" text-anchor="middle" font-size="12" fill="#1f2937">≈ −30</text>
+  <text x="456" y="340" text-anchor="middle" font-size="12" fill="#1f2937">spans +1</text>
+  <text x="627" y="340" text-anchor="middle" font-size="12" fill="#1f2937">≈ +30</text>
+  <text x="243" y="357" text-anchor="middle" font-size="12" fill="#475569">TFIIB</text>
+  <text x="300" y="374" text-anchor="middle" font-size="12" fill="#475569">TBP (TFIID)</text>
+  <path d="M450,298 L450,268 L482,268" fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="494" y="272" font-size="12" font-weight="bold" fill="#1f2937">+1</text>
+  <text x="40" y="404" font-size="12" fill="#1f2937">General transcription factors assemble on the core promoter (BRE to DPE), then recruit RNA polymerase II.</text>
+  <text x="40" y="421" font-size="12" fill="#1f2937">Proximal elements bind gene-specific factors; distant enhancers act through DNA looping (not shown).</text>
+  <text x="40" y="438" font-size="12" fill="#1f2937">Many promoters lack a TATA box; CpG-rich promoters often start transcription over a broad region.</text>
+  <text x="40" y="462" font-size="12" fill="#475569">// : proximal region shortened. Box sizes and positions are approximate, after textbook consensus diagrams.</text>
+</svg>

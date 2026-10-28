@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" font-family="Arial, Helvetica, sans-serif">
+  <title>Sequence logo of an invented transcription factor motif</title>
+  <rect x="2" y="2" width="636" height="396" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="320" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Sequence logo of an invented transcription factor motif</text>
+  <text x="320" y="52" text-anchor="middle" font-size="12" fill="#475569">10 aligned toy sites, pseudocount 0.5 per base. Letter height = probability × information content.</text>
+  <line x1="80" y1="80" x2="80" y2="300" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="80" y1="300" x2="570" y2="300" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="74" y1="300.0" x2="80" y2="300.0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="70" y="304.0" text-anchor="end" font-size="12" fill="#1f2937">0</text>
+  <line x1="74" y1="245.0" x2="80" y2="245.0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="70" y="249.0" text-anchor="end" font-size="12" fill="#1f2937">0.5</text>
+  <line x1="74" y1="190.0" x2="80" y2="190.0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="70" y="194.0" text-anchor="end" font-size="12" fill="#1f2937">1</text>
+  <line x1="74" y1="135.0" x2="80" y2="135.0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="70" y="139.0" text-anchor="end" font-size="12" fill="#1f2937">1.5</text>
+  <line x1="74" y1="80.0" x2="80" y2="80.0" stroke="#64748b" stroke-width="1.5"/>
+  <text x="70" y="84.0" text-anchor="end" font-size="12" fill="#1f2937">2</text>
+  <text x="34" y="190" text-anchor="middle" font-size="12" fill="#1f2937" transform="rotate(-90 34 190)">information (bits)</text>
+  <text transform="translate(93,300.00) scale(1,0.0866)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#1d4ed8">C</text>
+  <text transform="translate(93,293.80) scale(1,0.0866)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b45309">G</text>
+  <text transform="translate(93,287.59) scale(1,0.0866)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b91c1c">T</text>
+  <text transform="translate(93,281.39) scale(1,0.4332)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#15803d">A</text>
+  <text x="120.0" y="320" text-anchor="middle" font-size="12" fill="#1f2937">1</text>
+  <text x="120.0" y="242.4" text-anchor="middle" font-size="12" fill="#475569">0.45</text>
+  <text transform="translate(153,300.00) scale(1,0.0805)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#15803d">A</text>
+  <text transform="translate(153,294.23) scale(1,0.0805)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#1d4ed8">C</text>
+  <text transform="translate(153,288.47) scale(1,0.0805)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b45309">G</text>
+  <text transform="translate(153,282.70) scale(1,1.6915)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b91c1c">T</text>
+  <text x="180.0" y="320" text-anchor="middle" font-size="12" fill="#1f2937">2</text>
+  <text x="180.0" y="153.6" text-anchor="middle" font-size="12" fill="#475569">1.26</text>
+  <text transform="translate(213,300.00) scale(1,0.0625)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#15803d">A</text>
+  <text transform="translate(213,295.53) scale(1,0.0625)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#1d4ed8">C</text>
+  <text transform="translate(213,291.05) scale(1,0.1874)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b91c1c">T</text>
+  <text transform="translate(213,277.63) scale(1,1.1872)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b45309">G</text>
+  <text x="240.0" y="320" text-anchor="middle" font-size="12" fill="#1f2937">3</text>
+  <text x="240.0" y="184.6" text-anchor="middle" font-size="12" fill="#475569">0.98</text>
+  <text transform="translate(273,300.00) scale(1,0.0805)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#1d4ed8">C</text>
+  <text transform="translate(273,294.23) scale(1,0.0805)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b45309">G</text>
+  <text transform="translate(273,288.47) scale(1,0.0805)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b91c1c">T</text>
+  <text transform="translate(273,282.70) scale(1,1.6915)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#15803d">A</text>
+  <text x="300.0" y="320" text-anchor="middle" font-size="12" fill="#1f2937">4</text>
+  <text x="300.0" y="153.6" text-anchor="middle" font-size="12" fill="#475569">1.26</text>
+  <text transform="translate(333,300.00) scale(1,0.0805)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#15803d">A</text>
+  <text transform="translate(333,294.23) scale(1,0.0805)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b45309">G</text>
+  <text transform="translate(333,288.47) scale(1,0.0805)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b91c1c">T</text>
+  <text transform="translate(333,282.70) scale(1,1.6915)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#1d4ed8">C</text>
+  <text x="360.0" y="320" text-anchor="middle" font-size="12" fill="#1f2937">5</text>
+  <text x="360.0" y="153.6" text-anchor="middle" font-size="12" fill="#475569">1.26</text>
+  <text transform="translate(393,300.00) scale(1,0.0625)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#15803d">A</text>
+  <text transform="translate(393,295.53) scale(1,0.0625)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#1d4ed8">C</text>
+  <text transform="translate(393,291.05) scale(1,0.1874)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b91c1c">T</text>
+  <text transform="translate(393,277.63) scale(1,1.1872)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b45309">G</text>
+  <text x="420.0" y="320" text-anchor="middle" font-size="12" fill="#1f2937">6</text>
+  <text x="420.0" y="184.6" text-anchor="middle" font-size="12" fill="#475569">0.98</text>
+  <text transform="translate(453,300.00) scale(1,0.0625)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#15803d">A</text>
+  <text transform="translate(453,295.53) scale(1,0.0625)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b45309">G</text>
+  <text transform="translate(453,291.05) scale(1,0.1874)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#1d4ed8">C</text>
+  <text transform="translate(453,277.63) scale(1,1.1872)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b91c1c">T</text>
+  <text x="480.0" y="320" text-anchor="middle" font-size="12" fill="#1f2937">7</text>
+  <text x="480.0" y="184.6" text-anchor="middle" font-size="12" fill="#475569">0.98</text>
+  <text transform="translate(513,300.00) scale(1,0.0452)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b91c1c">T</text>
+  <text transform="translate(513,296.76) scale(1,0.1357)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#1d4ed8">C</text>
+  <text transform="translate(513,287.05) scale(1,0.1357)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#b45309">G</text>
+  <text transform="translate(513,277.33) scale(1,0.7689)" font-size="100" font-weight="bold" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#15803d">A</text>
+  <text x="540.0" y="320" text-anchor="middle" font-size="12" fill="#1f2937">8</text>
+  <text x="540.0" y="214.3" text-anchor="middle" font-size="12" fill="#475569">0.71</text>
+  <text x="330" y="340" text-anchor="middle" font-size="12" fill="#1f2937">position in the site (5' → 3')</text>
+  <text x="320" y="364" text-anchor="middle" font-size="12" fill="#475569">Grey numbers: information content of each position (maximum 2 bits).</text>
+  <text x="320" y="381" text-anchor="middle" font-size="12" fill="#475569">With 10 sites, the pseudocounts cap a fully conserved position at 1.26 bits.</text>
+</svg>
