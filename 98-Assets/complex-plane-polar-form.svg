@@ -1,0 +1,51 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 450' font-family='Helvetica, Arial, sans-serif'>
+<rect x='1' y='1' width='778' height='448' rx='14' fill='#f8fafc' stroke='#cbd5e1'/>
+<text x='390.0' y='30' text-anchor='middle' font-size='17' font-weight='bold' fill='#1f2937'>The complex plane: polar form and multiplication</text>
+<text x='200.0' y='75.0' text-anchor='middle' font-size='14' font-weight='bold' fill='#1f2937'>A. z = a + bi = r(cos θ + i sin θ) = r e^(iθ)</text>
+<line x1='50.0' y1='255.0' x2='322.8' y2='255.0' stroke='#64748b' stroke-width='1.5'/><path d='M330.0,255.0 L321.7,258.5 L321.7,251.5 Z' fill='#64748b'/>
+<line x1='95.0' y1='392.0' x2='95.0' y2='99.2' stroke='#64748b' stroke-width='1.5'/><path d='M95.0,92.0 L98.5,100.3 L91.5,100.3 Z' fill='#64748b'/>
+<text x='334.0' y='273.0' text-anchor='end' font-size='13' font-weight='normal' fill='#1f2937'>Re</text>
+<text x='103.0' y='104.0' text-anchor='start' font-size='13' font-weight='normal' fill='#1f2937'>Im</text>
+<circle cx='95' cy='255' r='55' fill='none' stroke='#94a3b8' stroke-width='1.5' stroke-dasharray='5 4'/>
+<line x1='260.0' y1='145.0' x2='260.0' y2='255.0' stroke='#94a3b8' stroke-width='1.3' stroke-dasharray='4 4'/>
+<line x1='260.0' y1='145.0' x2='95.0' y2='145.0' stroke='#94a3b8' stroke-width='1.3' stroke-dasharray='4 4'/>
+<line x1='95.0' y1='255.0' x2='253.3' y2='149.4' stroke='#2563eb' stroke-width='2.2'/><path d='M260.0,145.0 L254.5,153.3 L250.2,146.9 Z' fill='#2563eb'/>
+<circle cx='260.0' cy='145.0' r='4.5' fill='#2563eb'/>
+<line x1='95.0' y1='255.0' x2='253.3' y2='360.6' stroke='#7c3aed' stroke-width='2.0' stroke-dasharray='6 4'/><path d='M260.0,365.0 L250.2,363.1 L254.5,356.7 Z' fill='#7c3aed'/>
+<circle cx='260.0' cy='365.0' r='4.5' fill='#7c3aed'/>
+<path d='M125.0,255.0 A30,30 0 0 0 120.0,238.4' fill='none' stroke='#d97706' stroke-width='1.8'/>
+<circle cx='140.8' cy='224.5' r='4.5' fill='#d97706'/>
+<text x='268.0' y='139.0' text-anchor='start' font-size='14' font-weight='bold' fill='#2563eb'>z = 3 + 2i</text>
+<text x='268.0' y='370.0' text-anchor='start' font-size='14' font-weight='bold' fill='#7c3aed'>z̄ = 3 − 2i</text>
+<text x='268.0' y='387.0' text-anchor='start' font-size='12' font-weight='normal' fill='#7c3aed'>(mirror image)</text>
+<text x='260.0' y='273.0' text-anchor='middle' font-size='13' font-weight='normal' fill='#1f2937'>a = 3</text>
+<text x='87.0' y='149.0' text-anchor='end' font-size='13' font-weight='normal' fill='#1f2937'>b = 2</text>
+<text x='190.1' y='176.0' text-anchor='middle' font-size='13' font-weight='normal' fill='#2563eb' stroke='#f8fafc' stroke-width='4' paint-order='stroke' transform='rotate(-33.69 190.1 176.0)'>r = |z| = √13 ≈ 3.61</text>
+<text x='129.0' y='248.0' text-anchor='start' font-size='13' font-weight='normal' fill='#d97706' stroke='#f8fafc' stroke-width='4' paint-order='stroke'>θ ≈ 33.7°</text>
+<text x='50.0' y='414.0' text-anchor='start' font-size='12' font-weight='normal' fill='#1f2937'>dashed circle: |z| = 1. The orange point e^(iθ) = cos θ + i sin θ</text>
+<text x='50.0' y='430.0' text-anchor='start' font-size='12' font-weight='normal' fill='#1f2937'>lies on it; z = r e^(iθ) lies on the same ray, at distance r.</text>
+<line x1='392.0' y1='70.0' x2='392.0' y2='432.0' stroke='#cbd5e1' stroke-width='1.2'/>
+<text x='585.0' y='75.0' text-anchor='middle' font-size='14' font-weight='bold' fill='#1f2937'>B. Multiplying: moduli multiply, angles add</text>
+<line x1='410.0' y1='300.0' x2='757.8' y2='300.0' stroke='#64748b' stroke-width='1.5'/><path d='M765.0,300.0 L756.7,303.5 L756.7,296.5 Z' fill='#64748b'/>
+<line x1='590.0' y1='392.0' x2='590.0' y2='99.2' stroke='#64748b' stroke-width='1.5'/><path d='M590.0,92.0 L593.5,100.3 L586.5,100.3 Z' fill='#64748b'/>
+<text x='765.0' y='318.0' text-anchor='end' font-size='13' font-weight='normal' fill='#1f2937'>Re</text>
+<text x='598.0' y='104.0' text-anchor='start' font-size='13' font-weight='normal' fill='#1f2937'>Im</text>
+<line x1='590.0' y1='300.0' x2='683.5' y2='246.0' stroke='#2563eb' stroke-width='2.2'/><path d='M690.5,242.0 L684.4,250.0 L680.5,243.2 Z' fill='#2563eb'/>
+<circle cx='690.5' cy='242.0' r='4.5' fill='#2563eb'/>
+<line x1='590.0' y1='300.0' x2='537.7' y2='247.7' stroke='#7c3aed' stroke-width='2.2'/><path d='M532.0,242.0 L541.3,245.8 L535.8,251.3 Z' fill='#7c3aed'/>
+<circle cx='532.0' cy='242.0' r='4.5' fill='#7c3aed'/>
+<line x1='590.0' y1='300.0' x2='439.3' y2='259.6' stroke='#059669' stroke-width='2.2'/><path d='M431.5,257.5 L441.4,256.2 L439.4,263.7 Z' fill='#059669'/>
+<circle cx='431.5' cy='257.5' r='4.5' fill='#059669'/>
+<path d='M620.0,300.0 A30,30 0 0 0 616.0,285.0' fill='none' stroke='#2563eb' stroke-width='1.8'/>
+<path d='M636.0,300.0 A46,46 0 0 0 545.6,288.1' fill='none' stroke='#059669' stroke-width='1.8'/>
+<text x='690.5' y='214.0' text-anchor='middle' font-size='14' font-weight='bold' fill='#2563eb'>z₁ = √3 + i</text>
+<text x='690.5' y='230.0' text-anchor='middle' font-size='12' font-weight='normal' fill='#2563eb'>r = 2, angle 30°</text>
+<text x='532.0' y='214.0' text-anchor='middle' font-size='14' font-weight='bold' fill='#7c3aed'>z₂ = −1 + i</text>
+<text x='532.0' y='230.0' text-anchor='middle' font-size='12' font-weight='normal' fill='#7c3aed'>r = √2, angle 135°</text>
+<text x='626.0' y='294.0' text-anchor='start' font-size='12' font-weight='normal' fill='#2563eb'>30°</text>
+<text x='586.0' y='250.0' text-anchor='end' font-size='12' font-weight='normal' fill='#059669' stroke='#f8fafc' stroke-width='4' paint-order='stroke'>165°</text>
+<text x='412.0' y='330.0' text-anchor='start' font-size='13' font-weight='bold' fill='#059669' stroke='#f8fafc' stroke-width='4' paint-order='stroke'>z₁z₂ = −(√3 + 1) + (√3 − 1)i ≈ −2.73 + 0.73i</text>
+<text x='412.0' y='347.0' text-anchor='start' font-size='12' font-weight='normal' fill='#059669' stroke='#f8fafc' stroke-width='4' paint-order='stroke'>r = 2 × √2 ≈ 2.83, angle 30° + 135° = 165°</text>
+<text x='412.0' y='414.0' text-anchor='start' font-size='12' font-weight='normal' fill='#1f2937'>special case: multiplying by i = e^(iπ/2) rotates</text>
+<text x='412.0' y='430.0' text-anchor='start' font-size='12' font-weight='normal' fill='#1f2937'>by 90° without changing the modulus.</text>
+</svg>
