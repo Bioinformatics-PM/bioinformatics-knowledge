@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 432" width="760" height="432" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="760" height="432" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="380.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Over-representation as sampling without replacement</text>
+<text x="380.0" y="54" text-anchor="middle" font-size="13" fill="#475569">Toy universe: N = 100 genes, K = 10 in the term, n = 20 in the list, observed overlap k = 5</text>
+<text x="190" y="84" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">Universe of N = 100 tested genes</text>
+<circle cx="64" cy="104" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="104" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="120" cy="104" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="148" cy="104" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="148" cy="104" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="176" cy="104" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="204" cy="104" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="232" cy="104" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="104" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="104" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="288" cy="104" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="104" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="64" cy="132" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="132" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="132" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="120" cy="132" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="148" cy="132" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="176" cy="132" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="204" cy="132" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="232" cy="132" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="132" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="288" cy="132" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="132" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="132" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="64" cy="160" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="160" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="120" cy="160" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="120" cy="160" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="148" cy="160" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="176" cy="160" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="204" cy="160" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="232" cy="160" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="160" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="288" cy="160" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="288" cy="160" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="316" cy="160" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="64" cy="188" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="188" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="120" cy="188" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="148" cy="188" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="148" cy="188" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="176" cy="188" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="204" cy="188" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="232" cy="188" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="188" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="288" cy="188" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="188" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="64" cy="216" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="216" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="92" cy="216" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="120" cy="216" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="148" cy="216" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="176" cy="216" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="204" cy="216" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="204" cy="216" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="232" cy="216" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="216" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="288" cy="216" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="216" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="64" cy="244" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="64" cy="244" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="92" cy="244" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="120" cy="244" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="148" cy="244" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="176" cy="244" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="176" cy="244" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="204" cy="244" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="232" cy="244" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="244" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="288" cy="244" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="316" cy="244" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="64" cy="272" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="272" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="120" cy="272" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="120" cy="272" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="148" cy="272" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="176" cy="272" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="204" cy="272" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="232" cy="272" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="232" cy="272" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="260" cy="272" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="288" cy="272" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="272" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="64" cy="300" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="64" cy="300" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="92" cy="300" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="120" cy="300" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="148" cy="300" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="176" cy="300" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="204" cy="300" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="232" cy="300" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="300" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="300" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="288" cy="300" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="300" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="64" cy="328" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="328" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="328" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="120" cy="328" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="148" cy="328" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="176" cy="328" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="204" cy="328" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="204" cy="328" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="232" cy="328" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="328" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="288" cy="328" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="328" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="328" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="64" cy="356" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="92" cy="356" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="120" cy="356" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="120" cy="356" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="148" cy="356" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="176" cy="356" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="204" cy="356" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="232" cy="356" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="260" cy="356" r="9" fill="#fed7aa" stroke="#c2410c" stroke-width="1"/>
+<circle cx="288" cy="356" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="356" r="9" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<circle cx="316" cy="356" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="46" cy="386" r="9" fill="#fed7aa" stroke="#c2410c"/>
+<text x="62" y="390" font-size="12" fill="#1f2937">in the term (K = 10)</text>
+<circle cx="206" cy="386" r="9" fill="#e2e8f0" stroke="#94a3b8"/>
+<circle cx="206" cy="386" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<text x="222" y="390" font-size="12" fill="#1f2937">in the list (n = 20)</text>
+<circle cx="46" cy="412" r="9" fill="#fed7aa" stroke="#c2410c"/>
+<circle cx="46" cy="412" r="12" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<text x="62" y="416" font-size="12" fill="#1f2937">both: the overlap (k = 5)</text>
+<text x="575.0" y="84" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">Overlap under the null: HGeom(100, 10, 20)</text>
+<line x1="440" y1="344.0" x2="730" y2="344.0" stroke="#e2e8f0"/>
+<text x="432" y="348.0" text-anchor="end" font-size="12" fill="#1f2937">0.0</text>
+<line x1="440" y1="277.7" x2="730" y2="277.7" stroke="#e2e8f0"/>
+<text x="432" y="281.7" text-anchor="end" font-size="12" fill="#1f2937">0.1</text>
+<line x1="440" y1="211.4" x2="730" y2="211.4" stroke="#e2e8f0"/>
+<text x="432" y="215.4" text-anchor="end" font-size="12" fill="#1f2937">0.2</text>
+<line x1="440" y1="145.1" x2="730" y2="145.1" stroke="#e2e8f0"/>
+<text x="432" y="149.1" text-anchor="end" font-size="12" fill="#1f2937">0.3</text>
+<rect x="445.1" y="281.0" width="22" height="63.0" fill="#bfdbfe" stroke="#2563eb" stroke-width="0.9"/>
+<text x="456.1" y="362" text-anchor="middle" font-size="12" fill="#1f2937">0</text>
+<rect x="477.3" y="166.4" width="22" height="177.6" fill="#bfdbfe" stroke="#2563eb" stroke-width="0.9"/>
+<text x="488.3" y="362" text-anchor="middle" font-size="12" fill="#1f2937">1</text>
+<rect x="509.6" y="133.1" width="22" height="210.9" fill="#bfdbfe" stroke="#2563eb" stroke-width="0.9"/>
+<text x="520.6" y="362" text-anchor="middle" font-size="12" fill="#1f2937">2</text>
+<rect x="541.8" y="205.3" width="22" height="138.7" fill="#bfdbfe" stroke="#2563eb" stroke-width="0.9"/>
+<text x="552.8" y="362" text-anchor="middle" font-size="12" fill="#1f2937">3</text>
+<rect x="574.0" y="288.2" width="22" height="55.8" fill="#bfdbfe" stroke="#2563eb" stroke-width="0.9"/>
+<text x="585.0" y="362" text-anchor="middle" font-size="12" fill="#1f2937">4</text>
+<rect x="606.2" y="329.7" width="22" height="14.3" fill="#fed7aa" stroke="#c2410c" stroke-width="0.9"/>
+<text x="617.2" y="362" text-anchor="middle" font-size="12" fill="#1f2937">5</text>
+<rect x="638.4" y="341.7" width="22" height="2.3" fill="#fed7aa" stroke="#c2410c" stroke-width="0.9"/>
+<text x="649.4" y="362" text-anchor="middle" font-size="12" fill="#1f2937">6</text>
+<rect x="670.7" y="343.8" width="22" height="0.6" fill="#fed7aa" stroke="#c2410c" stroke-width="0.9"/>
+<text x="681.7" y="362" text-anchor="middle" font-size="12" fill="#1f2937">7</text>
+<rect x="702.9" y="344.0" width="22" height="0.6" fill="#fed7aa" stroke="#c2410c" stroke-width="0.9"/>
+<text x="713.9" y="362" text-anchor="middle" font-size="12" fill="#1f2937">8</text>
+<line x1="440" y1="344" x2="730" y2="344" stroke="#64748b" stroke-width="1.2"/>
+<line x1="440" y1="344" x2="440" y2="104" stroke="#64748b" stroke-width="1.2"/>
+<text x="585.0" y="384" text-anchor="middle" font-size="13" fill="#1f2937">overlap k (term genes in the list)</text>
+<text x="404" y="228.0" text-anchor="middle" font-size="13" fill="#1f2937" transform="rotate(-90 404 228.0)">P(X = k)</text>
+<line x1="520.6" y1="344" x2="520.6" y2="108" stroke="#475569" stroke-dasharray="5 4"/>
+<text x="526.6" y="116" font-size="12" fill="#1f2937">expected nK/N = 2</text>
+<line x1="617.2" y1="325.7" x2="631.2" y2="251.2" stroke="#94a3b8"/>
+<text x="619.2" y="229.2" font-size="12" fill="#1f2937">observed k = 5</text>
+<text x="619.2" y="245.2" font-size="12" fill="#c2410c">P(X ≥ 5) = 0.026</text>
+</svg>
