@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="758" height="558" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="380" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Random access in an indexed file: virtual offsets and bins</text>
+
+  <!-- Panel 1: BGZF blocks -->
+  <text x="40" y="62" font-size="14" font-weight="bold" fill="#1f2937">1. BGZF: independent gzip blocks, each at most 64 KiB once decompressed</text>
+  <g stroke="#475569" stroke-width="1.5">
+    <rect x="60" y="76" width="150" height="36" fill="#bfdbfe"/>
+    <rect x="210" y="76" width="140" height="36" fill="#bfdbfe"/>
+    <rect x="350" y="76" width="160" height="36" fill="#93c5fd"/>
+    <rect x="510" y="76" width="130" height="36" fill="#bfdbfe"/>
+    <rect x="640" y="76" width="44" height="36" fill="#e2e8f0"/>
+  </g>
+  <g font-size="13" fill="#1f2937" text-anchor="middle">
+    <text x="135" y="99">block 0</text><text x="280" y="99">block 1</text>
+    <text x="430" y="99">block 2</text><text x="575" y="99">block 3</text><text x="662" y="99">EOF</text>
+  </g>
+  <g font-size="12" fill="#475569" text-anchor="middle">
+    <text x="60" y="128">c = 0</text><text x="210" y="128">c1</text><text x="350" y="128">c2</text>
+    <text x="510" y="128">c3</text><text x="640" y="128">c4</text>
+  </g>
+  <g stroke="#64748b" stroke-width="1.2" stroke-dasharray="5 4" fill="none">
+    <line x1="350" y1="112" x2="60" y2="170"/><line x1="510" y1="112" x2="700" y2="170"/>
+  </g>
+  <text x="380" y="162" font-size="12" fill="#475569" text-anchor="middle">block 2 after decompression: records (text lines or BAM records)</text>
+  <g stroke="#475569" stroke-width="1.2">
+    <rect x="60" y="170" width="70" height="28" fill="#dbeafe"/><rect x="130" y="170" width="85" height="28" fill="#eff6ff"/>
+    <rect x="215" y="170" width="85" height="28" fill="#dbeafe"/><rect x="300" y="170" width="72" height="28" fill="#fde68a"/>
+    <rect x="372" y="170" width="83" height="28" fill="#dbeafe"/><rect x="455" y="170" width="85" height="28" fill="#eff6ff"/>
+    <rect x="540" y="170" width="70" height="28" fill="#dbeafe"/><rect x="610" y="170" width="90" height="28" fill="#eff6ff"/>
+  </g>
+  <line x1="300" y1="232" x2="300" y2="203" stroke="#b45309" stroke-width="2"/>
+  <polygon points="300,199 295,209 305,209" fill="#b45309"/>
+  <text x="60" y="213" font-size="12" fill="#475569">u = 0</text>
+  <text x="700" y="213" font-size="12" fill="#475569" text-anchor="end">u = 65,535 at most</text>
+  <text x="310" y="234" font-size="13" fill="#92400e">u: offset of the record inside the decompressed block</text>
+  <text x="380" y="262" text-anchor="middle" font-size="14" fill="#1f2937">virtual offset v = c2 &#215; 2^16 + u, where c2 is the byte offset of block 2 in the file</text>
+
+  <!-- Panel 2: binning -->
+  <text x="40" y="290" font-size="14" font-weight="bold" fill="#1f2937">2. Binning: the conceptual example of the SAM specification (genome shorter than 144 kbp)</text>
+  <!-- level 0 -->
+  <rect x="60" y="302" width="640" height="30" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5"/>
+  <!-- level 1 -->
+  <g stroke="#94a3b8" stroke-width="1.2" fill="#f1f5f9">
+    <rect x="60" y="342" width="213.3" height="30"/><rect x="486.7" y="342" width="213.3" height="30"/>
+  </g>
+  <rect x="273.3" y="342" width="213.4" height="30" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5"/>
+  <!-- level 2 -->
+  <g stroke="#94a3b8" stroke-width="1.2" fill="#f1f5f9">
+    <rect x="60" y="382" width="71.1" height="30"/><rect x="131.1" y="382" width="71.1" height="30"/>
+    <rect x="202.2" y="382" width="71.1" height="30"/><rect x="273.3" y="382" width="71.1" height="30"/>
+    <rect x="486.7" y="382" width="71.1" height="30"/>
+    <rect x="557.8" y="382" width="71.1" height="30"/><rect x="628.9" y="382" width="71.1" height="30"/>
+    <rect x="415.6" y="382" width="71.1" height="30"/>
+  </g>
+  <rect x="344.4" y="382" width="71.2" height="30" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5"/>
+  <g font-size="12" fill="#1f2937" text-anchor="middle">
+    <text x="380" y="315">bin 0: 0-144 kbp</text>
+    <text x="166.7" y="355">bin 1: 0-48k</text><text x="380" y="355">bin 2: 48-96k</text><text x="593.3" y="355">bin 3: 96-144k</text>
+    <text x="95.6" y="395">bin 4</text><text x="166.7" y="395">5</text><text x="237.8" y="395">6</text>
+    <text x="308.9" y="395">7</text><text x="380" y="395">bin 8</text><text x="451.1" y="395">9</text>
+    <text x="522.2" y="395">10</text><text x="593.3" y="395">11</text><text x="664.4" y="395">12</text>
+  </g>
+  <!-- alignments, each in the smallest bin containing it -->
+  <g fill="#f87171" stroke="#b91c1c" stroke-width="1">
+    <rect x="237.8" y="319" width="40" height="9"/>
+    <rect x="286.7" y="359" width="84.4" height="9"/>
+    <rect x="348.9" y="399" width="8.9" height="9"/>
+  </g>
+  <!-- query band, drawn over the bins -->
+  <rect x="348.9" y="298" width="26.7" height="118" fill="#fbbf24" fill-opacity="0.35" stroke="#b45309" stroke-dasharray="4 3"/>
+  <!-- axis -->
+  <line x1="60" y1="428" x2="700" y2="428" stroke="#475569" stroke-width="1.5"/>
+  <g stroke="#475569" stroke-width="1.2">
+    <line x1="60" y1="424" x2="60" y2="432"/><line x1="131.1" y1="424" x2="131.1" y2="432"/>
+    <line x1="202.2" y1="424" x2="202.2" y2="432"/><line x1="273.3" y1="424" x2="273.3" y2="432"/>
+    <line x1="344.4" y1="424" x2="344.4" y2="432"/><line x1="415.6" y1="424" x2="415.6" y2="432"/>
+    <line x1="486.7" y1="424" x2="486.7" y2="432"/><line x1="557.8" y1="424" x2="557.8" y2="432"/>
+    <line x1="628.9" y1="424" x2="628.9" y2="432"/><line x1="700" y1="424" x2="700" y2="432"/>
+  </g>
+  <g font-size="12" fill="#1f2937" text-anchor="middle">
+    <text x="60" y="446">0</text><text x="131.1" y="446">16k</text><text x="202.2" y="446">32k</text>
+    <text x="273.3" y="446">48k</text><text x="344.4" y="446">64k</text><text x="415.6" y="446">80k</text>
+    <text x="486.7" y="446">96k</text><text x="557.8" y="446">112k</text><text x="628.9" y="446">128k</text>
+    <text x="700" y="446">144k</text>
+  </g>
+  <text x="362" y="464" text-anchor="middle" font-size="12" fill="#92400e">query [65k, 71k)</text>
+  <g font-size="13" fill="#1f2937">
+    <text x="40" y="492">Red bars: alignments, each filed in the smallest bin containing it: [65k,67k) in 8, [51k,70k) in 2,</text>
+    <text x="40" y="510">[40k,49k) in 0. The query reads the bins that overlap it on every level: 0, 2 and 8 (blue outlines).</text>
+    <text x="40" y="534">Linear index: records filed before the first offset of the 64-80k window end before 64 kbp,</text>
+    <text x="40" y="552">so the chunk holding [40k,49k) is skipped without being read.</text>
+  </g>
+</svg>
