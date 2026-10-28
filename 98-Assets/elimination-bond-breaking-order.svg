@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">E1, E2 and E1cB: the order in which the two bonds break</title>
+<desc id="d">A square map whose horizontal axis is the breaking of the bond between carbon and the leaving group and whose vertical axis is the breaking of the C-H bond. E1 breaks the C-LG bond first, through a carbocation corner; E1cB breaks the C-H bond first, through a carbanion or enolate corner; E2 breaks both together along the diagonal. All three end at the alkene. E1cB is common in enzymatic dehydrations such as enolase; hydration is the same path run backwards.</desc>
+<rect x="3" y="3" width="794" height="514" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<text x="400" y="34" text-anchor="middle" font-size="19" font-weight="bold" fill="#1f2937">E1, E2, E1cB: which bond breaks first?</text>
+<text x="400" y="56" text-anchor="middle" font-size="13" fill="#475569">Each path goes from H–Cβ–Cα–LG (bottom left) to the alkene (top right). Schematic map, not an energy surface.</text>
+<defs><marker id="ab" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker><marker id="ap" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="ao" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/></marker></defs>
+<rect x="120" y="120" width="310" height="310" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="275.0" y="478" text-anchor="middle" font-size="13" fill="#1f2937">C–LG bond broken →</text>
+<text x="82" y="275.0" text-anchor="middle" font-size="13" fill="#1f2937" transform="rotate(-90 82 275.0)">C–H bond broken →</text>
+<circle cx="136" cy="414" r="6" fill="#e2e8f0" stroke="#475569" stroke-width="1.5"/>
+<circle cx="414" cy="414" r="6" fill="#e2e8f0" stroke="#475569" stroke-width="1.5"/>
+<circle cx="136" cy="136" r="6" fill="#e2e8f0" stroke="#475569" stroke-width="1.5"/>
+<circle cx="414" cy="136" r="6" fill="#e2e8f0" stroke="#475569" stroke-width="1.5"/>
+<text x="120" y="452" font-size="13" font-weight="bold" fill="#1f2937">start</text>
+<text x="430" y="452" text-anchor="end" font-size="13" font-weight="bold" fill="#7c3aed">carbocation</text>
+<text x="120" y="110" font-size="13" font-weight="bold" fill="#ea580c">carbanion (enolate)</text>
+<text x="430" y="110" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">alkene</text>
+<path d="M 144,414 L 412,414 L 414,412 L 414,146" fill="none" stroke="#7c3aed" stroke-width="3.5" marker-end="url(#ap)"/>
+<path d="M 136,406 L 136,138 L 138,136 L 404,136" fill="none" stroke="#ea580c" stroke-width="3.5" marker-end="url(#ao)"/>
+<path d="M 143,407 L 405,145" fill="none" stroke="#2563eb" stroke-width="3.5" marker-end="url(#ab)"/>
+<text x="275.0" y="402" text-anchor="middle" font-size="15" font-weight="bold" fill="#7c3aed">E1</text>
+<text x="148" y="275.0" font-size="15" font-weight="bold" fill="#ea580c">E1cB</text>
+<text x="289.0" y="297.0" font-size="15" font-weight="bold" fill="#2563eb">E2</text>
+<rect x="470" y="104" width="6" height="60" rx="3" fill="#2563eb"/>
+<text x="486" y="120" font-size="14" font-weight="bold" fill="#2563eb">E2: both bonds break together</text>
+<text x="486" y="140" font-size="13" fill="#1f2937">one step: rate = k[substrate][base]</text>
+<text x="486" y="159" font-size="13" fill="#1f2937">H and LG anti-periplanar (180°)</text>
+<rect x="470" y="204" width="6" height="79" rx="3" fill="#7c3aed"/>
+<text x="486" y="220" font-size="14" font-weight="bold" fill="#7c3aed">E1: C–LG breaks first</text>
+<text x="486" y="240" font-size="13" fill="#1f2937">carbocation, as in SN1</text>
+<text x="486" y="259" font-size="13" fill="#1f2937">rate = k[substrate]</text>
+<text x="486" y="278" font-size="13" fill="#1f2937">no geometric requirement</text>
+<rect x="470" y="324" width="6" height="79" rx="3" fill="#ea580c"/>
+<text x="486" y="340" font-size="14" font-weight="bold" fill="#ea580c">E1cB: C–H breaks first</text>
+<text x="486" y="360" font-size="13" fill="#1f2937">carbanion stabilized as an enolate</text>
+<text x="486" y="379" font-size="13" fill="#1f2937">acidic H next to C=O, poor LG (OH)</text>
+<text x="486" y="398" font-size="13" fill="#1f2937">common in enzymes (enolase)</text>
+<text x="400" y="502" text-anchor="middle" font-size="13" fill="#475569">Hydration, the addition of water to the alkene, runs the same path backwards (fumarase, aconitase).</text>
+</svg>

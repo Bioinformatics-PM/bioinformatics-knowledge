@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 590" width="800" height="590" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Rare tautomers of guanine and adenine mispair with thymine and cytosine</title>
+<desc id="d">Four base pairs drawn as pairing edges. Normal G-C: O6 of G accepts from N4-H of C, N1-H of G donates to N3 of C, N2-H of G donates to O2 of C. Enol G* with T: O6-H donates to O4 of T, N1 of G* accepts from N3-H of T, N2-H donates to O2 of T. Normal A-T: N6-H of A donates to O4 of T, N1 of A accepts from N3-H of T. Imino A* with C: N6 of A* accepts from N4-H of C, N1-H of A* donates to N3 of C. A G* mispair turns G:C into A:T and an A* mispair turns A:T into G:C after replication: both are transitions.</desc>
+<rect x="3" y="3" width="794" height="584" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<text x="400" y="33" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Rare tautomers mispair: enol G* pairs with T, imino A* with C</text>
+<text x="400" y="54" text-anchor="middle" font-size="13" fill="#475569">Pairing edges only, not to scale. D = hydrogen-bond donor, A = acceptor. Shaded atoms are changed by the proton shift.</text>
+<text x="200" y="88" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">G (keto) · C: normal, 3 hydrogen bonds</text>
+<rect x="25" y="102" width="155" height="130" rx="12" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2.2"/>
+<rect x="245" y="102" width="130" height="130" rx="12" fill="#bfdbfe" stroke="#2563eb" stroke-width="2.2"/>
+<text x="55" y="178.0" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">G</text>
+<text x="349" y="178.0" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">C</text>
+<text x="170" y="132" text-anchor="end" font-size="13" fill="#1f2937">O6 (A)</text>
+<text x="255" y="132" font-size="13" fill="#1f2937">(D) H–N4</text>
+<line x1="187" y1="128" x2="238" y2="128" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="170" y="172" text-anchor="end" font-size="13" fill="#1f2937">N1–H (D)</text>
+<text x="255" y="172" font-size="13" fill="#1f2937">(A) N3</text>
+<line x1="187" y1="168" x2="238" y2="168" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="170" y="212" text-anchor="end" font-size="13" fill="#1f2937">N2–H (D)</text>
+<text x="255" y="212" font-size="13" fill="#1f2937">(A) O2</text>
+<line x1="187" y1="208" x2="238" y2="208" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="200" y="254" text-anchor="middle" font-size="12.5" fill="#334155">the usual pair</text>
+<text x="600" y="88" text-anchor="middle" font-size="14" font-weight="bold" fill="#b45309">G* (enol) · T: rare tautomer mispair</text>
+<rect x="425" y="102" width="155" height="130" rx="12" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2.2"/>
+<rect x="645" y="102" width="130" height="130" rx="12" fill="#fecaca" stroke="#dc2626" stroke-width="2.2"/>
+<text x="455" y="178.0" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">G*</text>
+<text x="749" y="178.0" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">T</text>
+<rect x="484" y="115" width="90" height="22" rx="6" fill="#fde68a" stroke="#d97706" stroke-width="1.2"/>
+<text x="570" y="132" text-anchor="end" font-size="13" fill="#1f2937">O6–H (D)</text>
+<text x="655" y="132" font-size="13" fill="#1f2937">(A) O4</text>
+<line x1="587" y1="128" x2="638" y2="128" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="484" y="155" width="90" height="22" rx="6" fill="#fde68a" stroke="#d97706" stroke-width="1.2"/>
+<text x="570" y="172" text-anchor="end" font-size="13" fill="#1f2937">N1 (A)</text>
+<text x="655" y="172" font-size="13" fill="#1f2937">(D) H–N3</text>
+<line x1="587" y1="168" x2="638" y2="168" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="570" y="212" text-anchor="end" font-size="13" fill="#1f2937">N2–H (D)</text>
+<text x="655" y="212" font-size="13" fill="#1f2937">(A) O2</text>
+<line x1="587" y1="208" x2="638" y2="208" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="600" y="254" text-anchor="middle" font-size="12.5" fill="#334155">T inserted opposite a G* template: G:C → A:T</text>
+<text x="200" y="338" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">A (amino) · T: normal, 2 hydrogen bonds</text>
+<rect x="25" y="352" width="155" height="130" rx="12" fill="#bbf7d0" stroke="#16a34a" stroke-width="2.2"/>
+<rect x="245" y="352" width="130" height="130" rx="12" fill="#fecaca" stroke="#dc2626" stroke-width="2.2"/>
+<text x="55" y="428.0" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">A</text>
+<text x="349" y="428.0" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">T</text>
+<text x="170" y="382" text-anchor="end" font-size="13" fill="#1f2937">N6–H (D)</text>
+<text x="255" y="382" font-size="13" fill="#1f2937">(A) O4</text>
+<line x1="187" y1="378" x2="238" y2="378" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="170" y="422" text-anchor="end" font-size="13" fill="#1f2937">N1 (A)</text>
+<text x="255" y="422" font-size="13" fill="#1f2937">(D) H–N3</text>
+<line x1="187" y1="418" x2="238" y2="418" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="170" y="462" text-anchor="end" font-size="13" fill="#1f2937">C2–H</text>
+<text x="255" y="462" font-size="13" fill="#1f2937">(A) O2</text>
+<text x="212.5" y="462" text-anchor="middle" font-size="12" fill="#94a3b8">no bond</text>
+<text x="200" y="504" text-anchor="middle" font-size="12.5" fill="#334155">the usual pair</text>
+<text x="600" y="338" text-anchor="middle" font-size="14" font-weight="bold" fill="#b45309">A* (imino) · C: rare tautomer mispair</text>
+<rect x="425" y="352" width="155" height="130" rx="12" fill="#bbf7d0" stroke="#16a34a" stroke-width="2.2"/>
+<rect x="645" y="352" width="130" height="130" rx="12" fill="#bfdbfe" stroke="#2563eb" stroke-width="2.2"/>
+<text x="455" y="428.0" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">A*</text>
+<text x="749" y="428.0" text-anchor="middle" font-size="30" font-weight="bold" fill="#1f2937">C</text>
+<rect x="484" y="365" width="90" height="22" rx="6" fill="#fde68a" stroke="#d97706" stroke-width="1.2"/>
+<text x="570" y="382" text-anchor="end" font-size="13" fill="#1f2937">N6 (A)</text>
+<text x="655" y="382" font-size="13" fill="#1f2937">(D) H–N4</text>
+<line x1="587" y1="378" x2="638" y2="378" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="484" y="405" width="90" height="22" rx="6" fill="#fde68a" stroke="#d97706" stroke-width="1.2"/>
+<text x="570" y="422" text-anchor="end" font-size="13" fill="#1f2937">N1–H (D)</text>
+<text x="655" y="422" font-size="13" fill="#1f2937">(A) N3</text>
+<line x1="587" y1="418" x2="638" y2="418" stroke="#2563eb" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="570" y="462" text-anchor="end" font-size="13" fill="#1f2937">C2–H</text>
+<text x="655" y="462" font-size="13" fill="#1f2937">(A) O2</text>
+<text x="612.5" y="462" text-anchor="middle" font-size="12" fill="#94a3b8">no bond</text>
+<text x="600" y="504" text-anchor="middle" font-size="12.5" fill="#334155">C inserted opposite an A* template: A:T → G:C</text>
+<line x1="400" y1="75" x2="400" y2="520" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="400" y="548" text-anchor="middle" font-size="13" fill="#475569">The pyrimidines work the same way: enol T* pairs with G, imino C* pairs with A.</text>
+<text x="400" y="568" text-anchor="middle" font-size="13" font-weight="bold" fill="#334155">Every rare-tautomer mispair, once replicated, gives a transition (purine for purine, pyrimidine for pyrimidine).</text>
+</svg>

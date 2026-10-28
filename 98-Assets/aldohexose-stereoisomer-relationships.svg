@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Stereoisomers of D-glucose: enantiomer, epimers and diastereomers</title>
+<desc id="d">Fischer projections of L-glucose, D-glucose, D-galactose and D-mannose, C1 aldehyde at the top. Shaded centers differ from D-glucose. L-glucose differs at all four stereocenters (enantiomer); D-galactose only at C4 (C4 epimer); D-mannose only at C2 (C2 epimer); D-galactose and D-mannose differ at C2 and C4 (diastereomers, not epimers).</desc>
+<rect x="3" y="3" width="794" height="514" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<text x="400" y="34" text-anchor="middle" font-size="19" font-weight="bold" fill="#1f2937">Enantiomer, epimers and diastereomers of D-glucose</text>
+<text x="400" y="56" text-anchor="middle" font-size="13" fill="#475569">Fischer projections (C1 at top). Shaded stereocenters differ from D-glucose.</text>
+<text x="22" y="152" font-size="12" fill="#64748b">C1</text>
+<text x="22" y="194" font-size="12" fill="#64748b">C2</text>
+<text x="22" y="239" font-size="12" fill="#64748b">C3</text>
+<text x="22" y="284" font-size="12" fill="#64748b">C4</text>
+<text x="22" y="329" font-size="12" fill="#64748b">C5</text>
+<text x="22" y="376" font-size="12" fill="#64748b">C6</text>
+<text x="115" y="124" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">L-glucose</text>
+<circle cx="115" cy="190" r="19" fill="#e9d5ff" stroke="#a855f7" stroke-width="1.5"/>
+<circle cx="115" cy="235" r="19" fill="#e9d5ff" stroke="#a855f7" stroke-width="1.5"/>
+<circle cx="115" cy="280" r="19" fill="#e9d5ff" stroke="#a855f7" stroke-width="1.5"/>
+<circle cx="115" cy="325" r="19" fill="#e9d5ff" stroke="#a855f7" stroke-width="1.5"/>
+<text x="115" y="152" text-anchor="middle" font-size="14" fill="#1f2937">CHO</text>
+<line x1="115" y1="160" x2="115" y2="352" stroke="#334155" stroke-width="2.2"/>
+<text x="115" y="372" text-anchor="middle" font-size="14" fill="#1f2937">CH<tspan baseline-shift="sub" font-size="10">2</tspan>OH</text>
+<line x1="77" y1="190" x2="153" y2="190" stroke="#334155" stroke-width="2.2"/>
+<text x="72" y="195" text-anchor="end" font-size="14" fill="#1f2937">HO</text>
+<text x="158" y="195" font-size="14" fill="#1f2937">H</text>
+<line x1="77" y1="235" x2="153" y2="235" stroke="#334155" stroke-width="2.2"/>
+<text x="158" y="240" font-size="14" fill="#1f2937">OH</text>
+<text x="72" y="240" text-anchor="end" font-size="14" fill="#1f2937">H</text>
+<line x1="77" y1="280" x2="153" y2="280" stroke="#334155" stroke-width="2.2"/>
+<text x="72" y="285" text-anchor="end" font-size="14" fill="#1f2937">HO</text>
+<text x="158" y="285" font-size="14" fill="#1f2937">H</text>
+<line x1="77" y1="325" x2="153" y2="325" stroke="#334155" stroke-width="2.2"/>
+<text x="72" y="330" text-anchor="end" font-size="14" fill="#1f2937">HO</text>
+<text x="158" y="330" font-size="14" fill="#1f2937">H</text>
+<text x="115" y="396" text-anchor="middle" font-size="13" fill="#475569">OH side: L R L L</text>
+<rect x="222" y="102" width="156" height="300" rx="12" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="300" y="124" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">D-glucose</text>
+<text x="300" y="152" text-anchor="middle" font-size="14" fill="#1f2937">CHO</text>
+<line x1="300" y1="160" x2="300" y2="352" stroke="#334155" stroke-width="2.2"/>
+<text x="300" y="372" text-anchor="middle" font-size="14" fill="#1f2937">CH<tspan baseline-shift="sub" font-size="10">2</tspan>OH</text>
+<line x1="262" y1="190" x2="338" y2="190" stroke="#334155" stroke-width="2.2"/>
+<text x="343" y="195" font-size="14" fill="#1f2937">OH</text>
+<text x="257" y="195" text-anchor="end" font-size="14" fill="#1f2937">H</text>
+<line x1="262" y1="235" x2="338" y2="235" stroke="#334155" stroke-width="2.2"/>
+<text x="257" y="240" text-anchor="end" font-size="14" fill="#1f2937">HO</text>
+<text x="343" y="240" font-size="14" fill="#1f2937">H</text>
+<line x1="262" y1="280" x2="338" y2="280" stroke="#334155" stroke-width="2.2"/>
+<text x="343" y="285" font-size="14" fill="#1f2937">OH</text>
+<text x="257" y="285" text-anchor="end" font-size="14" fill="#1f2937">H</text>
+<line x1="262" y1="325" x2="338" y2="325" stroke="#334155" stroke-width="2.2"/>
+<text x="343" y="330" font-size="14" fill="#1f2937">OH</text>
+<text x="257" y="330" text-anchor="end" font-size="14" fill="#1f2937">H</text>
+<text x="300" y="396" text-anchor="middle" font-size="13" fill="#475569">OH side: R L R R</text>
+<text x="485" y="124" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">D-galactose</text>
+<circle cx="485" cy="280" r="19" fill="#fde68a" stroke="#d97706" stroke-width="1.5"/>
+<text x="485" y="152" text-anchor="middle" font-size="14" fill="#1f2937">CHO</text>
+<line x1="485" y1="160" x2="485" y2="352" stroke="#334155" stroke-width="2.2"/>
+<text x="485" y="372" text-anchor="middle" font-size="14" fill="#1f2937">CH<tspan baseline-shift="sub" font-size="10">2</tspan>OH</text>
+<line x1="447" y1="190" x2="523" y2="190" stroke="#334155" stroke-width="2.2"/>
+<text x="528" y="195" font-size="14" fill="#1f2937">OH</text>
+<text x="442" y="195" text-anchor="end" font-size="14" fill="#1f2937">H</text>
+<line x1="447" y1="235" x2="523" y2="235" stroke="#334155" stroke-width="2.2"/>
+<text x="442" y="240" text-anchor="end" font-size="14" fill="#1f2937">HO</text>
+<text x="528" y="240" font-size="14" fill="#1f2937">H</text>
+<line x1="447" y1="280" x2="523" y2="280" stroke="#334155" stroke-width="2.2"/>
+<text x="442" y="285" text-anchor="end" font-size="14" fill="#1f2937">HO</text>
+<text x="528" y="285" font-size="14" fill="#1f2937">H</text>
+<line x1="447" y1="325" x2="523" y2="325" stroke="#334155" stroke-width="2.2"/>
+<text x="528" y="330" font-size="14" fill="#1f2937">OH</text>
+<text x="442" y="330" text-anchor="end" font-size="14" fill="#1f2937">H</text>
+<text x="485" y="396" text-anchor="middle" font-size="13" fill="#475569">OH side: R L L R</text>
+<text x="670" y="124" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">D-mannose</text>
+<circle cx="670" cy="190" r="19" fill="#fde68a" stroke="#d97706" stroke-width="1.5"/>
+<text x="670" y="152" text-anchor="middle" font-size="14" fill="#1f2937">CHO</text>
+<line x1="670" y1="160" x2="670" y2="352" stroke="#334155" stroke-width="2.2"/>
+<text x="670" y="372" text-anchor="middle" font-size="14" fill="#1f2937">CH<tspan baseline-shift="sub" font-size="10">2</tspan>OH</text>
+<line x1="632" y1="190" x2="708" y2="190" stroke="#334155" stroke-width="2.2"/>
+<text x="627" y="195" text-anchor="end" font-size="14" fill="#1f2937">HO</text>
+<text x="713" y="195" font-size="14" fill="#1f2937">H</text>
+<line x1="632" y1="235" x2="708" y2="235" stroke="#334155" stroke-width="2.2"/>
+<text x="627" y="240" text-anchor="end" font-size="14" fill="#1f2937">HO</text>
+<text x="713" y="240" font-size="14" fill="#1f2937">H</text>
+<line x1="632" y1="280" x2="708" y2="280" stroke="#334155" stroke-width="2.2"/>
+<text x="713" y="285" font-size="14" fill="#1f2937">OH</text>
+<text x="627" y="285" text-anchor="end" font-size="14" fill="#1f2937">H</text>
+<line x1="632" y1="325" x2="708" y2="325" stroke="#334155" stroke-width="2.2"/>
+<text x="713" y="330" font-size="14" fill="#1f2937">OH</text>
+<text x="627" y="330" text-anchor="end" font-size="14" fill="#1f2937">H</text>
+<text x="670" y="396" text-anchor="middle" font-size="13" fill="#475569">OH side: L L R R</text>
+<line x1="207" y1="135" x2="207" y2="385" stroke="#a855f7" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="207" y="414" text-anchor="middle" font-size="12" fill="#7e22ce">mirror</text>
+<path d="M 115,94 L 115,84 L 292,84 L 292,94" fill="none" stroke="#7e22ce" stroke-width="2"/>
+<text x="203.5" y="77" text-anchor="middle" font-size="13" font-weight="bold" fill="#7e22ce">enantiomers: all 4 centers</text>
+<path d="M 308,94 L 308,84 L 485,84 L 485,94" fill="none" stroke="#b45309" stroke-width="2"/>
+<text x="396.5" y="77" text-anchor="middle" font-size="13" font-weight="bold" fill="#b45309">C4 epimers</text>
+<path d="M 493,94 L 493,84 L 670,84 L 670,94" fill="none" stroke="#334155" stroke-width="2"/>
+<text x="581.5" y="77" text-anchor="middle" font-size="13" font-weight="bold" fill="#334155">diastereomers, not epimers</text>
+<path d="M 300,430 L 300,440 L 670,440 L 670,430" fill="none" stroke="#b45309" stroke-width="2"/>
+<text x="485.0" y="458" text-anchor="middle" font-size="13" font-weight="bold" fill="#b45309">C2 epimers (differ only at C2)</text>
+<text x="400" y="495" text-anchor="middle" font-size="13" fill="#475569">Epimers differ at exactly one stereocenter; all of them are diastereomers. D/L names only the configuration at C5.</text>
+</svg>
