@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Coordination geometry of heme iron and of a zinc finger zinc</title>
+<desc id="d">Left: heme iron in oxymyoglobin or oxyhemoglobin is six-coordinate and octahedral: four porphyrin nitrogens in a plane, the proximal histidine below and dioxygen above. Without oxygen it has five ligands. Right: the zinc of a Cys2His2 zinc finger has four ligands, two cysteine sulfurs and two histidine nitrogens, at the corners of a tetrahedron with angles near 109.5 degrees.</desc>
+<rect x="1" y="1" width="758" height="418" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="380.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Metal sites in proteins: number and arrangement of ligands</text>
+<rect x="16" y="44" width="398" height="360" rx="10" fill="#fff7ed" stroke="#fed7aa"/>
+<rect x="424" y="44" width="320" height="360" rx="10" fill="#f0fdfa" stroke="#99f6e4"/>
+<text x="215" y="68" text-anchor="middle" font-size="15" fill="#1f2937" font-weight="bold">Heme iron (myoglobin, hemoglobin)</text>
+<polygon points="347.2,167.6 255.8,224.4 52.8,224.4 144.2,167.6" fill="#fde68a" fill-opacity="0.55" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="256" y="242" text-anchor="middle" font-size="12" fill="#92400e" font-weight="normal">porphyrin plane</text>
+<line x1="216.0" y1="196.0" x2="259.0" y2="196.0" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<text x="270" y="201" text-anchor="middle" font-size="14" fill="#1d4ed8" font-weight="bold">N</text>
+<line x1="184.0" y1="196.0" x2="141.0" y2="196.0" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<text x="130" y="201" text-anchor="middle" font-size="14" fill="#1d4ed8" font-weight="bold">N</text>
+<line x1="213.6" y1="187.5" x2="222.2" y2="182.2" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<text x="232" y="181" text-anchor="middle" font-size="14" fill="#1d4ed8" font-weight="bold">N</text>
+<line x1="186.4" y1="204.5" x2="177.8" y2="209.8" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<text x="168" y="221" text-anchor="middle" font-size="14" fill="#1d4ed8" font-weight="bold">N</text>
+<line x1="200.0" y1="212.0" x2="200.0" y2="258.5" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="200.0" y1="180.0" x2="200.0" y2="137.0" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<text x="200" y="274" text-anchor="middle" font-size="14" fill="#1d4ed8" font-weight="bold">N</text>
+<polygon points="200.0,280.5 220.0,295.0 212.3,318.5 187.7,318.5 180.0,295.0" fill="none" stroke="#475569" stroke-width="2"/>
+<text x="232" y="308" text-anchor="start" font-size="13" fill="#1f2937" font-weight="normal">His (proximal)</text>
+<text x="200" y="131" text-anchor="middle" font-size="14" fill="#b91c1c" font-weight="bold">O</text>
+<text x="234" y="91" text-anchor="middle" font-size="14" fill="#b91c1c" font-weight="bold">O</text>
+<line x1="208.8" y1="120.3" x2="229.8" y2="95.6" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="204.2" y1="116.4" x2="225.2" y2="91.7" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<text x="248" y="92" text-anchor="start" font-size="13" fill="#1f2937" font-weight="normal">O₂ (sixth position)</text>
+<circle cx="200" cy="196" r="15" fill="#fdba74" stroke="#b45309" stroke-width="1.5"/>
+<text x="200" y="201" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="bold">Fe</text>
+<text x="215" y="368" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="normal">6 ligands: 4 porphyrin N + His + O₂ → octahedral</text>
+<text x="215" y="388" text-anchor="middle" font-size="12" fill="#64748b" font-weight="normal">without O₂: 5 ligands, Fe slightly out of the plane</text>
+<text x="584" y="68" text-anchor="middle" font-size="15" fill="#1f2937" font-weight="bold">Zinc finger zinc (Cys₂His₂)</text>
+<line x1="572.0" y1="204.4" x2="523.0" y2="161.0" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="596.0" y1="204.4" x2="645.0" y2="161.0" stroke="#475569" stroke-width="2.4" stroke-linecap="round"/>
+<polygon points="573.8,227.3 528.3,271.3 539.0,280.2" fill="#475569"/>
+<line x1="599.2" y1="233.2" x2="601.7" y2="230.8" stroke="#475569" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="604.0" y1="239.2" x2="607.6" y2="235.7" stroke="#475569" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="608.7" y1="245.2" x2="613.4" y2="240.7" stroke="#475569" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="613.5" y1="251.2" x2="619.3" y2="245.7" stroke="#475569" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="618.3" y1="257.2" x2="625.1" y2="250.6" stroke="#475569" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="623.1" y1="263.2" x2="631.0" y2="255.6" stroke="#475569" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="627.8" y1="269.2" x2="636.8" y2="260.5" stroke="#475569" stroke-width="1.6" stroke-linecap="round"/>
+<text x="514" y="158" text-anchor="middle" font-size="16" fill="#a16207" font-weight="bold">S</text>
+<text x="514" y="137" text-anchor="middle" font-size="12" fill="#64748b" font-weight="normal">S (Cys)</text>
+<text x="654" y="158" text-anchor="middle" font-size="16" fill="#a16207" font-weight="bold">S</text>
+<text x="654" y="137" text-anchor="middle" font-size="12" fill="#64748b" font-weight="normal">S (Cys)</text>
+<text x="526" y="290" text-anchor="middle" font-size="16" fill="#1d4ed8" font-weight="bold">N</text>
+<text x="526" y="309" text-anchor="middle" font-size="12" fill="#64748b" font-weight="normal">N (His)</text>
+<text x="646" y="284" text-anchor="middle" font-size="16" fill="#1d4ed8" font-weight="bold">N</text>
+<text x="646" y="303" text-anchor="middle" font-size="12" fill="#64748b" font-weight="normal">N (His)</text>
+<path d="M 556.0 190.0 Q 584 167 612.0 190.0" fill="none" stroke="#64748b" stroke-width="1.3"/>
+<text x="584" y="163" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="normal">≈109.5°</text>
+<circle cx="584" cy="215" r="15" fill="#99f6e4" stroke="#0f766e" stroke-width="1.5"/>
+<text x="584" y="220" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="bold">Zn</text>
+<text x="584" y="330" text-anchor="middle" font-size="12" fill="#64748b" font-weight="normal">wedge: toward you; hashes: away</text>
+<text x="584" y="368" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="normal">4 ligands: 2 Cys S + 2 His N → tetrahedral</text>
+<text x="584" y="388" text-anchor="middle" font-size="12" fill="#64748b" font-weight="normal">structural role: the zinc holds the fold</text>
+</svg>

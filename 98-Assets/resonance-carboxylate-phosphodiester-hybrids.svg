@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Resonance hybrids of a carboxylate and of a phosphodiester</title>
+<desc id="d">Top row: the two resonance structures of a carboxylate group, related by curved arrows that move one lone pair and one pi bond, and their hybrid, in which both C-O bonds are one and a half bonds and each oxygen carries minus one half. Bottom row: the same pattern for the two non-bridging oxygens of a phosphodiester in the DNA backbone: each carries minus one half.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker></defs>
+<rect x="1" y="1" width="758" height="438" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="380.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Resonance: one real structure, several drawings</text>
+<rect x="16" y="48" width="728" height="168" rx="10" fill="#eef2ff" stroke="#c7d2fe"/>
+<rect x="16" y="226" width="728" height="168" rx="10" fill="#ecfdf5" stroke="#bbf7d0"/>
+<text x="30" y="70" font-size="14" font-weight="bold" fill="#1f2937">Carboxylate (Asp, Glu, C-terminus)</text>
+<text x="30" y="248" font-size="14" font-weight="bold" fill="#1f2937">Phosphodiester (DNA and RNA backbone)</text>
+<text x="58" y="146" text-anchor="middle" font-size="17" fill="#1f2937">R</text>
+<text x="110" y="146" text-anchor="middle" font-size="17" fill="#1f2937">C</text>
+<text x="152" y="110" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="152" y="182" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<line x1="68.0" y1="140.0" x2="100.0" y2="140.0" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="116.4" y1="130.6" x2="141.7" y2="108.9" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="120.3" y1="135.1" x2="145.6" y2="113.4" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="118.4" y1="147.2" x2="143.6" y2="168.8" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<text x="166" y="170" text-anchor="middle" font-size="14" font-weight="bold" fill="#b91c1c">−</text>
+<path d="M 142 190 Q 108 188 124 162" fill="none" stroke="#7c3aed" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M 123 124 Q 122 84 142 92" fill="none" stroke="#7c3aed" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="205" y="146" text-anchor="middle" font-size="24" fill="#1f2937">↔</text>
+<text x="238" y="146" text-anchor="middle" font-size="17" fill="#1f2937">R</text>
+<text x="290" y="146" text-anchor="middle" font-size="17" fill="#1f2937">C</text>
+<text x="332" y="110" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="332" y="182" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<line x1="248.0" y1="140.0" x2="280.0" y2="140.0" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="298.4" y1="132.8" x2="323.6" y2="111.2" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="300.3" y1="144.9" x2="325.6" y2="166.6" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="296.4" y1="149.4" x2="321.7" y2="171.1" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<text x="346" y="98" text-anchor="middle" font-size="14" font-weight="bold" fill="#b91c1c">−</text>
+<text x="390" y="146" text-anchor="middle" font-size="22" fill="#1f2937">=</text>
+<rect x="425" y="80" width="305" height="124" rx="8" fill="#fef3c7" stroke="#fcd34d"/>
+<text x="438" y="146" text-anchor="middle" font-size="17" fill="#1f2937">R</text>
+<text x="490" y="146" text-anchor="middle" font-size="17" fill="#1f2937">C</text>
+<text x="532" y="110" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="532" y="182" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<line x1="448.0" y1="140.0" x2="480.0" y2="140.0" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="496.4" y1="130.6" x2="521.7" y2="108.9" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="500.3" y1="135.1" x2="525.6" y2="113.4" stroke="#64748b" stroke-width="2.2" stroke-dasharray="4 4" stroke-linecap="round"/>
+<line x1="500.3" y1="144.9" x2="525.6" y2="166.6" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="496.4" y1="149.4" x2="521.7" y2="171.1" stroke="#64748b" stroke-width="2.2" stroke-dasharray="4 4" stroke-linecap="round"/>
+<text x="554" y="100" text-anchor="middle" font-size="14" font-weight="bold" fill="#b91c1c">−½</text>
+<text x="554" y="180" text-anchor="middle" font-size="14" font-weight="bold" fill="#b91c1c">−½</text>
+<text x="582" y="110" font-size="13" fill="#1f2937">hybrid: both C–O</text>
+<text x="582" y="128" font-size="13" fill="#1f2937">bonds of order 1½,</text>
+<text x="582" y="146" font-size="13" fill="#1f2937">equal length (127 pm</text>
+<text x="582" y="164" font-size="13" fill="#1f2937">in sodium formate)</text>
+<text x="582" y="186" font-size="13" fill="#1f2937">charge −½ on each O</text>
+<text x="110" y="202" text-anchor="middle" font-size="12" fill="#7c3aed">curved arrows: electrons move</text>
+<text x="150" y="324" text-anchor="middle" font-size="17" fill="#1f2937">P</text>
+<text x="104" y="298" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="104" y="350" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="194" y="290" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="194" y="358" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="64" y="298" text-anchor="middle" font-size="14" fill="#1f2937">C5′</text>
+<text x="64" y="350" text-anchor="middle" font-size="14" fill="#1f2937">C3′</text>
+<line x1="78.0" y1="292.0" x2="90.0" y2="292.0" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="78.0" y1="344.0" x2="90.0" y2="344.0" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="140.4" y1="312.6" x2="113.6" y2="297.4" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="140.4" y1="323.4" x2="113.6" y2="338.6" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="156.9" y1="308.9" x2="183.5" y2="288.4" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="160.5" y1="313.6" x2="187.1" y2="293.1" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="158.7" y1="324.7" x2="185.3" y2="345.3" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<text x="208" y="346" text-anchor="middle" font-size="14" font-weight="bold" fill="#b91c1c">−</text>
+<text x="245" y="324" text-anchor="middle" font-size="24" fill="#1f2937">↔</text>
+<text x="355" y="324" text-anchor="middle" font-size="17" fill="#1f2937">P</text>
+<text x="309" y="298" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="309" y="350" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="399" y="290" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="399" y="358" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="269" y="298" text-anchor="middle" font-size="14" fill="#1f2937">C5′</text>
+<text x="269" y="350" text-anchor="middle" font-size="14" fill="#1f2937">C3′</text>
+<line x1="283.0" y1="292.0" x2="295.0" y2="292.0" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="283.0" y1="344.0" x2="295.0" y2="344.0" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="345.4" y1="312.6" x2="318.6" y2="297.4" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="345.4" y1="323.4" x2="318.6" y2="338.6" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="363.7" y1="311.3" x2="390.3" y2="290.7" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="365.5" y1="322.4" x2="392.1" y2="342.9" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="361.9" y1="327.1" x2="388.5" y2="347.6" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<text x="413" y="278" text-anchor="middle" font-size="14" font-weight="bold" fill="#b91c1c">−</text>
+<text x="447" y="324" text-anchor="middle" font-size="22" fill="#1f2937">=</text>
+<rect x="470" y="258" width="260" height="124" rx="8" fill="#fef3c7" stroke="#fcd34d"/>
+<text x="565" y="324" text-anchor="middle" font-size="17" fill="#1f2937">P</text>
+<text x="519" y="298" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="519" y="350" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="609" y="290" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="609" y="358" text-anchor="middle" font-size="17" fill="#1f2937">O</text>
+<text x="479" y="298" text-anchor="middle" font-size="14" fill="#1f2937">C5′</text>
+<text x="479" y="350" text-anchor="middle" font-size="14" fill="#1f2937">C3′</text>
+<line x1="493.0" y1="292.0" x2="505.0" y2="292.0" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="493.0" y1="344.0" x2="505.0" y2="344.0" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="555.4" y1="312.6" x2="528.6" y2="297.4" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="555.4" y1="323.4" x2="528.6" y2="338.6" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="571.9" y1="308.9" x2="598.5" y2="288.4" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="575.5" y1="313.6" x2="602.1" y2="293.1" stroke="#64748b" stroke-width="2.2" stroke-dasharray="4 4" stroke-linecap="round"/>
+<line x1="575.5" y1="322.4" x2="602.1" y2="342.9" stroke="#475569" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="571.9" y1="327.1" x2="598.5" y2="347.6" stroke="#64748b" stroke-width="2.2" stroke-dasharray="4 4" stroke-linecap="round"/>
+<text x="631" y="280" text-anchor="middle" font-size="14" font-weight="bold" fill="#b91c1c">−½</text>
+<text x="631" y="356" text-anchor="middle" font-size="14" font-weight="bold" fill="#b91c1c">−½</text>
+<text x="640" y="306" font-size="13" fill="#1f2937">non-bridging</text>
+<text x="640" y="324" font-size="13" fill="#1f2937">P–O: order 1½</text>
+<text x="640" y="342" font-size="13" fill="#1f2937">−½ on each O</text>
+<text x="380.0" y="418" text-anchor="middle" font-size="13" fill="#1f2937">Only electrons move between drawings; atoms stay put. The molecule is the hybrid at all times, never one drawing.</text>
+</svg>

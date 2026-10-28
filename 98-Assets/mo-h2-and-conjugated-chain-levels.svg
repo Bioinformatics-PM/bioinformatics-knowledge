@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Bonding and antibonding orbitals of H2, and pi levels of conjugated chains</title>
+<desc id="d">Left: two hydrogen 1s orbitals combine into a lower bonding sigma orbital holding both electrons and a higher, empty antibonding sigma star orbital; bond order 1. Right: Hückel pi levels of chains of 2, 4, 6 and 8 carbon p orbitals. Electrons fill the lower half; the gap between the highest occupied and lowest unoccupied levels shrinks from 2 to 0.69 times |beta| as the chain grows, and the measured absorption maxima move from 217 to 258 to 290 nanometres.</desc>
+<rect x="1" y="1" width="758" height="438" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="380.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2937">Molecular orbitals: from H₂ to conjugated chains</text>
+<rect x="16" y="44" width="236" height="380" rx="10" fill="#eef2ff" stroke="#c7d2fe"/>
+<rect x="262" y="44" width="482" height="380" rx="10" fill="#fff7ed" stroke="#fed7aa"/>
+<text x="134" y="66" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">H₂: two 1s orbitals → two MOs</text>
+<line x1="30" y1="250" x2="80" y2="250" stroke="#334155" stroke-width="3" stroke-linecap="round"/>
+<line x1="188" y1="250" x2="238" y2="250" stroke="#334155" stroke-width="3" stroke-linecap="round"/>
+<line x1="109" y1="330" x2="159" y2="330" stroke="#334155" stroke-width="3" stroke-linecap="round"/>
+<line x1="109" y1="170" x2="159" y2="170" stroke="#334155" stroke-width="3" stroke-linecap="round"/>
+<path d="M 50 259 L 50 241 M 46 246 L 50 241 L 54 246" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 208 259 L 208 241 M 204 246 L 208 241 L 212 246" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 129 339 L 129 321 M 125 326 L 129 321 L 133 326" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 139 321 L 139 339 M 135 334 L 139 339 L 143 334" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="80" y1="250" x2="109" y2="330" stroke="#64748b" stroke-width="1.3" stroke-dasharray="4 4"/>
+<line x1="188" y1="250" x2="159" y2="330" stroke="#64748b" stroke-width="1.3" stroke-dasharray="4 4"/>
+<line x1="80" y1="250" x2="109" y2="170" stroke="#64748b" stroke-width="1.3" stroke-dasharray="4 4"/>
+<line x1="188" y1="250" x2="159" y2="170" stroke="#64748b" stroke-width="1.3" stroke-dasharray="4 4"/>
+<text x="55" y="280" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="normal">1s (H)</text>
+<text x="213" y="280" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="normal">1s (H)</text>
+<text x="134" y="358" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="normal">σ1s bonding</text>
+<text x="134" y="374" text-anchor="middle" font-size="12" fill="#64748b" font-weight="normal">in phase, lower</text>
+<text x="134" y="150" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="normal">σ*1s antibonding</text>
+<text x="134" y="134" text-anchor="middle" font-size="12" fill="#64748b" font-weight="normal">node, higher</text>
+<text x="134" y="404" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="normal">bond order = (2 − 0)/2 = 1</text>
+<line x1="26" y1="390" x2="26" y2="110" stroke="#64748b" stroke-width="1.2" marker-end="url(#ea)"/>
+<defs><marker id="ea" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker><marker id="ga" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker></defs>
+<text x="36" y="104" text-anchor="start" font-size="13" fill="#64748b" font-weight="normal">E</text>
+<text x="503" y="66" text-anchor="middle" font-size="14" fill="#1f2937" font-weight="bold">π levels of chains: E = α + xβ (β &lt; 0)</text>
+<line x1="290" y1="220" x2="730" y2="220" stroke="#64748b" stroke-width="1" stroke-dasharray="2 4"/>
+<text x="284" y="224" text-anchor="end" font-size="13" fill="#64748b" font-weight="normal">α</text>
+<text x="284" y="352" text-anchor="end" font-size="12" fill="#64748b" font-weight="normal">α+2β</text>
+<text x="284" y="96" text-anchor="end" font-size="12" fill="#64748b" font-weight="normal">α−2β</text>
+<line x1="314" y1="284.0" x2="366" y2="284.0" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 335 293.0 L 335 275.0 M 331 280.0 L 335 275.0 L 339 280.0" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 345 275.0 L 345 293.0 M 341 288.0 L 345 293.0 L 349 288.0" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="314" y1="156.00000000000003" x2="366" y2="156.00000000000003" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="374" y1="282.0" x2="374" y2="160.00000000000003" stroke="#b45309" stroke-width="1.8" marker-end="url(#ga)"/>
+<text x="340" y="92" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="bold">ethene</text>
+<text x="340" y="368" text-anchor="middle" font-size="12" fill="#b45309" font-weight="normal">gap 2.00|β|</text>
+<text x="340" y="386" text-anchor="middle" font-size="12" fill="#1f2937" font-weight="normal">λmax: not cited</text>
+<line x1="419" y1="323.5541752799933" x2="471" y2="323.5541752799933" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 440 332.5541752799933 L 440 314.5541752799933 M 436 319.5541752799933 L 440 314.5541752799933 L 444 319.5541752799933" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 450 314.5541752799933 L 450 332.5541752799933 M 446 327.5541752799933 L 450 332.5541752799933 L 454 327.5541752799933" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="419" y1="259.5541752799933" x2="471" y2="259.5541752799933" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 440 268.5541752799933 L 440 250.55417527999327 M 436 255.55417527999327 L 440 250.55417527999327 L 444 255.55417527999327" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 450 250.55417527999327 L 450 268.5541752799933 M 446 263.5541752799933 L 450 268.5541752799933 L 454 263.5541752799933" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="419" y1="180.44582472000673" x2="471" y2="180.44582472000673" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="419" y1="116.44582472000674" x2="471" y2="116.44582472000674" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="479" y1="257.5541752799933" x2="479" y2="184.44582472000673" stroke="#b45309" stroke-width="1.8" marker-end="url(#ga)"/>
+<text x="445" y="92" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="bold">butadiene</text>
+<text x="445" y="368" text-anchor="middle" font-size="12" fill="#b45309" font-weight="normal">gap 1.24|β|</text>
+<text x="445" y="386" text-anchor="middle" font-size="12" fill="#1f2937" font-weight="normal">λmax 217 nm</text>
+<line x1="524" y1="335.32401509150964" x2="576" y2="335.32401509150964" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 545 344.32401509150964 L 545 326.32401509150964 M 541 331.32401509150964 L 545 326.32401509150964 L 549 331.32401509150964" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 555 326.32401509150964 L 555 344.32401509150964 M 551 339.32401509150964 L 555 344.32401509150964 L 559 339.32401509150964" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="524" y1="299.8066946379179" x2="576" y2="299.8066946379179" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 545 308.8066946379179 L 545 290.8066946379179 M 541 295.8066946379179 L 545 290.8066946379179 L 549 295.8066946379179" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 555 290.8066946379179 L 555 308.8066946379179 M 551 303.8066946379179 L 555 308.8066946379179 L 559 303.8066946379179" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="524" y1="248.48267954640824" x2="576" y2="248.48267954640824" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 545 257.48267954640824 L 545 239.48267954640824 M 541 244.48267954640824 L 545 239.48267954640824 L 549 244.48267954640824" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 555 239.48267954640824 L 555 257.48267954640824 M 551 252.48267954640824 L 555 257.48267954640824 L 559 252.48267954640824" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="524" y1="191.51732045359176" x2="576" y2="191.51732045359176" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="524" y1="140.19330536208213" x2="576" y2="140.19330536208213" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="524" y1="104.67598490849036" x2="576" y2="104.67598490849036" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="584" y1="246.48267954640824" x2="584" y2="195.51732045359176" stroke="#b45309" stroke-width="1.8" marker-end="url(#ga)"/>
+<text x="550" y="92" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="bold">hexatriene</text>
+<text x="550" y="368" text-anchor="middle" font-size="12" fill="#b45309" font-weight="normal">gap 0.89|β|</text>
+<text x="550" y="386" text-anchor="middle" font-size="12" fill="#1f2937" font-weight="normal">λmax 258 nm</text>
+<line x1="629" y1="340.2806554605963" x2="681" y2="340.2806554605963" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 650 349.2806554605963 L 650 331.2806554605963 M 646 336.2806554605963 L 650 331.2806554605963 L 654 336.2806554605963" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 660 331.2806554605963 L 660 349.2806554605963 M 656 344.2806554605963 L 660 349.2806554605963 L 664 344.2806554605963" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="629" y1="318.05368871922917" x2="681" y2="318.05368871922917" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 650 327.05368871922917 L 650 309.05368871922917 M 646 314.05368871922917 L 650 309.05368871922917 L 654 314.05368871922917" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 660 309.05368871922917 L 660 327.05368871922917 M 656 322.05368871922917 L 660 327.05368871922917 L 664 322.05368871922917" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="629" y1="284.0" x2="681" y2="284.0" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 650 293.0 L 650 275.0 M 646 280.0 L 650 275.0 L 654 280.0" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 660 275.0 L 660 293.0 M 656 288.0 L 660 293.0 L 664 288.0" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="629" y1="242.2269667413671" x2="681" y2="242.2269667413671" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 650 251.2269667413671 L 650 233.2269667413671 M 646 238.2269667413671 L 650 233.2269667413671 L 654 238.2269667413671" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<path d="M 660 233.2269667413671 L 660 251.2269667413671 M 656 246.2269667413671 L 660 251.2269667413671 L 664 246.2269667413671" stroke="#1d4ed8" stroke-width="1.8" fill="none"/>
+<line x1="629" y1="197.77303325863292" x2="681" y2="197.77303325863292" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="629" y1="156.00000000000003" x2="681" y2="156.00000000000003" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="629" y1="121.94631128077083" x2="681" y2="121.94631128077083" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="629" y1="99.71934453940374" x2="681" y2="99.71934453940374" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="689" y1="240.2269667413671" x2="689" y2="201.77303325863292" stroke="#b45309" stroke-width="1.8" marker-end="url(#ga)"/>
+<text x="655" y="92" text-anchor="middle" font-size="13" fill="#1f2937" font-weight="bold">octatetraene</text>
+<text x="655" y="368" text-anchor="middle" font-size="12" fill="#b45309" font-weight="normal">gap 0.69|β|</text>
+<text x="655" y="386" text-anchor="middle" font-size="12" fill="#1f2937" font-weight="normal">λmax 290 nm</text>
+<text x="503" y="414" text-anchor="middle" font-size="12" fill="#1f2937" font-weight="normal">Longer conjugation: smaller HOMO–LUMO gap, longer absorbed wavelength</text>
+</svg>
