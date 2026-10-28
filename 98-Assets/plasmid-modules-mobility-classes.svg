@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 488" width="760" height="488" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="760" height="488" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="380.0" y="30.0" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2937">Anatomy of a plasmid: a replicon, a transfer module and cargo</text>
+<text x="380.0" y="50.0" text-anchor="middle" font-size="12.5" font-weight="normal" fill="#1f2937">Generic conjugative plasmid: schematic with an invented layout, not a real plasmid, not to scale</text>
+<circle cx="220" cy="232" r="108" fill="none" stroke="#94a3b8" stroke-width="4"/>
+<path d="M 238.8 125.6 A 108 108 0 0 1 289.4 149.3" fill="none" stroke="#bfdbfe" stroke-width="22"/>
+<path d="M 313.5 178.0 A 108 108 0 0 1 256.9 333.5" fill="none" stroke="#bbf7d0" stroke-width="22"/>
+<path d="M 229.4 339.6 A 108 108 0 0 1 183.1 333.5" fill="none" stroke="#86efac" stroke-width="22"/>
+<path d="M 126.5 286.0 A 108 108 0 0 1 126.5 178.0" fill="none" stroke="#fecaca" stroke-width="22"/>
+<line x1="220.0" y1="140.0" x2="220.0" y2="108.0" stroke="#334155" stroke-width="3"/>
+<line x1="178.2" y1="314.0" x2="163.7" y2="342.5" stroke="#334155" stroke-width="3"/>
+<text x="220.0" y="100.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">oriV</text>
+<text x="276.6" y="110.6" text-anchor="start" font-size="13" font-weight="bold" fill="#1f2937">rep</text>
+<text x="345.9" y="277.8" text-anchor="start" font-size="13" font-weight="bold" fill="#1f2937">MPF genes</text>
+<text x="345.9" y="292.8" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">(pilus, channel)</text>
+<text x="201.1" y="372.7" text-anchor="middle" font-size="13" font-weight="bold" fill="#1f2937">relaxase</text>
+<text x="134.9" y="349.6" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">oriT</text>
+<text x="90.0" y="228.0" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">resistance</text>
+<text x="90.0" y="243.0" text-anchor="end" font-size="13" font-weight="bold" fill="#1f2937">genes</text>
+<text x="220.0" y="226.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">circular</text>
+<text x="220.0" y="241.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">double-stranded</text>
+<text x="220.0" y="256.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">DNA</text>
+<rect x="452" y="68" width="290" height="90" rx="8" fill="#bfdbfe" fill-opacity="0.45" stroke="#94a3b8"/>
+<text x="462.0" y="85.0" text-anchor="start" font-size="13" font-weight="bold" fill="#1f2937">Replication module (every plasmid)</text>
+<text x="462.0" y="102.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">oriV and the rep initiator start replication</text>
+<text x="462.0" y="117.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">and set the copy number; two plasmids with the</text>
+<text x="462.0" y="132.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">same control cannot be kept together</text>
+<text x="462.0" y="147.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">(incompatibility)</text>
+<rect x="452" y="170" width="290" height="90" rx="8" fill="#bbf7d0" fill-opacity="0.45" stroke="#94a3b8"/>
+<text x="462.0" y="187.0" text-anchor="start" font-size="13" font-weight="bold" fill="#1f2937">Transfer module (conjugative plasmids)</text>
+<text x="462.0" y="204.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">oriT: where transfer of one strand starts</text>
+<text x="462.0" y="219.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">relaxase: cuts that strand at oriT</text>
+<text x="462.0" y="234.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">MPF genes: mating-pair formation, the pilus</text>
+<text x="462.0" y="249.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">and channel that join donor and recipient</text>
+<rect x="452" y="272" width="290" height="60" rx="8" fill="#fecaca" fill-opacity="0.45" stroke="#94a3b8"/>
+<text x="462.0" y="289.0" text-anchor="start" font-size="13" font-weight="bold" fill="#1f2937">Cargo: accessory genes</text>
+<text x="462.0" y="306.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">antibiotic resistance and other traits</text>
+<text x="462.0" y="321.0" text-anchor="start" font-size="12" font-weight="normal" fill="#1f2937">that help in particular environments</text>
+<text x="40.0" y="398.0" text-anchor="start" font-size="13" font-weight="bold" fill="#1f2937">Mobility of 1,730 sequenced plasmids (Smillie 2010), approximate shares</text>
+<rect x="40.0" y="410" width="340.0" height="44" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="210.0" y="428.0" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1f2937">non-mobilizable, about 1/2</text>
+<text x="210.0" y="444.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">replication module only</text>
+<rect x="380.0" y="410" width="170.0" height="44" fill="#bbf7d0" stroke="#94a3b8"/>
+<text x="465.0" y="428.0" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1f2937">mobilizable, about 1/4</text>
+<text x="465.0" y="444.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">oriT + relaxase, borrow MPF</text>
+<rect x="550.0" y="410" width="170.0" height="44" fill="#86efac" stroke="#94a3b8"/>
+<text x="635.0" y="428.0" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1f2937">conjugative, about 1/4</text>
+<text x="635.0" y="444.0" text-anchor="middle" font-size="12" font-weight="normal" fill="#1f2937">full transfer module</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 486" width="780" height="486" font-family="Helvetica, Arial, sans-serif">
+<defs>
+<marker id="ah-resp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+<marker id="ah-ferm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d97706"/></marker>
+<marker id="ah-litho" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker>
+<marker id="ah-photo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7e22ce"/></marker>
+</defs>
+<rect x="0" y="0" width="780" height="486" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="390.0" y="30" text-anchor="middle" font-size="17" font-weight="bold" fill="#1f2937">Redox tower laid flat: electrons flow toward the more positive E°′</text>
+<text x="390.0" y="50" text-anchor="middle" font-size="12.5" fill="#1f2937">Standard reduction potentials at pH 7 (V, rounded), couples written oxidized/reduced; ΔG°′ for 2 electrons</text>
+<line x1="251.8" y1="115" x2="251.8" y2="398" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="255.8" y="110" text-anchor="end" font-size="12" fill="#1f2937"><tspan font-weight="bold">2H⁺/H₂</tspan> −0.41</text>
+<line x1="287.4" y1="99" x2="287.4" y2="398" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="291.4" y="94" text-anchor="end" font-size="12" fill="#1f2937"><tspan font-weight="bold">NAD⁺/NADH</tspan> −0.32</text>
+<line x1="318.9" y1="83" x2="318.9" y2="398" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="314.9" y="78" text-anchor="start" font-size="12" fill="#1f2937"><tspan font-weight="bold">S/H₂S</tspan> −0.24</text>
+<line x1="338.7" y1="115" x2="338.7" y2="398" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="334.7" y="110" text-anchor="start" font-size="12" fill="#1f2937"><tspan font-weight="bold">pyruvate/lactate</tspan> −0.19</text>
+<line x1="579.6" y1="83" x2="579.6" y2="398" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="579.6" y="78" text-anchor="middle" font-size="12" fill="#1f2937"><tspan font-weight="bold">NO₃⁻/NO₂⁻</tspan> +0.42</text>
+<line x1="737.7" y1="83" x2="737.7" y2="398" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="741.7" y="78" text-anchor="end" font-size="12" fill="#1f2937"><tspan font-weight="bold">O₂/H₂O</tspan> +0.82</text>
+<rect x="16" y="132" width="10" height="10" rx="2" fill="#2563eb"/>
+<text x="32" y="142" font-size="13" font-weight="bold" fill="#1f2937">aerobic respiration</text>
+<text x="32" y="157" font-size="12" fill="#1f2937">organotroph: NADH → O₂</text>
+<line x1="287.4" y1="151" x2="737.7" y2="151" stroke="#2563eb" stroke-width="3" marker-end="url(#ah-resp)"/>
+<text x="512.5" y="143" text-anchor="middle" font-size="12" fill="#1f2937">ΔE°′ = 1.14 V, ΔG°′ = −220 kJ/mol</text>
+<rect x="16" y="170" width="10" height="10" rx="2" fill="#2563eb"/>
+<text x="32" y="180" font-size="13" font-weight="bold" fill="#1f2937">nitrate respiration</text>
+<text x="32" y="195" font-size="12" fill="#1f2937">anaerobic: NADH → NO₃⁻</text>
+<line x1="287.4" y1="189" x2="579.6" y2="189" stroke="#2563eb" stroke-width="3" marker-end="url(#ah-resp)"/>
+<text x="433.5" y="181" text-anchor="middle" font-size="12" fill="#1f2937">ΔE°′ = 0.74 V, ΔG°′ = −143 kJ/mol</text>
+<rect x="16" y="208" width="10" height="10" rx="2" fill="#d97706"/>
+<text x="32" y="218" font-size="13" font-weight="bold" fill="#1f2937">lactate fermentation</text>
+<text x="32" y="233" font-size="12" fill="#1f2937">NADH → pyruvate, no chain</text>
+<line x1="287.4" y1="227" x2="338.7" y2="227" stroke="#d97706" stroke-width="3" marker-end="url(#ah-ferm)"/>
+<text x="313.0" y="219" text-anchor="middle" font-size="12" fill="#1f2937">ΔE°′ = 0.13 V, ΔG°′ = −25 kJ/mol</text>
+<rect x="16" y="246" width="10" height="10" rx="2" fill="#15803d"/>
+<text x="32" y="256" font-size="13" font-weight="bold" fill="#1f2937">hydrogen oxidation</text>
+<text x="32" y="271" font-size="12" fill="#1f2937">lithotroph: H₂ → O₂</text>
+<line x1="251.8" y1="265" x2="737.7" y2="265" stroke="#15803d" stroke-width="3" marker-end="url(#ah-litho)"/>
+<text x="494.7" y="257" text-anchor="middle" font-size="12" fill="#1f2937">ΔE°′ = 1.23 V, ΔG°′ = −237 kJ/mol</text>
+<rect x="16" y="284" width="10" height="10" rx="2" fill="#15803d"/>
+<text x="32" y="294" font-size="13" font-weight="bold" fill="#1f2937">sulfide oxidation</text>
+<text x="32" y="309" font-size="12" fill="#1f2937">lithotroph: H₂S → S, O₂</text>
+<line x1="318.9" y1="303" x2="737.7" y2="303" stroke="#15803d" stroke-width="3" marker-end="url(#ah-litho)"/>
+<text x="528.3" y="295" text-anchor="middle" font-size="12" fill="#1f2937">ΔE°′ = 1.06 V, ΔG°′ = −205 kJ/mol</text>
+<rect x="16" y="322" width="10" height="10" rx="2" fill="#15803d"/>
+<text x="32" y="332" font-size="13" font-weight="bold" fill="#1f2937">nitrite oxidation</text>
+<text x="32" y="347" font-size="12" fill="#1f2937">lithotroph: NO₂⁻ → NO₃⁻, O₂</text>
+<line x1="579.6" y1="341" x2="737.7" y2="341" stroke="#15803d" stroke-width="3" marker-end="url(#ah-litho)"/>
+<text x="658.7" y="333" text-anchor="middle" font-size="12" fill="#1f2937">ΔE°′ = 0.40 V, ΔG°′ = −77 kJ/mol</text>
+<rect x="16" y="360" width="10" height="10" rx="2" fill="#7e22ce"/>
+<text x="32" y="370" font-size="13" font-weight="bold" fill="#1f2937">oxygenic photosynthesis</text>
+<text x="32" y="385" font-size="12" fill="#1f2937">light: H₂O → NADP⁺ (≈ −0.32)</text>
+<line x1="737.7" y1="379" x2="287.4" y2="379" stroke="#7e22ce" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#ah-photo)"/>
+<text x="512.5" y="371" text-anchor="middle" font-size="12" fill="#1f2937">uphill, powered by light: ΔE°′ = −1.14 V, ΔG°′ = +220 kJ/mol</text>
+<line x1="236" y1="404" x2="752" y2="404" stroke="#64748b" stroke-width="1.5"/>
+<line x1="255.8" y1="404" x2="255.8" y2="410" stroke="#64748b" stroke-width="1.5"/>
+<text x="255.8" y="424" text-anchor="middle" font-size="12" fill="#1f2937">−0.4</text>
+<line x1="334.8" y1="404" x2="334.8" y2="410" stroke="#64748b" stroke-width="1.5"/>
+<text x="334.8" y="424" text-anchor="middle" font-size="12" fill="#1f2937">−0.2</text>
+<line x1="413.8" y1="404" x2="413.8" y2="410" stroke="#64748b" stroke-width="1.5"/>
+<text x="413.8" y="424" text-anchor="middle" font-size="12" fill="#1f2937">0.0</text>
+<line x1="492.8" y1="404" x2="492.8" y2="410" stroke="#64748b" stroke-width="1.5"/>
+<text x="492.8" y="424" text-anchor="middle" font-size="12" fill="#1f2937">+0.2</text>
+<line x1="571.8" y1="404" x2="571.8" y2="410" stroke="#64748b" stroke-width="1.5"/>
+<text x="571.8" y="424" text-anchor="middle" font-size="12" fill="#1f2937">+0.4</text>
+<line x1="650.8" y1="404" x2="650.8" y2="410" stroke="#64748b" stroke-width="1.5"/>
+<text x="650.8" y="424" text-anchor="middle" font-size="12" fill="#1f2937">+0.6</text>
+<line x1="729.8" y1="404" x2="729.8" y2="410" stroke="#64748b" stroke-width="1.5"/>
+<text x="729.8" y="424" text-anchor="middle" font-size="12" fill="#1f2937">+0.8</text>
+<text x="226" y="424" text-anchor="end" font-size="12" font-weight="bold" fill="#1f2937">E°′ (V)</text>
+<text x="390.0" y="452" text-anchor="middle" font-size="12" fill="#1f2937">ΔG°′ = −nFΔE°′ with n = 2: the longer the arrow to the right, the more free energy per electron pair.</text>
+<text x="390.0" y="470" text-anchor="middle" font-size="12" fill="#1f2937">Making one ATP needs about +30.5 kJ/mol under standard conditions (more in a living cell).</text>
+</svg>
