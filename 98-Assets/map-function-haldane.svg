@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" font-family="Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="718" height="438" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="360" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Map functions: recombination fraction versus map distance</text>
+  <text x="360" y="52" text-anchor="middle" font-size="13" fill="#475569">Hidden double crossovers make r grow more slowly than d, and never past 1/2</text>
+  <line x1="90" y1="314.0" x2="650" y2="314.0" stroke="#e2e8f0"/><line x1="90" y1="258.0" x2="650" y2="258.0" stroke="#e2e8f0"/><line x1="90" y1="202.0" x2="650" y2="202.0" stroke="#e2e8f0"/><line x1="90" y1="146.0" x2="650" y2="146.0" stroke="#e2e8f0"/><line x1="183.3" y1="90" x2="183.3" y2="370" stroke="#e2e8f0"/><line x1="276.7" y1="90" x2="276.7" y2="370" stroke="#e2e8f0"/><line x1="370.0" y1="90" x2="370.0" y2="370" stroke="#e2e8f0"/><line x1="463.3" y1="90" x2="463.3" y2="370" stroke="#e2e8f0"/><line x1="556.7" y1="90" x2="556.7" y2="370" stroke="#e2e8f0"/><line x1="650.0" y1="90" x2="650.0" y2="370" stroke="#e2e8f0"/>
+  <line x1="90" y1="370" x2="650" y2="370" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="90" y1="370" x2="90" y2="80" stroke="#64748b" stroke-width="1.5"/>
+  <g font-size="12" fill="#1f2937"><text x="90.0" y="390" text-anchor="middle">0</text><text x="183.3" y="390" text-anchor="middle">25</text><text x="276.7" y="390" text-anchor="middle">50</text><text x="370.0" y="390" text-anchor="middle">75</text><text x="463.3" y="390" text-anchor="middle">100</text><text x="556.7" y="390" text-anchor="middle">125</text><text x="650.0" y="390" text-anchor="middle">150</text><text x="80" y="374.0" text-anchor="end">0.0</text><text x="80" y="318.0" text-anchor="end">0.1</text><text x="80" y="262.0" text-anchor="end">0.2</text><text x="80" y="206.0" text-anchor="end">0.3</text><text x="80" y="150.0" text-anchor="end">0.4</text><text x="80" y="94.0" text-anchor="end">0.5</text></g>
+  <text x="370" y="420" text-anchor="middle" font-size="13" fill="#1f2937">map distance d (cM)</text>
+  <text x="34" y="230" text-anchor="middle" font-size="13" fill="#1f2937" transform="rotate(-90 34 230)">recombination fraction r</text>
+  <line x1="90" y1="90.0" x2="650" y2="90.0" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <text x="646" y="82.0" text-anchor="end" font-size="12" fill="#475569">r = 1/2: looks unlinked</text>
+  <line x1="90.0" y1="370.0" x2="276.7" y2="90.0" stroke="#ea580c" stroke-width="2.5"/>
+  <path d="M90.0,370.0 L99.3,356.3 L108.7,343.4 L118.0,331.0 L127.3,319.2 L136.7,308.1 L146.0,297.4 L155.3,287.3 L164.7,277.7 L174.0,268.5 L183.3,259.8 L192.7,251.5 L202.0,243.7 L211.3,236.2 L220.7,229.0 L230.0,222.3 L239.3,215.8 L248.7,209.7 L258.0,203.8 L267.3,198.3 L276.7,193.0 L286.0,188.0 L295.3,183.2 L304.7,178.7 L314.0,174.3 L323.3,170.2 L332.7,166.3 L342.0,162.6 L351.3,159.0 L360.7,155.7 L370.0,152.5 L379.3,149.4 L388.7,146.5 L398.0,143.8 L407.3,141.2 L416.7,138.7 L426.0,136.3 L435.3,134.0 L444.7,131.9 L454.0,129.8 L463.3,127.9 L472.7,126.0 L482.0,124.3 L491.3,122.6 L500.7,121.0 L510.0,119.5 L519.3,118.1 L528.7,116.7 L538.0,115.4 L547.3,114.2 L556.7,113.0 L566.0,111.9 L575.3,110.8 L584.7,109.8 L594.0,108.8 L603.3,107.9 L612.7,107.0 L622.0,106.2 L631.3,105.4 L640.7,104.7 L650.0,103.9" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+  <line x1="90" y1="202.0" x2="261.0" y2="202.0" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <line x1="202.0" y1="202.0" x2="202.0" y2="370" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <line x1="261.0" y1="202.0" x2="261.0" y2="370" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <circle cx="202.0" cy="202.0" r="5" fill="#fed7aa" stroke="#ea580c" stroke-width="2"/>
+  <circle cx="261.0" cy="202.0" r="5" fill="#bfdbfe" stroke="#2563eb" stroke-width="2"/>
+  <g font-size="12" fill="#1f2937">
+    <text x="273.0" y="228.0">measured r = 0.30:</text>
+    <text x="273.0" y="244.0">d = 30 cM if r = d,</text>
+    <text x="273.0" y="260.0">d = 46 cM under Haldane</text>
+  </g>
+  <rect x="430" y="206" width="208" height="84" rx="8" fill="#ffffff" stroke="#cbd5e1"/>
+  <line x1="442" y1="226" x2="472" y2="226" stroke="#2563eb" stroke-width="2.5"/>
+  <text x="480" y="230" font-size="12" fill="#1f2937">Haldane: r = (1 &#8722; e&#8315;&#178;&#7496;)/2</text>
+  <line x1="442" y1="250" x2="472" y2="250" stroke="#ea580c" stroke-width="2.5"/>
+  <text x="480" y="254" font-size="12" fill="#1f2937">r = d (short intervals)</text>
+  <text x="442" y="278" font-size="12" fill="#475569">d in Morgans: 1 M = 100 cM</text>
+</svg>
