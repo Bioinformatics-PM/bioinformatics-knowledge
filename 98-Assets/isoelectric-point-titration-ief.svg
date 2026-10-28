@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 440" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker></defs>
+<rect x="1" y="1" width="778" height="438" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="390.0" y="32.0" font-size="17" fill="#1f2937" text-anchor="middle" font-weight="bold">Isoelectric point: where the net charge crosses zero, and where a protein stops in IEF</text>
+<text x="220.0" y="62.0" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="bold">(a) net charge of an invented 40-mer</text>
+<rect x="80.0" y="85.0" width="115.9" height="122.5" rx="0" fill="#fee2e2" stroke="none" stroke-width="0"/>
+<rect x="195.9" y="207.5" width="164.1" height="122.5" rx="0" fill="#dbeafe" stroke="none" stroke-width="0"/>
+<line x1="80.0" y1="330.0" x2="360.0" y2="330.0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="80.0" y1="330.0" x2="80.0" y2="85.0" stroke="#64748b" stroke-width="1.5"/>
+<line x1="80.0" y1="330.0" x2="80.0" y2="336.0" stroke="#64748b" stroke-width="1"/>
+<text x="80.0" y="350.0" font-size="12" fill="#1f2937" text-anchor="middle">0</text>
+<line x1="120.0" y1="330.0" x2="120.0" y2="336.0" stroke="#64748b" stroke-width="1"/>
+<text x="120.0" y="350.0" font-size="12" fill="#1f2937" text-anchor="middle">2</text>
+<line x1="160.0" y1="330.0" x2="160.0" y2="336.0" stroke="#64748b" stroke-width="1"/>
+<text x="160.0" y="350.0" font-size="12" fill="#1f2937" text-anchor="middle">4</text>
+<line x1="200.0" y1="330.0" x2="200.0" y2="336.0" stroke="#64748b" stroke-width="1"/>
+<text x="200.0" y="350.0" font-size="12" fill="#1f2937" text-anchor="middle">6</text>
+<line x1="240.0" y1="330.0" x2="240.0" y2="336.0" stroke="#64748b" stroke-width="1"/>
+<text x="240.0" y="350.0" font-size="12" fill="#1f2937" text-anchor="middle">8</text>
+<line x1="280.0" y1="330.0" x2="280.0" y2="336.0" stroke="#64748b" stroke-width="1"/>
+<text x="280.0" y="350.0" font-size="12" fill="#1f2937" text-anchor="middle">10</text>
+<line x1="320.0" y1="330.0" x2="320.0" y2="336.0" stroke="#64748b" stroke-width="1"/>
+<text x="320.0" y="350.0" font-size="12" fill="#1f2937" text-anchor="middle">12</text>
+<line x1="360.0" y1="330.0" x2="360.0" y2="336.0" stroke="#64748b" stroke-width="1"/>
+<text x="360.0" y="350.0" font-size="12" fill="#1f2937" text-anchor="middle">14</text>
+<line x1="74.0" y1="312.5" x2="80.0" y2="312.5" stroke="#64748b" stroke-width="1"/>
+<text x="70.0" y="316.5" font-size="12" fill="#1f2937" text-anchor="end">−12</text>
+<line x1="74.0" y1="277.5" x2="80.0" y2="277.5" stroke="#64748b" stroke-width="1"/>
+<text x="70.0" y="281.5" font-size="12" fill="#1f2937" text-anchor="end">−8</text>
+<line x1="74.0" y1="242.5" x2="80.0" y2="242.5" stroke="#64748b" stroke-width="1"/>
+<text x="70.0" y="246.5" font-size="12" fill="#1f2937" text-anchor="end">−4</text>
+<line x1="74.0" y1="207.5" x2="80.0" y2="207.5" stroke="#64748b" stroke-width="1"/>
+<text x="70.0" y="211.5" font-size="12" fill="#1f2937" text-anchor="end">0</text>
+<line x1="74.0" y1="172.5" x2="80.0" y2="172.5" stroke="#64748b" stroke-width="1"/>
+<text x="70.0" y="176.5" font-size="12" fill="#1f2937" text-anchor="end">+4</text>
+<line x1="74.0" y1="137.5" x2="80.0" y2="137.5" stroke="#64748b" stroke-width="1"/>
+<text x="70.0" y="141.5" font-size="12" fill="#1f2937" text-anchor="end">+8</text>
+<line x1="74.0" y1="102.5" x2="80.0" y2="102.5" stroke="#64748b" stroke-width="1"/>
+<text x="70.0" y="106.5" font-size="12" fill="#1f2937" text-anchor="end">+12</text>
+<line x1="80.0" y1="207.5" x2="360.0" y2="207.5" stroke="#64748b" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="220.0" y="370.0" font-size="13" fill="#1f2937" text-anchor="middle">pH</text>
+<text x="34.0" y="210.0" font-size="13" fill="#1f2937" text-anchor="middle" transform="rotate(-90 34.0 210.0)">net charge</text>
+<path d="M80.0,120.0 L81.0,120.0 L82.0,120.0 L83.0,120.0 L84.0,120.0 L85.0,120.0 L86.0,120.0 L87.0,120.0 L88.0,120.0 L89.0,120.0 L90.0,120.0 L91.0,120.0 L92.0,120.0 L93.0,120.1 L94.0,120.1 L95.0,120.1 L96.0,120.1 L97.0,120.1 L98.0,120.1 L99.0,120.1 L100.0,120.1 L101.0,120.1 L102.0,120.2 L103.0,120.2 L104.0,120.2 L105.0,120.2 L106.0,120.2 L107.0,120.3 L108.0,120.3 L109.0,120.3 L110.0,120.4 L111.0,120.4 L112.0,120.5 L113.0,120.5 L114.0,120.6 L115.0,120.7 L116.0,120.8 L117.0,120.9 L118.0,121.0 L119.0,121.1 L120.0,121.2 L121.0,121.3 L122.0,121.5 L123.0,121.7 L124.0,121.9 L125.0,122.1 L126.0,122.3 L127.0,122.6 L128.0,122.8 L129.0,123.1 L130.0,123.5 L131.0,123.9 L132.0,124.3 L133.0,124.7 L134.0,125.2 L135.0,125.7 L136.0,126.3 L137.0,126.9 L138.0,127.6 L139.0,128.3 L140.0,129.1 L141.0,129.9 L142.0,130.8 L143.0,131.7 L144.0,132.7 L145.0,133.8 L146.0,135.0 L147.0,136.2 L148.0,137.5 L149.0,138.9 L150.0,140.4 L151.0,141.9 L152.0,143.6 L153.0,145.3 L154.0,147.1 L155.0,148.9 L156.0,150.8 L157.0,152.8 L158.0,154.8 L159.0,156.9 L160.0,159.0 L161.0,161.1 L162.0,163.3 L163.0,165.4 L164.0,167.5 L165.0,169.6 L166.0,171.7 L167.0,173.7 L168.0,175.6 L169.0,177.5 L170.0,179.3 L171.0,181.0 L172.0,182.7 L173.0,184.2 L174.0,185.7 L175.0,187.2 L176.0,188.5 L177.0,189.8 L178.0,191.0 L179.0,192.1 L180.0,193.2 L181.0,194.3 L182.0,195.3 L183.0,196.2 L184.0,197.1 L185.0,198.0 L186.0,198.9 L187.0,199.8 L188.0,200.7 L189.0,201.5 L190.0,202.4 L191.0,203.2 L192.0,204.1 L193.0,205.0 L194.0,205.8 L195.0,206.7 L196.0,207.6 L197.0,208.5 L198.0,209.4 L199.0,210.2 L200.0,211.1 L201.0,212.0 L202.0,212.8 L203.0,213.7 L204.0,214.5 L205.0,215.3 L206.0,216.1 L207.0,216.8 L208.0,217.5 L209.0,218.2 L210.0,218.8 L211.0,219.4 L212.0,220.0 L213.0,220.6 L214.0,221.1 L215.0,221.6 L216.0,222.1 L217.0,222.5 L218.0,222.9 L219.0,223.3 L220.0,223.7 L221.0,224.1 L222.0,224.5 L223.0,224.9 L224.0,225.2 L225.0,225.6 L226.0,226.0 L227.0,226.3 L228.0,226.7 L229.0,227.1 L230.0,227.5 L231.0,227.9 L232.0,228.3 L233.0,228.7 L234.0,229.2 L235.0,229.6 L236.0,230.1 L237.0,230.6 L238.0,231.1 L239.0,231.6 L240.0,232.1 L241.0,232.6 L242.0,233.1 L243.0,233.7 L244.0,234.2 L245.0,234.7 L246.0,235.2 L247.0,235.7 L248.0,236.2 L249.0,236.7 L250.0,237.2 L251.0,237.6 L252.0,238.1 L253.0,238.5 L254.0,238.9 L255.0,239.3 L256.0,239.6 L257.0,240.0 L258.0,240.3 L259.0,240.7 L260.0,241.0 L261.0,241.3 L262.0,241.6 L263.0,241.9 L264.0,242.2 L265.0,242.5 L266.0,242.8 L267.0,243.1 L268.0,243.4 L269.0,243.7 L270.0,244.1 L271.0,244.4 L272.0,244.8 L273.0,245.2 L274.0,245.6 L275.0,246.1 L276.0,246.6 L277.0,247.1 L278.0,247.7 L279.0,248.4 L280.0,249.0 L281.0,249.8 L282.0,250.6 L283.0,251.4 L284.0,252.4 L285.0,253.3 L286.0,254.4 L287.0,255.5 L288.0,256.7 L289.0,258.0 L290.0,259.3 L291.0,260.6 L292.0,262.0 L293.0,263.5 L294.0,265.0 L295.0,266.5 L296.0,268.0 L297.0,269.6 L298.0,271.2 L299.0,272.7 L300.0,274.2 L301.0,275.7 L302.0,277.2 L303.0,278.6 L304.0,280.0 L305.0,281.3 L306.0,282.6 L307.0,283.9 L308.0,285.0 L309.0,286.2 L310.0,287.2 L311.0,288.3 L312.0,289.3 L313.0,290.2 L314.0,291.1 L315.0,291.9 L316.0,292.8 L317.0,293.6 L318.0,294.3 L319.0,295.1 L320.0,295.8 L321.0,296.6 L322.0,297.3 L323.0,298.0 L324.0,298.7 L325.0,299.3 L326.0,300.0 L327.0,300.7 L328.0,301.4 L329.0,302.0 L330.0,302.6 L331.0,303.3 L332.0,303.9 L333.0,304.5 L334.0,305.0 L335.0,305.6 L336.0,306.1 L337.0,306.6 L338.0,307.1 L339.0,307.5 L340.0,307.9 L341.0,308.3 L342.0,308.7 L343.0,309.0 L344.0,309.4 L345.0,309.7 L346.0,309.9 L347.0,310.2 L348.0,310.4 L349.0,310.6 L350.0,310.8 L351.0,311.0 L352.0,311.1 L353.0,311.3 L354.0,311.4 L355.0,311.5 L356.0,311.6 L357.0,311.7 L358.0,311.8 L359.0,311.9 L360.0,311.9" fill="none" stroke="#7c3aed" stroke-width="2.5"/>
+<circle cx="195.9" cy="207.5" r="5" fill="#ffffff" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="203.9" y="197.5" font-size="12" fill="#1f2937" font-weight="bold">pI = 5.79</text>
+<text x="88.0" y="177.8" font-size="12" fill="#991b1b">positive</text>
+<text x="88.0" y="197.0" font-size="12" fill="#991b1b">→ cathode</text>
+<text x="260.0" y="218.0" font-size="12" fill="#1e40af">negative</text>
+<text x="260.0" y="233.8" font-size="12" fill="#1e40af">→ anode</text>
+<text x="595.0" y="62.0" font-size="14" fill="#1f2937" text-anchor="middle" font-weight="bold">(b) isoelectric focusing</text>
+<rect x="450.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#fee2e2" stroke="none" stroke-width="0"/>
+<rect x="454.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#fde2e2" stroke="none" stroke-width="0"/>
+<rect x="458.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#fce2e2" stroke="none" stroke-width="0"/>
+<rect x="462.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#fce2e3" stroke="none" stroke-width="0"/>
+<rect x="466.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#fbe2e3" stroke="none" stroke-width="0"/>
+<rect x="470.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#fbe2e4" stroke="none" stroke-width="0"/>
+<rect x="474.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#fae2e4" stroke="none" stroke-width="0"/>
+<rect x="479.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#fae2e4" stroke="none" stroke-width="0"/>
+<rect x="483.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#f9e2e5" stroke="none" stroke-width="0"/>
+<rect x="487.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#f9e3e5" stroke="none" stroke-width="0"/>
+<rect x="491.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#f8e3e6" stroke="none" stroke-width="0"/>
+<rect x="495.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#f8e3e6" stroke="none" stroke-width="0"/>
+<rect x="499.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#f7e3e6" stroke="none" stroke-width="0"/>
+<rect x="503.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#f7e3e7" stroke="none" stroke-width="0"/>
+<rect x="508.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#f6e3e7" stroke="none" stroke-width="0"/>
+<rect x="512.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#f6e3e8" stroke="none" stroke-width="0"/>
+<rect x="516.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#f5e3e8" stroke="none" stroke-width="0"/>
+<rect x="520.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#f5e3e8" stroke="none" stroke-width="0"/>
+<rect x="524.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#f4e4e9" stroke="none" stroke-width="0"/>
+<rect x="528.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#f4e4e9" stroke="none" stroke-width="0"/>
+<rect x="532.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#f3e4ea" stroke="none" stroke-width="0"/>
+<rect x="537.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#f3e4ea" stroke="none" stroke-width="0"/>
+<rect x="541.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#f2e4ea" stroke="none" stroke-width="0"/>
+<rect x="545.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#f2e4eb" stroke="none" stroke-width="0"/>
+<rect x="549.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#f1e4eb" stroke="none" stroke-width="0"/>
+<rect x="553.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#f1e4ec" stroke="none" stroke-width="0"/>
+<rect x="557.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#f0e5ec" stroke="none" stroke-width="0"/>
+<rect x="561.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#f0e5ec" stroke="none" stroke-width="0"/>
+<rect x="566.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#efe5ed" stroke="none" stroke-width="0"/>
+<rect x="570.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#efe5ed" stroke="none" stroke-width="0"/>
+<rect x="574.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#eee5ee" stroke="none" stroke-width="0"/>
+<rect x="578.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#eee5ee" stroke="none" stroke-width="0"/>
+<rect x="582.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#ede5ee" stroke="none" stroke-width="0"/>
+<rect x="586.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#ede5ef" stroke="none" stroke-width="0"/>
+<rect x="590.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#ece5ef" stroke="none" stroke-width="0"/>
+<rect x="595.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#ece6f0" stroke="none" stroke-width="0"/>
+<rect x="599.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#ebe6f0" stroke="none" stroke-width="0"/>
+<rect x="603.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#ebe6f1" stroke="none" stroke-width="0"/>
+<rect x="607.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#eae6f1" stroke="none" stroke-width="0"/>
+<rect x="611.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#eae6f1" stroke="none" stroke-width="0"/>
+<rect x="615.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#e9e6f2" stroke="none" stroke-width="0"/>
+<rect x="619.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#e9e6f2" stroke="none" stroke-width="0"/>
+<rect x="624.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#e8e6f3" stroke="none" stroke-width="0"/>
+<rect x="628.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#e8e6f3" stroke="none" stroke-width="0"/>
+<rect x="632.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#e7e7f3" stroke="none" stroke-width="0"/>
+<rect x="636.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#e7e7f4" stroke="none" stroke-width="0"/>
+<rect x="640.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#e6e7f4" stroke="none" stroke-width="0"/>
+<rect x="644.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#e6e7f5" stroke="none" stroke-width="0"/>
+<rect x="648.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#e5e7f5" stroke="none" stroke-width="0"/>
+<rect x="653.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#e5e7f5" stroke="none" stroke-width="0"/>
+<rect x="657.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#e4e7f6" stroke="none" stroke-width="0"/>
+<rect x="661.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#e4e7f6" stroke="none" stroke-width="0"/>
+<rect x="665.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#e3e8f7" stroke="none" stroke-width="0"/>
+<rect x="669.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#e3e8f7" stroke="none" stroke-width="0"/>
+<rect x="673.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#e2e8f7" stroke="none" stroke-width="0"/>
+<rect x="677.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#e2e8f8" stroke="none" stroke-width="0"/>
+<rect x="682.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#e1e8f8" stroke="none" stroke-width="0"/>
+<rect x="686.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#e1e8f9" stroke="none" stroke-width="0"/>
+<rect x="690.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#e0e8f9" stroke="none" stroke-width="0"/>
+<rect x="694.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#e0e8f9" stroke="none" stroke-width="0"/>
+<rect x="698.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#dfe8fa" stroke="none" stroke-width="0"/>
+<rect x="702.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#dfe9fa" stroke="none" stroke-width="0"/>
+<rect x="706.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#dee9fb" stroke="none" stroke-width="0"/>
+<rect x="711.0" y="178.0" width="4.7" height="44.0" rx="0" fill="#dee9fb" stroke="none" stroke-width="0"/>
+<rect x="715.1" y="178.0" width="4.7" height="44.0" rx="0" fill="#dde9fb" stroke="none" stroke-width="0"/>
+<rect x="719.3" y="178.0" width="4.7" height="44.0" rx="0" fill="#dde9fc" stroke="none" stroke-width="0"/>
+<rect x="723.4" y="178.0" width="4.7" height="44.0" rx="0" fill="#dce9fc" stroke="none" stroke-width="0"/>
+<rect x="727.6" y="178.0" width="4.7" height="44.0" rx="0" fill="#dce9fd" stroke="none" stroke-width="0"/>
+<rect x="731.7" y="178.0" width="4.7" height="44.0" rx="0" fill="#dbe9fd" stroke="none" stroke-width="0"/>
+<rect x="735.9" y="178.0" width="4.7" height="44.0" rx="0" fill="#dbeafe" stroke="none" stroke-width="0"/>
+<rect x="450" y="178" width="290" height="44" fill="none" stroke="#64748b" stroke-width="1.5"/>
+<line x1="450.0" y1="222.0" x2="450.0" y2="228.0" stroke="#64748b" stroke-width="1"/>
+<text x="450.0" y="242.0" font-size="12" fill="#1f2937" text-anchor="middle">3</text>
+<line x1="491.4" y1="222.0" x2="491.4" y2="228.0" stroke="#64748b" stroke-width="1"/>
+<text x="491.4" y="242.0" font-size="12" fill="#1f2937" text-anchor="middle">4</text>
+<line x1="532.9" y1="222.0" x2="532.9" y2="228.0" stroke="#64748b" stroke-width="1"/>
+<text x="532.9" y="242.0" font-size="12" fill="#1f2937" text-anchor="middle">5</text>
+<line x1="574.3" y1="222.0" x2="574.3" y2="228.0" stroke="#64748b" stroke-width="1"/>
+<text x="574.3" y="242.0" font-size="12" fill="#1f2937" text-anchor="middle">6</text>
+<line x1="615.7" y1="222.0" x2="615.7" y2="228.0" stroke="#64748b" stroke-width="1"/>
+<text x="615.7" y="242.0" font-size="12" fill="#1f2937" text-anchor="middle">7</text>
+<line x1="657.1" y1="222.0" x2="657.1" y2="228.0" stroke="#64748b" stroke-width="1"/>
+<text x="657.1" y="242.0" font-size="12" fill="#1f2937" text-anchor="middle">8</text>
+<line x1="698.6" y1="222.0" x2="698.6" y2="228.0" stroke="#64748b" stroke-width="1"/>
+<text x="698.6" y="242.0" font-size="12" fill="#1f2937" text-anchor="middle">9</text>
+<line x1="740.0" y1="222.0" x2="740.0" y2="228.0" stroke="#64748b" stroke-width="1"/>
+<text x="740.0" y="242.0" font-size="12" fill="#1f2937" text-anchor="middle">10</text>
+<text x="595.0" y="262.0" font-size="13" fill="#1f2937" text-anchor="middle">pH gradient</text>
+<text x="444.0" y="206.0" font-size="20" fill="#b91c1c" text-anchor="end" font-weight="bold">+</text>
+<text x="746.0" y="206.0" font-size="20" fill="#1d4ed8" font-weight="bold">−</text>
+<text x="450.0" y="160.0" font-size="12" fill="#b91c1c">anode (acidic end)</text>
+<text x="740.0" y="160.0" font-size="12" fill="#1d4ed8" text-anchor="end">cathode (basic end)</text>
+<rect x="512.3" y="182.0" width="8.0" height="36.0" rx="2" fill="#d97706" stroke="#d97706" stroke-width="1.2"/>
+<text x="516.3" y="310.0" font-size="12" fill="#d97706" text-anchor="middle">A: pI 4.6</text>
+<line x1="516.3" y1="296.0" x2="516.3" y2="230.0" stroke="#d97706" stroke-width="1" stroke-dasharray="2 2"/>
+<rect x="561.8" y="182.0" width="8.0" height="36.0" rx="2" fill="#7c3aed" stroke="#7c3aed" stroke-width="1.2"/>
+<text x="565.8" y="290.0" font-size="12" fill="#7c3aed" text-anchor="middle">toy: pI 5.8</text>
+<line x1="565.8" y1="276.0" x2="565.8" y2="230.0" stroke="#7c3aed" stroke-width="1" stroke-dasharray="2 2"/>
+<rect x="702.9" y="182.0" width="8.0" height="36.0" rx="2" fill="#0f766e" stroke="#0f766e" stroke-width="1.2"/>
+<text x="706.9" y="310.0" font-size="12" fill="#0f766e" text-anchor="middle">B: pI 9.2</text>
+<line x1="706.9" y1="296.0" x2="706.9" y2="230.0" stroke="#0f766e" stroke-width="1" stroke-dasharray="2 2"/>
+<text x="595.0" y="345.0" font-size="12" fill="#1f2937" text-anchor="middle">loaded anywhere, each protein migrates until pH = pI,</text>
+<text x="595.0" y="363.0" font-size="12" fill="#1f2937" text-anchor="middle">where its net charge, and so its drift, vanishes</text>
+<text x="390.0" y="422.0" font-size="12" fill="#475569" text-anchor="middle">Charge from the Berg pKa set of the Amino Acid note; proteins A and B are invented for illustration.</text>
+</svg>
