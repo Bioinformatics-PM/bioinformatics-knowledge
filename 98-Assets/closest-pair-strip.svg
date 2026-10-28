@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="470" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="24" y="36" font-size="18" font-weight="bold" text-anchor="start" fill="#1f2937" >Closest pair of points: the combine step</text>
+<rect x="30" y="60" width="420" height="385" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="160" y="60" width="160" height="385" fill="#fde68a" fill-opacity="0.45"/>
+<rect x="160" y="250" width="160" height="80" fill="#bfdbfe" fill-opacity="0.75" stroke="#2563eb" stroke-width="2"/>
+<path d="M200 250V330M280 250V330M160 290H320" stroke="#2563eb" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="240" y1="60" x2="240" y2="445" stroke="#64748b" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="246" y="80" font-size="16" font-weight="bold" text-anchor="start" fill="#1f2937" >ℓ</text>
+<line x1="70" y1="110" x2="150" y2="110" stroke="#2563eb" stroke-width="1.5"/>
+<text x="110" y="100" font-size="13" font-weight="normal" text-anchor="middle" fill="#1f2937" >δ = δL</text>
+<line x1="152" y1="250" x2="152" y2="330" stroke="#1f2937" stroke-width="1"/>
+<text x="146" y="295" font-size="13" font-weight="normal" text-anchor="end" fill="#1f2937" >δ</text>
+<text x="326" y="270" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >δ × 2δ box</text>
+<text x="326" y="286" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >above p</text>
+<text x="240" y="462" font-size="13" font-weight="normal" text-anchor="middle" fill="#1f2937" >strip |x − ℓ| &lt; δ</text>
+<line x1="205" y1="330" x2="250" y2="318" stroke="#16a34a" stroke-width="3"/>
+<circle cx="70" cy="110" r="6" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<circle cx="150" cy="110" r="6" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<circle cx="90" cy="225" r="6" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<circle cx="95" cy="320" r="6" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<circle cx="55" cy="405" r="6" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<circle cx="215" cy="175" r="6" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<circle cx="166" cy="256" r="6" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<circle cx="205" cy="330" r="6" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<circle cx="250" cy="318" r="6" fill="#fb923c" stroke="#9a3412" stroke-width="1"/>
+<circle cx="316" cy="254" r="6" fill="#fb923c" stroke="#9a3412" stroke-width="1"/>
+<circle cx="290" cy="400" r="6" fill="#fb923c" stroke="#9a3412" stroke-width="1"/>
+<circle cx="270" cy="150" r="6" fill="#fb923c" stroke="#9a3412" stroke-width="1"/>
+<circle cx="350" cy="140" r="6" fill="#fb923c" stroke="#9a3412" stroke-width="1"/>
+<circle cx="415" cy="205" r="6" fill="#fb923c" stroke="#9a3412" stroke-width="1"/>
+<circle cx="380" cy="370" r="6" fill="#fb923c" stroke="#9a3412" stroke-width="1"/>
+<circle cx="430" cy="90" r="6" fill="#fb923c" stroke="#9a3412" stroke-width="1"/>
+<text x="197" y="350" font-size="14" font-weight="bold" text-anchor="middle" fill="#1f2937" >p</text>
+<text x="260" y="340" font-size="14" font-weight="bold" text-anchor="middle" fill="#1f2937" >q</text>
+<text x="475" y="86" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >1. Sort by x; split at the median line ℓ.</text>
+<text x="475" y="109" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >2. Recurse on each half: δ = min(δL, δR).</text>
+<text x="475" y="132" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >3. A closer pair crosses ℓ and lies in</text>
+<text x="475" y="155" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >    the strip |x − ℓ| &lt; δ (yellow).</text>
+<text x="475" y="178" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >4. Scan the strip in y order. The points</text>
+<text x="475" y="201" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >    above p within δ lie in the box (blue).</text>
+<text x="475" y="224" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >5. Each δ × δ half of the box holds at</text>
+<text x="475" y="247" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >    most 4 points of its side, one per</text>
+<text x="475" y="270" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >    δ/2 cell: p is compared with at most</text>
+<text x="475" y="293" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >    7 successors in the strip.</text>
+<text x="475" y="316" font-size="13" font-weight="bold" text-anchor="start" fill="#1f2937" >Combine in O(n): T(n) = 2T(n/2) + O(n)</text>
+<text x="475" y="339" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >    = O(n log n).</text>
+<circle cx="485" cy="378" r="6" fill="#3b82f6" stroke="#1e3a8a"/>
+<text x="498" y="383" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >left half (x ≤ ℓ)</text>
+<circle cx="485" cy="403" r="6" fill="#fb923c" stroke="#9a3412"/>
+<text x="498" y="408" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >right half (x ≥ ℓ)</text>
+<line x1="476" y1="428" x2="494" y2="428" stroke="#16a34a" stroke-width="3"/>
+<text x="498" y="433" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >closest pair, found in the strip</text>
+</svg>

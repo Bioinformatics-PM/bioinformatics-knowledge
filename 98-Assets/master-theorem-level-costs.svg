@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="420" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="24" y="36" font-size="18" font-weight="bold" text-anchor="start" fill="#1f2937" >Master theorem: where the work of the recursion tree sits (n = 64)</text>
+<rect x="20" y="56" width="240" height="318" rx="10" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="32" y="80" font-size="14" font-weight="bold" text-anchor="start" fill="#1f2937" >T(n) = 4T(n/2) + n</text>
+<text x="32" y="99" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >case 1: the leaves dominate</text>
+<text x="32" y="132" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 0</text>
+<rect x="82" y="119" width="2.2" height="18" fill="#fca5a5" stroke="#b91c1c" stroke-width="1"/>
+<text x="90.1875" y="132" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >64</text>
+<text x="32" y="162" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 1</text>
+<rect x="82" y="149" width="4.4" height="18" fill="#fca5a5" stroke="#b91c1c" stroke-width="1"/>
+<text x="92.375" y="162" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >128</text>
+<text x="32" y="192" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 2</text>
+<rect x="82" y="179" width="8.8" height="18" fill="#fca5a5" stroke="#b91c1c" stroke-width="1"/>
+<text x="96.75" y="192" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >256</text>
+<text x="32" y="222" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 3</text>
+<rect x="82" y="209" width="17.5" height="18" fill="#fca5a5" stroke="#b91c1c" stroke-width="1"/>
+<text x="105.5" y="222" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >512</text>
+<text x="32" y="252" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 4</text>
+<rect x="82" y="239" width="35.0" height="18" fill="#fca5a5" stroke="#b91c1c" stroke-width="1"/>
+<text x="123.0" y="252" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >1024</text>
+<text x="32" y="282" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 5</text>
+<rect x="82" y="269" width="70.0" height="18" fill="#fca5a5" stroke="#b91c1c" stroke-width="1"/>
+<text x="158.0" y="282" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >2048</text>
+<text x="32" y="312" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >leaves</text>
+<rect x="82" y="299" width="140.0" height="18" fill="#fca5a5" stroke="#b91c1c" stroke-width="1"/>
+<text x="228.0" y="312" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >4096</text>
+<text x="32" y="352" font-size="13" font-weight="bold" text-anchor="start" fill="#1f2937" >total 8128 → Θ(n²)</text>
+<rect x="272" y="56" width="240" height="318" rx="10" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="284" y="80" font-size="14" font-weight="bold" text-anchor="start" fill="#1f2937" >T(n) = 2T(n/2) + n</text>
+<text x="284" y="99" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >case 2: every level costs n</text>
+<text x="284" y="132" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 0</text>
+<rect x="334" y="119" width="140.0" height="18" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1"/>
+<text x="480.0" y="132" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >64</text>
+<text x="284" y="162" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 1</text>
+<rect x="334" y="149" width="140.0" height="18" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1"/>
+<text x="480.0" y="162" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >64</text>
+<text x="284" y="192" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 2</text>
+<rect x="334" y="179" width="140.0" height="18" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1"/>
+<text x="480.0" y="192" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >64</text>
+<text x="284" y="222" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 3</text>
+<rect x="334" y="209" width="140.0" height="18" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1"/>
+<text x="480.0" y="222" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >64</text>
+<text x="284" y="252" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 4</text>
+<rect x="334" y="239" width="140.0" height="18" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1"/>
+<text x="480.0" y="252" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >64</text>
+<text x="284" y="282" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 5</text>
+<rect x="334" y="269" width="140.0" height="18" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1"/>
+<text x="480.0" y="282" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >64</text>
+<text x="284" y="312" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >leaves</text>
+<rect x="334" y="299" width="140.0" height="18" fill="#93c5fd" stroke="#1d4ed8" stroke-width="1"/>
+<text x="480.0" y="312" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >64</text>
+<text x="284" y="352" font-size="13" font-weight="bold" text-anchor="start" fill="#1f2937" >total 448 → Θ(n log n)</text>
+<rect x="524" y="56" width="240" height="318" rx="10" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="536" y="80" font-size="14" font-weight="bold" text-anchor="start" fill="#1f2937" >T(n) = 2T(n/2) + n²</text>
+<text x="536" y="99" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >case 3: the root dominates</text>
+<text x="536" y="132" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 0</text>
+<rect x="586" y="119" width="140.0" height="18" fill="#86efac" stroke="#15803d" stroke-width="1"/>
+<text x="732.0" y="132" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >4096</text>
+<text x="536" y="162" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 1</text>
+<rect x="586" y="149" width="70.0" height="18" fill="#86efac" stroke="#15803d" stroke-width="1"/>
+<text x="662.0" y="162" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >2048</text>
+<text x="536" y="192" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 2</text>
+<rect x="586" y="179" width="35.0" height="18" fill="#86efac" stroke="#15803d" stroke-width="1"/>
+<text x="627.0" y="192" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >1024</text>
+<text x="536" y="222" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 3</text>
+<rect x="586" y="209" width="17.5" height="18" fill="#86efac" stroke="#15803d" stroke-width="1"/>
+<text x="609.5" y="222" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >512</text>
+<text x="536" y="252" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 4</text>
+<rect x="586" y="239" width="8.8" height="18" fill="#86efac" stroke="#15803d" stroke-width="1"/>
+<text x="600.75" y="252" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >256</text>
+<text x="536" y="282" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >level 5</text>
+<rect x="586" y="269" width="4.4" height="18" fill="#86efac" stroke="#15803d" stroke-width="1"/>
+<text x="596.375" y="282" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >128</text>
+<text x="536" y="312" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >leaves</text>
+<rect x="586" y="299" width="2.2" height="18" fill="#86efac" stroke="#15803d" stroke-width="1"/>
+<text x="594.1875" y="312" font-size="12" font-weight="normal" text-anchor="start" fill="#1f2937" >64</text>
+<text x="536" y="352" font-size="13" font-weight="bold" text-anchor="start" fill="#1f2937" >total 8128 → Θ(n²)</text>
+<text x="24" y="396" font-size="13" font-weight="normal" text-anchor="start" fill="#1f2937" >Level j holds a^j subproblems of size n/b^j and costs a^j·f(n/b^j); the a^(log_b n) = n^(log_b a) leaves cost T(1) each.</text>
+</svg>
