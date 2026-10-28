@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480" font-family="Helvetica, Arial, sans-serif">
+  <title>Backbone hydrogen-bond patterns of the alpha helix, beta turn and beta sheets</title>
+  <rect x="2" y="2" width="796" height="476" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#1f2937">Backbone hydrogen-bond patterns of secondary structure</text>
+
+  <!-- Panel A: alpha helix, chain unrolled -->
+  <rect x="15" y="48" width="515" height="185" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text x="30" y="70" font-size="15" font-weight="bold" fill="#1f2937">α helix (chain drawn unrolled)</text>
+  <text x="30" y="92" font-size="13" fill="#1f2937">C=O of residue i ··· H–N of residue i + 4</text>
+  <text x="30" y="111" font-size="13" fill="#1f2937">3₁₀ helix: i → i + 3 · π helix: i → i + 5</text>
+  <g fill="none" stroke="#db2777" stroke-width="2" stroke-dasharray="5 3">
+    <path d="M 50 177 Q 150 95 250 177"/>
+    <path d="M 100 177 Q 200 120 300 177"/>
+    <path d="M 150 177 Q 250 95 350 177"/>
+    <path d="M 200 177 Q 300 120 400 177"/>
+    <path d="M 250 177 Q 350 95 450 177"/>
+    <path d="M 300 177 Q 400 120 500 177"/>
+  </g>
+  <line x1="50" y1="191" x2="500" y2="191" stroke="#1e40af" stroke-width="3"/>
+  <g fill="#bfdbfe" stroke="#1e40af" stroke-width="1.5">
+    <circle cx="50" cy="191" r="13"/><circle cx="100" cy="191" r="13"/><circle cx="150" cy="191" r="13"/>
+    <circle cx="200" cy="191" r="13"/><circle cx="250" cy="191" r="13"/><circle cx="300" cy="191" r="13"/>
+    <circle cx="350" cy="191" r="13"/><circle cx="400" cy="191" r="13"/><circle cx="450" cy="191" r="13"/>
+    <circle cx="500" cy="191" r="13"/>
+  </g>
+  <g font-size="13" font-weight="bold" text-anchor="middle" fill="#1f2937">
+    <text x="50" y="196">1</text><text x="100" y="196">2</text><text x="150" y="196">3</text><text x="200" y="196">4</text>
+    <text x="250" y="196">5</text><text x="300" y="196">6</text><text x="350" y="196">7</text><text x="400" y="196">8</text>
+    <text x="450" y="196">9</text><text x="500" y="196">10</text>
+  </g>
+  <text x="30" y="223" font-size="13" fill="#1f2937">3.6 residues per turn, 1.5 Å rise per residue, right-handed</text>
+
+  <!-- Panel B: beta turn -->
+  <rect x="540" y="48" width="245" height="185" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <text x="555" y="70" font-size="15" font-weight="bold" fill="#1f2937">β turn</text>
+  <polyline points="560,215 600,185 625,115 700,115 725,185 765,215" fill="none" stroke="#92400e" stroke-width="3"/>
+  <line x1="613" y1="185" x2="712" y2="185" stroke="#db2777" stroke-width="2" stroke-dasharray="5 3"/>
+  <g fill="#fde68a" stroke="#92400e" stroke-width="1.5">
+    <circle cx="600" cy="185" r="13"/><circle cx="625" cy="115" r="13"/><circle cx="700" cy="115" r="13"/><circle cx="725" cy="185" r="13"/>
+  </g>
+  <g font-size="13" font-weight="bold" text-anchor="middle" fill="#1f2937">
+    <text x="600" y="190">i</text><text x="625" y="96">i+1</text><text x="700" y="96">i+2</text><text x="725" y="190">i+3</text>
+  </g>
+  <text x="662" y="208" font-size="12" text-anchor="middle" fill="#1f2937">C=O(i) ··· H–N(i+3)</text>
+  <text x="662" y="148" font-size="12" text-anchor="middle" fill="#1f2937">chain reverses</text>
+
+  <!-- Panel C: antiparallel sheet -->
+  <rect x="15" y="243" width="380" height="200" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="30" y="265" font-size="15" font-weight="bold" fill="#1f2937">Antiparallel β sheet</text>
+  <g fill="#86efac" stroke="#166534" stroke-width="1">
+    <polygon points="38,300 360,300 360,292 378,310 360,328 360,320 38,320"/>
+    <polygon points="372,390 50,390 50,382 32,400 50,418 50,410 372,410"/>
+  </g>
+  <g fill="none" stroke="#db2777" stroke-width="2" stroke-dasharray="5 3">
+    <line x1="58" y1="322" x2="58" y2="380"/><line x1="68" y1="322" x2="68" y2="380"/>
+    <line x1="134" y1="322" x2="134" y2="380"/><line x1="144" y1="322" x2="144" y2="380"/>
+    <line x1="210" y1="322" x2="210" y2="380"/><line x1="220" y1="322" x2="220" y2="380"/>
+    <line x1="286" y1="322" x2="286" y2="380"/><line x1="296" y1="322" x2="296" y2="380"/>
+  </g>
+  <g font-size="13" font-weight="bold" fill="#1f2937">
+    <text x="22" y="315">N</text><text x="382" y="315">C</text>
+    <text x="380" y="405">N</text><text x="19" y="405">C</text>
+  </g>
+  <text x="205" y="436" font-size="12" text-anchor="middle" fill="#1f2937">facing pairs, 2 bonds per pair, every second residue</text>
+
+  <!-- Panel D: parallel sheet -->
+  <rect x="405" y="243" width="380" height="200" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="420" y="265" font-size="15" font-weight="bold" fill="#1f2937">Parallel β sheet</text>
+  <g fill="#86efac" stroke="#166534" stroke-width="1">
+    <polygon points="428,300 750,300 750,292 768,310 750,328 750,320 428,320"/>
+    <polygon points="428,390 750,390 750,382 768,400 750,418 750,410 428,410"/>
+  </g>
+  <g fill="#1f2937" font-size="12" text-anchor="middle">
+    <text x="463" y="314">i−1</text><text x="501" y="314">i</text><text x="539" y="314">i+1</text>
+    <text x="463" y="404">j−1</text><text x="501" y="404">j</text><text x="539" y="404">j+1</text>
+  </g>
+  <g fill="none" stroke="#db2777" stroke-width="2" stroke-dasharray="5 3">
+    <line x1="501" y1="322" x2="463" y2="380"/><line x1="501" y1="322" x2="539" y2="380"/>
+    <line x1="577" y1="322" x2="539" y2="380"/><line x1="577" y1="322" x2="615" y2="380"/>
+    <line x1="653" y1="322" x2="615" y2="380"/><line x1="653" y1="322" x2="691" y2="380"/>
+  </g>
+  <g font-size="13" font-weight="bold" fill="#1f2937">
+    <text x="412" y="315">N</text><text x="771" y="315">C</text>
+    <text x="412" y="405">N</text><text x="771" y="405">C</text>
+  </g>
+  <text x="595" y="436" font-size="12" text-anchor="middle" fill="#1f2937">residue i bonds to j − 1 (its N–H) and j + 1 (its C=O)</text>
+
+  <text x="400" y="466" text-anchor="middle" font-size="13" fill="#1f2937">Dashed: backbone C=O ··· H–N hydrogen bonds. Strand arrows point N → C, about 3.5 Å per residue.</text>
+</svg>

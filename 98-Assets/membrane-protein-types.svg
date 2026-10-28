@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" width="800" height="470" font-family="Helvetica, Arial, sans-serif">
+  <title>How membrane proteins associate with the lipid bilayer</title>
+  <rect x="2" y="2" width="796" height="466" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="400" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#1f2937">Membrane proteins: integral, lipid-anchored and peripheral</text>
+  <text x="20" y="62" font-size="13" font-weight="bold" fill="#1f2937">outside (extracellular space or organelle lumen)</text>
+  <text x="20" y="335" font-size="13" font-weight="bold" fill="#1f2937">cytosol</text>
+
+  <!-- bilayer -->
+  <rect x="14" y="187" width="772" height="86" fill="#fef3c7"/>
+  <g fill="#fdba74" stroke="#9a3412" stroke-width="1"><circle cx="20" cy="181" r="6"/><circle cx="35" cy="181" r="6"/><circle cx="50" cy="181" r="6"/><circle cx="65" cy="181" r="6"/><circle cx="80" cy="181" r="6"/><circle cx="95" cy="181" r="6"/><circle cx="110" cy="181" r="6"/><circle cx="125" cy="181" r="6"/><circle cx="140" cy="181" r="6"/><circle cx="155" cy="181" r="6"/><circle cx="170" cy="181" r="6"/><circle cx="185" cy="181" r="6"/><circle cx="200" cy="181" r="6"/><circle cx="215" cy="181" r="6"/><circle cx="230" cy="181" r="6"/><circle cx="245" cy="181" r="6"/><circle cx="260" cy="181" r="6"/><circle cx="275" cy="181" r="6"/><circle cx="290" cy="181" r="6"/><circle cx="305" cy="181" r="6"/><circle cx="320" cy="181" r="6"/><circle cx="335" cy="181" r="6"/><circle cx="350" cy="181" r="6"/><circle cx="365" cy="181" r="6"/><circle cx="380" cy="181" r="6"/><circle cx="395" cy="181" r="6"/><circle cx="410" cy="181" r="6"/><circle cx="425" cy="181" r="6"/><circle cx="440" cy="181" r="6"/><circle cx="455" cy="181" r="6"/><circle cx="470" cy="181" r="6"/><circle cx="485" cy="181" r="6"/><circle cx="500" cy="181" r="6"/><circle cx="515" cy="181" r="6"/><circle cx="530" cy="181" r="6"/><circle cx="545" cy="181" r="6"/><circle cx="560" cy="181" r="6"/><circle cx="575" cy="181" r="6"/><circle cx="590" cy="181" r="6"/><circle cx="605" cy="181" r="6"/><circle cx="620" cy="181" r="6"/><circle cx="635" cy="181" r="6"/><circle cx="650" cy="181" r="6"/><circle cx="665" cy="181" r="6"/><circle cx="680" cy="181" r="6"/><circle cx="695" cy="181" r="6"/><circle cx="710" cy="181" r="6"/><circle cx="725" cy="181" r="6"/><circle cx="740" cy="181" r="6"/><circle cx="755" cy="181" r="6"/><circle cx="770" cy="181" r="6"/></g>
+  <g fill="#fdba74" stroke="#9a3412" stroke-width="1"><circle cx="20" cy="279" r="6"/><circle cx="35" cy="279" r="6"/><circle cx="50" cy="279" r="6"/><circle cx="65" cy="279" r="6"/><circle cx="80" cy="279" r="6"/><circle cx="95" cy="279" r="6"/><circle cx="110" cy="279" r="6"/><circle cx="125" cy="279" r="6"/><circle cx="140" cy="279" r="6"/><circle cx="155" cy="279" r="6"/><circle cx="170" cy="279" r="6"/><circle cx="185" cy="279" r="6"/><circle cx="200" cy="279" r="6"/><circle cx="215" cy="279" r="6"/><circle cx="230" cy="279" r="6"/><circle cx="245" cy="279" r="6"/><circle cx="260" cy="279" r="6"/><circle cx="275" cy="279" r="6"/><circle cx="290" cy="279" r="6"/><circle cx="305" cy="279" r="6"/><circle cx="320" cy="279" r="6"/><circle cx="335" cy="279" r="6"/><circle cx="350" cy="279" r="6"/><circle cx="365" cy="279" r="6"/><circle cx="380" cy="279" r="6"/><circle cx="395" cy="279" r="6"/><circle cx="410" cy="279" r="6"/><circle cx="425" cy="279" r="6"/><circle cx="440" cy="279" r="6"/><circle cx="455" cy="279" r="6"/><circle cx="470" cy="279" r="6"/><circle cx="485" cy="279" r="6"/><circle cx="500" cy="279" r="6"/><circle cx="515" cy="279" r="6"/><circle cx="530" cy="279" r="6"/><circle cx="545" cy="279" r="6"/><circle cx="560" cy="279" r="6"/><circle cx="575" cy="279" r="6"/><circle cx="590" cy="279" r="6"/><circle cx="605" cy="279" r="6"/><circle cx="620" cy="279" r="6"/><circle cx="635" cy="279" r="6"/><circle cx="650" cy="279" r="6"/><circle cx="665" cy="279" r="6"/><circle cx="680" cy="279" r="6"/><circle cx="695" cy="279" r="6"/><circle cx="710" cy="279" r="6"/><circle cx="725" cy="279" r="6"/><circle cx="740" cy="279" r="6"/><circle cx="755" cy="279" r="6"/><circle cx="770" cy="279" r="6"/></g>
+  <text x="782" y="234" text-anchor="end" font-size="12" fill="#1f2937">hydrophobic</text>
+  <text x="782" y="250" text-anchor="end" font-size="12" fill="#1f2937">core</text>
+
+  <!-- 1 single-pass -->
+  <ellipse cx="105" cy="118" rx="48" ry="36" fill="#bfdbfe" stroke="#1e40af" stroke-width="1.5"/>
+  <rect x="93" y="150" width="24" height="152" rx="10" fill="#93c5fd" stroke="#1e40af" stroke-width="1.5"/>
+  <path d="M 105 302 C 95 318 118 326 104 342" fill="none" stroke="#1e40af" stroke-width="3"/>
+  <text x="122" y="330" font-size="16" font-weight="bold" fill="#1d4ed8">+ +</text>
+
+  <!-- 2 multipass -->
+  <g fill="#93c5fd" stroke="#1e40af" stroke-width="1.5">
+    <rect x="190" y="165" width="24" height="130" rx="10"/>
+    <rect x="228" y="165" width="24" height="130" rx="10"/>
+    <rect x="266" y="165" width="24" height="130" rx="10"/>
+    <rect x="304" y="165" width="24" height="130" rx="10"/>
+  </g>
+  <g fill="none" stroke="#1e40af" stroke-width="3">
+    <path d="M 202 165 Q 221 128 240 165"/>
+    <path d="M 278 165 Q 297 128 316 165"/>
+    <path d="M 240 295 Q 259 334 278 295"/>
+    <path d="M 202 295 Q 196 318 182 330"/>
+    <path d="M 316 295 Q 322 318 336 330"/>
+  </g>
+  <text x="246" y="342" font-size="16" font-weight="bold" fill="#1d4ed8">+ +</text>
+  <text x="168" y="345" font-size="13" font-weight="bold" fill="#1f2937">N</text>
+  <text x="338" y="345" font-size="13" font-weight="bold" fill="#1f2937">C</text>
+
+  <!-- 3 beta barrel -->
+  <rect x="385" y="160" width="92" height="140" rx="16" fill="#bbf7d0" stroke="#166534" stroke-width="1.5"/>
+  <g stroke="#166534" stroke-width="2.5">
+    <line x1="398" y1="168" x2="398" y2="292"/><line x1="414" y1="168" x2="414" y2="292"/>
+    <line x1="430" y1="168" x2="430" y2="292"/><line x1="446" y1="168" x2="446" y2="292"/>
+    <line x1="462" y1="168" x2="462" y2="292"/>
+  </g>
+  <ellipse cx="431" cy="160" rx="34" ry="9" fill="#ecfdf5" stroke="#166534" stroke-width="1.5"/>
+  <text x="431" y="140" text-anchor="middle" font-size="12" fill="#1f2937">water-filled pore</text>
+
+  <!-- 4 lipid-anchored -->
+  <ellipse cx="575" cy="335" rx="40" ry="28" fill="#fbcfe8" stroke="#9d174d" stroke-width="1.5"/>
+  <polyline points="575,307 568,296 582,285 568,274 582,263 568,252 582,241 575,232" fill="none" stroke="#9d174d" stroke-width="3"/>
+
+  <!-- 5 peripheral, bound to an integral protein -->
+  <rect x="688" y="165" width="24" height="130" rx="10" fill="#93c5fd" stroke="#1e40af" stroke-width="1.5"/>
+  <ellipse cx="718" cy="318" rx="38" ry="24" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+
+  <!-- labels -->
+  <g font-size="12" text-anchor="middle" fill="#1f2937">
+    <text x="105" y="392" font-weight="bold">single-pass</text><text x="105" y="408">one TM α helix</text>
+    <text x="259" y="392" font-weight="bold">multipass α-helical</text><text x="259" y="408">e.g. 7 helices in GPCRs</text>
+    <text x="431" y="392" font-weight="bold">β barrel</text><text x="431" y="408">(outer-membrane porins)</text>
+    <text x="575" y="392" font-weight="bold">lipid-anchored</text><text x="575" y="408">(acyl or prenyl chain)</text>
+    <text x="722" y="392" font-weight="bold">peripheral</text><text x="722" y="408">(not inserted)</text>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-size="12" fill="#1f2937">Integral proteins are extracted only with detergents; peripheral ones come off with high or low salt or extreme pH.</text>
+  <text x="400" y="456" text-anchor="middle" font-size="12" fill="#1f2937">+ marks Lys and Arg: cytosolic loops are enriched in positive charges (positive-inside rule).</text>
+</svg>
